@@ -27,11 +27,14 @@ def is_tech_market(question):
                    'software', 'hardware', 'app store', 'play store']
     
     # Exclude non-tech (sports, politics, etc.)
-    exclude = ['nba', 'nfl', 'world cup', 'fifa', 'trail blazers', 'spurs',
-               'trump', 'biden', 'election', 'president',
-               'iran', 'israel', 'ukraine', 'russia', 'china invade',
-               'fed chair', 'interest rate', 'powell',
-               'strait of hormuz', 'military operation']
+    exclude = ['nba', 'nfl', 'world cup', 'fifa', 'trail blazers', 'spurs', 'lakers', 'warriors',
+               'f1', 'formula 1', 'grand prix', 'drivers championship',
+               'cricket', 'ipl', 'premier league', 'football', 'soccer', 'baseball', 'tennis',
+               'trump', 'biden', 'election', 'president', 'harris', 'kamala',
+               'iran', 'israel', 'ukraine', 'russia', 'china invade', 'taiwan',
+               'fed chair', 'interest rate', 'powell', 'jerome',
+               'strait of hormuz', 'military operation', 'war',
+               'tweet', 'post', 'twitter', 'x.com', 'musk post']  # Exclude tweet count markets
     
     # Must not contain excluded terms
     if any(excl in question_lower for excl in exclude):
