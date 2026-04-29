@@ -29,6 +29,11 @@ jobs:
         cd ${{ github.workspace }}
         python3 fetch_events.py
         
+    - name: Run news_fetcher.py
+      run: |
+        cd ${{ github.workspace }}
+        python3 news_fetcher.py || echo "News fetch failed, continuing..."
+        
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
@@ -37,7 +42,7 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🤖 Auto-update: Polymarket data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git commit -m "🤖 Auto-update: Polymarket data + news ($(date -u +'%Y-%m-%d %H:%M UTC'))"
           git push
         fi
       env:

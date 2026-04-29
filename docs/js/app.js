@@ -1,4 +1,4 @@
-// app.js - Main Application Logic
+// app.js - Main Application Logic (With News Display)
 const App = (() => {
     let eventsData = { new_entries: [], exited_entries: [], long_term: {} };
     let currentFilter = 'all';
@@ -15,52 +15,10 @@ const App = (() => {
             const response = await fetch('data/technology/events.json');
             if (response.ok) {
                 eventsData = await response.json();
-            } else {
-                // Fallback to sample data
-                eventsData = generateSampleData();
             }
         } catch (error) {
             console.error('Failed to load events:', error);
-            eventsData = generateSampleData();
         }
-    }
-    
-    function generateSampleData() {
-        return {
-            new_entries: [
-                {
-                    id: '1',
-                    title: 'AI will surpass human intelligence by 2027',
-                    probability: 0.72,
-                    hours_ago: 2,
-                    tags: ['ai', 'technology']
-                },
-                {
-                    id: '2',
-                    title: 'Bitcoin reaches $100k in 2026',
-                    probability: 0.75,
-                    hours_ago: 1,
-                    tags: ['crypto']
-                }
-            ],
-            exited_entries: [
-                {
-                    id: '3',
-                    title: 'Metaverse adoption hits 50% by 2026',
-                    probability: 0.65,
-                    hours_ago: 2
-                }
-            ],
-            long_term: {
-                'ai': [
-                    { id: '4', title: 'GPT-5 releases in 2026', probability: 0.85 },
-                    { id: '5', title: 'AI writes 50% of code by 2027', probability: 0.78 }
-                ],
-                'crypto': [
-                    { id: '6', title: 'Ethereum 3.0 launches', probability: 0.71 }
-                ]
-            }
-        };
     }
     
     function renderEvents() {
@@ -77,21 +35,31 @@ const App = (() => {
         const filtered = filterEvents(eventsData.new_entries);
         
         if (filtered.length === 0) {
-            container.innerHTML = '<p class="no-results" data-i18n="no_results">No events found</p>';
+            container.innerHTML = '<p class="no-results">No events found</p>';
             return;
         }
         
         container.innerHTML = filtered.map(event => `
-            <div class="event-card scroll-animate" data-tags="\${event.tags?.join(',') || ''}">
+            <div class="event-card scroll-animate" data-tags="${event.tags?.join(',') || ''}">
                 <div class="event-header">
-                    <div class="event-title">\${event.title}</div>
-                    <div class="event-probability">\${(event.probability * 100).toFixed(1)}%</div>
+                    <div class="event-title">${event.title}</div>
+                    <div class="event-probability">${(event.probability * 100).toFixed(1)}%</div>
                 </div>
                 <div class="event-meta">
                     <span class="label-new">NEW</span>
-                    <span>\${event.hours_ago} \${I18n.t('label_hours')}</span>
+                    <span>${event.hours_ago} hours ago</span>
+                    ${event.news ? '<span class="badge-news">📰 News</span>' : ''}
                 </div>
-                \${event.tags ? \`<div class="event-tags">\${event.tags.map(t => \`<span class="tag">\${t}</span>\`).join('')}</div>\` : ''}
+                ${event.tags ? `<div class="event-tags">${event.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
+                
+                ${event.news ? `
+                <div class="news-preview">
+                    <div class="news-source">📰 ${event.news.source} • ${new Date(event.news.timestamp).toLocaleDateString()}</div>
+                    <div class="news-title">${event.news.title}</div>
+                    <div class="news-content">${event.news.content.substring(0, 150)}...</div>
+                    <a href="${event.news.url}" target="_blank" class="news-link">Read more →</a>
+                </div>
+                ` : ''}
             </div>
         `).join('');
     }
@@ -100,20 +68,32 @@ const App = (() => {
         const container = document.getElementById('exited-entries-list');
         if (!container) return;
         
-        if (eventsData.exited_entries.length === 0) {
-            container.innerHTML = '<p class="no-results" data-i18n="no_results">No events found</p>';
+        const filtered = filterEvents(eventsData.exited_entries);
+        
+        if (filtered.length === 0) {
+            container.innerHTML = '<p class="no-results">No events found</p>';
             return;
         }
         
-        container.innerHTML = eventsData.exited_entries.map(event => `
+        container.innerHTML = filtered.map(event => `
             <div class="event-card scroll-animate">
                 <div class="event-header">
-                    <div class="event-title">\${event.title}</div>
-                    <div class="event-probability">\${(event.probability * 100).toFixed(1)}%</div>
+                    <div class="event-title">${event.title}</div>
+                    <div class="event-probability">${(event.probability * 100).toFixed(1)}%</div>
                 </div>
                 <div class="event-meta">
-                    <span>\${event.hours_ago} \${I18n.t('label_hours')}</span>
+                    <span>${event.hours_ago} hours ago</span>
+                    ${event.news ? '<span class="badge-news">📰 News</span>' : ''}
                 </div>
+                
+                ${event.news ? `
+                <div class="news-preview news-exited">
+                    <div class="news-source">📰 ${event.news.source} • ${new Date(event.news.timestamp).toLocaleDateString()}</div>
+                    <div class="news-title">${event.news.title}</div>
+                    <div class="news-content">${event.news.content.substring(0, 150)}...</div>
+                    <a href="${event.news.url}" target="_blank" class="news-link">Read more →</a>
+                </div>
+                ` : ''}
             </div>
         `).join('');
     }
@@ -132,13 +112,14 @@ const App = (() => {
         
         container.innerHTML = tags.map(tag => `
             <div class="tag-group">
-                <h3>\${tag.toUpperCase()} (\${longTerm[tag].length})</h3>
-                \${longTerm[tag].map(event => `
+                <h3>${tag.toUpperCase()} (${longTerm[tag].length})</h3>
+                ${longTerm[tag].map(event => `
                     <div class="event-card" style="margin-bottom: 0.5rem; padding: 1rem;">
                         <div class="event-header">
-                            <div class="event-title" style="font-size: 0.875rem;">\${event.title}</div>
-                            <div class="event-probability" style="font-size: 1rem;">\${(event.probability * 100).toFixed(1)}%</div>
+                            <div class="event-title" style="font-size: 0.875rem;">${event.title}</div>
+                            <div class="event-probability" style="font-size: 1rem;">${(event.probability * 100).toFixed(1)}%</div>
                         </div>
+                        ${event.days_in_high ? `<div style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 0.5rem;">${event.days_in_high} days in high</div>` : ''}
                     </div>
                 `).join('')}
             </div>
@@ -188,7 +169,6 @@ const App = (() => {
     };
 })();
 
-// Initialize app
 document.addEventListener('DOMContentLoaded', () => {
     App.init();
 });
