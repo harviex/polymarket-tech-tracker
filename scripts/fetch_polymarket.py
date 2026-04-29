@@ -132,7 +132,11 @@ def main():
         "markets": processed[:20]
     }
     
-    output_path = '/home/c1/polymarket-tech-tracker/data/markets.json'
+    output_path = 'data/markets.json'
+    # Ensure data directory exists
+    import os
+    os.makedirs('data', exist_ok=True)
+    
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(markets_data, f, indent=2, ensure_ascii=False)
     

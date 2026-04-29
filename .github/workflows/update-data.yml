@@ -28,17 +28,16 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
-        mkdir -p /home/runner/.hermes/credentials
-        echo "OPENAI_API_KEY=$OPENAI_API_KEY" > /home/runner/.hermes/credentials/polymarket-tracker.env
+        echo "OPENAI_API_KEY=$OPENAI_API_KEY" > credentials.env
     
     - name: Fetch Polymarket data
       run: python scripts/fetch_polymarket.py
     
     - name: Fetch news from RSS (optional)
       continue-on-error: true
-      run: python scripts/fetch_twitter_news.py
+      run: python scripts/fetch_twitter_news.py || true
     
-    - name: Move data to docs
+    - name: Copy data to docs
       run: |
         mkdir -p docs/data
         cp data/markets.json docs/data/
