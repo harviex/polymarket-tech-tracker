@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harviex.github.io/polymarket-tech-tracker/sitemap.xml
+
+# Disallow archive to prevent duplicate content
+Disallow: /archive.html

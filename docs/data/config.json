@@ -1,0 +1,57 @@
+{
+  "site": {
+    "name": "Science Prediction Tracker",
+    "name_zh": "科学预测事件追踪器",
+    "name_ja": "科学予測イベントトラッカー",
+    "description": "Change is news - Polymarket prediction events tracker",
+    "description_zh": "变化即新闻 - Polymarket预测事件追踪",
+    "description_ja": "変化がニュース - Polymarket予測イベント追跡"
+  },
+  "categories": {
+    "technology": {
+      "name": "Technology",
+      "name_zh": "科技",
+      "name_ja": "科学技術",
+      "icon": "💻",
+      "tags": ["technology", "science", "ai", "crypto", "tech"],
+      "enabled": true,
+      "show_betting": false
+    },
+    "economy": {
+      "name": "Economy",
+      "name_zh": "经济",
+      "name_ja": "経済",
+      "icon": "💰",
+      "tags": ["finance", "business", "economy"],
+      "enabled": false,
+      "show_betting": false
+    },
+    "geopolitics": {
+      "name": "Geopolitics",
+      "name_zh": "地缘",
+      "name_ja": "地政学",
+      "icon": "🌍",
+      "tags": ["politics", "geopolitics", "war"],
+      "enabled": false,
+      "show_betting": false
+    }
+  },
+  "thresholds": {
+    "stable_hours": 3,
+    "display_days": 3,
+    "archive_days": 30,
+    "high_probability": 0.70,
+    "low_probability": 0.30
+  },
+  "features": {
+    "show_betting_links": false,
+    "enable_news_fetch": true,
+    "enable_animations": true,
+    "enable_particles": true
+  },
+  "seo": {
+    "author": "Harvie",
+    "keywords": "prediction, polymarket, science, tech, tracking",
+    "og_image": "images/og-image.jpg"
+  }
+}
