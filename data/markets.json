@@ -1,1 +1,286 @@
-{"last_updated": "2026-04-29 10:37:00 UTC", "total_markets": 0, "markets": []}
+{
+  "last_updated": "2026-04-29 02:50:22 UTC",
+  "total_markets": 20,
+  "markets": [
+    {
+      "id": "573655",
+      "question": "Will Bitcoin hit $150k by June 30, 2026?",
+      "volume": "$15,734,008",
+      "endDate": "2026-07-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-hit-150k-by-june-30-2026",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1823776",
+      "question": "Will Bitcoin reach $80,000 in April?",
+      "volume": "$7,860,611",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-reach-80k-in-april-2026-794",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "898425",
+      "question": "Will Liam Lawson be the 2026 F1 Drivers' Champion?",
+      "volume": "$8,485,174",
+      "endDate": "2026-12-06",
+      "outcomes": [],
+      "slug": "will-liam-lawson-be-the-2026-f1-drivers-champion",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1823775",
+      "question": "Will Bitcoin reach $85,000 in April?",
+      "volume": "$4,274,472",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-reach-85k-in-april-2026",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1823779",
+      "question": "Will Bitcoin dip to $65,000 in April?",
+      "volume": "$6,218,051",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-dip-to-65k-in-april-2026-355-765",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2054872",
+      "question": "Will Bitcoin dip to $75,000 in April?",
+      "volume": "$638,374",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-dip-to-75000-in-april",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2054828",
+      "question": "Will Bitcoin reach $82,500 in April?",
+      "volume": "$608,194",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-reach-82500-in-april",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2046596",
+      "question": "Will Bitcoin dip to $70,000 in April?",
+      "volume": "$702,236",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-dip-to-70000-in-april-118-383",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2040020",
+      "question": "Will Elon Musk post 140-159 tweets from April 24 to May 1, 2026?",
+      "volume": "$495,005",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "elon-musk-of-tweets-april-24-may-1-140-159",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2053397",
+      "question": "Will the price of Bitcoin be above $70,000 on April 29?",
+      "volume": "$218,737",
+      "endDate": "2026-04-29",
+      "outcomes": [],
+      "slug": "bitcoin-above-70k-on-april-29",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2078392",
+      "question": "Indian Premier League: Mumbai Indians vs Sunrisers Hyderabad",
+      "volume": "$156,080",
+      "endDate": "2026-05-06",
+      "outcomes": [],
+      "slug": "cricipl-mum-sun-2026-04-29",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2053415",
+      "question": "Will the price of Bitcoin be above $82,000 on April 29?",
+      "volume": "$146,061",
+      "endDate": "2026-04-29",
+      "outcomes": [],
+      "slug": "bitcoin-above-82k-on-april-29",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1823774",
+      "question": "Will Bitcoin reach $90,000 in April?",
+      "volume": "$3,605,402",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-reach-90k-in-april-2026",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1823781",
+      "question": "Will Bitcoin dip to $55,000 in April?",
+      "volume": "$1,720,620",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-dip-to-55k-in-april-2026-332-247",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1823780",
+      "question": "Will Bitcoin dip to $60,000 in April?",
+      "volume": "$2,658,256",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "will-bitcoin-dip-to-60k-in-april-2026-459-838-781",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2040063",
+      "question": "Will Elon Musk post 360-379 tweets from April 24 to May 1, 2026?",
+      "volume": "$171,207",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "elon-musk-of-tweets-april-24-may-1-360-379",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "1487054",
+      "question": "Will NVIDIA be the largest company in the world by market cap on April 30?",
+      "volume": "$2,247,052",
+      "endDate": "2026-04-30",
+      "outcomes": [],
+      "slug": "will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-april-30-161",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2040030",
+      "question": "Will Elon Musk post 160-179 tweets from April 24 to May 1, 2026?",
+      "volume": "$267,777",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "elon-musk-of-tweets-april-24-may-1-160-179",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2040065",
+      "question": "Will Elon Musk post 380-399 tweets from April 24 to May 1, 2026?",
+      "volume": "$169,831",
+      "endDate": "2026-05-01",
+      "outcomes": [],
+      "slug": "elon-musk-of-tweets-april-24-may-1-380-399",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    },
+    {
+      "id": "2078264",
+      "question": "Will Elon Musk post 40-64 tweets from April 27 to April 29, 2026?",
+      "volume": "$140,591",
+      "endDate": "2026-04-29",
+      "outcomes": [],
+      "slug": "elon-musk-of-tweets-april-27-april-29-40-64",
+      "news": [],
+      "prediction": {
+        "direction": "TBD",
+        "confidence": 0.5,
+        "reasoning": "Analysis pending news data"
+      }
+    }
+  ]
+}

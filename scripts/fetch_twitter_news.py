@@ -9,9 +9,20 @@ import time
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
-load_dotenv('/root/.hermes/credentials/polymarket-tracker.env')
+# Load credentials from multiple possible locations
+env_paths = [
+    '/root/.hermes/credentials/polymarket-tracker.env',
+    '/home/c1/.hermes/credentials/polymarket-tracker.env',
+    os.path.expanduser('~/.hermes/credentials/polymarket-tracker.env')
+]
 
-TWITTER_BEARER_TOKEN = os.getenv('TWITTER_API_TOKEN')
+for env_path in env_paths:
+    if os.path.exists(env_path):
+        load_dotenv(env_path)
+        print(f"Loaded credentials from {env_path}")
+        break
+
+TWITTER_API_TOKEN = os.getenv('TWITTER_API_TOKEN')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 # Authoritative tech news accounts
@@ -29,13 +40,13 @@ TECH_ACCOUNTS = [
 
 def search_tweets(query, max_results=10):
     """Search tweets using Twitter API v2"""
-    if not TWITTER_BEARER_TOKEN:
+    if not TWITTER_API_TOKEN:
         print("Twitter API token not found")
         return []
     
     url = "https://api.twitter.com/2/tweets/search/recent"
     headers = {
-        "Authorization": f"Bearer {TWITTER_BEARER_TOKEN}"
+        "Authorization": f"Bearer {TWITTER_API_TOKEN}"
     }
     params = {
         "query": f"{query} (from:TechCrunch OR from:TheVerge OR from:WIRED) -is:retweet",
