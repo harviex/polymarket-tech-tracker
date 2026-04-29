@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Predictions Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="light-theme">
+    <div class="container">
+        <header>
+            <h1 data-i18n="title">Tech Predictions Tracker</h1>
+            <div class="controls">
+                <div class="theme-toggle">
+                    <button id="themeBtn" onclick="toggleTheme()">🌙</button>
+                </div>
+                <div class="lang-switch">
+                    <button onclick="setLanguage('en')">EN</button>
+                    <button onclick="setLanguage('zh')">中文</button>
+                    <button onclick="setLanguage('ja')">日本語</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="stats">
+            <span data-i18n="last_updated">Last updated</span>: <span id="lastUpdated">-</span> | 
+            <span data-i18n="total_markets">Total markets</span>: <span id="totalMarkets">0</span>
+        </div>
+
+        <div id="marketsGrid" class="markets-grid"></div>
+
+        <div id="archiveLink" style="text-align: center; margin: 30px 0;">
+            <a href="archive.html" class="archive-btn" data-i18n="view_archive">View Archive</a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
