@@ -5,14 +5,17 @@ on:
     - cron: '0 * * * *'  # Every hour
   workflow_dispatch:  # Allow manual trigger
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 jobs:
-  update-data:
+  update-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
     - uses: actions/checkout@v3
@@ -25,7 +28,7 @@ jobs:
         python-version: '3.10'
     
     - name: Install dependencies
-      run: pip install requests python-dotenv requests-oauthlib
+      run: pip install requests python-dotenv
     
     - name: Create credentials file
       env:
@@ -33,13 +36,12 @@ jobs:
       run: |
         mkdir -p /home/runner/.hermes/credentials
         echo "OPENAI_API_KEY=$OPENAI_API_KEY" > /home/runner/.hermes/credentials/polymarket-tracker.env
-        echo "TWITTER_API_TOKEN=dummy" >> /home/runner/.hermes/credentials/polymarket-tracker.env
     
     - name: Fetch Polymarket data
       run: python scripts/fetch_polymarket.py
     
-    - name: Fetch news from RSS
-      continue-on-error: true  # Don't fail if RSS fetch has issues
+    - name: Fetch news from RSS (optional)
+      continue-on-error: true
       run: python scripts/fetch_twitter_news.py
     
     - name: Commit and push if changed
@@ -48,20 +50,6 @@ jobs:
         git config user.email "actions@github.com"
         git add data/markets.json
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update markets data - $(date -u '+%Y-%m-%d %H:%M:%S UTC')" && git push)
-    
-  deploy-pages:
-    needs: update-data
-    runs-on: ubuntu-latest
-    if: always()  # Deploy even if data update had issues
-    
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    
-    steps:
-    - uses: actions/checkout@v3
-      with:
-        ref: main
     
     - name: Setup Pages
       uses: actions/configure-pages@v3
