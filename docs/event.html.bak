@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>事件详情 | Science Prediction Tracker</title>
+    <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        body { font-family: -apple-system, "Microsoft YaHei", "Segoe UI", sans-serif; background: #0f1419; color: #e7e9ea; }
+        
+        .container { max-width: 1200px; margin:0 auto; padding:20px; }
+        
+        /* Back Button */
+        .back-link { margin-bottom:20px; }
+        .back-link a { color:#1d9bf0; text-decoration:none; font-size:14px; display:inline-flex; align-items:center; gap:6px; transition:color .2s; }
+        .back-link a:hover { color:#1a8cd8; }
+        
+        /* Event Header */
+        .event-header { background:#1e2732; border-radius:16px; padding:32px; margin-bottom:24px; border-left:4px solid #1d9bf0; }
+        .event-header h1 { font-size:28px; font-weight:800; line-height:1.4; margin-bottom:16px; }
+        .event-meta { display:flex; gap:24px; flex-wrap:wrap; font-size:14px; color:#8b98a5; }
+        .meta-item { display:flex; align-items:center; gap:6px; }
+        .meta-item::before { font-size:16px; }
+        .meta-volume::before { content:"💰"; }
+        .meta-liquidity::before { content:"💧"; }
+        .meta-date::before { content:"📅"; }
+        .meta-active { color:#00d18c; }
+        .meta-closed { color:#f91880; }
+        
+        /* Markets Section */
+        .markets-section { margin-bottom:40px; }
+        .section-title { font-size:20px; font-weight:700; margin-bottom:20px; display:flex; align-items:center; gap:8px; }
+        .section-title::before { content:"📊"; font-size:24px; }
+        
+        .market-card { background:#1e2732; border-radius:12px; padding:20px; margin-bottom:16px; transition:transform .2s; }
+        .market-card:hover { transform:translateX(4px); }
+        .market-question { font-size:16px; font-weight:600; margin-bottom:12px; line-height:1.4; }
+        .probability-display { display:flex; align-items:center; gap:16px; margin-bottom:12px; }
+        .probability-bar { flex:1; height:28px; background:#15202b; border-radius:14px; overflow:hidden; position:relative; }
+        .probability-fill { height:100%; background:linear-gradient(90deg, #1d9bf0, #0d8bd9); border-radius:14px; transition:width .5s; display:flex; align-items:center; justify-content:flex-end; padding-right:12px; }
+        .probability-value { font-size:14px; font-weight:700; color:#fff; }
+        .probability-label { font-size:13px; color:#8b98a5; min-width:60px; }
+        .market-footer { display:flex; justify-content:space-between; font-size:13px; color:#8b98a5; }
+        
+        /* News Section */
+        .news-section { margin-bottom:40px; }
+        .news-card { background:#1e2732; border-radius:12px; padding:20px; margin-bottom:16px; border-left:3px solid #f91880; }
+        .news-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; }
+        .news-source { font-size:13px; font-weight:700; color:#f91880; }
+        .news-time { font-size:12px; color:#8b98a5; }
+        .news-content { font-size:15px; line-height:1.6; margin-bottom:12px; }
+        .news-link { display:inline-flex; align-items:center; gap:4px; color:#1d9bf0; text-decoration:none; font-size:13px; }
+        .news-link:hover { text-decoration:underline; }
+        
+        /* Analysis Section */
+        .analysis-section { background:#1e2732; border-radius:16px; padding:32px; margin-bottom:40px; border:1px solid #38444d; }
+        .analysis-header { display:flex; align-items:center; gap:12px; margin-bottom:20px; }
+        .analysis-header h2 { font-size:20px; font-weight:700; }
+        .analysis-header::before { content:"🤖"; font-size:24px; }
+        .analysis-text { font-size:15px; line-height:1.8; color:#8b98a5; margin-bottom:16px; }
+        .analysis-verdict { background:#0f1419; border-radius:12px; padding:20px; border-left:4px solid #00d18c; }
+        .verdict-title { font-size:16px; font-weight:700; color:#00d18c; margin-bottom:8px; }
+        .verdict-text { font-size:14px; line-height:1.6; }
+        
+        /* Loading */
+        .loading { text-align:center; padding:60px; color:#8b98a5; font-size:16px; }
+        .loading::after { content:''; display:inline-block; width:20px; height:20px; border:2px solid #1d9bf0; border-radius:50%; border-top-color:transparent; animation:spin 1s linear infinite; margin-left:8px; }
+        @keyframes spin { to { transform:rotate(360deg); } }
+        
+        /* Error */
+        .error { text-align:center; padding:60px; color:#f91880; }
+        .error h2 { font-size:24px; margin-bottom:12px; }
+        
+        /* Theme */
+        body.light-theme { background:#f5f5f5; color:#333; }
+        body.light-theme .event-header,
+        body.light-theme .market-card,
+        body.light-theme .news-card,
+        body.light-theme .analysis-section { background:#fff; border-color:#e0e0e0; }
+        body.light-theme .event-meta,
+        body.light-theme .market-footer,
+        body.light-theme .news-time,
+        body.light-theme .analysis-text { color:#666; }
+        body.light-theme .back-link a { color:#4a90e2; }
+        body.light-theme .back-link a:hover { color:#357abd; }
+        
+        /* Responsive */
+        @media (max-width:768px) {
+            .container { padding:12px; }
+            .event-header { padding:20px; }
+            .event-header h1 { font-size:22px; }
+            .probability-display { flex-direction:column; align-items:flex-start; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="back-link">
+            <a href="index.html">← 返回事件列表</a>
+        </div>
+        
+        <div id="eventContent">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+    
+    <script>
+        let currentEvent = null;
+        
+        // 获取URL参数
+        function getSlug() {
+            const params = new URLSearchParams(window.location.search);
+            return params.get('slug');
+        }
+        
+        // 加载事件详情
+        async function loadEventDetail() {
+            const slug = getSlug();
+            if (!slug) {
+                showError('未找到事件参数');
+                return;
+            }
+            
+            try {
+                const response = await fetch('data/events.json?t=' + new Date().getTime());
+                const data = await response.json();
+                
+                if (!data.events) {
+                    showError('数据加载失败');
+                    return;
+                }
+                
+                const event = data.events.find(e => e.slug === slug);
+                if (!event) {
+                    showError('未找到该事件');
+                    return;
+                }
+                
+                currentEvent = event;
+                renderEvent(event);
+            } catch (err) {
+                console.error('加载事件详情失败:', err);
+                showError('加载失败，请刷新重试');
+            }
+        }
+        
+        // 渲染事件
+        function renderEvent(event) {
+            const isActive = event.active && !event.closed;
+            const statusClass = isActive ? 'meta-active' : 'meta-closed';
+            const statusText = isActive ? '进行中' : '已结束';
+            
+            const html = `
+                <div class="event-header">
+                    <h1>${escapeHtml(event.title)}</h1>
+                    <div class="event-meta">
+                        <div class="meta-item meta-volume">成交量: $${formatNumber(event.volume || 0)}</div>
+                        <div class="meta-item meta-liquidity">流动性: $${formatNumber(event.liquidity || 0)}</div>
+                        <div class="meta-item meta-date">创建: ${(event.created_at || '').split('T')[0]}</div>
+                        <div class="meta-item ${statusClass}">状态: ${statusText}</div>
+                    </div>
+                </div>
+                
+                <div class="markets-section">
+                    <div class="section-title">相关市场</div>
+                    ${event.markets && event.markets.length > 0 ? 
+                        event.markets.map(market => renderMarket(market)).join('') :
+                        '<div class="loading">暂无市场数据</div>'
+                    }
+                </div>
+                
+                <div class="news-section">
+                    <div class="section-title">相关新闻</div>
+                    ${event.news && event.news.length > 0 ?
+                        event.news.map(news => renderNews(news)).join('') :
+                        '<div class="loading">暂无相关新闻</div>'
+                    }
+                </div>
+                
+                <div class="analysis-section">
+                    <div class="analysis-header">
+                        <h2>AI 预测分析</h2>
+                    </div>
+                    <div class="analysis-text">
+                        基于当前市场数据和新闻分析，我们的 AI 系统正在处理该事件的预测分析...
+                    </div>
+                    <div class="analysis-verdict">
+                        <div class="verdict-title">预测方向: ${event.prediction ? event.prediction.direction : '分析中...'}</div>
+                        <div class="verdict-text">${event.prediction ? event.prediction.reasoning : '请稍后查看完整分析'}</div>
+                    </div>
+                </div>
+            `;
+            
+            document.getElementById('eventContent').innerHTML = html;
+        }
+        
+        // 渲染市场
+        function renderMarket(market) {
+            const probability = market.probability || 0;
+            return `
+                <div class="market-card">
+                    <div class="market-question">${escapeHtml(market.question)}</div>
+                    <div class="probability-display">
+                        <div class="probability-label">概率</div>
+                        <div class="probability-bar">
+                            <div class="probability-fill" style="width:${probability}%">
+                                <span class="probability-value">${probability.toFixed(1)}%</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="market-footer">
+                        <div>成交量: $${formatNumber(market.volume || 0)}</div>
+                        <div>截止: ${(market.end_date || '长期').split('T')[0]}</div>
+                    </div>
+                </div>
+            `;
+        }
+        
+        // 渲染新闻
+        function renderNews(news) {
+            return `
+                <div class="news-card">
+                    <div class="news-header">
+                        <div class="news-source">${escapeHtml(news.source || '未知来源')}</div>
+                        <div class="news-time">${news.published_at || ''}</div>
+                    </div>
+                    <div class="news-content">${escapeHtml(news.summary || news.title || '')}</div>
+                    <a href="${escapeHtml(news.url || '#')}" target="_blank" class="news-link">阅读全文 →</a>
+                </div>
+            `;
+        }
+        
+        // 格式化数字
+        function formatNumber(num) {
+            if (num >= 1e9) return (num / 1e9).toFixed(1) + 'B';
+            if (num >= 1e6) return (num / 1e6).toFixed(1) + 'M';
+            if (num >= 1e3) return (num / 1e3).toFixed(1) + 'K';
+            return num.toFixed(0);
+        }
+        
+        // 显示错误
+        function showError(message) {
+            document.getElementById('eventContent').innerHTML = `
+                <div class="error">
+                    <h2>❌ 错误</h2>
+                    <p>${message}</p>
+                </div>
+            `;
+        }
+        
+        // 转义HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text || '';
+            return div.innerHTML;
+        }
+        
+        // 初始化
+        loadEventDetail();
+    </script>
+</body>
+</html>
