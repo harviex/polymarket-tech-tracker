@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Fetch Polymarket events - Optimized Logic
+Fetch Polymarket events - Final Version
 1-hour comparison + 3% change threshold
+Generates tag summary cards for long-term high-probability events
 """
 import json
 import sys
@@ -19,8 +20,11 @@ HIGH_THRESHOLD = 0.70
 CHANGE_THRESHOLD = 0.03  # 3% change
 
 def load_config():
-    with open(CONFIG_FILE) as f:
-        return json.load(f)
+    try:
+        with open(CONFIG_FILE) as f:
+            return json.load(f)
+    except:
+        return {"categories": {"technology": {"tags": ["tech", "ai", "crypto"]}}}
 
 def fetch_events(limit=1000):
     """Fetch active events from Polymarket"""
@@ -64,8 +68,7 @@ def filter_tech_events(events, tech_tags):
                     'id': event['id'],
                     'title': event.get('title', ''),
                     'probability': prob,
-                    'tags': [t['slug'] for t in event.get('tags', [])],
-                    'polymarket_url': f"https://polymarket.com/event/{event.get('slug', '')}"
+                    'tags': [t['slug'] for t in event.get('tags', [])]
                 })
     
     return filtered
@@ -133,59 +136,61 @@ def categorize_events(current_events, last_hour_events):
         crossed_from_high = last_high and (not current_high) and prob_change >= CHANGE_THRESHOLD
         
         if crossed_to_high:
-            # New entry
             new_entries.append({
                 **event,
                 'hours_ago': 1,
                 'change': prob_change
             })
         elif crossed_from_high:
-            # Exited entry
             exited_entries.append({
                 **event,
                 'hours_ago': 1,
                 'change': prob_change
             })
         elif current_high:
-            # Long-term (stable high)
-            long_term.append({
-                'id': event['id'],
-                'title': event['title'],
-                'probability': event['probability'],
-                'tags': event.get('tags', [])
-            })
+            long_term.append(event)
     
     return new_entries, exited_entries, long_term
 
 def generate_tag_summaries(long_term_events):
     """Generate tag summary cards from long-term events"""
     if not long_term_events:
+        print("   No long-term events to summarize", file=sys.stderr)
         return []
     
     # Group by first tag
     tag_groups = {}
     for event in long_term_events:
-        main_tag = event.get('tags', ['other'])[0]
+        tags = event.get('tags', [])
+        if tags and len(tags) > 0:
+            main_tag = tags[0]
+        else:
+            main_tag = 'other'
+        
         if main_tag not in tag_groups:
             tag_groups[main_tag] = []
         tag_groups[main_tag].append(event)
     
+    print(f"   Found {len(tag_groups)} tag groups", file=sys.stderr)
+    
     # Generate summaries
     summaries = []
     for tag, events in tag_groups.items():
-        avg_prob = sum(e['probability'] for e in events) / len(events)
-        max_prob = max(e['probability'] for e in events)
-        min_prob = min(e['probability'] for e in events)
-        
-        summaries.append({
-            'tag': tag,
-            'tag_display': tag.upper(),
-            'event_count': len(events),
-            'avg_probability': avg_prob,
-            'max_probability': max_prob,
-            'min_probability': min_prob,
-            'events': events  # Will be lazy-loaded in frontend
-        })
+        if not events:
+            continue
+        try:
+            avg_prob = sum(e['probability'] for e in events) / len(events)
+            summaries.append({
+                'tag': tag,
+                'tag_display': tag.upper(),
+                'event_count': len(events),
+                'avg_probability': avg_prob,
+                'max_probability': max(e['probability'] for e in events),
+                'min_probability': min(e['probability'] for e in events),
+                'events': events  # Will be lazy-loaded in frontend
+            })
+        except Exception as e:
+            print(f"Error processing tag {tag}: {e}", file=sys.stderr)
     
     # Sort by event count (descending)
     return sorted(summaries, key=lambda x: x['event_count'], reverse=True)
@@ -199,15 +204,15 @@ def generate_output(new_entries, exited_entries, long_term_events):
         'updated_at': datetime.now().isoformat(),
         'new_entries': sorted(new_entries, key=lambda x: x['hours_ago']),
         'exited_entries': sorted(exited_entries, key=lambda x: x['hours_ago']),
-        'long_term_summaries': tag_summaries,  # Tag summary cards
+        'long_term_summaries': tag_summaries,
         'long_term_count': len(long_term_events)
     }
 
 def main():
-    print("🚀 Starting fetch_events.py (optimized)...")
+    print("🚀 Starting fetch_events.py (final version)...")
     
     config = load_config()
-    tech_tags = config['categories']['technology']['tags']
+    tech_tags = config.get('categories', {}).get('technology', {}).get('tags', ['tech', 'ai'])
     
     print("📡 Fetching events from Polymarket...")
     events = fetch_events()
@@ -225,6 +230,7 @@ def main():
     print(f"   Long-term events: {len(long_term)}")
     
     output = generate_output(new_entries, exited_entries, long_term)
+    print(f"   Tag summaries: {len(output['long_term_summaries'])}")
     
     TECH_DIR.mkdir(parents=True, exist_ok=True)
     output_file = TECH_DIR / "events.json"
