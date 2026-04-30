@@ -1,13 +1,13 @@
-// app.js - Optimized for Speed + Lazy Load
+// app.js - Tag Summary Cards + Lazy Load Events
 const App = (() => {
     let eventsData = { 
         new_entries: [], 
         exited_entries: [], 
-        long_term_news: [],
+        long_term_summaries: [],
         long_term_count: 0
     };
     let currentFilter = 'all';
-    let expandedNews = null;
+    let expandedTagIdx = null;
     
     async function init() {
         await loadEvents();
@@ -31,7 +31,7 @@ const App = (() => {
     function renderEvents() {
         renderNewEntries();
         renderExitedEntries();
-        renderLongTermNews();
+        renderLongTermSummaries();
         updateCounts();
     }
     
@@ -105,36 +105,47 @@ const App = (() => {
         `).join('');
     }
     
-    function renderLongTermNews() {
+    function renderLongTermSummaries() {
         const container = document.getElementById('long-term-groups');
         if (!container) return;
         
-        const newsList = eventsData.long_term_news || [];
+        const summaries = eventsData.long_term_summaries || [];
         
-        if (newsList.length === 0) {
+        if (summaries.length === 0) {
             container.innerHTML = '<p class="no-results">No long-term events</p>';
             return;
         }
         
         container.innerHTML = `
-            <div class="news-list">
-                ${newsList.map((news, idx) => `
-                    <div class="news-list-item" data-index="${idx}">
-                        <div class="news-list-header" onclick="App.toggleNews(${idx})">
-                            <div class="news-list-title">
-                                <span class="news-icon">📊</span>
-                                ${news.title}
-                                <span class="event-count">(${news.event_count} events)</span>
-                            </div>
-                            <div class="news-list-toggle">
-                                ${expandedNews === idx ? '▼' : '▶'}
+            <div class="summary-cards-grid">
+                ${summaries.map((summary, idx) => `
+                    <div class="summary-card glass-card" onclick="App.toggleTagSummary(${idx})">
+                        <div class="summary-header">
+                            <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
+                            <div class="summary-toggle">
+                                ${expandedTagIdx === idx ? '▼' : '▶'}
                             </div>
                         </div>
-                        <div class="news-list-body" id="news-body-${idx}" style="display: ${expandedNews === idx ? 'block' : 'none'};">
-                            <div class="news-summary">${news.summary}</div>
-                            <div class="event-cards-container" id="event-cards-${idx}">
-                                <!-- Lazy loaded event cards will appear here -->
+                        <div class="summary-stats">
+                            <div class="stat">
+                                <div class="stat-value">${summary.event_count}</div>
+                                <div class="stat-label">Events</div>
                             </div>
+                            <div class="stat">
+                                <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
+                                <div class="stat-label">Avg</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-value">${(summary.max_probability * 100).toFixed(1)}%</div>
+                                <div class="stat-label">Max</div>
+                            </div>
+                        </div>
+                        <div class="summary-meta">
+                            Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
+                        </div>
+                        
+                        <div class="summary-events" id="summary-events-${idx}" style="display: ${expandedTagIdx === idx ? 'block' : 'none'};">
+                            <!-- Lazy loaded events will appear here -->
                         </div>
                     </div>
                 `).join('')}
@@ -142,32 +153,34 @@ const App = (() => {
         `;
     }
     
-    function toggleNews(idx) {
-        if (expandedNews === idx) {
-            expandedNews = null;
+    function toggleTagSummary(idx) {
+        if (expandedTagIdx === idx) {
+            expandedTagIdx = null;
         } else {
-            expandedNews = idx;
-            // Lazy load event cards
-            loadEventCards(idx);
+            expandedTagIdx = idx;
+            loadSummaryEvents(idx);
         }
-        renderLongTermNews();
+        renderLongTermSummaries();
     }
     
-    function loadEventCards(idx) {
-        const news = eventsData.long_term_news[idx];
-        if (!news || !news.events) return;
+    function loadSummaryEvents(idx) {
+        const summary = eventsData.long_term_summaries[idx];
+        if (!summary || !summary.events) return;
         
-        const container = document.getElementById(`event-cards-${idx}`);
-        if (!container || container.children.length > 0) return; // Already loaded
+        const container = document.getElementById(`summary-events-${idx}`);
+        if (!container || container.children.length > 0) return;
         
-        container.innerHTML = news.events.map(event => `
-            <div class="event-card" style="margin: 0.5rem 0; padding: 1rem;">
-                <div class="event-header">
-                    <div class="event-title" style="font-size: 0.875rem;">${event.title}</div>
-                    <div class="event-probability" style="font-size: 1rem;">${(event.probability * 100).toFixed(1)}%</div>
-                </div>
+        container.innerHTML = `
+            <div class="events-divider"></div>
+            <div class="events-grid">
+                ${summary.events.map(event => `
+                    <div class="event-mini-card">
+                        <div class="event-mini-title">${event.title}</div>
+                        <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                    </div>
+                `).join('')}
             </div>
-        `).join('');
+        `;
     }
     
     function filterEvents(events) {
@@ -210,7 +223,6 @@ const App = (() => {
     }
     
     function setupScrollAnimations() {
-        // Simple scroll animation using Intersection Observer
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
@@ -226,7 +238,7 @@ const App = (() => {
     
     return {
         init,
-        toggleNews,
+        toggleTagSummary,
         loadEvents,
         renderEvents
     };

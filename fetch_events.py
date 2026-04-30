@@ -4,7 +4,6 @@ Fetch Polymarket events - Optimized Logic
 1-hour comparison + 3% change threshold
 """
 import json
-import os
 import sys
 from pathlib import Path
 from datetime import datetime, timedelta
@@ -76,7 +75,6 @@ def load_last_hour_data():
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     
     now = datetime.now()
-    # Look for snapshot from 55-65 minutes ago
     for minutes_ago in range(55, 65):
         time = now - timedelta(minutes=minutes_ago)
         snapshot_file = HISTORY_DIR / f"{time.strftime('%Y-%m-%d-%H')}.json"
@@ -159,12 +157,12 @@ def categorize_events(current_events, last_hour_events):
     
     return new_entries, exited_entries, long_term
 
-def generate_news_from_long_term(long_term_events):
-    """Generate aggregated news from long-term events"""
+def generate_tag_summaries(long_term_events):
+    """Generate tag summary cards from long-term events"""
     if not long_term_events:
         return []
     
-    # Simple aggregation by first tag
+    # Group by first tag
     tag_groups = {}
     for event in long_term_events:
         main_tag = event.get('tags', ['other'])[0]
@@ -172,31 +170,36 @@ def generate_news_from_long_term(long_term_events):
             tag_groups[main_tag] = []
         tag_groups[main_tag].append(event)
     
-    # Generate news
-    news_list = []
+    # Generate summaries
+    summaries = []
     for tag, events in tag_groups.items():
         avg_prob = sum(e['probability'] for e in events) / len(events)
-        news_list.append({
-            'title': f"{tag.upper()}: {len(events)} events with avg {avg_prob*100:.1f}% probability",
-            'summary': f"Stable high-probability events in {tag}",
+        max_prob = max(e['probability'] for e in events)
+        min_prob = min(e['probability'] for e in events)
+        
+        summaries.append({
+            'tag': tag,
+            'tag_display': tag.upper(),
             'event_count': len(events),
             'avg_probability': avg_prob,
-            'tag': tag,
+            'max_probability': max_prob,
+            'min_probability': min_prob,
             'events': events  # Will be lazy-loaded in frontend
         })
     
-    return news_list
+    # Sort by event count (descending)
+    return sorted(summaries, key=lambda x: x['event_count'], reverse=True)
 
 def generate_output(new_entries, exited_entries, long_term_events):
     """Generate output JSON"""
-    long_term_news = generate_news_from_long_term(long_term_events)
+    tag_summaries = generate_tag_summaries(long_term_events)
     
     return {
         'category': 'technology',
         'updated_at': datetime.now().isoformat(),
         'new_entries': sorted(new_entries, key=lambda x: x['hours_ago']),
         'exited_entries': sorted(exited_entries, key=lambda x: x['hours_ago']),
-        'long_term_news': long_term_news,  # News list (not cards)
+        'long_term_summaries': tag_summaries,  # Tag summary cards
         'long_term_count': len(long_term_events)
     }
 
