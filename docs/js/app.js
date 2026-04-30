@@ -1,13 +1,20 @@
-// app.js - Main Application Logic (With News Display)
+// app.js - Optimized for Speed + Lazy Load
 const App = (() => {
-    let eventsData = { new_entries: [], exited_entries: [], long_term: {} };
+    let eventsData = { 
+        new_entries: [], 
+        exited_entries: [], 
+        long_term_news: [],
+        long_term_count: 0
+    };
     let currentFilter = 'all';
+    let expandedNews = null;
     
     async function init() {
         await loadEvents();
         renderEvents();
         setupSearch();
         setupFilters();
+        setupScrollAnimations();
     }
     
     async function loadEvents() {
@@ -24,7 +31,7 @@ const App = (() => {
     function renderEvents() {
         renderNewEntries();
         renderExitedEntries();
-        renderLongTerm();
+        renderLongTermNews();
         updateCounts();
     }
     
@@ -40,14 +47,14 @@ const App = (() => {
         }
         
         container.innerHTML = filtered.map(event => `
-            <div class="event-card scroll-animate" data-tags="${event.tags?.join(',') || ''}">
+            <div class="event-card" data-tags="${event.tags?.join(',') || ''}">
                 <div class="event-header">
                     <div class="event-title">${event.title}</div>
                     <div class="event-probability">${(event.probability * 100).toFixed(1)}%</div>
                 </div>
                 <div class="event-meta">
                     <span class="label-new">NEW</span>
-                    <span>${event.hours_ago} hours ago</span>
+                    <span>↑ +${(event.change * 100).toFixed(1)}%</span>
                     ${event.news ? '<span class="badge-news">📰 News</span>' : ''}
                 </div>
                 ${event.tags ? `<div class="event-tags">${event.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
@@ -76,13 +83,13 @@ const App = (() => {
         }
         
         container.innerHTML = filtered.map(event => `
-            <div class="event-card scroll-animate">
+            <div class="event-card">
                 <div class="event-header">
                     <div class="event-title">${event.title}</div>
                     <div class="event-probability">${(event.probability * 100).toFixed(1)}%</div>
                 </div>
                 <div class="event-meta">
-                    <span>${event.hours_ago} hours ago</span>
+                    <span>↓ -${(event.change * 100).toFixed(1)}%</span>
                     ${event.news ? '<span class="badge-news">📰 News</span>' : ''}
                 </div>
                 
@@ -98,30 +105,67 @@ const App = (() => {
         `).join('');
     }
     
-    function renderLongTerm() {
+    function renderLongTermNews() {
         const container = document.getElementById('long-term-groups');
         if (!container) return;
         
-        const longTerm = eventsData.long_term || {};
-        const tags = Object.keys(longTerm);
+        const newsList = eventsData.long_term_news || [];
         
-        if (tags.length === 0) {
+        if (newsList.length === 0) {
             container.innerHTML = '<p class="no-results">No long-term events</p>';
             return;
         }
         
-        container.innerHTML = tags.map(tag => `
-            <div class="tag-group">
-                <h3>${tag.toUpperCase()} (${longTerm[tag].length})</h3>
-                ${longTerm[tag].map(event => `
-                    <div class="event-card" style="margin-bottom: 0.5rem; padding: 1rem;">
-                        <div class="event-header">
-                            <div class="event-title" style="font-size: 0.875rem;">${event.title}</div>
-                            <div class="event-probability" style="font-size: 1rem;">${(event.probability * 100).toFixed(1)}%</div>
+        container.innerHTML = `
+            <div class="news-list">
+                ${newsList.map((news, idx) => `
+                    <div class="news-list-item" data-index="${idx}">
+                        <div class="news-list-header" onclick="App.toggleNews(${idx})">
+                            <div class="news-list-title">
+                                <span class="news-icon">📊</span>
+                                ${news.title}
+                                <span class="event-count">(${news.event_count} events)</span>
+                            </div>
+                            <div class="news-list-toggle">
+                                ${expandedNews === idx ? '▼' : '▶'}
+                            </div>
                         </div>
-                        ${event.days_in_high ? `<div style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 0.5rem;">${event.days_in_high} days in high</div>` : ''}
+                        <div class="news-list-body" id="news-body-${idx}" style="display: ${expandedNews === idx ? 'block' : 'none'};">
+                            <div class="news-summary">${news.summary}</div>
+                            <div class="event-cards-container" id="event-cards-${idx}">
+                                <!-- Lazy loaded event cards will appear here -->
+                            </div>
+                        </div>
                     </div>
                 `).join('')}
+            </div>
+        `;
+    }
+    
+    function toggleNews(idx) {
+        if (expandedNews === idx) {
+            expandedNews = null;
+        } else {
+            expandedNews = idx;
+            // Lazy load event cards
+            loadEventCards(idx);
+        }
+        renderLongTermNews();
+    }
+    
+    function loadEventCards(idx) {
+        const news = eventsData.long_term_news[idx];
+        if (!news || !news.events) return;
+        
+        const container = document.getElementById(`event-cards-${idx}`);
+        if (!container || container.children.length > 0) return; // Already loaded
+        
+        container.innerHTML = news.events.map(event => `
+            <div class="event-card" style="margin: 0.5rem 0; padding: 1rem;">
+                <div class="event-header">
+                    <div class="event-title" style="font-size: 0.875rem;">${event.title}</div>
+                    <div class="event-probability" style="font-size: 1rem;">${(event.probability * 100).toFixed(1)}%</div>
+                </div>
             </div>
         `).join('');
     }
@@ -136,6 +180,9 @@ const App = (() => {
         const exitedCount = document.getElementById('exited-count');
         if (newCount) newCount.textContent = eventsData.new_entries.length;
         if (exitedCount) exitedCount.textContent = eventsData.exited_entries.length;
+        
+        const longTermCount = document.getElementById('long-term-count');
+        if (longTermCount) longTermCount.textContent = eventsData.long_term_count || 0;
     }
     
     function setupSearch() {
@@ -162,8 +209,24 @@ const App = (() => {
         });
     }
     
+    function setupScrollAnimations() {
+        // Simple scroll animation using Intersection Observer
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('visible');
+                }
+            });
+        }, { threshold: 0.1 });
+        
+        document.querySelectorAll('.scroll-animate').forEach(el => {
+            observer.observe(el);
+        });
+    }
+    
     return {
         init,
+        toggleNews,
         loadEvents,
         renderEvents
     };

@@ -1,34 +1,30 @@
 #!/usr/bin/env python3
 """
-Fetch Polymarket events and generate categorized data
-Supports: new entries, exited entries, long-term aggregation
+Fetch Polymarket events - Optimized Logic
+1-hour comparison + 3% change threshold
 """
 import json
 import os
 import sys
-from datetime import datetime, timedelta
 from pathlib import Path
+from datetime import datetime, timedelta
 
-# Configuration
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "docs" / "data"
 HISTORY_DIR = DATA_DIR / "history"
 TECH_DIR = DATA_DIR / "technology"
 CONFIG_FILE = DATA_DIR / "config.json"
 
-# API
 GAMMA_API = "https://gamma-api.polymarket.com/events"
 HIGH_THRESHOLD = 0.70
-STABLE_HOURS = 3
-DISPLAY_DAYS = 3
+CHANGE_THRESHOLD = 0.03  # 3% change
 
 def load_config():
-    """Load configuration"""
     with open(CONFIG_FILE) as f:
         return json.load(f)
 
 def fetch_events(limit=1000):
-    """Fetch active events from Polymarket Gamma API"""
+    """Fetch active events from Polymarket"""
     import urllib.request
     
     url = f"{GAMMA_API}?active=true&closed=false&limit={limit}"
@@ -50,25 +46,21 @@ def get_probability(event):
         if not event.get('markets'):
             return None
         
-        # Get the first market's outcome prices
         market = event['markets'][0]
         outcome_prices = json.loads(market.get('outcomePrices', '["0", "0"]'))
-        
-        # outcomePrices[1] is YES probability
         return float(outcome_prices[1])
     except:
         return None
 
 def filter_tech_events(events, tech_tags):
-    """Filter events by technology tags"""
+    """Filter technology events"""
     filtered = []
     for event in events:
         event_tags = [t['slug'] for t in event.get('tags', [])]
         
-        # Check if any tech tag matches (strict match)
         if any(tag in event_tags for tag in tech_tags):
             prob = get_probability(event)
-            if prob is not None and 0 < prob < 1:  # Filter out resolved events
+            if prob is not None and 0 < prob < 1:
                 filtered.append({
                     'id': event['id'],
                     'title': event.get('title', ''),
@@ -79,23 +71,22 @@ def filter_tech_events(events, tech_tags):
     
     return filtered
 
-def load_history():
-    """Load historical data for comparison"""
-    history = {}
+def load_last_hour_data():
+    """Load last hour's snapshot"""
+    HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     
-    # Load last 3 hours of snapshots
     now = datetime.now()
-    for hours_ago in [0, 1, 2, 3]:
-        snapshot_time = now - timedelta(hours=hours_ago)
-        snapshot_file = HISTORY_DIR / f"{snapshot_time.strftime('%Y-%m-%d-%H')}.json"
+    # Look for snapshot from 55-65 minutes ago
+    for minutes_ago in range(55, 65):
+        time = now - timedelta(minutes=minutes_ago)
+        snapshot_file = HISTORY_DIR / f"{time.strftime('%Y-%m-%d-%H')}.json"
         
         if snapshot_file.exists():
             with open(snapshot_file) as f:
                 data = json.load(f)
-                for event in data.get('events', []):
-                    history[event['id']] = event
+                return {e['id']: e for e in data.get('events', [])}
     
-    return history
+    return {}
 
 def save_snapshot(events):
     """Save current snapshot"""
@@ -120,115 +111,124 @@ def save_snapshot(events):
         except:
             pass
 
-def categorize_events(current_events, history):
-    """Categorize events into new/exited/long-term"""
+def categorize_events(current_events, last_hour_events):
+    """Categorize based on 1-hour comparison + 3% threshold"""
     new_entries = []
     exited_entries = []
-    long_term = {}
-    
-    now = datetime.now()
+    long_term = []
     
     for event in current_events:
         event_id = event['id']
-        prob = event['probability']
-        is_high = prob >= HIGH_THRESHOLD
+        current_prob = event['probability']
+        current_high = current_prob >= HIGH_THRESHOLD
         
-        # Get historical data
-        hist = history.get(event_id, {})
-        hist_high = hist.get('is_high', False)
-        hist_time = datetime.fromisoformat(hist.get('timestamp', '2000-01-01T00:00:00'))
+        # Get last hour data
+        last_data = last_hour_events.get(event_id, {})
+        last_prob = last_data.get('probability', current_prob)
+        last_high = last_prob >= HIGH_THRESHOLD
         
-        # Calculate hours in current state
-        hours_in_state = (now - hist_time).total_seconds() / 3600 if hist else 999
+        # Calculate change
+        prob_change = abs(current_prob - last_prob)
         
-        # New entry: just crossed 70% threshold
-        if is_high and not hist_high and hours_in_state <= STABLE_HOURS:
+        # Check if crossed threshold with >3% change
+        crossed_to_high = (not last_high) and current_high and prob_change >= CHANGE_THRESHOLD
+        crossed_from_high = last_high and (not current_high) and prob_change >= CHANGE_THRESHOLD
+        
+        if crossed_to_high:
+            # New entry
             new_entries.append({
                 **event,
-                'hours_ago': int(hours_in_state),
-                'is_high': True
+                'hours_ago': 1,
+                'change': prob_change
             })
-        
-        # Exited: just fell below 70%
-        elif not is_high and hist_high and hours_in_state <= STABLE_HOURS:
+        elif crossed_from_high:
+            # Exited entry
             exited_entries.append({
                 **event,
-                'hours_ago': int(hours_in_state),
-                'is_high': False
+                'hours_ago': 1,
+                'change': prob_change
             })
-        
-        # Long-term: high probability for >3 hours
-        elif is_high and hours_in_state > STABLE_HOURS:
-            # Group by tags
-            for tag in event.get('tags', []):
-                if tag not in long_term:
-                    long_term[tag] = []
-                
-                long_term[tag].append({
-                    'id': event['id'],
-                    'title': event['title'],
-                    'probability': event['probability'],
-                    'days_in_high': int(hours_in_state / 24)
-                })
-        
-        # Update history
-        history[event_id] = {
-            'id': event_id,
-            'is_high': is_high,
-            'timestamp': now.isoformat(),
-            'probability': prob
-        }
+        elif current_high:
+            # Long-term (stable high)
+            long_term.append({
+                'id': event['id'],
+                'title': event['title'],
+                'probability': event['probability'],
+                'tags': event.get('tags', [])
+            })
     
     return new_entries, exited_entries, long_term
 
-def generate_output(new_entries, exited_entries, long_term):
+def generate_news_from_long_term(long_term_events):
+    """Generate aggregated news from long-term events"""
+    if not long_term_events:
+        return []
+    
+    # Simple aggregation by first tag
+    tag_groups = {}
+    for event in long_term_events:
+        main_tag = event.get('tags', ['other'])[0]
+        if main_tag not in tag_groups:
+            tag_groups[main_tag] = []
+        tag_groups[main_tag].append(event)
+    
+    # Generate news
+    news_list = []
+    for tag, events in tag_groups.items():
+        avg_prob = sum(e['probability'] for e in events) / len(events)
+        news_list.append({
+            'title': f"{tag.upper()}: {len(events)} events with avg {avg_prob*100:.1f}% probability",
+            'summary': f"Stable high-probability events in {tag}",
+            'event_count': len(events),
+            'avg_probability': avg_prob,
+            'tag': tag,
+            'events': events  # Will be lazy-loaded in frontend
+        })
+    
+    return news_list
+
+def generate_output(new_entries, exited_entries, long_term_events):
     """Generate output JSON"""
+    long_term_news = generate_news_from_long_term(long_term_events)
+    
     return {
         'category': 'technology',
         'updated_at': datetime.now().isoformat(),
         'new_entries': sorted(new_entries, key=lambda x: x['hours_ago']),
         'exited_entries': sorted(exited_entries, key=lambda x: x['hours_ago']),
-        'long_term': long_term,
-        'archived': []
+        'long_term_news': long_term_news,  # News list (not cards)
+        'long_term_count': len(long_term_events)
     }
 
 def main():
-    print("🚀 Starting fetch_events.py...")
+    print("🚀 Starting fetch_events.py (optimized)...")
     
-    # Load config
     config = load_config()
     tech_tags = config['categories']['technology']['tags']
     
-    # Fetch events
     print("📡 Fetching events from Polymarket...")
     events = fetch_events()
     print(f"   Fetched {len(events)} total events")
     
-    # Filter tech events
     tech_events = filter_tech_events(events, tech_tags)
     print(f"   Filtered {len(tech_events)} technology events")
     
-    # Load history
-    history = load_history()
-    print(f"   Loaded {len(history)} historical records")
+    last_hour = load_last_hour_data()
+    print(f"   Loaded {len(last_hour)} records from last hour")
     
-    # Categorize
-    new_entries, exited_entries, long_term = categorize_events(tech_events, history)
+    new_entries, exited_entries, long_term = categorize_events(tech_events, last_hour)
     print(f"   New entries: {len(new_entries)}")
     print(f"   Exited entries: {len(exited_entries)}")
-    print(f"   Long-term groups: {len(long_term)}")
+    print(f"   Long-term events: {len(long_term)}")
     
-    # Generate output
     output = generate_output(new_entries, exited_entries, long_term)
     
-    # Save output
     TECH_DIR.mkdir(parents=True, exist_ok=True)
     output_file = TECH_DIR / "events.json"
     with open(output_file, 'w') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
     print(f"✅ Saved to {output_file}")
     
-    # Save snapshot
     save_snapshot(tech_events)
     print("✅ Snapshot saved")
     

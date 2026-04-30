@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test</title></head>
+<body>
+<div id="long-term-count">0</div>
+<div id="long-term-groups"></div>
+<script>
+fetch('data/technology/events.json')
+  .then(r => r.json())
+  .then(data => {
+    document.getElementById('long-term-count').textContent = data.long_term_count || 0;
+    document.getElementById('long-term-groups').innerHTML = 
+      (data.long_term_news || []).map(n => `<div>${n.title} (${n.event_count} events)</div>`).join('');
+  });
+</script>
+</body>
+</html>
