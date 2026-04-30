@@ -1,14 +1,14 @@
 {
   "category": "technology",
-  "updated_at": "2026-04-30T12:31:21.655372",
+  "updated_at": "2026-04-30T05:18:29.091532",
   "new_entries": [],
   "exited_entries": [],
   "long_term_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 16,
-      "avg_probability": 0.89234375,
+      "event_count": 14,
+      "avg_probability": 0.8996428571428572,
       "max_probability": 0.9855,
       "min_probability": 0.73,
       "events": [
@@ -28,7 +28,7 @@
         {
           "id": "49889",
           "title": "Will Apple release a MacBook with cellular connectivity by June 30?",
-          "probability": 0.9255,
+          "probability": 0.923,
           "tags": [
             "tech",
             "pop-culture",
@@ -117,7 +117,7 @@
         {
           "id": "79061",
           "title": "Will Tesla launch robotaxis in California by June 30?",
-          "probability": 0.885,
+          "probability": 0.875,
           "tags": [
             "tech",
             "elon-musk",
@@ -153,18 +153,6 @@
           ]
         },
         {
-          "id": "79078",
-          "title": "Will Sam Altman get OpenAI equity by June 30?",
-          "probability": 0.845,
-          "tags": [
-            "tech",
-            "big-tech",
-            "business",
-            "openai",
-            "ai"
-          ]
-        },
-        {
           "id": "80144",
           "title": "Will a dLLM be the top AI model before 2027?",
           "probability": 0.93,
@@ -197,21 +185,6 @@
             "games",
             "business"
           ]
-        },
-        {
-          "id": "86832",
-          "title": "Which companies will be acquired before 2027?",
-          "probability": 0.825,
-          "tags": [
-            "tech",
-            "prediction-markets",
-            "business",
-            "finance",
-            "big-tech",
-            "ai",
-            "acquisitions",
-            "buy"
-          ]
         }
       ]
     },
@@ -219,14 +192,14 @@
       "tag": "crypto",
       "tag_display": "CRYPTO",
       "event_count": 6,
-      "avg_probability": 0.8164166666666667,
+      "avg_probability": 0.8155833333333334,
       "max_probability": 0.9345,
       "min_probability": 0.715,
       "events": [
         {
           "id": "52130",
           "title": "Opensea FDV above ___ one day after launch?",
-          "probability": 0.735,
+          "probability": 0.73,
           "tags": [
             "crypto",
             "pre-market",
@@ -298,14 +271,14 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 5,
-      "avg_probability": 0.8909,
+      "avg_probability": 0.8876,
       "max_probability": 0.97,
-      "min_probability": 0.755,
+      "min_probability": 0.74,
       "events": [
         {
           "id": "48292",
           "title": "OpenAI IPO Closing Market Cap",
-          "probability": 0.9695,
+          "probability": 0.968,
           "tags": [
             "big-tech",
             "openai",
@@ -331,7 +304,7 @@
         {
           "id": "68544",
           "title": "OpenAI $1t+ IPO before 2027?",
-          "probability": 0.755,
+          "probability": 0.74,
           "tags": [
             "big-tech",
             "openai",
@@ -375,7 +348,7 @@
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 5,
-      "avg_probability": 0.9231999999999999,
+      "avg_probability": 0.9233,
       "max_probability": 0.997,
       "min_probability": 0.865,
       "events": [
@@ -409,7 +382,7 @@
         {
           "id": "79066",
           "title": "OpenAI acquired before 2027?",
-          "probability": 0.891,
+          "probability": 0.8915,
           "tags": [
             "ai",
             "business",
@@ -450,9 +423,9 @@
       "tag": "politics",
       "tag_display": "POLITICS",
       "event_count": 3,
-      "avg_probability": 0.8888333333333334,
+      "avg_probability": 0.8871666666666665,
       "max_probability": 0.9565,
-      "min_probability": 0.845,
+      "min_probability": 0.84,
       "events": [
         {
           "id": "32565",
@@ -485,7 +458,7 @@
         {
           "id": "79075",
           "title": "U.S. enacts AI safety bill before 2027?",
-          "probability": 0.845,
+          "probability": 0.84,
           "tags": [
             "politics",
             "ai",
@@ -500,14 +473,14 @@
       "tag": "ethereum",
       "tag_display": "ETHEREUM",
       "event_count": 2,
-      "avg_probability": 0.88825,
-      "max_probability": 0.9615,
-      "min_probability": 0.815,
+      "avg_probability": 0.89025,
+      "max_probability": 0.9605,
+      "min_probability": 0.82,
       "events": [
         {
           "id": "73131",
           "title": "US national Ethereum reserve before 2027?",
-          "probability": 0.815,
+          "probability": 0.82,
           "tags": [
             "ethereum",
             "politics",
@@ -520,7 +493,7 @@
         {
           "id": "89519",
           "title": "What price will Ethereum hit in 2026?",
-          "probability": 0.9615,
+          "probability": 0.9605,
           "tags": [
             "ethereum",
             "crypto-prices",
@@ -535,14 +508,14 @@
       "tag": "pop-culture",
       "tag_display": "POP-CULTURE",
       "event_count": 2,
-      "avg_probability": 0.78,
+      "avg_probability": 0.7825,
       "max_probability": 0.815,
-      "min_probability": 0.745,
+      "min_probability": 0.75,
       "events": [
         {
           "id": "74872",
           "title": "GTA 6 launch postponed again?",
-          "probability": 0.745,
+          "probability": 0.75,
           "tags": [
             "pop-culture",
             "tech",
@@ -567,14 +540,14 @@
       "tag": "bitcoin",
       "tag_display": "BITCOIN",
       "event_count": 2,
-      "avg_probability": 0.92425,
+      "avg_probability": 0.94675,
       "max_probability": 0.9535,
-      "min_probability": 0.895,
+      "min_probability": 0.94,
       "events": [
         {
           "id": "79077",
           "title": "Bitcoin more valuable than any company before 2027?",
-          "probability": 0.895,
+          "probability": 0.94,
           "tags": [
             "bitcoin",
             "crypto",
@@ -680,14 +653,14 @@
       "tag": "ipo",
       "tag_display": "IPO",
       "event_count": 1,
-      "avg_probability": 0.7955,
-      "max_probability": 0.7955,
-      "min_probability": 0.7955,
+      "avg_probability": 0.752,
+      "max_probability": 0.752,
+      "min_probability": 0.752,
       "events": [
         {
           "id": "48299",
           "title": "Discord IPO Closing Market Cap",
-          "probability": 0.7955,
+          "probability": 0.752,
           "tags": [
             "ipo",
             "tech",
@@ -746,14 +719,14 @@
       "tag": "geopolitics",
       "tag_display": "GEOPOLITICS",
       "event_count": 1,
-      "avg_probability": 0.9625,
-      "max_probability": 0.9625,
-      "min_probability": 0.9625,
+      "avg_probability": 0.962,
+      "max_probability": 0.962,
+      "min_probability": 0.962,
       "events": [
         {
           "id": "79050",
           "title": "Will a Chinese AI model become #1 by June 30? ",
-          "probability": 0.9625,
+          "probability": 0.962,
           "tags": [
             "geopolitics",
             "business",
@@ -919,5 +892,5 @@
       ]
     }
   ],
-  "long_term_count": 56
+  "long_term_count": 54
 }
