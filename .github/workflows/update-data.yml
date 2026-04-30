@@ -1,9 +1,9 @@
 name: Update Markets Data
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch:  # Allow manual trigger
+  # schedule:  # 已禁用 - 2026-04-30
+  #   - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:  # Allow manual trigger only
 
 jobs:
   update:
