@@ -1,84 +1,14 @@
 {
   "category": "technology",
-  "updated_at": "2026-04-30T13:13:58.878785",
-  "new_entries": [
-    {
-      "id": "73197",
-      "title": "US Treasury transactions on blockchain by June 30?",
-      "probability": 0.705,
-      "tags": [
-        "economy",
-        "trump",
-        "politics",
-        "crypto"
-      ],
-      "hours_ago": 1,
-      "change": 0.41
-    },
-    {
-      "id": "74055",
-      "title": "Consensys IPO closing market cap above ___ ?",
-      "probability": 0.765,
-      "tags": [
-        "crypto",
-        "ipos",
-        "pre-market"
-      ],
-      "hours_ago": 1,
-      "change": 0.07999999999999996
-    }
-  ],
-  "exited_entries": [
-    {
-      "id": "57704",
-      "title": "Which company has top AI model end of June? (Style Control On)",
-      "probability": 0.685,
-      "tags": [
-        "tech",
-        "openai",
-        "ai",
-        "grok",
-        "gpt-5",
-        "big-tech"
-      ],
-      "hours_ago": 1,
-      "change": 0.04499999999999993
-    },
-    {
-      "id": "73236",
-      "title": "Metamask FDV above ___ one day after launch?",
-      "probability": 0.653,
-      "tags": [
-        "crypto",
-        "pre-market",
-        "metamask",
-        "token-sales",
-        "fdv"
-      ],
-      "hours_ago": 1,
-      "change": 0.061999999999999944
-    },
-    {
-      "id": "79078",
-      "title": "Will Sam Altman get OpenAI equity by June 30?",
-      "probability": 0.61,
-      "tags": [
-        "tech",
-        "big-tech",
-        "business",
-        "openai",
-        "ai"
-      ],
-      "hours_ago": 1,
-      "change": 0.235
-    }
-  ],
+  "updated_at": "2026-04-30T15:42:50.787557",
+  "new_entries": [],
+  "exited_entries": [],
   "long_term_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 14,
-      "avg_probability": 0.9002857142857144,
+      "event_count": 13,
+      "avg_probability": 0.9119615384615385,
       "max_probability": 0.9835,
       "min_probability": 0.735,
       "events": [
@@ -98,7 +28,7 @@
         {
           "id": "49889",
           "title": "Will Apple release a MacBook with cellular connectivity by June 30?",
-          "probability": 0.9205,
+          "probability": 0.9175,
           "tags": [
             "tech",
             "pop-culture",
@@ -122,7 +52,7 @@
         {
           "id": "66118",
           "title": "Will Ari Weinstein leave OpenAI by December 31, 2026?",
-          "probability": 0.925,
+          "probability": 0.9235,
           "tags": [
             "tech",
             "big-tech",
@@ -163,7 +93,7 @@
         {
           "id": "78468",
           "title": "Which cities will Waymo launch in by June 30?",
-          "probability": 0.9355,
+          "probability": 0.938,
           "tags": [
             "tech",
             "ai",
@@ -174,7 +104,7 @@
         {
           "id": "79061",
           "title": "Will Tesla launch robotaxis in California by June 30?",
-          "probability": 0.9,
+          "probability": 0.89,
           "tags": [
             "tech",
             "elon-musk",
@@ -242,36 +172,21 @@
             "games",
             "business"
           ]
-        },
-        {
-          "id": "86832",
-          "title": "Which companies will be acquired before 2027?",
-          "probability": 0.7365,
-          "tags": [
-            "tech",
-            "prediction-markets",
-            "business",
-            "finance",
-            "big-tech",
-            "ai",
-            "acquisitions",
-            "buy"
-          ]
         }
       ]
     },
     {
       "tag": "crypto",
       "tag_display": "CRYPTO",
-      "event_count": 6,
-      "avg_probability": 0.8055,
-      "max_probability": 0.923,
-      "min_probability": 0.715,
+      "event_count": 7,
+      "avg_probability": 0.8005000000000001,
+      "max_probability": 0.9135,
+      "min_probability": 0.705,
       "events": [
         {
           "id": "52130",
           "title": "Opensea FDV above ___ one day after launch?",
-          "probability": 0.725,
+          "probability": 0.73,
           "tags": [
             "crypto",
             "pre-market",
@@ -290,9 +205,19 @@
           ]
         },
         {
+          "id": "74055",
+          "title": "Consensys IPO closing market cap above ___ ?",
+          "probability": 0.785,
+          "tags": [
+            "crypto",
+            "ipos",
+            "pre-market"
+          ]
+        },
+        {
           "id": "84914",
           "title": "Hyperbeat FDV above ___ one day after launch?",
-          "probability": 0.715,
+          "probability": 0.705,
           "tags": [
             "crypto",
             "pre-market",
@@ -327,7 +252,7 @@
         {
           "id": "90401",
           "title": "Ostium FDV above ___ one day after launch?",
-          "probability": 0.923,
+          "probability": 0.9135,
           "tags": [
             "crypto",
             "pre-market",
@@ -341,7 +266,7 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 5,
-      "avg_probability": 0.893,
+      "avg_probability": 0.8953000000000001,
       "max_probability": 0.98,
       "min_probability": 0.755,
       "events": [
@@ -361,7 +286,7 @@
         {
           "id": "48297",
           "title": "Databricks IPO Closing Market Cap",
-          "probability": 0.97,
+          "probability": 0.9715,
           "tags": [
             "big-tech",
             "tech",
@@ -402,7 +327,7 @@
         {
           "id": "83771",
           "title": "Which CEOs will be out before 2027?",
-          "probability": 0.87,
+          "probability": 0.88,
           "tags": [
             "big-tech",
             "business",
@@ -418,14 +343,14 @@
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 5,
-      "avg_probability": 0.9238999999999999,
-      "max_probability": 0.9945,
+      "avg_probability": 0.9212,
+      "max_probability": 0.9935,
       "min_probability": 0.865,
       "events": [
         {
           "id": "48300",
           "title": "Anthropic IPO Closing Market Cap",
-          "probability": 0.9945,
+          "probability": 0.9935,
           "tags": [
             "ai",
             "ipo",
@@ -439,7 +364,7 @@
         {
           "id": "78470",
           "title": "How many cities will Waymo operate in by June 30?",
-          "probability": 0.9215,
+          "probability": 0.923,
           "tags": [
             "ai",
             "tech",
@@ -465,7 +390,7 @@
         {
           "id": "79079",
           "title": "Anthropic acquired before 2027?",
-          "probability": 0.949,
+          "probability": 0.935,
           "tags": [
             "ai",
             "business",
@@ -493,9 +418,9 @@
       "tag": "politics",
       "tag_display": "POLITICS",
       "event_count": 3,
-      "avg_probability": 0.8925000000000001,
-      "max_probability": 0.9575,
-      "min_probability": 0.855,
+      "avg_probability": 0.8973333333333334,
+      "max_probability": 0.957,
+      "min_probability": 0.865,
       "events": [
         {
           "id": "32565",
@@ -514,7 +439,7 @@
         {
           "id": "73078",
           "title": "Will China unban Bitcoin by 2027?",
-          "probability": 0.9575,
+          "probability": 0.957,
           "tags": [
             "politics",
             "crypto",
@@ -528,7 +453,7 @@
         {
           "id": "79075",
           "title": "U.S. enacts AI safety bill before 2027?",
-          "probability": 0.855,
+          "probability": 0.87,
           "tags": [
             "politics",
             "ai",
@@ -543,14 +468,14 @@
       "tag": "ethereum",
       "tag_display": "ETHEREUM",
       "event_count": 2,
-      "avg_probability": 0.89375,
+      "avg_probability": 0.89125,
       "max_probability": 0.9625,
-      "min_probability": 0.825,
+      "min_probability": 0.82,
       "events": [
         {
           "id": "73131",
           "title": "US national Ethereum reserve before 2027?",
-          "probability": 0.825,
+          "probability": 0.82,
           "tags": [
             "ethereum",
             "politics",
@@ -575,17 +500,51 @@
       ]
     },
     {
+      "tag": "economy",
+      "tag_display": "ECONOMY",
+      "event_count": 2,
+      "avg_probability": 0.876,
+      "max_probability": 0.992,
+      "min_probability": 0.76,
+      "events": [
+        {
+          "id": "73197",
+          "title": "US Treasury transactions on blockchain by June 30?",
+          "probability": 0.76,
+          "tags": [
+            "economy",
+            "trump",
+            "politics",
+            "crypto"
+          ]
+        },
+        {
+          "id": "79041",
+          "title": "Largest Company end of December 2026?",
+          "probability": 0.992,
+          "tags": [
+            "economy",
+            "business",
+            "finance",
+            "ai",
+            "tech",
+            "big-tech"
+          ]
+        }
+      ]
+    },
+    {
       "tag": "pop-culture",
       "tag_display": "POP-CULTURE",
       "event_count": 2,
-      "avg_probability": 0.78,
+      "avg_probability": 0.7749999999999999,
       "max_probability": 0.815,
-      "min_probability": 0.745,
+      "min_probability": 0.735,
       "events": [
         {
           "id": "74872",
           "title": "GTA 6 launch postponed again?",
-          "probability": 0.745,
+          "probability": 0.735,
           "tags": [
             "pop-culture",
             "tech",
@@ -610,14 +569,14 @@
       "tag": "bitcoin",
       "tag_display": "BITCOIN",
       "event_count": 2,
-      "avg_probability": 0.92425,
+      "avg_probability": 0.93675,
       "max_probability": 0.9535,
-      "min_probability": 0.895,
+      "min_probability": 0.92,
       "events": [
         {
           "id": "79077",
           "title": "Bitcoin more valuable than any company before 2027?",
-          "probability": 0.895,
+          "probability": 0.92,
           "tags": [
             "bitcoin",
             "crypto",
@@ -677,14 +636,14 @@
       "tag": "airdrops",
       "tag_display": "AIRDROPS",
       "event_count": 1,
-      "avg_probability": 0.996,
-      "max_probability": 0.996,
-      "min_probability": 0.996,
+      "avg_probability": 0.9975,
+      "max_probability": 0.9975,
+      "min_probability": 0.9975,
       "events": [
         {
           "id": "28999",
           "title": "MegaETH market cap (FDV) one day after launch? ",
-          "probability": 0.996,
+          "probability": 0.9975,
           "tags": [
             "airdrops",
             "featured",
@@ -723,14 +682,14 @@
       "tag": "ipo",
       "tag_display": "IPO",
       "event_count": 1,
-      "avg_probability": 0.7775,
-      "max_probability": 0.7775,
-      "min_probability": 0.7775,
+      "avg_probability": 0.801,
+      "max_probability": 0.801,
+      "min_probability": 0.801,
       "events": [
         {
           "id": "48299",
           "title": "Discord IPO Closing Market Cap",
-          "probability": 0.7775,
+          "probability": 0.801,
           "tags": [
             "ipo",
             "tech",
@@ -763,29 +722,6 @@
       ]
     },
     {
-      "tag": "economy",
-      "tag_display": "ECONOMY",
-      "event_count": 1,
-      "avg_probability": 0.992,
-      "max_probability": 0.992,
-      "min_probability": 0.992,
-      "events": [
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "probability": 0.992,
-          "tags": [
-            "economy",
-            "business",
-            "finance",
-            "ai",
-            "tech",
-            "big-tech"
-          ]
-        }
-      ]
-    },
-    {
       "tag": "geopolitics",
       "tag_display": "GEOPOLITICS",
       "event_count": 1,
@@ -811,14 +747,14 @@
       "tag": "business",
       "tag_display": "BUSINESS",
       "event_count": 1,
-      "avg_probability": 0.7635,
-      "max_probability": 0.7635,
-      "min_probability": 0.7635,
+      "avg_probability": 0.814,
+      "max_probability": 0.814,
+      "min_probability": 0.814,
       "events": [
         {
           "id": "86448",
           "title": "Which companies announce bankruptcy before 2027?",
-          "probability": 0.7635,
+          "probability": 0.814,
           "tags": [
             "business",
             "crypto",
@@ -877,14 +813,14 @@
       "tag": "hyperliquid",
       "tag_display": "HYPERLIQUID",
       "event_count": 1,
-      "avg_probability": 0.835,
-      "max_probability": 0.835,
-      "min_probability": 0.835,
+      "avg_probability": 0.81,
+      "max_probability": 0.81,
+      "min_probability": 0.81,
       "events": [
         {
           "id": "89559",
           "title": "What price will Hyperliquid hit in 2026?",
-          "probability": 0.835,
+          "probability": 0.81,
           "tags": [
             "hyperliquid",
             "crypto",
@@ -962,5 +898,5 @@
       ]
     }
   ],
-  "long_term_count": 54
+  "long_term_count": 55
 }
