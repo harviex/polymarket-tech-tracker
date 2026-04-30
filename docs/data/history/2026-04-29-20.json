@@ -1,10 +1,10 @@
 {
-  "timestamp": "2026-04-29T17:12:51.859435",
+  "timestamp": "2026-04-29T20:47:25.358998",
   "events": [
     {
       "id": "28999",
       "title": "MegaETH market cap (FDV) one day after launch? ",
-      "probability": 0.987,
+      "probability": 0.9725,
       "tags": [
         "airdrops",
         "featured",
@@ -47,7 +47,7 @@
     {
       "id": "48292",
       "title": "OpenAI IPO Closing Market Cap",
-      "probability": 0.9705,
+      "probability": 0.969,
       "tags": [
         "big-tech",
         "openai",
@@ -75,7 +75,7 @@
     {
       "id": "48299",
       "title": "Discord IPO Closing Market Cap",
-      "probability": 0.756,
+      "probability": 0.7145,
       "tags": [
         "ipo",
         "tech",
@@ -87,7 +87,7 @@
     {
       "id": "48300",
       "title": "Anthropic IPO Closing Market Cap",
-      "probability": 0.996,
+      "probability": 0.995,
       "tags": [
         "ai",
         "ipo",
@@ -116,7 +116,7 @@
     {
       "id": "49889",
       "title": "Will Apple release a MacBook with cellular connectivity by June 30?",
-      "probability": 0.9215,
+      "probability": 0.913,
       "tags": [
         "tech",
         "pop-culture",
@@ -139,7 +139,7 @@
     {
       "id": "57704",
       "title": "Which company has top AI model end of June? (Style Control On)",
-      "probability": 0.72,
+      "probability": 0.71,
       "tags": [
         "tech",
         "openai",
@@ -167,7 +167,7 @@
     {
       "id": "57708",
       "title": "Which company has second best AI model end of June?",
-      "probability": 0.785,
+      "probability": 0.47,
       "tags": [
         "big-tech",
         "ai",
@@ -181,7 +181,7 @@
     {
       "id": "57711",
       "title": "Largest Company end of June?",
-      "probability": 0.075,
+      "probability": 0.1,
       "tags": [
         "ai",
         "tech",
@@ -208,7 +208,7 @@
     {
       "id": "66118",
       "title": "Will Ari Weinstein leave OpenAI by December 31, 2026?",
-      "probability": 0.929,
+      "probability": 0.9285,
       "tags": [
         "tech",
         "big-tech",
@@ -254,7 +254,7 @@
     {
       "id": "72966",
       "title": "Another S&P 500 Company buys Bitcoin by ___?",
-      "probability": 0.544,
+      "probability": 0.5445,
       "tags": [
         "bitcoin",
         "crypto"
@@ -291,7 +291,7 @@
     {
       "id": "73131",
       "title": "US national Ethereum reserve before 2027?",
-      "probability": 0.825,
+      "probability": 0.81,
       "tags": [
         "ethereum",
         "politics",
@@ -305,7 +305,7 @@
     {
       "id": "73197",
       "title": "US Treasury transactions on blockchain by June 30?",
-      "probability": 0.52,
+      "probability": 0.31,
       "tags": [
         "economy",
         "trump",
@@ -317,7 +317,7 @@
     {
       "id": "73236",
       "title": "Metamask FDV above ___ one day after launch?",
-      "probability": 0.6965,
+      "probability": 0.715,
       "tags": [
         "crypto",
         "pre-market",
@@ -328,21 +328,9 @@
       "polymarket_url": "https://polymarket.com/event/metamask-fdv-above-one-day-after-launch"
     },
     {
-      "id": "73902",
-      "title": "Will Variational launch a token by ___ ?",
-      "probability": 0.26,
-      "tags": [
-        "crypto",
-        "variational",
-        "pre-market",
-        "token-launch"
-      ],
-      "polymarket_url": "https://polymarket.com/event/will-variational-launch-a-token-in-2025"
-    },
-    {
       "id": "74055",
       "title": "Consensys IPO closing market cap above ___ ?",
-      "probability": 0.685,
+      "probability": 0.675,
       "tags": [
         "crypto",
         "ipos",
@@ -353,7 +341,7 @@
     {
       "id": "74872",
       "title": "GTA 6 launch postponed again?",
-      "probability": 0.725,
+      "probability": 0.74,
       "tags": [
         "pop-culture",
         "tech",
@@ -365,7 +353,7 @@
     {
       "id": "75684",
       "title": "OpenAI receives federal backstop for infrastructure before July?",
-      "probability": 0.951,
+      "probability": 0.9525,
       "tags": [
         "tech",
         "openai",
@@ -379,7 +367,7 @@
     {
       "id": "78468",
       "title": "Which cities will Waymo launch in by June 30?",
-      "probability": 0.935,
+      "probability": 0.9355,
       "tags": [
         "tech",
         "ai",
@@ -391,7 +379,7 @@
     {
       "id": "78470",
       "title": "How many cities will Waymo operate in by June 30?",
-      "probability": 0.904,
+      "probability": 0.8935,
       "tags": [
         "ai",
         "tech",
@@ -418,7 +406,7 @@
     {
       "id": "79041",
       "title": "Largest Company end of December 2026?",
-      "probability": 0.255,
+      "probability": 0.9905,
       "tags": [
         "economy",
         "business",
@@ -432,7 +420,7 @@
     {
       "id": "79048",
       "title": "IPOs before 2027?",
-      "probability": 0.3315,
+      "probability": 0.3035,
       "tags": [
         "ipos",
         "business",
@@ -472,7 +460,7 @@
     {
       "id": "79056",
       "title": "SpaceX Starship fully reusable before 2027?",
-      "probability": 0.62,
+      "probability": 0.625,
       "tags": [
         "business",
         "big-tech",
@@ -487,7 +475,7 @@
     {
       "id": "79061",
       "title": "Will Tesla launch robotaxis in California by June 30?",
-      "probability": 0.855,
+      "probability": 0.89,
       "tags": [
         "tech",
         "elon-musk",
@@ -528,7 +516,7 @@
     {
       "id": "79070",
       "title": "AI wins IMO gold medal in 2026?",
-      "probability": 0.325,
+      "probability": 0.31,
       "tags": [
         "tech",
         "ai",
@@ -539,7 +527,7 @@
     {
       "id": "79075",
       "title": "U.S. enacts AI safety bill before 2027?",
-      "probability": 0.85,
+      "probability": 0.865,
       "tags": [
         "politics",
         "ai",
@@ -566,7 +554,7 @@
     {
       "id": "79077",
       "title": "Bitcoin more valuable than any company before 2027?",
-      "probability": 0.575,
+      "probability": 0.87,
       "tags": [
         "bitcoin",
         "crypto",
@@ -606,7 +594,7 @@
     {
       "id": "79080",
       "title": "AI model scores \u2265 90% on FrontierMath Benchmark before 2027?",
-      "probability": 0.84,
+      "probability": 0.825,
       "tags": [
         "ai",
         "big-tech",
@@ -618,7 +606,7 @@
     {
       "id": "79144",
       "title": "Will Spark launch a token by ___ ?",
-      "probability": 0.495,
+      "probability": 0.5,
       "tags": [
         "crypto",
         "pre-market",
@@ -643,7 +631,7 @@
     {
       "id": "79906",
       "title": "Will another AI-generated song reach number 1 on any Billboard chart by June 30?",
-      "probability": 0.53,
+      "probability": 0.535,
       "tags": [
         "pop-culture",
         "ai",
@@ -677,21 +665,9 @@
       "polymarket_url": "https://polymarket.com/event/will-xai-release-a-dllm-by-june-30"
     },
     {
-      "id": "80825",
-      "title": "Will a new country buy Bitcoin by...?",
-      "probability": 0.415,
-      "tags": [
-        "crypto",
-        "finance",
-        "politics",
-        "bitcoin"
-      ],
-      "polymarket_url": "https://polymarket.com/event/will-a-new-country-buy-bitcoin-by-184"
-    },
-    {
       "id": "81725",
       "title": "Will the Steam Machine cost $700 or more at release?",
-      "probability": 0.26,
+      "probability": 0.265,
       "tags": [
         "games",
         "tech",
@@ -702,7 +678,7 @@
     {
       "id": "83771",
       "title": "Which CEOs will be out before 2027?",
-      "probability": 0.875,
+      "probability": 0.86,
       "tags": [
         "big-tech",
         "business",
@@ -716,7 +692,7 @@
     {
       "id": "84914",
       "title": "Hyperbeat FDV above ___ one day after launch?",
-      "probability": 0.67,
+      "probability": 0.68,
       "tags": [
         "crypto",
         "pre-market",
@@ -727,7 +703,7 @@
     {
       "id": "85457",
       "title": "Kraken IPO closing market cap above ___ ?",
-      "probability": 0.55,
+      "probability": 0.63,
       "tags": [
         "pre-market",
         "ipos",
@@ -751,7 +727,7 @@
     {
       "id": "86448",
       "title": "Which companies announce bankruptcy before 2027?",
-      "probability": 0.48,
+      "probability": 0.763,
       "tags": [
         "business",
         "crypto",
@@ -760,22 +736,6 @@
         "bitcoin"
       ],
       "polymarket_url": "https://polymarket.com/event/which-companies-announce-bankruptcy-before-2027"
-    },
-    {
-      "id": "86832",
-      "title": "Which companies will be acquired before 2027?",
-      "probability": 0.7245,
-      "tags": [
-        "tech",
-        "prediction-markets",
-        "business",
-        "finance",
-        "big-tech",
-        "ai",
-        "acquisitions",
-        "buy"
-      ],
-      "polymarket_url": "https://polymarket.com/event/which-companies-will-be-acquired-before-2027"
     },
     {
       "id": "89502",
@@ -793,7 +753,7 @@
     {
       "id": "89519",
       "title": "What price will Ethereum hit in 2026?",
-      "probability": 0.944,
+      "probability": 0.9605,
       "tags": [
         "ethereum",
         "crypto-prices",
@@ -806,7 +766,7 @@
     {
       "id": "89525",
       "title": "What price will Solana hit in 2026?",
-      "probability": 0.952,
+      "probability": 0.954,
       "tags": [
         "yearly",
         "solana",
@@ -819,7 +779,7 @@
     {
       "id": "89530",
       "title": "What price will XRP hit in 2026?",
-      "probability": 0.89,
+      "probability": 0.895,
       "tags": [
         "xrp",
         "crypto",
@@ -832,7 +792,7 @@
     {
       "id": "89554",
       "title": "What price will Dogecoin hit in 2026?",
-      "probability": 0.9355,
+      "probability": 0.9005,
       "tags": [
         "dogecoin",
         "crypto",
@@ -845,7 +805,7 @@
     {
       "id": "89559",
       "title": "What price will Hyperliquid hit in 2026?",
-      "probability": 0.835,
+      "probability": 0.765,
       "tags": [
         "hyperliquid",
         "crypto",
@@ -884,7 +844,7 @@
     {
       "id": "89583",
       "title": "What price will Zcash hit in 2026?",
-      "probability": 0.915,
+      "probability": 0.905,
       "tags": [
         "hit-price",
         "zcash",
@@ -923,7 +883,7 @@
     {
       "id": "89603",
       "title": "What price will Uniswap hit in 2026?",
-      "probability": 0.82,
+      "probability": 0.835,
       "tags": [
         "crypto",
         "uniswap",
@@ -937,7 +897,7 @@
     {
       "id": "90177",
       "title": "Will the US confirm that aliens exist by...?",
-      "probability": 0.815,
+      "probability": 0.805,
       "tags": [
         "pop-culture",
         "politics",
@@ -949,7 +909,7 @@
     {
       "id": "90395",
       "title": "Ventuals FDV above ___ one day after launch?",
-      "probability": 0.51,
+      "probability": 0.5165,
       "tags": [
         "ventuals",
         "pre-market",
