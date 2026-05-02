@@ -1,6 +1,6 @@
 {
-  "site_title": "Science Prediction Tracker",
-  "site_description": "Change is news - Tracking Polymarket prediction events",
+  "site_title": "POLYMARKET AGENT",
+  "site_description": "CHANGE IS NEWS - Tracking Polymarket prediction events",
   "nav_technology": "Technology",
   "nav_economy": "Economy",
   "nav_geopolitics": "Geopolitics",
@@ -8,7 +8,7 @@
   "nav_contact": "Contact",
   "theme_toggle": "Toggle theme",
   "lang_toggle": "Switch language",
-  "hero_title": "Change is News",
+  "hero_title": "CHANGE IS NEWS",
   "hero_subtitle": "Real-time tracking of Polymarket prediction events with visual analytics",
   "section_new_entries": "New High-Probability Events",
   "section_exited": "Exited High-Probability",

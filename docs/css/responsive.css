@@ -136,26 +136,13 @@
     .panel-header h2 {
         font-size: 1rem;
     }
-    
-    .filter-tabs {
-        flex-wrap: wrap;
-    }
-    
-    .filter-btn {
-        flex: 1;
-        min-width: 80px;
-        text-align: center;
-        padding: 0.375rem 0.5rem;
-        font-size: 0.75rem;
-    }
 }
 
 /* Print Styles */
 @media print {
     .glass-header,
     .scroll-indicator,
-    .header-controls,
-    .filter-tabs {
+    .header-controls {
         display: none;
     }
     

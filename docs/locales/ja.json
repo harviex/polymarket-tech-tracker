@@ -1,6 +1,6 @@
 {
-  "site_title": "科学予測イベントトラッカー",
-  "site_description": "変化がニュース - Polymarket予測イベント追跡",
+  "site_title": "POLYMARKET AGENT",
+  "site_description": "CHANGE IS NEWS - Polymarket予測イベント追跡",
   "nav_technology": "科学技術",
   "nav_economy": "経済",
   "nav_geopolitics": "地政学",
@@ -8,7 +8,7 @@
   "nav_contact": "連絡先",
   "theme_toggle": "テーマ切替",
   "lang_toggle": "言語切替",
-  "hero_title": "変化がニュース",
+  "hero_title": "CHANGE IS NEWS",
   "hero_subtitle": "Polymarket予測イベントのリアルタイム追跡と可視化分析",
   "section_new_entries": "新規高確率イベント",
   "section_exited": "退出高確率イベント",

@@ -6,14 +6,12 @@ const App = (() => {
         long_term_summaries: [],
         long_term_count: 0
     };
-    let currentFilter = 'all';
     let expandedTagIdx = null;
     
     async function init() {
         await loadEvents();
         renderEvents();
         setupSearch();
-        setupFilters();
         setupScrollAnimations();
     }
     
@@ -39,14 +37,14 @@ const App = (() => {
         const container = document.getElementById('new-entries-list');
         if (!container) return;
         
-        const filtered = filterEvents(eventsData.new_entries);
+        const events = eventsData.new_entries;
         
-        if (filtered.length === 0) {
+        if (events.length === 0) {
             container.innerHTML = '<p class="no-results">No events found</p>';
             return;
         }
         
-        container.innerHTML = filtered.map(event => `
+        container.innerHTML = events.map(event => `
             <div class="event-card" data-tags="${event.tags?.join(',') || ''}">
                 <div class="event-header">
                     <div class="event-title">${event.title}</div>
@@ -75,14 +73,14 @@ const App = (() => {
         const container = document.getElementById('exited-entries-list');
         if (!container) return;
         
-        const filtered = filterEvents(eventsData.exited_entries);
+        const events = eventsData.exited_entries;
         
-        if (filtered.length === 0) {
+        if (events.length === 0) {
             container.innerHTML = '<p class="no-results">No events found</p>';
             return;
         }
         
-        container.innerHTML = filtered.map(event => `
+        container.innerHTML = events.map(event => `
             <div class="event-card">
                 <div class="event-header">
                     <div class="event-title">${event.title}</div>
@@ -183,11 +181,6 @@ const App = (() => {
         `;
     }
     
-    function filterEvents(events) {
-        if (currentFilter === 'all') return events;
-        return events.filter(e => e.tags?.includes(currentFilter));
-    }
-    
     function updateCounts() {
         const newCount = document.getElementById('new-count');
         const exitedCount = document.getElementById('exited-count');
@@ -207,17 +200,6 @@ const App = (() => {
             document.querySelectorAll('.event-card').forEach(card => {
                 const title = card.querySelector('.event-title')?.textContent.toLowerCase() || '';
                 card.style.display = title.includes(query) ? 'block' : 'none';
-            });
-        });
-    }
-    
-    function setupFilters() {
-        document.querySelectorAll('.filter-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                currentFilter = btn.dataset.filter;
-                renderEvents();
             });
         });
     }

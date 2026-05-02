@@ -1,6 +1,6 @@
 {
-  "site_title": "科学预测事件追踪器",
-  "site_description": "变化即新闻 - 追踪Polymarket预测事件",
+  "site_title": "POLYMARKET AGENT",
+  "site_description": "CHANGE IS NEWS - 追踪Polymarket预测事件",
   "nav_technology": "科技",
   "nav_economy": "经济",
   "nav_geopolitics": "地缘",
@@ -8,7 +8,7 @@
   "nav_contact": "联系",
   "theme_toggle": "切换主题",
   "lang_toggle": "切换语言",
-  "hero_title": "变化即新闻",
+  "hero_title": "CHANGE IS NEWS",
   "hero_subtitle": "实时追踪Polymarket预测事件，可视化分析",
   "section_new_entries": "新晋高概率事件",
   "section_exited": "退出高概率事件",
