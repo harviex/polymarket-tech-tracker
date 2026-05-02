@@ -118,7 +118,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.46
+      "current_prob": 0.465
     },
     "74055": {
       "id": "74055",
@@ -167,7 +167,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.29
+      "current_prob": 0.28
     },
     "86448": {
       "id": "86448",
@@ -619,7 +619,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.165
+      "current_prob": 0.164
     },
     "48300": {
       "id": "48300",
@@ -845,7 +845,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.17
+      "current_prob": 0.165
     },
     "57705": {
       "id": "57705",
@@ -938,7 +938,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.685
+      "current_prob": 0.69
     },
     "66118": {
       "id": "66118",
@@ -1217,7 +1217,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.145
+      "current_prob": 0.14
     },
     "73236": {
       "id": "73236",
@@ -1262,7 +1262,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.319
+      "current_prob": 0.3185
     },
     "73902": {
       "id": "73902",
@@ -1616,7 +1616,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.655
+      "current_prob": 0.6475
     },
     "79049": {
       "id": "79049",
@@ -2202,7 +2202,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.365
+      "current_prob": 0.385
     },
     "80144": {
       "id": "80144",
@@ -2424,7 +2424,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.245
+      "current_prob": 0.295
     },
     "85784": {
       "id": "85784",
@@ -2513,7 +2513,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0435
+      "current_prob": 0.042
     },
     "89519": {
       "id": "89519",
@@ -3096,7 +3096,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.116
+      "current_prob": 0.1185
     }
   }
 }
