@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T19:00:22.827692",
+  "timestamp": "2026-05-02T19:08:37.979562",
   "events": [
     {
       "id": "32565",
@@ -257,7 +257,7 @@
     {
       "id": "73131",
       "title": "US national Ethereum reserve before 2027?",
-      "probability": 0.845,
+      "probability": 0.84,
       "tags": [
         "ethereum",
         "politics",
@@ -304,7 +304,7 @@
     {
       "id": "74055",
       "title": "Consensys IPO closing market cap above ___ ?",
-      "probability": 0.715,
+      "probability": 0.695,
       "tags": [
         "crypto",
         "ipos",
@@ -387,7 +387,7 @@
     {
       "id": "79048",
       "title": "IPOs before 2027?",
-      "probability": 0.345,
+      "probability": 0.3365,
       "tags": [
         "ipos",
         "business",
@@ -464,7 +464,7 @@
     {
       "id": "79067",
       "title": "Will MicroStrategy announce bankruptcy before 2027?",
-      "probability": 0.915,
+      "probability": 0.92,
       "tags": [
         "tech",
         "business",
@@ -511,7 +511,7 @@
     {
       "id": "79077",
       "title": "Bitcoin more valuable than any company before 2027?",
-      "probability": 0.845,
+      "probability": 0.86,
       "tags": [
         "bitcoin",
         "crypto",
@@ -522,7 +522,7 @@
     {
       "id": "79078",
       "title": "Will Sam Altman get OpenAI equity by June 30?",
-      "probability": 0.54,
+      "probability": 0.57,
       "tags": [
         "tech",
         "big-tech",
@@ -638,7 +638,7 @@
     {
       "id": "84914",
       "title": "Hyperbeat FDV above ___ one day after launch?",
-      "probability": 0.695,
+      "probability": 0.7,
       "tags": [
         "crypto",
         "pre-market",
@@ -677,21 +677,6 @@
         "finance",
         "tech",
         "bitcoin"
-      ]
-    },
-    {
-      "id": "86832",
-      "title": "Which companies will be acquired before 2027?",
-      "probability": 0.7425,
-      "tags": [
-        "tech",
-        "prediction-markets",
-        "business",
-        "finance",
-        "big-tech",
-        "ai",
-        "acquisitions",
-        "buy"
       ]
     },
     {
@@ -757,7 +742,7 @@
     {
       "id": "89559",
       "title": "What price will Hyperliquid hit in 2026?",
-      "probability": 0.78,
+      "probability": 0.835,
       "tags": [
         "hyperliquid",
         "crypto",
@@ -793,7 +778,7 @@
     {
       "id": "89583",
       "title": "What price will Zcash hit in 2026?",
-      "probability": 0.88,
+      "probability": 0.885,
       "tags": [
         "hit-price",
         "zcash",
@@ -805,7 +790,7 @@
     {
       "id": "89588",
       "title": "What price will Pump.fun hit in 2026?",
-      "probability": 0.88,
+      "probability": 0.875,
       "tags": [
         "yearly",
         "pumpptfun",
@@ -829,7 +814,7 @@
     {
       "id": "89603",
       "title": "What price will Uniswap hit in 2026?",
-      "probability": 0.76,
+      "probability": 0.845,
       "tags": [
         "crypto",
         "uniswap",
@@ -853,7 +838,7 @@
     {
       "id": "90395",
       "title": "Ventuals FDV above ___ one day after launch?",
-      "probability": 0.632,
+      "probability": 0.6435,
       "tags": [
         "ventuals",
         "pre-market",
@@ -864,7 +849,7 @@
     {
       "id": "90401",
       "title": "Ostium FDV above ___ one day after launch?",
-      "probability": 0.857,
+      "probability": 0.8545,
       "tags": [
         "crypto",
         "pre-market",

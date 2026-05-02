@@ -431,3 +431,23 @@ body {
 .footer-link:hover {
     text-decoration: underline;
 }
+
+
+/* Event History Timeline */
+.event-history {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    font-size: 0.75rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+}
+
+.event-history small {
+    display: block;
+}
+
+.event-history br {
+    line-height: 0.5;
+}

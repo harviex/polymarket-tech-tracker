@@ -208,6 +208,15 @@ const App = (() => {
         `;
     }
     
+    function formatHistory(history) {
+        if (!history || history.length === 0) return '';
+        return history.map(h => {
+            const arrow = h.direction === 'up' ? '↑' : '↓';
+            const threshold_text = h.threshold ? ` (${h.direction === 'up' ? '越过' : '低过'}${(h.threshold * 100).toFixed(0)}%线)` : '';
+            return `${h.time}: ${(h.prob * 100).toFixed(1)}% ${arrow}${threshold_text}`;
+        }).join('<br>');
+    }
+    
     function toggleHourWatchSummary(idx) {
         if (expandedHourWatchIdx === idx) {
             expandedHourWatchIdx = null;
@@ -232,6 +241,11 @@ const App = (() => {
                     <div class="event-mini-card">
                         <div class="event-mini-title">${event.title}</div>
                         <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                        ${event.history ? `
+                            <div class="event-history">
+                                <small>${formatHistory(event.history)}</small>
+                            </div>
+                        ` : ''}
                     </div>
                 `).join('')}
             </div>
@@ -312,7 +326,12 @@ const App = (() => {
                 ${summary.events.map(event => `
                     <div class="event-mini-card">
                         <div class="event-mini-title">${event.title}</div>
-                        <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                        <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                        ${event.history ? `
+                            <div class="event-history">
+                                <small>${formatHistory(event.history)}</small>
+                            </div>
+                        ` : ''}
                     </div>
                 `).join('')}
             </div>
