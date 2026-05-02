@@ -44,14 +44,15 @@ def fetch_events(limit=1000):
         return []
 
 def get_probability(event):
-    """Extract probability from event's markets"""
+    """Extract probability from event's markets - returns YES probability"""
     try:
         if not event.get('markets'):
             return None
         
         market = event['markets'][0]
         outcome_prices = json.loads(market.get('outcomePrices', '["0", "0"]'))
-        return float(outcome_prices[1])
+        # Return YES probability (index 0), not NO (index 1)
+        return float(outcome_prices[0])
     except:
         return None
 
