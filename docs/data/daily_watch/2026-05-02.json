@@ -23,9 +23,21 @@
           "prob": 0.775,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.25,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.25,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.775
+      "current_prob": 0.25
     },
     "79078": {
       "id": "79078",
@@ -50,9 +62,27 @@
           "prob": 0.51,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "21:58",
+          "prob": 0.6,
+          "threshold": 0.6,
+          "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.4,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.4,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.51
+      "current_prob": 0.4
     },
     "74055": {
       "id": "74055",
@@ -69,9 +99,21 @@
           "prob": 0.7,
           "threshold": 0.7,
           "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.3,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.3,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.7
+      "current_prob": 0.3
     },
     "86448": {
       "id": "86448",
@@ -96,9 +138,21 @@
           "prob": 0.836,
           "threshold": 0.8,
           "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.164,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.164,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.836
+      "current_prob": 0.164
     },
     "89559": {
       "id": "89559",
@@ -129,9 +183,21 @@
           "prob": 0.835,
           "threshold": 0.8,
           "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.835
+      "current_prob": 0.165
     },
     "72966": {
       "id": "72966",
@@ -153,9 +219,21 @@
           "prob": 0.622,
           "threshold": 0.6,
           "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.378,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.378,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.622
+      "current_prob": 0.378
     },
     "84914": {
       "id": "84914",
@@ -172,9 +250,1653 @@
           "prob": 0.7,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.3,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.3,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.3
+    },
+    "32565": {
+      "id": "32565",
+      "title": "SCOTUS accepts sports event contract case by...?     ",
+      "tags": [
+        "politics",
+        "prediction-markets",
+        "legal",
+        "tech",
+        "courts",
+        "finance",
+        "supreme-court"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819239",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.135,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.135,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.135
+    },
+    "45214": {
+      "id": "45214",
+      "title": "Who will acquire TikTok?",
+      "tags": [
+        "tiktok",
+        "tech",
+        "china",
+        "big-tech",
+        "finance",
+        "acquisitions"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819253",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0115,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0115,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0115
+    },
+    "48292": {
+      "id": "48292",
+      "title": "OpenAI IPO Closing Market Cap",
+      "tags": [
+        "big-tech",
+        "openai",
+        "ipo",
+        "tech",
+        "ipos",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819260",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.012,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.012,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.012
+    },
+    "48297": {
+      "id": "48297",
+      "title": "Databricks IPO Closing Market Cap",
+      "tags": [
+        "big-tech",
+        "tech",
+        "ipo",
+        "databricks",
+        "ipos",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819267",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.03,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.03,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.03
+    },
+    "48299": {
+      "id": "48299",
+      "title": "Discord IPO Closing Market Cap",
+      "tags": [
+        "ipo",
+        "tech",
+        "ipos",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819277",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.171,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.171,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.171
+    },
+    "48300": {
+      "id": "48300",
+      "title": "Anthropic IPO Closing Market Cap",
+      "tags": [
+        "ai",
+        "ipo",
+        "tech",
+        "big-tech",
+        "anthropic",
+        "ipos",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819289",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.002,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.002,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.002
+    },
+    "49286": {
+      "id": "49286",
+      "title": "Will Tesla release Optimus by...?",
+      "tags": [
+        "tech",
+        "robot",
+        "tesla",
+        "optimus",
+        "big-tech",
+        "humanoid"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819296",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.013,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.013,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.013
+    },
+    "49889": {
+      "id": "49889",
+      "title": "Will Apple release a MacBook with cellular connectivity by June 30?",
+      "tags": [
+        "tech",
+        "pop-culture",
+        "apple",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819303",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.023,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.023,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.023
+    },
+    "52130": {
+      "id": "52130",
+      "title": "Opensea FDV above ___ one day after launch?",
+      "tags": [
+        "crypto",
+        "pre-market",
+        "fdv"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819310",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.26,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.26,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.26
+    },
+    "57704": {
+      "id": "57704",
+      "title": "Which company has top AI model end of June? (Style Control On)",
+      "tags": [
+        "tech",
+        "openai",
+        "ai",
+        "grok",
+        "gpt-5",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819316",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.165
+    },
+    "57705": {
+      "id": "57705",
+      "title": "Which company has best AI model end of June?",
+      "tags": [
+        "tech",
+        "big-tech",
+        "gpt-5",
+        "grok",
+        "openai",
+        "ai"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819322",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.215,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.215,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.215
+    },
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "tags": [
+        "ai",
+        "tech",
+        "big-tech",
+        "economy",
+        "deepseek",
+        "business",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819329",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.695,
+          "threshold": 0.6,
+          "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.695,
+          "threshold": 0.6,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.695
+    },
+    "66118": {
+      "id": "66118",
+      "title": "Will Ari Weinstein leave OpenAI by December 31, 2026?",
+      "tags": [
+        "tech",
+        "big-tech",
+        "ai",
+        "openai",
+        "apple"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819339",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0645,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0645,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0645
+    },
+    "67081": {
+      "id": "67081",
+      "title": "OpenAI announces it has achieved AGI before 2027?",
+      "tags": [
+        "tech",
+        "llm",
+        "artificial-intelligence",
+        "ai",
+        "sam",
+        "chatgpt",
+        "altman",
+        "openai",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819348",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.12,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.12,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.12
+    },
+    "68544": {
+      "id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "tags": [
+        "big-tech",
+        "openai",
+        "tech",
+        "sam-altman",
+        "ipo",
+        "business",
+        "ipos",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819355",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.265,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.265,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.265
+    },
+    "73040": {
+      "id": "73040",
+      "title": "US national Bitcoin reserve before 2027?",
+      "tags": [
+        "crypto",
+        "finance",
+        "bitcoin",
+        "politics"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819365",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.23,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.23,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.23
+    },
+    "73078": {
+      "id": "73078",
+      "title": "Will China unban Bitcoin by 2027?",
+      "tags": [
+        "politics",
+        "crypto",
+        "economy",
+        "china",
+        "geopolitics",
+        "bitcoin",
+        "world"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819374",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0425,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0425,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0425
+    },
+    "73131": {
+      "id": "73131",
+      "title": "US national Ethereum reserve before 2027?",
+      "tags": [
+        "ethereum",
+        "politics",
+        "economy",
+        "finance",
+        "crypto",
+        "trump"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819380",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.115,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.115,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.115
+    },
+    "73236": {
+      "id": "73236",
+      "title": "Metamask FDV above ___ one day after launch?",
+      "tags": [
+        "crypto",
+        "pre-market",
+        "metamask",
+        "token-sales",
+        "fdv"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819389",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.336,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.336,
+          "threshold": 0.6,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.336
+    },
+    "73902": {
+      "id": "73902",
+      "title": "Will Variational launch a token by ___ ?",
+      "tags": [
+        "crypto",
+        "variational",
+        "pre-market",
+        "token-launch"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819395",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.71
+    },
+    "74872": {
+      "id": "74872",
+      "title": "GTA 6 launch postponed again?",
+      "tags": [
+        "pop-culture",
+        "tech",
+        "video-games",
+        "gta-vi"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819403",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.22,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.22,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.22
+    },
+    "75684": {
+      "id": "75684",
+      "title": "OpenAI receives federal backstop for infrastructure before July?",
+      "tags": [
+        "tech",
+        "openai",
+        "big-tech",
+        "business",
+        "politics",
+        "ai"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819412",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0505,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0505,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0505
+    },
+    "78468": {
+      "id": "78468",
+      "title": "Which cities will Waymo launch in by June 30?",
+      "tags": [
+        "tech",
+        "ai",
+        "tesla",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819418",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.065,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.065,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.065
+    },
+    "78470": {
+      "id": "78470",
+      "title": "How many cities will Waymo operate in by June 30?",
+      "tags": [
+        "ai",
+        "tech",
+        "google",
+        "tesla",
+        "self-driving",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819424",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0865,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0865,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0865
+    },
+    "78999": {
+      "id": "78999",
+      "title": "StandX FDV above ___ one day after launch?",
+      "tags": [
+        "pre-market",
+        "crypto",
+        "standx",
+        "token-sales",
+        "fdv"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819430",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.018,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.018,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.018
+    },
+    "79041": {
+      "id": "79041",
+      "title": "Largest Company end of December 2026?",
+      "tags": [
+        "economy",
+        "business",
+        "finance",
+        "ai",
+        "tech",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819436",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0075,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0075,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0075
+    },
+    "79048": {
+      "id": "79048",
+      "title": "IPOs before 2027?",
+      "tags": [
+        "ipos",
+        "business",
+        "big-tech",
+        "tech",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819442",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.645,
+          "threshold": 0.6,
+          "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.645,
+          "threshold": 0.6,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.645
+    },
+    "79049": {
+      "id": "79049",
+      "title": "Musk out as Tesla CEO before 2027?",
+      "tags": [
+        "big-tech",
+        "elon-musk",
+        "business",
+        "tech",
+        "finance",
+        "tesla"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819448",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.11,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.11,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.11
+    },
+    "79050": {
+      "id": "79050",
+      "title": "Will a Chinese AI model become #1 by June 30? ",
+      "tags": [
+        "geopolitics",
+        "business",
+        "ai",
+        "big-tech",
+        "tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819459",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0455,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0455,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0455
+    },
+    "79061": {
+      "id": "79061",
+      "title": "Will Tesla launch robotaxis in California by June 30?",
+      "tags": [
+        "tech",
+        "elon-musk",
+        "business",
+        "ai",
+        "tesla",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819467",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.15,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.15,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.15
+    },
+    "79066": {
+      "id": "79066",
+      "title": "OpenAI acquired before 2027?",
+      "tags": [
+        "ai",
+        "business",
+        "openai",
+        "tech",
+        "finance",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819473",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.1105,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.1105,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.1105
+    },
+    "79067": {
+      "id": "79067",
+      "title": "Will MicroStrategy announce bankruptcy before 2027?",
+      "tags": [
+        "tech",
+        "business",
+        "finance",
+        "crypto",
+        "bitcoin"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819479",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.085,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.085,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.085
+    },
+    "79070": {
+      "id": "79070",
+      "title": "AI wins IMO gold medal in 2026?",
+      "tags": [
+        "tech",
+        "ai",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819488",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
         }
       ],
       "current_prob": 0.7
+    },
+    "79075": {
+      "id": "79075",
+      "title": "U.S. enacts AI safety bill before 2027?",
+      "tags": [
+        "politics",
+        "ai",
+        "openai",
+        "science",
+        "tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819494",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.24,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.24,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.24
+    },
+    "79076": {
+      "id": "79076",
+      "title": "Will OpenAI launch a token before 2027?",
+      "tags": [
+        "tech",
+        "openai",
+        "ai",
+        "big-tech",
+        "crypto",
+        "token-launch"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819500",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0905,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0905,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0905
+    },
+    "79077": {
+      "id": "79077",
+      "title": "Bitcoin more valuable than any company before 2027?",
+      "tags": [
+        "bitcoin",
+        "crypto",
+        "big-tech",
+        "tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819506",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.1,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.1,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.1
+    },
+    "79079": {
+      "id": "79079",
+      "title": "Anthropic acquired before 2027?",
+      "tags": [
+        "ai",
+        "business",
+        "big-tech",
+        "finance",
+        "tech",
+        "acquisitions",
+        "claude-5"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819516",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0505,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0505,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0505
+    },
+    "79080": {
+      "id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "tags": [
+        "ai",
+        "big-tech",
+        "business",
+        "tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819523",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.145
+    },
+    "79905": {
+      "id": "79905",
+      "title": "Where will 2026 rank among the hottest years on record?",
+      "tags": [
+        "science",
+        "pop-culture",
+        "global-temp",
+        "weather",
+        "climate-science",
+        "weather-science"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819530",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.335,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.335,
+          "threshold": 0.6,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.335
+    },
+    "79906": {
+      "id": "79906",
+      "title": "Will another AI-generated song reach number 1 on any Billboard chart by June 30?",
+      "tags": [
+        "pop-culture",
+        "ai",
+        "music"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819536",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.39,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.39,
+          "threshold": 0.6,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.39
+    },
+    "80144": {
+      "id": "80144",
+      "title": "Will a dLLM be the top AI model before 2027?",
+      "tags": [
+        "tech",
+        "ai",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819545",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.06,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.06,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.06
+    },
+    "80149": {
+      "id": "80149",
+      "title": "Will xAI release a dLLM by June 30?",
+      "tags": [
+        "tech",
+        "ai",
+        "elon-musk",
+        "grok",
+        "big-tech",
+        "xai"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819553",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.07
+    },
+    "81725": {
+      "id": "81725",
+      "title": "Will the Steam Machine cost $700 or more at release?",
+      "tags": [
+        "games",
+        "tech",
+        "pop-culture"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819560",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.735,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.735,
+          "threshold": 0.7,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.735
+    },
+    "83771": {
+      "id": "83771",
+      "title": "Which CEOs will be out before 2027?",
+      "tags": [
+        "big-tech",
+        "business",
+        "ai",
+        "economy",
+        "tech",
+        "finance"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819566",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.075,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.075,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.075
+    },
+    "85457": {
+      "id": "85457",
+      "title": "Kraken IPO closing market cap above ___ ?",
+      "tags": [
+        "pre-market",
+        "ipos",
+        "kraken",
+        "crypto"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819574",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.275,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.275,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.275
+    },
+    "85784": {
+      "id": "85784",
+      "title": "Will Ubisoft announce bankruptcy by June 30?",
+      "tags": [
+        "tech",
+        "finance",
+        "games",
+        "business"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819580",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.017,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.017,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.017
+    },
+    "89502": {
+      "id": "89502",
+      "title": "What price will Bitcoin hit in 2026?",
+      "tags": [
+        "bitcoin",
+        "yearly",
+        "hit-price",
+        "crypto-prices",
+        "crypto"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819592",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.042,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.042,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.042
+    },
+    "89519": {
+      "id": "89519",
+      "title": "What price will Ethereum hit in 2026?",
+      "tags": [
+        "ethereum",
+        "crypto-prices",
+        "hit-price",
+        "crypto",
+        "yearly"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819598",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0375,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0375,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0375
+    },
+    "89525": {
+      "id": "89525",
+      "title": "What price will Solana hit in 2026?",
+      "tags": [
+        "yearly",
+        "solana",
+        "hit-price",
+        "crypto",
+        "crypto-prices"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819604",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0395,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0395,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0395
+    },
+    "89530": {
+      "id": "89530",
+      "title": "What price will XRP hit in 2026?",
+      "tags": [
+        "xrp",
+        "crypto",
+        "yearly",
+        "crypto-prices",
+        "hit-price"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819609",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.12,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.12,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.12
+    },
+    "89554": {
+      "id": "89554",
+      "title": "What price will Dogecoin hit in 2026?",
+      "tags": [
+        "dogecoin",
+        "crypto",
+        "yearly",
+        "hit-price",
+        "crypto-prices"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819615",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.0645,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.0645,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.0645
+    },
+    "89572": {
+      "id": "89572",
+      "title": "What price will BNB hit in 2026?",
+      "tags": [
+        "bnb",
+        "yearly",
+        "crypto",
+        "hit-price",
+        "crypto-prices"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819626",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.07
+    },
+    "89577": {
+      "id": "89577",
+      "title": "What price will Ethena hit in 2026?",
+      "tags": [
+        "crypto",
+        "yearly",
+        "crypto-prices",
+        "ethena",
+        "hit-price"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819635",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.14,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.14,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.14
+    },
+    "89583": {
+      "id": "89583",
+      "title": "What price will Zcash hit in 2026?",
+      "tags": [
+        "hit-price",
+        "zcash",
+        "crypto-prices",
+        "yearly",
+        "crypto"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819641",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.115,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.115,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.115
+    },
+    "89588": {
+      "id": "89588",
+      "title": "What price will Pump.fun hit in 2026?",
+      "tags": [
+        "yearly",
+        "pumpptfun",
+        "crypto",
+        "crypto-prices",
+        "hit-price"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819647",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.125,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.125,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.125
+    },
+    "89597": {
+      "id": "89597",
+      "title": "What price will Aster hit in 2026?",
+      "tags": [
+        "crypto-prices",
+        "aster",
+        "crypto",
+        "yearly",
+        "hit-price"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819653",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.145
+    },
+    "89603": {
+      "id": "89603",
+      "title": "What price will Uniswap hit in 2026?",
+      "tags": [
+        "crypto",
+        "uniswap",
+        "yearly",
+        "hit-price",
+        "crypto-prices",
+        "monthly"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819659",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.155,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.155,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.155
+    },
+    "90177": {
+      "id": "90177",
+      "title": "Will the US confirm that aliens exist by...?",
+      "tags": [
+        "pop-culture",
+        "politics",
+        "science",
+        "aliens"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819665",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.175,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.175,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.175
+    },
+    "90395": {
+      "id": "90395",
+      "title": "Ventuals FDV above ___ one day after launch?",
+      "tags": [
+        "ventuals",
+        "pre-market",
+        "crypto",
+        "fdv"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819671",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.369,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.369,
+          "threshold": 0.6,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.369
+    },
+    "90401": {
+      "id": "90401",
+      "title": "Ostium FDV above ___ one day after launch?",
+      "tags": [
+        "crypto",
+        "pre-market",
+        "ostium",
+        "fdv"
+      ],
+      "first_seen": "2026-05-02T22:01:00.819680",
+      "history": [
+        {
+          "time": "22:01",
+          "prob": 0.116,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:01",
+          "prob": 0.116,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.116
     }
   }
 }
