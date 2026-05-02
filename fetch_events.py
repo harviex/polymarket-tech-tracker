@@ -199,6 +199,10 @@ def update_watch_events(current_events, last_hour_events, daily_data):
         event_id = event['id']
         current_prob = event['probability']
         
+        # Always update current_prob in daily_data if event exists
+        if event_id in daily_data['events']:
+            daily_data['events'][event_id]['current_prob'] = current_prob
+        
         # Get last hour data
         last_data = last_hour_events.get(event_id, {})
         last_prob = last_data.get('probability', current_prob)
@@ -242,7 +246,8 @@ def update_watch_events(current_events, last_hour_events, daily_data):
                     'title': event['title'],
                     'tags': event['tags'],
                     'first_seen': datetime.now().isoformat(),
-                    'history': []
+                    'history': [],
+                    'current_prob': current_prob
                 }
             
             daily_data['events'][event_id]['history'].append(history_entry)
