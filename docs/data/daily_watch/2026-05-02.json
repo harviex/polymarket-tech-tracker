@@ -55,7 +55,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.23
+      "current_prob": 0.255
     },
     "79078": {
       "id": "79078",
@@ -118,7 +118,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.56
+      "current_prob": 0.48
     },
     "74055": {
       "id": "74055",
@@ -167,7 +167,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.285
+      "current_prob": 0.295
     },
     "86448": {
       "id": "86448",
@@ -224,7 +224,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.165
+      "current_prob": 0.52
     },
     "89559": {
       "id": "89559",
@@ -390,7 +390,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.305
+      "current_prob": 0.31
     },
     "32565": {
       "id": "32565",
@@ -529,7 +529,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0055
+      "current_prob": 0.0065
     },
     "48297": {
       "id": "48297",
@@ -575,7 +575,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0345
+      "current_prob": 0.0395
     },
     "48299": {
       "id": "48299",
@@ -619,7 +619,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.1795
+      "current_prob": 0.19
     },
     "48300": {
       "id": "48300",
@@ -712,7 +712,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.012
+      "current_prob": 0.0115
     },
     "49889": {
       "id": "49889",
@@ -845,7 +845,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.175
+      "current_prob": 0.165
     },
     "57705": {
       "id": "57705",
@@ -983,7 +983,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.079
+      "current_prob": 0.0785
     },
     "67081": {
       "id": "67081",
@@ -1080,7 +1080,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.29
+      "current_prob": 0.24
     },
     "73040": {
       "id": "73040",
@@ -1217,7 +1217,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.12
+      "current_prob": 0.17
     },
     "73236": {
       "id": "73236",
@@ -1262,7 +1262,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.3115
+      "current_prob": 0.3265
     },
     "73902": {
       "id": "73902",
@@ -1344,7 +1344,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.22
+      "current_prob": 0.21
     },
     "75684": {
       "id": "75684",
@@ -1390,7 +1390,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0505
+      "current_prob": 0.05
     },
     "78468": {
       "id": "78468",
@@ -1480,7 +1480,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.086
+      "current_prob": 0.0865
     },
     "78999": {
       "id": "78999",
@@ -1616,7 +1616,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.6755
+      "current_prob": 0.6515
     },
     "79049": {
       "id": "79049",
@@ -1944,7 +1944,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.26
+      "current_prob": 0.275
     },
     "79076": {
       "id": "79076",
@@ -2034,7 +2034,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.14
+      "current_prob": 0.13
     },
     "79079": {
       "id": "79079",
@@ -2081,7 +2081,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0525
+      "current_prob": 0.051
     },
     "79080": {
       "id": "79080",
@@ -2214,7 +2214,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.285
+      "current_prob": 0.305
     },
     "80144": {
       "id": "80144",
@@ -2436,7 +2436,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.335
+      "current_prob": 0.4
     },
     "85784": {
       "id": "85784",
@@ -2615,7 +2615,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.04
+      "current_prob": 0.0485
     },
     "89530": {
       "id": "89530",
@@ -2795,7 +2795,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.14
+      "current_prob": 0.145
     },
     "89583": {
       "id": "89583",
@@ -3064,7 +3064,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.2755
+      "current_prob": 0.358
     },
     "90401": {
       "id": "90401",
@@ -3108,7 +3108,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.1195
+      "current_prob": 0.1285
     }
   }
 }
