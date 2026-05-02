@@ -108,9 +108,28 @@ function renderEventDetail(event) {
     const container = document.getElementById('event-content');
     if (!container) return;
     
-    const probability = event.current_prob || event.probability || 0;
-    const historyHtml = event.history ? renderHistory(event.history) : '';
+    // Get real-time probability from Polymarket API (main market)
+    let probability = 0;
     const apiDetails = event.apiDetails;
+    
+    if (apiDetails && apiDetails.markets && apiDetails.markets.length > 0) {
+        const mainMarket = apiDetails.markets[0];
+        if (mainMarket.outcomePrices) {
+            try {
+                const prices = JSON.parse(mainMarket.outcomePrices);
+                probability = parseFloat(prices[0]); // Yes probability
+            } catch (e) {
+                console.error('Error parsing outcomePrices:', e);
+            }
+        }
+    }
+    
+    // Fallback to local data if API doesn't have it
+    if (probability === 0) {
+        probability = event.current_prob || event.probability || 0;
+    }
+    
+    const historyHtml = event.history ? renderHistory(event.history) : '';
     
     // Extract API fields
     const description = apiDetails?.description || '';
@@ -125,7 +144,6 @@ function renderEventDetail(event) {
     const closed = apiDetails?.closed || false;
     const commentCount = apiDetails?.commentCount || 0;
     const markets = apiDetails?.markets || [];
-    const outcomePrices = apiDetails?.outcomePrices ? JSON.parse(apiDetails.outcomePrices) : null;
     
     container.innerHTML = `
         <div class="event-detail-card">
@@ -228,23 +246,7 @@ function renderEventDetail(event) {
                 </div>
             ` : ''}
             
-            ${outcomePrices && outcomePrices.length >= 2 ? `
-                <div class="outcome-prices">
-                    <h3>💰 Outcome Prices (Main Event)</h3>
-                    <div class="outcome-grid">
-                        <div class="outcome-item">
-                            <div class="outcome-label">Yes</div>
-                            <div class="outcome-value">${(parseFloat(outcomePrices[0]) * 100).toFixed(1)}%</div>
-                        </div>
-                        <div class="outcome-item">
-                            <div class="outcome-label">No</div>
-                            <div class="outcome-value">${(parseFloat(outcomePrices[1]) * 100).toFixed(1)}%</div>
-                        </div>
-                    </div>
-                </div>
-            ` : ''}
-            
-            ${markets && markets.length > 0 ? renderSubMarkets(markets) : ''}
+            ${markets && markets.length > 0 ? renderSubMarkets(markets, probability) : ''}
             
             ${historyHtml ? `
                 <div class="history-section">
