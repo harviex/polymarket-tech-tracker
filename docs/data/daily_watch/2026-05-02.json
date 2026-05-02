@@ -55,7 +55,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.26
+      "current_prob": 0.255
     },
     "79078": {
       "id": "79078",
@@ -118,7 +118,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.565
+      "current_prob": 0.53
     },
     "74055": {
       "id": "74055",
@@ -167,7 +167,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.29
+      "current_prob": 0.285
     },
     "86448": {
       "id": "86448",
@@ -224,7 +224,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.52
+      "current_prob": 0.164
     },
     "89559": {
       "id": "89559",
@@ -287,7 +287,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.215
+      "current_prob": 0.165
     },
     "72966": {
       "id": "72966",
@@ -390,7 +390,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.305
+      "current_prob": 0.035
     },
     "32565": {
       "id": "32565",
@@ -529,7 +529,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.007
+      "current_prob": 0.0055
     },
     "48297": {
       "id": "48297",
@@ -575,7 +575,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0385
+      "current_prob": 0.039
     },
     "48299": {
       "id": "48299",
@@ -619,7 +619,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.1645
+      "current_prob": 0.1885
     },
     "48300": {
       "id": "48300",
@@ -712,7 +712,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.012
+      "current_prob": 0.013
     },
     "49889": {
       "id": "49889",
@@ -891,7 +891,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.225
+      "current_prob": 0.23
     },
     "57711": {
       "id": "57711",
@@ -983,7 +983,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.072
+      "current_prob": 0.0775
     },
     "67081": {
       "id": "67081",
@@ -1080,7 +1080,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.335
+      "current_prob": 0.345
     },
     "73040": {
       "id": "73040",
@@ -1217,7 +1217,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.105
+      "current_prob": 0.085
     },
     "73236": {
       "id": "73236",
@@ -1262,7 +1262,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.3115
+      "current_prob": 0.329
     },
     "73902": {
       "id": "73902",
@@ -1300,7 +1300,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.715
+      "current_prob": 0.705
     },
     "74872": {
       "id": "74872",
@@ -1344,7 +1344,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.225
+      "current_prob": 0.215
     },
     "75684": {
       "id": "75684",
@@ -1390,7 +1390,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.05
+      "current_prob": 0.0505
     },
     "78468": {
       "id": "78468",
@@ -1616,7 +1616,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.648
+      "current_prob": 0.6465
     },
     "79049": {
       "id": "79049",
@@ -1707,7 +1707,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0465
+      "current_prob": 0.0455
     },
     "79061": {
       "id": "79061",
@@ -1891,9 +1891,15 @@
           "prob": 0.7,
           "threshold": 0.7,
           "direction": "up"
+        },
+        {
+          "time": "18:38",
+          "prob": 0.695,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.7
+      "current_prob": 0.695
     },
     "79075": {
       "id": "79075",
@@ -1938,7 +1944,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.28
+      "current_prob": 0.275
     },
     "79076": {
       "id": "79076",
@@ -2075,7 +2081,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0505
+      "current_prob": 0.0525
     },
     "79080": {
       "id": "79080",
@@ -2208,7 +2214,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.315
+      "current_prob": 0.305
     },
     "80144": {
       "id": "80144",
@@ -2430,7 +2436,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.375
+      "current_prob": 0.34
     },
     "85784": {
       "id": "85784",
@@ -2474,7 +2480,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.019
+      "current_prob": 0.018
     },
     "89502": {
       "id": "89502",
@@ -2654,7 +2660,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.12
+      "current_prob": 0.125
     },
     "89554": {
       "id": "89554",
@@ -2744,7 +2750,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.08
+      "current_prob": 0.07
     },
     "89577": {
       "id": "89577",
@@ -2789,7 +2795,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.145
+      "current_prob": 0.14
     },
     "89583": {
       "id": "89583",
@@ -2834,7 +2840,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.105
+      "current_prob": 0.115
     },
     "89588": {
       "id": "89588",
@@ -2970,7 +2976,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.065
+      "current_prob": 0.055
     },
     "90177": {
       "id": "90177",
@@ -3058,7 +3064,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.2815
+      "current_prob": 0.3275
     },
     "90401": {
       "id": "90401",
@@ -3102,7 +3108,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.126
+      "current_prob": 0.1305
     }
   }
 }
