@@ -1,4 +1,24 @@
 {
   "date": "2026-05-03",
-  "events": {}
+  "events": {
+    "79070": {
+      "id": "79070",
+      "title": "AI wins IMO gold medal in 2026?",
+      "tags": [
+        "tech",
+        "ai",
+        "big-tech"
+      ],
+      "first_seen": "2026-05-03T02:03:13.773858",
+      "history": [
+        {
+          "time": "02:03",
+          "prob": 0.695,
+          "threshold": 0.7,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.695
+    }
+  }
 }
