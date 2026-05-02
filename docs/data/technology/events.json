@@ -1,16 +1,60 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-02T16:22:18.761725",
-  "new_entries": [],
-  "exited_entries": [],
+  "updated_at": "2026-05-02T17:00:33.773857",
+  "new_entries": [
+    {
+      "id": "74055",
+      "title": "Consensys IPO closing market cap above ___ ?",
+      "probability": 0.7,
+      "tags": [
+        "crypto",
+        "ipos",
+        "pre-market"
+      ],
+      "hours_ago": 1,
+      "change": 0.010000000000000009,
+      "crossed_threshold": 0.7
+    },
+    {
+      "id": "85457",
+      "title": "Kraken IPO closing market cap above ___ ?",
+      "probability": 0.725,
+      "tags": [
+        "pre-market",
+        "ipos",
+        "kraken",
+        "crypto"
+      ],
+      "hours_ago": 1,
+      "change": 0.030000000000000027,
+      "crossed_threshold": 0.7
+    }
+  ],
+  "exited_entries": [
+    {
+      "id": "79078",
+      "title": "Will Sam Altman get OpenAI equity by June 30?",
+      "probability": 0.565,
+      "tags": [
+        "tech",
+        "big-tech",
+        "business",
+        "openai",
+        "ai"
+      ],
+      "hours_ago": 1,
+      "change": 0.050000000000000044,
+      "crossed_threshold": 0.6
+    }
+  ],
   "long_term_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 16,
-      "avg_probability": 0.88271875,
+      "event_count": 14,
+      "avg_probability": 0.9136785714285715,
       "max_probability": 0.987,
-      "min_probability": 0.615,
+      "min_probability": 0.795,
       "events": [
         {
           "id": "49286",
@@ -117,7 +161,7 @@
         {
           "id": "79061",
           "title": "Will Tesla launch robotaxis in California by June 30?",
-          "probability": 0.83,
+          "probability": 0.845,
           "tags": [
             "tech",
             "elon-musk",
@@ -153,18 +197,6 @@
           ]
         },
         {
-          "id": "79078",
-          "title": "Will Sam Altman get OpenAI equity by June 30?",
-          "probability": 0.615,
-          "tags": [
-            "tech",
-            "big-tech",
-            "business",
-            "openai",
-            "ai"
-          ]
-        },
-        {
           "id": "80144",
           "title": "Will a dLLM be the top AI model before 2027?",
           "probability": 0.94,
@@ -197,31 +229,16 @@
             "games",
             "business"
           ]
-        },
-        {
-          "id": "86832",
-          "title": "Which companies will be acquired before 2027?",
-          "probability": 0.732,
-          "tags": [
-            "tech",
-            "prediction-markets",
-            "business",
-            "finance",
-            "big-tech",
-            "ai",
-            "acquisitions",
-            "buy"
-          ]
         }
       ]
     },
     {
       "tag": "crypto",
       "tag_display": "CRYPTO",
-      "event_count": 8,
-      "avg_probability": 0.7664375,
-      "max_probability": 0.86,
-      "min_probability": 0.6695,
+      "event_count": 7,
+      "avg_probability": 0.7795,
+      "max_probability": 0.8655,
+      "min_probability": 0.676,
       "events": [
         {
           "id": "52130",
@@ -247,23 +264,13 @@
         {
           "id": "73236",
           "title": "Metamask FDV above ___ one day after launch?",
-          "probability": 0.6695,
+          "probability": 0.676,
           "tags": [
             "crypto",
             "pre-market",
             "metamask",
             "token-sales",
             "fdv"
-          ]
-        },
-        {
-          "id": "74055",
-          "title": "Consensys IPO closing market cap above ___ ?",
-          "probability": 0.69,
-          "tags": [
-            "crypto",
-            "ipos",
-            "pre-market"
           ]
         },
         {
@@ -304,7 +311,7 @@
         {
           "id": "90401",
           "title": "Ostium FDV above ___ one day after launch?",
-          "probability": 0.857,
+          "probability": 0.8655,
           "tags": [
             "crypto",
             "pre-market",
@@ -318,7 +325,7 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 5,
-      "avg_probability": 0.8987999999999999,
+      "avg_probability": 0.8996000000000001,
       "max_probability": 0.988,
       "min_probability": 0.735,
       "events": [
@@ -338,7 +345,7 @@
         {
           "id": "48297",
           "title": "Databricks IPO Closing Market Cap",
-          "probability": 0.971,
+          "probability": 0.97,
           "tags": [
             "big-tech",
             "tech",
@@ -379,7 +386,7 @@
         {
           "id": "83771",
           "title": "Which CEOs will be out before 2027?",
-          "probability": 0.92,
+          "probability": 0.925,
           "tags": [
             "big-tech",
             "business",
@@ -395,14 +402,14 @@
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 5,
-      "avg_probability": 0.9215,
-      "max_probability": 0.998,
+      "avg_probability": 0.9211,
+      "max_probability": 0.9975,
       "min_probability": 0.855,
       "events": [
         {
           "id": "48300",
           "title": "Anthropic IPO Closing Market Cap",
-          "probability": 0.998,
+          "probability": 0.9975,
           "tags": [
             "ai",
             "ipo",
@@ -416,7 +423,7 @@
         {
           "id": "78470",
           "title": "How many cities will Waymo operate in by June 30?",
-          "probability": 0.9155,
+          "probability": 0.914,
           "tags": [
             "ai",
             "tech",
@@ -562,14 +569,14 @@
       "tag": "ethereum",
       "tag_display": "ETHEREUM",
       "event_count": 2,
-      "avg_probability": 0.90125,
+      "avg_probability": 0.92125,
       "max_probability": 0.9625,
-      "min_probability": 0.84,
+      "min_probability": 0.88,
       "events": [
         {
           "id": "73131",
           "title": "US national Ethereum reserve before 2027?",
-          "probability": 0.84,
+          "probability": 0.88,
           "tags": [
             "ethereum",
             "politics",
@@ -597,14 +604,14 @@
       "tag": "economy",
       "tag_display": "ECONOMY",
       "event_count": 2,
-      "avg_probability": 0.86875,
+      "avg_probability": 0.88375,
       "max_probability": 0.9925,
-      "min_probability": 0.745,
+      "min_probability": 0.775,
       "events": [
         {
           "id": "73197",
           "title": "US Treasury transactions on blockchain by June 30?",
-          "probability": 0.745,
+          "probability": 0.775,
           "tags": [
             "economy",
             "trump",
@@ -628,50 +635,17 @@
       ]
     },
     {
-      "tag": "pre-market",
-      "tag_display": "PRE-MARKET",
-      "event_count": 2,
-      "avg_probability": 0.8385,
-      "max_probability": 0.982,
-      "min_probability": 0.695,
-      "events": [
-        {
-          "id": "78999",
-          "title": "StandX FDV above ___ one day after launch?",
-          "probability": 0.982,
-          "tags": [
-            "pre-market",
-            "crypto",
-            "standx",
-            "token-sales",
-            "fdv"
-          ]
-        },
-        {
-          "id": "85457",
-          "title": "Kraken IPO closing market cap above ___ ?",
-          "probability": 0.695,
-          "tags": [
-            "pre-market",
-            "ipos",
-            "kraken",
-            "crypto"
-          ]
-        }
-      ]
-    },
-    {
       "tag": "business",
       "tag_display": "BUSINESS",
       "event_count": 2,
-      "avg_probability": 0.7204999999999999,
+      "avg_probability": 0.7304999999999999,
       "max_probability": 0.836,
-      "min_probability": 0.605,
+      "min_probability": 0.625,
       "events": [
         {
           "id": "79056",
           "title": "SpaceX Starship fully reusable before 2027?",
-          "probability": 0.605,
+          "probability": 0.625,
           "tags": [
             "business",
             "big-tech",
@@ -700,14 +674,14 @@
       "tag": "bitcoin",
       "tag_display": "BITCOIN",
       "event_count": 2,
-      "avg_probability": 0.9097500000000001,
+      "avg_probability": 0.89975,
       "max_probability": 0.9545,
-      "min_probability": 0.865,
+      "min_probability": 0.845,
       "events": [
         {
           "id": "79077",
           "title": "Bitcoin more valuable than any company before 2027?",
-          "probability": 0.865,
+          "probability": 0.845,
           "tags": [
             "bitcoin",
             "crypto",
@@ -803,6 +777,28 @@
             "tech",
             "ipos",
             "finance"
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "pre-market",
+      "tag_display": "PRE-MARKET",
+      "event_count": 1,
+      "avg_probability": 0.982,
+      "max_probability": 0.982,
+      "min_probability": 0.982,
+      "events": [
+        {
+          "id": "78999",
+          "title": "StandX FDV above ___ one day after launch?",
+          "probability": 0.982,
+          "tags": [
+            "pre-market",
+            "crypto",
+            "standx",
+            "token-sales",
+            "fdv"
           ]
         }
       ]
@@ -922,14 +918,14 @@
       "tag": "bnb",
       "tag_display": "BNB",
       "event_count": 1,
-      "avg_probability": 0.9305,
-      "max_probability": 0.9305,
-      "min_probability": 0.9305,
+      "avg_probability": 0.93,
+      "max_probability": 0.93,
+      "min_probability": 0.93,
       "events": [
         {
           "id": "89572",
           "title": "What price will BNB hit in 2026?",
-          "probability": 0.9305,
+          "probability": 0.93,
           "tags": [
             "bnb",
             "yearly",
@@ -944,14 +940,14 @@
       "tag": "hit-price",
       "tag_display": "HIT-PRICE",
       "event_count": 1,
-      "avg_probability": 0.88,
-      "max_probability": 0.88,
-      "min_probability": 0.88,
+      "avg_probability": 0.885,
+      "max_probability": 0.885,
+      "min_probability": 0.885,
       "events": [
         {
           "id": "89583",
           "title": "What price will Zcash hit in 2026?",
-          "probability": 0.88,
+          "probability": 0.885,
           "tags": [
             "hit-price",
             "zcash",
@@ -988,14 +984,14 @@
       "tag": "ventuals",
       "tag_display": "VENTUALS",
       "event_count": 1,
-      "avg_probability": 0.632,
-      "max_probability": 0.632,
-      "min_probability": 0.632,
+      "avg_probability": 0.6435,
+      "max_probability": 0.6435,
+      "min_probability": 0.6435,
       "events": [
         {
           "id": "90395",
           "title": "Ventuals FDV above ___ one day after launch?",
-          "probability": 0.632,
+          "probability": 0.6435,
           "tags": [
             "ventuals",
             "pre-market",
@@ -1006,5 +1002,5 @@
       ]
     }
   ],
-  "long_term_count": 63
+  "long_term_count": 59
 }
