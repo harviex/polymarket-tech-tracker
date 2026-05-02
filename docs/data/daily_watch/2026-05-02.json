@@ -90,9 +90,15 @@
           "prob": 0.48,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "21:00",
+          "prob": 0.836,
+          "threshold": 0.8,
+          "direction": "up"
         }
       ],
-      "current_prob": 0.48
+      "current_prob": 0.836
     },
     "89559": {
       "id": "89559",
@@ -117,6 +123,12 @@
           "prob": 0.835,
           "threshold": 0.8,
           "direction": "up"
+        },
+        {
+          "time": "21:00",
+          "prob": 0.835,
+          "threshold": 0.8,
+          "direction": "up"
         }
       ],
       "current_prob": 0.835
@@ -132,6 +144,12 @@
       "history": [
         {
           "time": "11:34",
+          "prob": 0.622,
+          "threshold": 0.6,
+          "direction": "up"
+        },
+        {
+          "time": "21:00",
           "prob": 0.622,
           "threshold": 0.6,
           "direction": "up"
