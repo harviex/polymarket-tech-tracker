@@ -41,6 +41,18 @@
           "prob": 0.235,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.225,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.235,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
       "current_prob": 0.235
@@ -92,9 +104,21 @@
           "prob": 0.365,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.39,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.385,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.365
+      "current_prob": 0.385
     },
     "74055": {
       "id": "74055",
@@ -129,9 +153,21 @@
           "prob": 0.29,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.295,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.295,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.29
+      "current_prob": 0.295
     },
     "86448": {
       "id": "86448",
@@ -171,6 +207,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.164,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.164,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.164,
           "threshold": 0.8,
           "direction": "down"
@@ -225,6 +273,18 @@
           "prob": 0.165,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.22,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
       "current_prob": 0.165
@@ -267,6 +327,18 @@
           "prob": 0.378,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.378,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.378,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
       "current_prob": 0.378
@@ -304,9 +376,21 @@
           "prob": 0.034,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.3,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.3,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.034
+      "current_prob": 0.3
     },
     "32565": {
       "id": "32565",
@@ -336,6 +420,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.135,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.135,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.135,
           "threshold": 0.8,
           "direction": "down"
@@ -373,6 +469,18 @@
           "prob": 0.0115,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0115,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0115,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.0115
@@ -404,6 +512,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.012,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.012,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.012,
           "threshold": 0.9,
           "direction": "down"
@@ -441,6 +561,18 @@
           "prob": 0.03,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.03,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.03,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.03
@@ -473,9 +605,21 @@
           "prob": 0.1705,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.1665,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.1665,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.1705
+      "current_prob": 0.1665
     },
     "48300": {
       "id": "48300",
@@ -505,6 +649,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.002,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.002,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.002,
           "threshold": 0.9,
           "direction": "down"
@@ -542,6 +698,18 @@
           "prob": 0.013,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.013,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.013,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.013
@@ -571,6 +739,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.023,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.023,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.023,
           "threshold": 0.9,
           "direction": "down"
@@ -605,9 +785,21 @@
           "prob": 0.0255,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.26,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.26,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.0255
+      "current_prob": 0.26
     },
     "57704": {
       "id": "57704",
@@ -636,6 +828,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.165,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.165,
           "threshold": 0.8,
           "direction": "down"
@@ -670,6 +874,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.215,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.215,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.215,
           "threshold": 0.7,
           "direction": "down"
@@ -708,9 +924,21 @@
           "prob": 0.69,
           "threshold": 0.6,
           "direction": "up"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.69,
+          "threshold": 0.6,
+          "direction": "up"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.695,
+          "threshold": 0.6,
+          "direction": "up"
         }
       ],
-      "current_prob": 0.69
+      "current_prob": 0.695
     },
     "66118": {
       "id": "66118",
@@ -738,6 +966,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.0655,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0655,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.0655,
           "threshold": 0.9,
           "direction": "down"
@@ -778,6 +1018,18 @@
           "prob": 0.12,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.12,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.12,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
       "current_prob": 0.12
@@ -814,6 +1066,18 @@
           "prob": 0.265,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.265,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.265,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
       "current_prob": 0.265
@@ -843,6 +1107,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.23,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.23,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.23,
           "threshold": 0.7,
           "direction": "down"
@@ -881,6 +1157,18 @@
           "prob": 0.0425,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0425,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0425,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.0425
@@ -915,9 +1203,21 @@
           "prob": 0.085,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.18,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.18,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.085
+      "current_prob": 0.18
     },
     "73236": {
       "id": "73236",
@@ -948,9 +1248,21 @@
           "prob": 0.3255,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.3215,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.322,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.3255
+      "current_prob": 0.322
     },
     "73902": {
       "id": "73902",
@@ -977,6 +1289,12 @@
         },
         {
           "time": "22:15",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:35",
           "prob": 0.71,
           "threshold": 0.7,
           "direction": "up"
@@ -1009,6 +1327,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.22,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.22,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.22,
           "threshold": 0.7,
           "direction": "down"
@@ -1046,9 +1376,21 @@
           "prob": 0.0505,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.05,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.049,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.0505
+      "current_prob": 0.049
     },
     "78468": {
       "id": "78468",
@@ -1075,6 +1417,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.065,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.065,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.065,
           "threshold": 0.9,
           "direction": "down"
@@ -1112,9 +1466,21 @@
           "prob": 0.086,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.086,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0865,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.086
+      "current_prob": 0.0865
     },
     "78999": {
       "id": "78999",
@@ -1145,9 +1511,21 @@
           "prob": 0.018,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.018,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0025,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.018
+      "current_prob": 0.0025
     },
     "79041": {
       "id": "79041",
@@ -1176,6 +1554,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.0075,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0075,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.0075,
           "threshold": 0.9,
           "direction": "down"
@@ -1212,9 +1602,21 @@
           "prob": 0.6605,
           "threshold": 0.6,
           "direction": "up"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.655,
+          "threshold": 0.6,
+          "direction": "up"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.66,
+          "threshold": 0.6,
+          "direction": "up"
         }
       ],
-      "current_prob": 0.6605
+      "current_prob": 0.66
     },
     "79049": {
       "id": "79049",
@@ -1243,6 +1645,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.11,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.11,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.11,
           "threshold": 0.8,
           "direction": "down"
@@ -1276,6 +1690,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.0455,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0455,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.0455,
           "threshold": 0.9,
           "direction": "down"
@@ -1313,6 +1739,18 @@
           "prob": 0.15,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.15,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.15,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
       "current_prob": 0.15
@@ -1344,6 +1782,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.1105,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.1105,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.1105,
           "threshold": 0.8,
           "direction": "down"
@@ -1380,9 +1830,21 @@
           "prob": 0.085,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.085,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.08,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.085
+      "current_prob": 0.08
     },
     "79070": {
       "id": "79070",
@@ -1408,6 +1870,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:35",
           "prob": 0.7,
           "threshold": 0.7,
           "direction": "up"
@@ -1441,6 +1915,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.24,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.24,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.24,
           "threshold": 0.7,
           "direction": "down"
@@ -1478,6 +1964,18 @@
           "prob": 0.0905,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0905,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0905,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.0905
@@ -1510,9 +2008,21 @@
           "prob": 0.14,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.15,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.14
+      "current_prob": 0.15
     },
     "79079": {
       "id": "79079",
@@ -1545,6 +2055,18 @@
           "prob": 0.0505,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0505,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0505,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.0505
@@ -1574,6 +2096,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.145,
           "threshold": 0.8,
           "direction": "down"
@@ -1611,9 +2145,21 @@
           "prob": 0.565,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.335,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.335,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.565
+      "current_prob": 0.335
     },
     "79906": {
       "id": "79906",
@@ -1639,6 +2185,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.39,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.39,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.39,
           "threshold": 0.6,
           "direction": "down"
@@ -1670,6 +2228,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.06,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.06,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.06,
           "threshold": 0.9,
           "direction": "down"
@@ -1707,6 +2277,18 @@
           "prob": 0.07,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.07
@@ -1735,6 +2317,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.735,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.735,
+          "threshold": 0.7,
+          "direction": "up"
+        },
+        {
+          "time": "22:35",
           "prob": 0.735,
           "threshold": 0.7,
           "direction": "up"
@@ -1772,6 +2366,18 @@
           "prob": 0.075,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.075,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.075,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.075
@@ -1804,9 +2410,21 @@
           "prob": 0.255,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.29,
+          "threshold": 0.7,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.275,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.255
+      "current_prob": 0.275
     },
     "85784": {
       "id": "85784",
@@ -1833,6 +2451,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.017,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.017,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.017,
           "threshold": 0.9,
           "direction": "down"
@@ -1869,6 +2499,18 @@
           "prob": 0.042,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.042,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.042,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.042
@@ -1902,9 +2544,21 @@
           "prob": 0.0375,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0375,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0515,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.0375
+      "current_prob": 0.0515
     },
     "89525": {
       "id": "89525",
@@ -1935,9 +2589,21 @@
           "prob": 0.0485,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0395,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0395,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.0485
+      "current_prob": 0.0395
     },
     "89530": {
       "id": "89530",
@@ -1965,6 +2631,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.055,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.1,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.055,
           "threshold": 0.8,
           "direction": "down"
@@ -2001,6 +2679,18 @@
           "prob": 0.0645,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.0995,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.0645,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.0645
@@ -2034,9 +2724,21 @@
           "prob": 0.08,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.07,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.08
+      "current_prob": 0.07
     },
     "89577": {
       "id": "89577",
@@ -2067,9 +2769,21 @@
           "prob": 0.0675,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.14,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.14,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.0675
+      "current_prob": 0.14
     },
     "89583": {
       "id": "89583",
@@ -2097,6 +2811,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.115,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.115,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.115,
           "threshold": 0.8,
           "direction": "down"
@@ -2133,6 +2859,18 @@
           "prob": 0.125,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.125,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.125,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
       "current_prob": 0.125
@@ -2163,6 +2901,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.145,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.145,
           "threshold": 0.8,
           "direction": "down"
@@ -2200,6 +2950,18 @@
           "prob": 0.155,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.155,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.155,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
       "current_prob": 0.155
@@ -2229,6 +2991,18 @@
         },
         {
           "time": "22:15",
+          "prob": 0.175,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.175,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
           "prob": 0.175,
           "threshold": 0.8,
           "direction": "down"
@@ -2264,9 +3038,21 @@
           "prob": 0.366,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.359,
+          "threshold": 0.6,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.3515,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.366
+      "current_prob": 0.3515
     },
     "90401": {
       "id": "90401",
@@ -2296,9 +3082,21 @@
           "prob": 0.123,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "22:30",
+          "prob": 0.1275,
+          "threshold": 0.8,
+          "direction": "down"
+        },
+        {
+          "time": "22:35",
+          "prob": 0.125,
+          "threshold": 0.8,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.123
+      "current_prob": 0.125
     }
   }
 }

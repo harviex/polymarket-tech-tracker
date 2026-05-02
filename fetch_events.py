@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
 """
-Fetch Polymarket events - Daily Watch Version
-60%/70%/80%/90% thresholds + 1-hour comparison + Daily Watch tracking
-Generates tag summary cards for long-term and watch events
+Fetch Polymarket events - Three-Board System
+1小时榜 (Hour Watch) → 每日榜 (Daily Watch) → 长期榜 (Long Term)
+
+Logic:
+- 1小时榜: 每小时更新，进入/退出 60%/70%/80%/90% 的事件
+- 每日榜: 1小时榜事件自动累积（下一个小时进入）
+- 长期榜: 第二天01:00，昨日每日榜全部转入
+- 变动检测: 长期榜事件大幅下跌（如90%→60%），退出并回到1小时榜
 """
+
 import json
 import sys
 from pathlib import Path
@@ -11,17 +17,21 @@ from datetime import datetime, timedelta
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "docs" / "data"
-HISTORY_DIR = DATA_DIR / "history"
 TECH_DIR = DATA_DIR / "technology"
-CONFIG_FILE = DATA_DIR / "config.json"
-DAILY_WATCH_DIR = DATA_DIR / "daily_watch"
+HISTORY_DIR = DATA_DIR / "history"
+DAILY_WATCH_DIR = BASE_DIR / "docs" / "data" / "daily_watch"
+LONG_TERM_DIR = BASE_DIR / "docs" / "data" / "long_term"
 
 GAMMA_API = "https://gamma-api.polymarket.com/events"
-THRESHOLDS = [0.60, 0.70, 0.80, 0.90]  # Multi-threshold detection
+THRESHOLDS = [0.60, 0.70, 0.80, 0.90]
+
+# 长期榜变动阈值：从峰值下跌超过30%视为变动
+LONG_TERM_CHANGE_THRESHOLD = 0.30
 
 def load_config():
+    config_file = DATA_DIR / "config.json"
     try:
-        with open(CONFIG_FILE) as f:
+        with open(config_file) as f:
             return json.load(f)
     except:
         return {"categories": {"technology": {"tags": ["tech", "ai", "crypto"]}}}
@@ -51,7 +61,6 @@ def get_probability(event):
         
         market = event['markets'][0]
         outcome_prices = json.loads(market.get('outcomePrices', '["0", "0"]'))
-        # Return YES probability (index 0), not NO (index 1)
         return float(outcome_prices[0])
     except:
         return None
@@ -139,62 +148,75 @@ def save_daily_watch(daily_data):
     with open(watch_file, 'w') as f:
         json.dump(daily_data, f, indent=2, ensure_ascii=False)
 
-def categorize_events(current_events, last_hour_events):
-    """Categorize based on crossing any threshold (60%/70%/80%/90%)"""
-    new_entries = []
-    exited_entries = []
-    long_term = []
+def check_long_term_changes(current_events):
+    """
+    检查长期榜事件是否发生变动
+    如果事件从峰值大幅下跌，退出长期榜，回到1小时榜
+    返回: (需要退出的事件列表, 更新后的长期榜数据)
+    """
+    LONG_TERM_DIR.mkdir(parents=True, exist_ok=True)
+    long_term_file = LONG_TERM_DIR / "long_term.json"
     
-    for event in current_events:
-        event_id = event['id']
-        current_prob = event['probability']
+    if not long_term_file.exists():
+        return [], None
+    
+    with open(long_term_file) as f:
+        long_term_data = json.load(f)
+    
+    # 构建当前事件查找表
+    current_lookup = {e['id']: e for e in current_events}
+    
+    exited_events = []
+    events_to_remove = []
+    
+    for event_id, lt_event in long_term_data.get('events', {}).items():
+        # 如果事件不在当前列表中（已关闭），跳过
+        if event_id not in current_lookup:
+            continue
         
-        # Get last hour data
-        last_data = last_hour_events.get(event_id, {})
-        last_prob = last_data.get('probability', current_prob)
+        current_event = current_lookup[event_id]
+        current_prob = current_event.get('probability', 0)
+        peak_prob = lt_event.get('peak_prob', current_prob)
         
-        # Check which thresholds were crossed
-        crossed_up = None  # Highest threshold crossed going up
-        crossed_down = None  # Highest threshold crossed going down
-        
-        for threshold in sorted(THRESHOLDS, reverse=True):  # Check from high to low
-            last_above = last_prob >= threshold
-            current_above = current_prob >= threshold
+        # 检查是否发生大幅下跌
+        if peak_prob - current_prob >= LONG_TERM_CHANGE_THRESHOLD:
+            print(f"  ⚠️  Long-term event changed: {lt_event.get('title')}")
+            print(f"      Peak: {peak_prob:.1%} → Current: {current_prob:.1%} (drop: {peak_prob-current_prob:.1%})")
             
-            if not last_above and current_above:
-                # Crossed UP across this threshold
-                crossed_up = threshold
-                break  # Found highest threshold crossed up
-            elif last_above and not current_above:
-                # Crossed DOWN across this threshold
-                crossed_down = threshold
-                break  # Found highest threshold crossed down
-        
-        # Categorize
-        if crossed_up:
-            new_entries.append({
-                **event,
-                'hours_ago': 1,
-                'change': current_prob - last_prob,
-                'crossed_threshold': crossed_up
+            # 添加到退出列表（需要回到1小时榜）
+            exited_events.append({
+                **current_event,
+                'change_reason': f"Long-term exit: {peak_prob:.1%} → {current_prob:.1%}"
             })
-        elif crossed_down:
-            exited_entries.append({
-                **event,
-                'hours_ago': 1,
-                'change': last_prob - current_prob,  # Positive value for display
-                'crossed_threshold': crossed_down
-            })
-        elif current_prob >= min(THRESHOLDS):
-            # Currently above lowest threshold but didn't just cross
-            long_term.append(event)
+            events_to_remove.append(event_id)
     
-    return new_entries, exited_entries, long_term
+    # 移除退出的事件
+    for event_id in events_to_remove:
+        del long_term_data['events'][event_id]
+    
+    if events_to_remove:
+        long_term_data['updated_at'] = datetime.now().isoformat()
+        with open(long_term_file, 'w') as f:
+            json.dump(long_term_data, f, indent=2, ensure_ascii=False)
+        print(f"✅ Removed {len(events_to_remove)} events from long-term board")
+    
+    return exited_events, long_term_data
 
-def update_watch_events(current_events, last_hour_events, daily_data):
+def update_watch_events(current_events, last_hour_events, daily_data, long_term_exited):
     """Update hour watch and daily watch events"""
-    hour_watch = []  # Events that crossed thresholds this hour
+    hour_watch = []
     now_str = datetime.now().strftime('%H:%M')
+    
+    # 将长期榜退出的事件加入 hour_watch
+    for exited_event in long_term_exited:
+        hour_watch.append({
+            **exited_event,
+            'history': [{
+                'time': now_str,
+                'prob': exited_event['probability'],
+                'reason': exited_event.get('change_reason', 'Long-term exit')
+            }]
+        })
     
     for event in current_events:
         event_id = event['id']
@@ -377,24 +399,36 @@ def generate_daily_watch_summaries(daily_data):
     
     return sorted(summaries, key=lambda x: x['event_count'], reverse=True)
 
-def generate_output(new_entries, exited_entries, long_term_events, hour_watch, daily_watch_summaries):
-    """Generate output JSON"""
-    tag_summaries = generate_tag_summaries(long_term_events)
-    hour_watch_summaries = generate_watch_summaries(hour_watch)
+def load_long_term_board():
+    """Load long-term board data for output"""
+    LONG_TERM_DIR.mkdir(parents=True, exist_ok=True)
+    long_term_file = LONG_TERM_DIR / "long_term.json"
+    
+    if not long_term_file.exists():
+        return {'events': {}, 'updated_at': None}
+    
+    with open(long_term_file) as f:
+        return json.load(f)
+
+def generate_output(hour_watch, daily_watch_summaries, long_term_data):
+    """Generate output JSON with three boards"""
+    # Also generate tag summaries for long-term events (if any in daily watch but not in hour_watch)
+    # This is for the "long_term_summaries" section which shows events above thresholds but not crossing
     
     return {
         'category': 'technology',
         'updated_at': datetime.now().isoformat(),
-        'new_entries': sorted(new_entries, key=lambda x: x['hours_ago']),
-        'exited_entries': sorted(exited_entries, key=lambda x: x['hours_ago']),
-        'long_term_summaries': tag_summaries,
-        'long_term_count': len(long_term_events),
-        'hour_watch_summaries': hour_watch_summaries,
-        'daily_watch_summaries': daily_watch_summaries
+        'hour_watch_summaries': generate_watch_summaries(hour_watch),
+        'daily_watch_summaries': daily_watch_summaries,
+        'long_term_data': {
+            'event_count': len(long_term_data.get('events', {})),
+            'events': list(long_term_data.get('events', {}).values()),
+            'updated_at': long_term_data.get('updated_at')
+        }
     }
 
 def main():
-    print("🚀 Starting fetch_events.py (Daily Watch Version)...")
+    print("🚀 Starting fetch_events.py (Three-Board System)...")
     
     config = load_config()
     tech_tags = config.get('categories', {}).get('technology', {}).get('tags', ['tech', 'ai'])
@@ -406,20 +440,21 @@ def main():
     tech_events = filter_tech_events(events, tech_tags)
     print(f"   Filtered {len(tech_events)} technology events")
     
+    # 检查长期榜变动（必须在更新 daily_watch 之前）
+    print("\n🔍 Checking long-term board for changes...")
+    long_term_exited, _ = check_long_term_changes(tech_events)
+    if long_term_exited:
+        print(f"   {len(long_term_exited)} events exited long-term board")
+    
     last_hour = load_last_hour_data()
     print(f"   Loaded {len(last_hour)} records from last hour")
-    
-    new_entries, exited_entries, long_term = categorize_events(tech_events, last_hour)
-    print(f"   New entries: {len(new_entries)}")
-    print(f"   Exited entries: {len(exited_entries)}")
-    print(f"   Long-term events: {len(long_term)}")
     
     # Load daily watch data
     daily_data = load_daily_watch()
     print(f"   Loaded {len(daily_data['events'])} events from daily watch")
     
-    # Update watch events
-    hour_watch, daily_data = update_watch_events(tech_events, last_hour, daily_data)
+    # Update watch events (includes long-term exited events)
+    hour_watch, daily_data = update_watch_events(tech_events, last_hour, daily_data, long_term_exited)
     print(f"   Hour watch events: {len(hour_watch)}")
     print(f"   Daily watch events: {len(daily_data['events'])}")
     
@@ -431,10 +466,12 @@ def main():
     save_daily_watch(daily_data)
     print(f"✅ Daily watch saved")
     
-    output = generate_output(new_entries, exited_entries, long_term, hour_watch, daily_watch_summaries)
-    print(f"   Tag summaries: {len(output['long_term_summaries'])}")
-    print(f"   Hour watch summaries: {len(output['hour_watch_summaries'])}")
-    print(f"   Daily watch summaries: {len(output['daily_watch_summaries'])}")
+    # Load long-term board data for output
+    long_term_data = load_long_term_board()
+    print(f"   Long-term events: {len(long_term_data.get('events', {}))}")
+    
+    # Generate output
+    output = generate_output(hour_watch, daily_watch_summaries, long_term_data)
     
     TECH_DIR.mkdir(parents=True, exist_ok=True)
     output_file = TECH_DIR / "events.json"

@@ -93,73 +93,29 @@
     <!-- Main Content -->
     <main class="main-content">
         
-        <!-- 1-Hour Watch Events Section -->
+        <!-- 1-Hour Watch Events Section (三榜单系统) -->
         <section class="watch-section" id="hour-watch-section">
             <h2 id="section-hour-watch">⏱️ 1-Hour Watch Events</h2>
-        <div id="hour-watch-meta" style="display:none;"></div>
-        <div id="hour-watch-groups" style="display:none;" style="display:none;"></div>
-    
-        
-        <!-- Dual Panel Section -->
-        <section class="dual-panel">
-            <!-- New Entries -->
-            <div class="panel glass-panel">
-                <div class="panel-header">
-                    <h2 id="section-new">🆕 New High-Probability Events</h2>
-                    <span class="badge" id="new-count">0</span>
-                </div>
-                <div class="event-list" id="new-entries-list">
-                    <div class="loading-placeholder">
-                        <div class="spinner"></div>
-                        <p id="loading-text">Loading...</p>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Exited Entries -->
-            <div class="panel glass-panel">
-                <div class="panel-header">
-                    <h2 id="section-exited">🚪 Exited High-Probability</h2>
-                    <span class="badge" id="exited-count">0</span>
-                </div>
-                <div class="event-list" id="exited-entries-list">
-                    <div class="loading-placeholder">
-                        <div class="spinner"></div>
-                        <p id="loading-text-2">Loading...</p>
-                    </div>
-                </div>
-            </div>
+            <div class="section-meta" id="hour-watch-meta" style="display:none;"></div>
+            <div id="hour-watch-groups"></div>
         </section>
         
         <!-- Daily Watch Events Section -->
         <section class="watch-section" id="daily-watch-section">
             <h2 id="section-daily-watch">📅 Daily Watch Events</h2>
-            <div class="section-meta">
-                Tracked daily across probability thresholds
-            </div>
-            <div class="tag-groups" id="daily-watch-groups">
-                <div class="loading-placeholder">
-                    <div class="spinner"></div>
-                    <p>Loading...</p>
-                </div>
-            </div>
+            <div class="section-meta" id="daily-watch-meta" style="display:none;"></div>
+            <div class="tag-groups" id="daily-watch-groups"></div>
         </section>
         
         <!-- Long Term Section -->
-        <section class="long-term-section">
+        <section class="long-term-section" id="long-term-section">
             <h2 id="section-long-term">🏆 Long-Term High-Probability Events</h2>
             <div class="section-meta">
                 <span id="long-term-count">0</span> stable events
             </div>
-            <div class="tag-groups" id="long-term-groups">
-                <div class="loading-placeholder">
-                    <div class="spinner"></div>
-                    <p>Loading...</p>
-                </div>
-            </div>
+            <div class="tag-groups" id="long-term-groups"></div>
         </section>
         
-
     </main>
     
     <!-- Footer -->
