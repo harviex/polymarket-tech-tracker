@@ -234,8 +234,10 @@ const App = (() => {
             <div class="events-grid">
                 ${events.map(event => `
                     <div class="event-mini-card">
-                        <div class="event-mini-title">${event.title}</div>
-                        <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                        <div class="event-mini-header">
+                            <div class="event-mini-title">${event.title}</div>
+                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                        </div>
                         ${event.history ? `
                             <div class="event-history">
                                 <small>${formatHistory(event.history)}</small>
@@ -315,8 +317,10 @@ const App = (() => {
             <div class="events-grid">
                 ${events.map(event => `
                     <div class="event-mini-card">
-                        <div class="event-mini-title">${event.title}</div>
-                        <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                        <div class="event-mini-header">
+                            <div class="event-mini-title">${event.title}</div>
+                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                        </div>
                         ${event.history ? `
                             <div class="event-history">
                                 <small>${formatHistory(event.history)}</small>
@@ -346,8 +350,10 @@ const App = (() => {
             <div class="events-grid">
                 ${events.map(event => `
                     <div class="event-mini-card">
-                        <div class="event-mini-title">${event.title}</div>
-                        <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                        <div class="event-mini-header">
+                            <div class="event-mini-title">${event.title}</div>
+                            <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                        </div>
                     </div>
                 `).join('')}
             </div>
