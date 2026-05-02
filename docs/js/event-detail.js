@@ -114,9 +114,17 @@ function renderEventDetail(event) {
     
     // Extract API fields
     const description = apiDetails?.description || '';
+    const startDate = apiDetails?.startDate || '';
     const endDate = apiDetails?.endDate || '';
     const volume = apiDetails?.volume || 0;
     const liquidity = apiDetails?.liquidity || 0;
+    const openInterest = apiDetails?.openInterest || 0;
+    const volume24hr = apiDetails?.volume24hr || 0;
+    const volume1wk = apiDetails?.volume1wk || 0;
+    const active = apiDetails?.active || false;
+    const closed = apiDetails?.closed || false;
+    const commentCount = apiDetails?.commentCount || 0;
+    const markets = apiDetails?.markets || [];
     const outcomePrices = apiDetails?.outcomePrices ? JSON.parse(apiDetails.outcomePrices) : null;
     
     container.innerHTML = `
@@ -139,6 +147,24 @@ function renderEventDetail(event) {
                         <span>${event.tag_display || event.tag.toUpperCase()}</span>
                     </div>
                 ` : ''}
+                ${!closed && active ? `
+                    <div class="meta-item" style="color: #10b981;">
+                        <span class="meta-label">Status:</span>
+                        <span>🟢 Active</span>
+                    </div>
+                ` : ''}
+                ${closed ? `
+                    <div class="meta-item" style="color: #ef4444;">
+                        <span class="meta-label">Status:</span>
+                        <span>🔴 Closed</span>
+                    </div>
+                ` : ''}
+                ${startDate ? `
+                    <div class="meta-item">
+                        <span class="meta-label">Start Date:</span>
+                        <span>${new Date(startDate).toLocaleString('zh-CN')}</span>
+                    </div>
+                ` : ''}
                 ${endDate ? `
                     <div class="meta-item">
                         <span class="meta-label">End Date:</span>
@@ -147,14 +173,38 @@ function renderEventDetail(event) {
                 ` : ''}
                 ${volume > 0 ? `
                     <div class="meta-item">
-                        <span class="meta-label">Volume:</span>
-                        <span>$${volume.toLocaleString()}</span>
+                        <span class="meta-label">Total Volume:</span>
+                        <span>$${formatNumber(volume)}</span>
+                    </div>
+                ` : ''}
+                ${volume24hr > 0 ? `
+                    <div class="meta-item">
+                        <span class="meta-label">24h Volume:</span>
+                        <span>$${formatNumber(volume24hr)}</span>
+                    </div>
+                ` : ''}
+                ${volume1wk > 0 ? `
+                    <div class="meta-item">
+                        <span class="meta-label">7d Volume:</span>
+                        <span>$${formatNumber(volume1wk)}</span>
                     </div>
                 ` : ''}
                 ${liquidity > 0 ? `
                     <div class="meta-item">
                         <span class="meta-label">Liquidity:</span>
-                        <span>$${liquidity.toLocaleString()}</span>
+                        <span>$${formatNumber(liquidity)}</span>
+                    </div>
+                ` : ''}
+                ${openInterest > 0 ? `
+                    <div class="meta-item">
+                        <span class="meta-label">Open Interest:</span>
+                        <span>$${formatNumber(openInterest)}</span>
+                    </div>
+                ` : ''}
+                ${commentCount > 0 ? `
+                    <div class="meta-item">
+                        <span class="meta-label">Comments:</span>
+                        <span>💬 ${commentCount}</span>
                     </div>
                 ` : ''}
                 ${event.first_seen ? `
@@ -180,7 +230,7 @@ function renderEventDetail(event) {
             
             ${outcomePrices && outcomePrices.length >= 2 ? `
                 <div class="outcome-prices">
-                    <h3>💰 Outcome Prices</h3>
+                    <h3>💰 Outcome Prices (Main Event)</h3>
                     <div class="outcome-grid">
                         <div class="outcome-item">
                             <div class="outcome-label">Yes</div>
@@ -194,6 +244,8 @@ function renderEventDetail(event) {
                 </div>
             ` : ''}
             
+            ${markets && markets.length > 0 ? renderSubMarkets(markets) : ''}
+            
             ${historyHtml ? `
                 <div class="history-section">
                     <div class="history-title">📈 Probability History</div>
@@ -204,29 +256,83 @@ function renderEventDetail(event) {
             ` : ''}
             
             <div class="search-section">
-                <h3>🔍 Search Related News</h3>
+                <h3>🔍 View on Polymarket</h3>
                 <div class="search-buttons">
-                    <a href="https://duckduckgo.com/?q=${encodeURIComponent(event.title)}&t=h_&ia=news" 
-                       target="_blank" rel="noopener" class="search-btn ddg-btn">
-                        DuckDuckGo News
-                    </a>
-                    <a href="https://www.google.com/search?q=${encodeURIComponent(event.title)}&tbm=nws" 
-                       target="_blank" rel="noopener" class="search-btn google-btn">
-                        Google News
-                    </a>
                     <a href="https://polymarket.com/event/${event.id}" 
                        target="_blank" rel="noopener" class="search-btn polymarket-btn">
-                        View on Polymarket
+                        View Main Event on Polymarket
                     </a>
+                    ${markets && markets.length > 0 ? markets.map(market => `
+                        <a href="https://polymarket.com/market/${market.id}" 
+                           target="_blank" rel="noopener" class="search-btn polymarket-btn">
+                            ${market.groupItemTitle || market.question.substring(0, 30)}...
+                        </a>
+                    `).join('') : ''}
                 </div>
             </div>
         </div>
     `;
 }
 
+function renderSubMarkets(markets) {
+    return `
+        <div class="submarkets-section">
+            <h3>📊 Sub-Markets (${markets.length})</h3>
+            <div class="submarkets-grid">
+                ${markets.map(market => {
+                    const outcomePrices = market.outcomePrices ? JSON.parse(market.outcomePrices) : null;
+                    const yesProb = outcomePrices && outcomePrices[0] ? (parseFloat(outcomePrices[0]) * 100).toFixed(1) : 'N/A';
+                    const noProb = outcomePrices && outcomePrices[1] ? (parseFloat(outcomePrices[1]) * 100).toFixed(1) : 'N/A';
+                    const volume = market.volume ? formatNumber(market.volume) : '0';
+                    const endDate = market.endDate ? new Date(market.endDate).toLocaleString('zh-CN') : 'N/A';
+                    
+                    return `
+                        <div class="submarket-card">
+                            <div class="submarket-header">
+                                <div class="submarket-question">${market.question}</div>
+                                <a href="https://polymarket.com/market/${market.id}" target="_blank" rel="noopener" class="submarket-link">
+                                    ↗️
+                                </a>
+                            </div>
+                            <div class="submarket-outcomes">
+                                <div class="submarket-outcome">
+                                    <span class="outcome-label">Yes</span>
+                                    <span class="outcome-value">${yesProb}%</span>
+                                </div>
+                                <div class="submarket-outcome">
+                                    <span class="outcome-label">No</span>
+                                    <span class="outcome-value">${noProb}%</span>
+                                </div>
+                            </div>
+                            <div class="submarket-meta">
+                                <div class="meta-item">
+                                    <span class="meta-label">Volume:</span>
+                                    <span>$${volume}</span>
+                                </div>
+                                <div class="meta-item">
+                                    <span class="meta-label">End:</span>
+                                    <span>${endDate}</span>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }).join('')}
+            </div>
+        </div>
+    `;
+}
+
+function formatNumber(num) {
+    if (num >= 1000000) {
+        return (num / 1000000).toFixed(2) + 'M';
+    } else if (num >= 1000) {
+        return (num / 1000).toFixed(2) + 'K';
+    }
+    return num.toFixed(2);
+}
+
 function formatDescription(desc) {
     if (!desc) return '';
-    // Convert newlines to <br> and preserve formatting
     return desc
         .replace(/\\n/g, '<br>')
         .replace(/\\r/g, '')

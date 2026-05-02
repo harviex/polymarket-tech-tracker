@@ -136,54 +136,6 @@
     color: #ef4444;
 }
 
-.news-section {
-    margin-top: 2rem;
-}
-
-.news-card {
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid var(--border-glass);
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-    transition: all 0.2s ease;
-}
-
-.news-card:hover {
-    background: rgba(255, 255, 255, 0.05);
-    transform: translateX(5px);
-}
-
-.news-title {
-    font-size: 1.125rem;
-    font-weight: 600;
-    margin-bottom: 0.75rem;
-    color: var(--text-primary);
-}
-
-.news-title a {
-    color: inherit;
-    text-decoration: none;
-}
-
-.news-title a:hover {
-    color: var(--accent-primary);
-}
-
-.news-meta {
-    display: flex;
-    gap: 1rem;
-    font-size: 0.875rem;
-    color: var(--text-secondary);
-    margin-bottom: 0.75rem;
-}
-
-.news-content {
-    font-size: 0.875rem;
-    line-height: 1.6;
-    color: var(--text-secondary);
-}
-
 .event-description {
     margin-top: 2rem;
     padding-top: 1.5rem;
@@ -245,6 +197,106 @@
     background-clip: text;
 }
 
+/* Sub-Markets Section */
+.submarkets-section {
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-glass);
+}
+
+.submarkets-section h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+.submarkets-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 1rem;
+}
+
+.submarket-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-glass);
+    border-radius: 8px;
+    padding: 1rem;
+    transition: all 0.2s ease;
+}
+
+.submarket-card:hover {
+    background: rgba(255, 255, 255, 0.05);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.submarket-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-glass);
+}
+
+.submarket-question {
+    font-size: 0.875rem;
+    font-weight: 500;
+    flex: 1;
+    margin-right: 0.5rem;
+    color: var(--text-primary);
+}
+
+.submarket-link {
+    color: var(--accent-primary);
+    text-decoration: none;
+    font-size: 1.25rem;
+    transition: transform 0.2s ease;
+}
+
+.submarket-link:hover {
+    transform: scale(1.2);
+}
+
+.submarket-outcomes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.submarket-outcome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5rem;
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 6px;
+}
+
+.submarket-outcome .outcome-label {
+    font-size: 0.75rem;
+    margin-bottom: 0.25rem;
+}
+
+.submarket-outcome .outcome-value {
+    font-size: 1.125rem;
+}
+
+.submarket-meta {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    font-size: 0.75rem;
+}
+
+.submarket-meta .meta-item {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+}
+
+/* Search Section */
 .search-section {
     margin-top: 2rem;
     padding-top: 1.5rem;
@@ -271,26 +323,6 @@
     text-decoration: none;
     font-weight: 500;
     transition: all 0.2s ease;
-}
-
-.ddg-btn {
-    background: #de5833;
-    color: white;
-}
-
-.ddg-btn:hover {
-    background: #c44a2b;
-    transform: translateY(-2px);
-}
-
-.google-btn {
-    background: #4285f4;
-    color: white;
-}
-
-.google-btn:hover {
-    background: #3367d6;
-    transform: translateY(-2px);
 }
 
 .polymarket-btn {
