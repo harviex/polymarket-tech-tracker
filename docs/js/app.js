@@ -11,6 +11,8 @@ const App = (() => {
     async function init() {
         await loadEvents();
         renderEvents();
+        renderHourWatchSummaries();
+        renderDailyWatchSummaries();
         setupSearch();
         setupScrollAnimations();
     }
@@ -153,6 +155,171 @@ const App = (() => {
         `;
     }
     
+
+    
+    // 1-Hour Watch Events
+    let expandedHourWatchIdx = null;
+    
+    function renderHourWatchSummaries() {
+        const container = document.getElementById('hour-watch-groups');
+        if (!container) return;
+        
+        const summaries = eventsData.hour_watch_summaries || [];
+        
+        if (summaries.length === 0) {
+            container.innerHTML = '<p class="no-results">No 1-hour watch events</p>';
+            return;
+        }
+        
+        container.innerHTML = `
+            <div class="summary-cards-grid">
+                ${summaries.map((summary, idx) => `
+                    <div class="summary-card glass-card" onclick="toggleHourWatchSummary(${idx})">
+                        <div class="summary-header">
+                            <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
+                            <div class="summary-toggle">
+                                ${expandedHourWatchIdx === idx ? '▼' : '▶'}
+                            </div>
+                        </div>
+                        <div class="summary-stats">
+                            <div class="stat">
+                                <div class="stat-value">${summary.event_count}</div>
+                                <div class="stat-label">Events</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
+                                <div class="stat-label">Avg</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-value">${(summary.max_probability * 100).toFixed(1)}%</div>
+                                <div class="stat-label">Max</div>
+                            </div>
+                        </div>
+                        <div class="summary-meta">
+                            Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
+                        </div>
+                        
+                        <div class="summary-events" id="hour-watch-events-${idx}" style="display: ${expandedHourWatchIdx === idx ? 'block' : 'none'}">
+                            <!-- Events will be loaded here -->
+                        </div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    }
+    
+    function toggleHourWatchSummary(idx) {
+        if (expandedHourWatchIdx === idx) {
+            expandedHourWatchIdx = null;
+        } else {
+            expandedHourWatchIdx = idx;
+            loadHourWatchEvents(idx);
+        }
+        renderHourWatchSummaries();
+    }
+    
+    function loadHourWatchEvents(idx) {
+        const summary = eventsData.hour_watch_summaries?.[idx];
+        if (!summary || !summary.events) return;
+        
+        const container = document.getElementById(`hour-watch-events-${idx}`);
+        if (!container || container.children.length > 0) return;
+        
+        container.innerHTML = `
+            <div class="events-divider"></div>
+            <div class="events-grid">
+                ${summary.events.map(event => `
+                    <div class="event-mini-card">
+                        <div class="event-mini-title">${event.title}</div>
+                        <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    }
+    
+    // Daily Watch Events
+    let expandedDailyWatchIdx = null;
+    
+    function renderDailyWatchSummaries() {
+        const container = document.getElementById('daily-watch-groups');
+        if (!container) return;
+        
+        const summaries = eventsData.daily_watch_summaries || [];
+        
+        if (summaries.length === 0) {
+            container.innerHTML = '<p class="no-results">No daily watch events</p>';
+            return;
+        }
+        
+        container.innerHTML = `
+            <div class="summary-cards-grid">
+                ${summaries.map((summary, idx) => `
+                    <div class="summary-card glass-card" onclick="toggleDailyWatchSummary(${idx})">
+                        <div class="summary-header">
+                            <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
+                            <div class="summary-toggle">
+                                ${expandedDailyWatchIdx === idx ? '▼' : '▶'}
+                            </div>
+                        </div>
+                        <div class="summary-stats">
+                            <div class="stat">
+                                <div class="stat-value">${summary.event_count}</div>
+                                <div class="stat-label">Events</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
+                                <div class="stat-label">Avg</div>
+                            </div>
+                            <div class="stat">
+                                <div class="stat-value">${(summary.max_probability * 100).toFixed(1)}%</div>
+                                <div class="stat-label">Max</div>
+                            </div>
+                        </div>
+                        <div class="summary-meta">
+                            Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
+                        </div>
+                        
+                        <div class="summary-events" id="daily-watch-events-${idx}" style="display: ${expandedDailyWatchIdx === idx ? 'block' : 'none'}">
+                            <!-- Events will be loaded here -->
+                        </div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    }
+    
+    function toggleDailyWatchSummary(idx) {
+        if (expandedDailyWatchIdx === idx) {
+            expandedDailyWatchIdx = null;
+        } else {
+            expandedDailyWatchIdx = idx;
+            loadDailyWatchEvents(idx);
+        }
+        renderDailyWatchSummaries();
+    }
+    
+    function loadDailyWatchEvents(idx) {
+        const summary = eventsData.daily_watch_summaries?.[idx];
+        if (!summary || !summary.events) return;
+        
+        const container = document.getElementById(`daily-watch-events-${idx}`);
+        if (!container || container.children.length > 0) return;
+        
+        container.innerHTML = `
+            <div class="events-divider"></div>
+            <div class="events-grid">
+                ${summary.events.map(event => `
+                    <div class="event-mini-card">
+                        <div class="event-mini-title">${event.title}</div>
+                        <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    }
+
+
     function toggleTagSummary(idx) {
         if (expandedTagIdx === idx) {
             expandedTagIdx = null;
@@ -223,6 +390,8 @@ const App = (() => {
     return {
         init,
         toggleTagSummary,
+        toggleHourWatchSummary,
+        toggleDailyWatchSummary,
         loadEvents,
         renderEvents
     };

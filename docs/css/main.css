@@ -339,6 +339,20 @@ body {
     margin-top: 4rem;
 }
 
+/* Watch Sections (1-Hour & Daily) */
+.watch-section {
+    margin-top: 4rem;
+}
+
+.watch-section h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+
+
 .long-term-section h2 {
     font-size: 2rem;
     font-weight: 700;
