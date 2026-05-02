@@ -1,6 +1,6 @@
 // event-detail.js - Event Detail Page Logic
 
-const SEARXNG_URL = 'http://192.168.123.101:8000'; // Your local SearXNG instance
+const POLYMARKET_API = 'https://gamma-api.polymarket.com/events';
 
 async function init() {
     const eventId = getEventIdFromURL();
@@ -19,56 +19,88 @@ function getEventIdFromURL() {
 
 async function loadEventDetail(eventId) {
     try {
-        // Load events data
+        // Load local events data
         const response = await fetch('data/technology/events.json');
         if (!response.ok) throw new Error('Failed to load events data');
         
         const data = await response.json();
         
-        // Find event in daily_watch_summaries
-        let event = null;
-        if (data.daily_watch_summaries) {
-            for (const summary of data.daily_watch_summaries) {
-                if (summary.events) {
-                    event = summary.events.find(e => e.id === eventId);
-                    if (event) {
-                        event.tag = summary.tag;
-                        event.tag_display = summary.tag_display;
-                        break;
-                    }
-                }
-            }
-        }
-        
-        // Also check new_entries and exited_entries
-        if (!event) {
-            event = data.new_entries?.find(e => e.id === eventId);
-        }
-        if (!event) {
-            event = data.exited_entries?.find(e => e.id === eventId);
-        }
-        
-        // Also check long_term_summaries
-        if (!event && data.long_term_summaries) {
-            for (const summary of data.long_term_summaries) {
-                if (summary.events) {
-                    event = summary.events.find(e => e.id === eventId);
-                    if (event) break;
-                }
-            }
-        }
+        // Find event in all summaries
+        let event = findEventInData(data, eventId);
         
         if (!event) {
             showError('Event not found');
             return;
         }
         
+        // Load additional details from Polymarket API
+        const apiDetails = await loadPolymarketAPIDetail(eventId);
+        if (apiDetails) {
+            event.apiDetails = apiDetails;
+        }
+        
         renderEventDetail(event);
-        loadRelatedNews(event.title, event.tags);
         
     } catch (error) {
         console.error('Error loading event:', error);
         showError('Failed to load event details');
+    }
+}
+
+function findEventInData(data, eventId) {
+    let event = null;
+    
+    // Check daily_watch_summaries
+    if (data.daily_watch_summaries) {
+        for (const summary of data.daily_watch_summaries) {
+            if (summary.events) {
+                event = summary.events.find(e => e.id === eventId);
+                if (event) {
+                    event.tag = summary.tag;
+                    event.tag_display = summary.tag_display;
+                    break;
+                }
+            }
+        }
+    }
+    
+    // Check new_entries
+    if (!event && data.new_entries) {
+        event = data.new_entries.find(e => e.id === eventId);
+    }
+    
+    // Check exited_entries
+    if (!event && data.exited_entries) {
+        event = data.exited_entries.find(e => e.id === eventId);
+    }
+    
+    // Check long_term_summaries
+    if (!event && data.long_term_summaries) {
+        for (const summary of data.long_term_summaries) {
+            if (summary.events) {
+                event = summary.events.find(e => e.id === eventId);
+                if (event) break;
+            }
+        }
+    }
+    
+    return event;
+}
+
+async function loadPolymarketAPIDetail(eventId) {
+    try {
+        const url = `${POLYMARKET_API}?ids=${eventId}`;
+        const response = await fetch(url);
+        if (!response.ok) return null;
+        
+        const events = await response.json();
+        if (events && events.length > 0) {
+            return events[0];
+        }
+        return null;
+    } catch (error) {
+        console.error('Error loading Polymarket API:', error);
+        return null;
     }
 }
 
@@ -78,6 +110,14 @@ function renderEventDetail(event) {
     
     const probability = event.current_prob || event.probability || 0;
     const historyHtml = event.history ? renderHistory(event.history) : '';
+    const apiDetails = event.apiDetails;
+    
+    // Extract API fields
+    const description = apiDetails?.description || '';
+    const endDate = apiDetails?.endDate || '';
+    const volume = apiDetails?.volume || 0;
+    const liquidity = apiDetails?.liquidity || 0;
+    const outcomePrices = apiDetails?.outcomePrices ? JSON.parse(apiDetails.outcomePrices) : null;
     
     container.innerHTML = `
         <div class="event-detail-card">
@@ -99,6 +139,24 @@ function renderEventDetail(event) {
                         <span>${event.tag_display || event.tag.toUpperCase()}</span>
                     </div>
                 ` : ''}
+                ${endDate ? `
+                    <div class="meta-item">
+                        <span class="meta-label">End Date:</span>
+                        <span>${new Date(endDate).toLocaleString('zh-CN')}</span>
+                    </div>
+                ` : ''}
+                ${volume > 0 ? `
+                    <div class="meta-item">
+                        <span class="meta-label">Volume:</span>
+                        <span>$${volume.toLocaleString()}</span>
+                    </div>
+                ` : ''}
+                ${liquidity > 0 ? `
+                    <div class="meta-item">
+                        <span class="meta-label">Liquidity:</span>
+                        <span>$${liquidity.toLocaleString()}</span>
+                    </div>
+                ` : ''}
                 ${event.first_seen ? `
                     <div class="meta-item">
                         <span class="meta-label">First Seen:</span>
@@ -113,6 +171,29 @@ function renderEventDetail(event) {
                 </div>
             ` : ''}
             
+            ${description ? `
+                <div class="event-description">
+                    <h3>📝 Description</h3>
+                    <div class="description-content">${formatDescription(description)}</div>
+                </div>
+            ` : ''}
+            
+            ${outcomePrices && outcomePrices.length >= 2 ? `
+                <div class="outcome-prices">
+                    <h3>💰 Outcome Prices</h3>
+                    <div class="outcome-grid">
+                        <div class="outcome-item">
+                            <div class="outcome-label">Yes</div>
+                            <div class="outcome-value">${(parseFloat(outcomePrices[0]) * 100).toFixed(1)}%</div>
+                        </div>
+                        <div class="outcome-item">
+                            <div class="outcome-label">No</div>
+                            <div class="outcome-value">${(parseFloat(outcomePrices[1]) * 100).toFixed(1)}%</div>
+                        </div>
+                    </div>
+                </div>
+            ` : ''}
+            
             ${historyHtml ? `
                 <div class="history-section">
                     <div class="history-title">📈 Probability History</div>
@@ -121,8 +202,35 @@ function renderEventDetail(event) {
                     </div>
                 </div>
             ` : ''}
+            
+            <div class="search-section">
+                <h3>🔍 Search Related News</h3>
+                <div class="search-buttons">
+                    <a href="https://duckduckgo.com/?q=${encodeURIComponent(event.title)}&t=h_&ia=news" 
+                       target="_blank" rel="noopener" class="search-btn ddg-btn">
+                        DuckDuckGo News
+                    </a>
+                    <a href="https://www.google.com/search?q=${encodeURIComponent(event.title)}&tbm=nws" 
+                       target="_blank" rel="noopener" class="search-btn google-btn">
+                        Google News
+                    </a>
+                    <a href="https://polymarket.com/event/${event.id}" 
+                       target="_blank" rel="noopener" class="search-btn polymarket-btn">
+                        View on Polymarket
+                    </a>
+                </div>
+            </div>
         </div>
     `;
+}
+
+function formatDescription(desc) {
+    if (!desc) return '';
+    // Convert newlines to <br> and preserve formatting
+    return desc
+        .replace(/\\n/g, '<br>')
+        .replace(/\\r/g, '')
+        .trim();
 }
 
 function renderHistory(history) {
@@ -140,56 +248,6 @@ function renderHistory(history) {
             </div>
         `;
     }).join('');
-}
-
-async function loadRelatedNews(title, tags) {
-    const container = document.getElementById('news-content');
-    if (!container) return;
-    
-    try {
-        // Construct search query from title and tags
-        const query = `${title} ${tags ? tags.slice(0, 3).join(' ') : ''}`;
-        
-        // Search using SearXNG
-        const searchUrl = `${SEARXNG_URL}/search?q=${encodeURIComponent(query)}&format=json&categories=news&language=zh`;
-        
-        const response = await fetch(searchUrl);
-        if (!response.ok) throw new Error('Search failed');
-        
-        const data = await response.json();
-        
-        if (data.results && data.results.length > 0) {
-            // Get the first news item
-            const news = data.results[0];
-            renderNews(news);
-        } else {
-            container.innerHTML = '<p class="no-results">No related news found</p>';
-        }
-        
-    } catch (error) {
-        console.error('Error searching news:', error);
-        container.innerHTML = '<p class="no-results">Failed to load news. Make sure SearXNG is running at ' + SEARXNG_URL + '</p>';
-    }
-}
-
-function renderNews(news) {
-    const container = document.getElementById('news-content');
-    if (!container) return;
-    
-    container.innerHTML = `
-        <div class="news-card">
-            <div class="news-title">
-                <a href="${news.url}" target="_blank" rel="noopener">${news.title}</a>
-            </div>
-            <div class="news-meta">
-                ${news.publishedDate ? `<span>📅 ${new Date(news.publishedDate).toLocaleString('zh-CN')}</span>` : ''}
-                ${news.engine ? `<span>🔍 ${news.engine}</span>` : ''}
-            </div>
-            ${news.content ? `
-                <div class="news-content">${news.content.substring(0, 300)}${news.content.length > 300 ? '...' : ''}</div>
-            ` : ''}
-        </div>
-    `;
 }
 
 function showError(message) {
