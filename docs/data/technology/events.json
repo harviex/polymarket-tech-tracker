@@ -1,11 +1,11 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-02T22:01:02.708436",
+  "updated_at": "2026-05-02T22:15:38.648423",
   "new_entries": [
     {
       "id": "57711",
       "title": "Largest Company end of June?",
-      "probability": 0.695,
+      "probability": 0.69,
       "tags": [
         "ai",
         "tech",
@@ -16,7 +16,7 @@
         "finance"
       ],
       "hours_ago": 1,
-      "change": 0.38999999999999996,
+      "change": 0.38499999999999995,
       "crossed_threshold": 0.6
     },
     {
@@ -36,7 +36,7 @@
     {
       "id": "79048",
       "title": "IPOs before 2027?",
-      "probability": 0.645,
+      "probability": 0.6605,
       "tags": [
         "ipos",
         "business",
@@ -45,7 +45,7 @@
         "finance"
       ],
       "hours_ago": 1,
-      "change": 0.29150000000000004,
+      "change": 0.307,
       "crossed_threshold": 0.6
     },
     {
@@ -144,7 +144,7 @@
     {
       "id": "48299",
       "title": "Discord IPO Closing Market Cap",
-      "probability": 0.171,
+      "probability": 0.1705,
       "tags": [
         "ipo",
         "tech",
@@ -152,7 +152,7 @@
         "finance"
       ],
       "hours_ago": 1,
-      "change": 0.6569999999999999,
+      "change": 0.6575,
       "crossed_threshold": 0.8
     },
     {
@@ -205,14 +205,14 @@
     {
       "id": "52130",
       "title": "Opensea FDV above ___ one day after launch?",
-      "probability": 0.26,
+      "probability": 0.0255,
       "tags": [
         "crypto",
         "pre-market",
         "fdv"
       ],
       "hours_ago": 1,
-      "change": 0.48,
+      "change": 0.7145,
       "crossed_threshold": 0.7
     },
     {
@@ -250,7 +250,7 @@
     {
       "id": "66118",
       "title": "Will Ari Weinstein leave OpenAI by December 31, 2026?",
-      "probability": 0.0645,
+      "probability": 0.0655,
       "tags": [
         "tech",
         "big-tech",
@@ -259,7 +259,7 @@
         "apple"
       ],
       "hours_ago": 1,
-      "change": 0.871,
+      "change": 0.87,
       "crossed_threshold": 0.9
     },
     {
@@ -345,7 +345,7 @@
     {
       "id": "73131",
       "title": "US national Ethereum reserve before 2027?",
-      "probability": 0.115,
+      "probability": 0.085,
       "tags": [
         "ethereum",
         "politics",
@@ -355,13 +355,13 @@
         "trump"
       ],
       "hours_ago": 1,
-      "change": 0.715,
+      "change": 0.745,
       "crossed_threshold": 0.8
     },
     {
       "id": "73197",
       "title": "US Treasury transactions on blockchain by June 30?",
-      "probability": 0.25,
+      "probability": 0.235,
       "tags": [
         "economy",
         "trump",
@@ -369,13 +369,13 @@
         "crypto"
       ],
       "hours_ago": 1,
-      "change": 0.495,
+      "change": 0.51,
       "crossed_threshold": 0.7
     },
     {
       "id": "73236",
       "title": "Metamask FDV above ___ one day after launch?",
-      "probability": 0.336,
+      "probability": 0.3255,
       "tags": [
         "crypto",
         "pre-market",
@@ -384,20 +384,20 @@
         "fdv"
       ],
       "hours_ago": 1,
-      "change": 0.33449999999999996,
+      "change": 0.345,
       "crossed_threshold": 0.6
     },
     {
       "id": "74055",
       "title": "Consensys IPO closing market cap above ___ ?",
-      "probability": 0.3,
+      "probability": 0.29,
       "tags": [
         "crypto",
         "ipos",
         "pre-market"
       ],
       "hours_ago": 1,
-      "change": 0.39999999999999997,
+      "change": 0.41,
       "crossed_threshold": 0.7
     },
     {
@@ -447,7 +447,7 @@
     {
       "id": "78470",
       "title": "How many cities will Waymo operate in by June 30?",
-      "probability": 0.0865,
+      "probability": 0.086,
       "tags": [
         "ai",
         "tech",
@@ -457,7 +457,7 @@
         "big-tech"
       ],
       "hours_ago": 1,
-      "change": 0.827,
+      "change": 0.8275,
       "crossed_threshold": 0.9
     },
     {
@@ -603,7 +603,7 @@
     {
       "id": "79077",
       "title": "Bitcoin more valuable than any company before 2027?",
-      "probability": 0.1,
+      "probability": 0.14,
       "tags": [
         "bitcoin",
         "crypto",
@@ -611,13 +611,13 @@
         "tech"
       ],
       "hours_ago": 1,
-      "change": 0.77,
+      "change": 0.73,
       "crossed_threshold": 0.8
     },
     {
       "id": "79078",
       "title": "Will Sam Altman get OpenAI equity by June 30?",
-      "probability": 0.4,
+      "probability": 0.365,
       "tags": [
         "tech",
         "big-tech",
@@ -626,7 +626,7 @@
         "ai"
       ],
       "hours_ago": 1,
-      "change": 0.19999999999999996,
+      "change": 0.235,
       "crossed_threshold": 0.6
     },
     {
@@ -663,7 +663,7 @@
     {
       "id": "79905",
       "title": "Where will 2026 rank among the hottest years on record?",
-      "probability": 0.335,
+      "probability": 0.565,
       "tags": [
         "science",
         "pop-culture",
@@ -673,7 +673,7 @@
         "weather-science"
       ],
       "hours_ago": 1,
-      "change": 0.33,
+      "change": 0.10000000000000009,
       "crossed_threshold": 0.6
     },
     {
@@ -737,20 +737,20 @@
     {
       "id": "84914",
       "title": "Hyperbeat FDV above ___ one day after launch?",
-      "probability": 0.3,
+      "probability": 0.034,
       "tags": [
         "crypto",
         "pre-market",
         "fdv"
       ],
       "hours_ago": 1,
-      "change": 0.39999999999999997,
+      "change": 0.6659999999999999,
       "crossed_threshold": 0.7
     },
     {
       "id": "85457",
       "title": "Kraken IPO closing market cap above ___ ?",
-      "probability": 0.275,
+      "probability": 0.255,
       "tags": [
         "pre-market",
         "ipos",
@@ -758,7 +758,7 @@
         "crypto"
       ],
       "hours_ago": 1,
-      "change": 0.44999999999999996,
+      "change": 0.47,
       "crossed_threshold": 0.7
     },
     {
@@ -823,7 +823,7 @@
     {
       "id": "89525",
       "title": "What price will Solana hit in 2026?",
-      "probability": 0.0395,
+      "probability": 0.0485,
       "tags": [
         "yearly",
         "solana",
@@ -832,13 +832,13 @@
         "crypto-prices"
       ],
       "hours_ago": 1,
-      "change": 0.921,
+      "change": 0.912,
       "crossed_threshold": 0.9
     },
     {
       "id": "89530",
       "title": "What price will XRP hit in 2026?",
-      "probability": 0.12,
+      "probability": 0.055,
       "tags": [
         "xrp",
         "crypto",
@@ -847,7 +847,7 @@
         "hit-price"
       ],
       "hours_ago": 1,
-      "change": 0.76,
+      "change": 0.825,
       "crossed_threshold": 0.8
     },
     {
@@ -883,7 +883,7 @@
     {
       "id": "89572",
       "title": "What price will BNB hit in 2026?",
-      "probability": 0.07,
+      "probability": 0.08,
       "tags": [
         "bnb",
         "yearly",
@@ -892,13 +892,13 @@
         "crypto-prices"
       ],
       "hours_ago": 1,
-      "change": 0.8600000000000001,
+      "change": 0.8500000000000001,
       "crossed_threshold": 0.9
     },
     {
       "id": "89577",
       "title": "What price will Ethena hit in 2026?",
-      "probability": 0.14,
+      "probability": 0.0675,
       "tags": [
         "crypto",
         "yearly",
@@ -907,7 +907,7 @@
         "hit-price"
       ],
       "hours_ago": 1,
-      "change": 0.72,
+      "change": 0.7925,
       "crossed_threshold": 0.8
     },
     {
@@ -988,7 +988,7 @@
     {
       "id": "90395",
       "title": "Ventuals FDV above ___ one day after launch?",
-      "probability": 0.369,
+      "probability": 0.366,
       "tags": [
         "ventuals",
         "pre-market",
@@ -996,13 +996,13 @@
         "fdv"
       ],
       "hours_ago": 1,
-      "change": 0.262,
+      "change": 0.265,
       "crossed_threshold": 0.6
     },
     {
       "id": "90401",
       "title": "Ostium FDV above ___ one day after launch?",
-      "probability": 0.116,
+      "probability": 0.123,
       "tags": [
         "crypto",
         "pre-market",
@@ -1010,7 +1010,7 @@
         "fdv"
       ],
       "hours_ago": 1,
-      "change": 0.7585000000000001,
+      "change": 0.7515000000000001,
       "crossed_threshold": 0.8
     }
   ],
@@ -1021,7 +1021,7 @@
       "tag": "tech",
       "tag_display": "TECH",
       "event_count": 16,
-      "avg_probability": 0.14303124999999997,
+      "avg_probability": 0.14090624999999998,
       "max_probability": 0.7,
       "min_probability": 0.013,
       "events": [
@@ -1039,7 +1039,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.013,
               "threshold": 0.9,
               "direction": "down"
@@ -1058,7 +1058,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.023,
               "threshold": 0.9,
               "direction": "down"
@@ -1079,7 +1079,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.165,
               "threshold": 0.8,
               "direction": "down"
@@ -1100,7 +1100,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.215,
               "threshold": 0.7,
               "direction": "down"
@@ -1110,7 +1110,7 @@
         {
           "id": "66118",
           "title": "Will Ari Weinstein leave OpenAI by December 31, 2026?",
-          "probability": 0.0645,
+          "probability": 0.0655,
           "tags": [
             "tech",
             "big-tech",
@@ -1120,8 +1120,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.0645,
+              "time": "22:15",
+              "prob": 0.0655,
               "threshold": 0.9,
               "direction": "down"
             }
@@ -1144,7 +1144,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.12,
               "threshold": 0.8,
               "direction": "down"
@@ -1165,7 +1165,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0505,
               "threshold": 0.9,
               "direction": "down"
@@ -1184,7 +1184,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.065,
               "threshold": 0.9,
               "direction": "down"
@@ -1205,7 +1205,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.15,
               "threshold": 0.8,
               "direction": "down"
@@ -1225,7 +1225,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.085,
               "threshold": 0.9,
               "direction": "down"
@@ -1243,7 +1243,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
@@ -1264,7 +1264,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0905,
               "threshold": 0.9,
               "direction": "down"
@@ -1274,7 +1274,7 @@
         {
           "id": "79078",
           "title": "Will Sam Altman get OpenAI equity by June 30?",
-          "probability": 0.4,
+          "probability": 0.365,
           "tags": [
             "tech",
             "big-tech",
@@ -1284,8 +1284,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.4,
+              "time": "22:15",
+              "prob": 0.365,
               "threshold": 0.6,
               "direction": "down"
             }
@@ -1302,7 +1302,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.06,
               "threshold": 0.9,
               "direction": "down"
@@ -1323,7 +1323,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.07,
               "threshold": 0.9,
               "direction": "down"
@@ -1342,7 +1342,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.017,
               "threshold": 0.9,
               "direction": "down"
@@ -1355,14 +1355,14 @@
       "tag": "crypto",
       "tag_display": "CRYPTO",
       "event_count": 9,
-      "avg_probability": 0.28300000000000003,
+      "avg_probability": 0.21783333333333335,
       "max_probability": 0.71,
-      "min_probability": 0.116,
+      "min_probability": 0.0255,
       "events": [
         {
           "id": "52130",
           "title": "Opensea FDV above ___ one day after launch?",
-          "probability": 0.26,
+          "probability": 0.0255,
           "tags": [
             "crypto",
             "pre-market",
@@ -1370,8 +1370,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.26,
+              "time": "22:15",
+              "prob": 0.0255,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -1389,7 +1389,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.23,
               "threshold": 0.7,
               "direction": "down"
@@ -1399,7 +1399,7 @@
         {
           "id": "73236",
           "title": "Metamask FDV above ___ one day after launch?",
-          "probability": 0.336,
+          "probability": 0.3255,
           "tags": [
             "crypto",
             "pre-market",
@@ -1409,8 +1409,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.336,
+              "time": "22:15",
+              "prob": 0.3255,
               "threshold": 0.6,
               "direction": "down"
             }
@@ -1428,7 +1428,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.71,
               "threshold": 0.7,
               "direction": "up"
@@ -1438,7 +1438,7 @@
         {
           "id": "74055",
           "title": "Consensys IPO closing market cap above ___ ?",
-          "probability": 0.3,
+          "probability": 0.29,
           "tags": [
             "crypto",
             "ipos",
@@ -1446,8 +1446,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.3,
+              "time": "22:15",
+              "prob": 0.29,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -1456,7 +1456,7 @@
         {
           "id": "84914",
           "title": "Hyperbeat FDV above ___ one day after launch?",
-          "probability": 0.3,
+          "probability": 0.034,
           "tags": [
             "crypto",
             "pre-market",
@@ -1464,8 +1464,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.3,
+              "time": "22:15",
+              "prob": 0.034,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -1474,7 +1474,7 @@
         {
           "id": "89577",
           "title": "What price will Ethena hit in 2026?",
-          "probability": 0.14,
+          "probability": 0.0675,
           "tags": [
             "crypto",
             "yearly",
@@ -1484,8 +1484,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.14,
+              "time": "22:15",
+              "prob": 0.0675,
               "threshold": 0.8,
               "direction": "down"
             }
@@ -1505,7 +1505,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.155,
               "threshold": 0.8,
               "direction": "down"
@@ -1515,7 +1515,7 @@
         {
           "id": "90401",
           "title": "Ostium FDV above ___ one day after launch?",
-          "probability": 0.116,
+          "probability": 0.123,
           "tags": [
             "crypto",
             "pre-market",
@@ -1524,8 +1524,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.116,
+              "time": "22:15",
+              "prob": 0.123,
               "threshold": 0.8,
               "direction": "down"
             }
@@ -1537,8 +1537,8 @@
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 6,
-      "avg_probability": 0.18158333333333332,
-      "max_probability": 0.695,
+      "avg_probability": 0.18066666666666664,
+      "max_probability": 0.69,
       "min_probability": 0.002,
       "events": [
         {
@@ -1556,7 +1556,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.002,
               "threshold": 0.9,
               "direction": "down"
@@ -1566,7 +1566,7 @@
         {
           "id": "57711",
           "title": "Largest Company end of June?",
-          "probability": 0.695,
+          "probability": 0.69,
           "tags": [
             "ai",
             "tech",
@@ -1578,8 +1578,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.695,
+              "time": "22:15",
+              "prob": 0.69,
               "threshold": 0.6,
               "direction": "up"
             }
@@ -1588,7 +1588,7 @@
         {
           "id": "78470",
           "title": "How many cities will Waymo operate in by June 30?",
-          "probability": 0.0865,
+          "probability": 0.086,
           "tags": [
             "ai",
             "tech",
@@ -1599,8 +1599,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.0865,
+              "time": "22:15",
+              "prob": 0.086,
               "threshold": 0.9,
               "direction": "down"
             }
@@ -1620,7 +1620,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.1105,
               "threshold": 0.8,
               "direction": "down"
@@ -1642,7 +1642,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0505,
               "threshold": 0.9,
               "direction": "down"
@@ -1661,7 +1661,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.145,
               "threshold": 0.8,
               "direction": "down"
@@ -1692,7 +1692,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.012,
               "threshold": 0.9,
               "direction": "down"
@@ -1713,7 +1713,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.03,
               "threshold": 0.9,
               "direction": "down"
@@ -1736,7 +1736,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.265,
               "threshold": 0.7,
               "direction": "down"
@@ -1757,7 +1757,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.11,
               "threshold": 0.8,
               "direction": "down"
@@ -1778,7 +1778,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.075,
               "threshold": 0.9,
               "direction": "down"
@@ -1810,7 +1810,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.135,
               "threshold": 0.8,
               "direction": "down"
@@ -1832,7 +1832,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0425,
               "threshold": 0.9,
               "direction": "down"
@@ -1852,7 +1852,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.24,
               "threshold": 0.7,
               "direction": "down"
@@ -1865,7 +1865,7 @@
       "tag": "bitcoin",
       "tag_display": "BITCOIN",
       "event_count": 3,
-      "avg_probability": 0.17333333333333334,
+      "avg_probability": 0.18666666666666668,
       "max_probability": 0.378,
       "min_probability": 0.042,
       "events": [
@@ -1879,7 +1879,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.378,
               "threshold": 0.6,
               "direction": "down"
@@ -1889,7 +1889,7 @@
         {
           "id": "79077",
           "title": "Bitcoin more valuable than any company before 2027?",
-          "probability": 0.1,
+          "probability": 0.14,
           "tags": [
             "bitcoin",
             "crypto",
@@ -1898,8 +1898,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.1,
+              "time": "22:15",
+              "prob": 0.14,
               "threshold": 0.8,
               "direction": "down"
             }
@@ -1918,7 +1918,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.042,
               "threshold": 0.9,
               "direction": "down"
@@ -1947,7 +1947,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.22,
               "threshold": 0.7,
               "direction": "down"
@@ -1965,7 +1965,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.39,
               "threshold": 0.6,
               "direction": "down"
@@ -1984,7 +1984,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.175,
               "threshold": 0.8,
               "direction": "down"
@@ -1997,14 +1997,14 @@
       "tag": "ethereum",
       "tag_display": "ETHEREUM",
       "event_count": 2,
-      "avg_probability": 0.07625,
-      "max_probability": 0.115,
+      "avg_probability": 0.06125,
+      "max_probability": 0.085,
       "min_probability": 0.0375,
       "events": [
         {
           "id": "73131",
           "title": "US national Ethereum reserve before 2027?",
-          "probability": 0.115,
+          "probability": 0.085,
           "tags": [
             "ethereum",
             "politics",
@@ -2015,8 +2015,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.115,
+              "time": "22:15",
+              "prob": 0.085,
               "threshold": 0.8,
               "direction": "down"
             }
@@ -2035,7 +2035,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0375,
               "threshold": 0.9,
               "direction": "down"
@@ -2048,14 +2048,14 @@
       "tag": "economy",
       "tag_display": "ECONOMY",
       "event_count": 2,
-      "avg_probability": 0.12875,
-      "max_probability": 0.25,
+      "avg_probability": 0.12125,
+      "max_probability": 0.235,
       "min_probability": 0.0075,
       "events": [
         {
           "id": "73197",
           "title": "US Treasury transactions on blockchain by June 30?",
-          "probability": 0.25,
+          "probability": 0.235,
           "tags": [
             "economy",
             "trump",
@@ -2064,8 +2064,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.25,
+              "time": "22:15",
+              "prob": 0.235,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -2085,7 +2085,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0075,
               "threshold": 0.9,
               "direction": "down"
@@ -2098,8 +2098,8 @@
       "tag": "pre-market",
       "tag_display": "PRE-MARKET",
       "event_count": 2,
-      "avg_probability": 0.14650000000000002,
-      "max_probability": 0.275,
+      "avg_probability": 0.1365,
+      "max_probability": 0.255,
       "min_probability": 0.018,
       "events": [
         {
@@ -2115,7 +2115,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.018,
               "threshold": 0.9,
               "direction": "down"
@@ -2125,7 +2125,7 @@
         {
           "id": "85457",
           "title": "Kraken IPO closing market cap above ___ ?",
-          "probability": 0.275,
+          "probability": 0.255,
           "tags": [
             "pre-market",
             "ipos",
@@ -2134,8 +2134,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.275,
+              "time": "22:15",
+              "prob": 0.255,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -2147,14 +2147,14 @@
       "tag": "yearly",
       "tag_display": "YEARLY",
       "event_count": 2,
-      "avg_probability": 0.08225,
+      "avg_probability": 0.08675,
       "max_probability": 0.125,
-      "min_probability": 0.0395,
+      "min_probability": 0.0485,
       "events": [
         {
           "id": "89525",
           "title": "What price will Solana hit in 2026?",
-          "probability": 0.0395,
+          "probability": 0.0485,
           "tags": [
             "yearly",
             "solana",
@@ -2164,8 +2164,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.0395,
+              "time": "22:15",
+              "prob": 0.0485,
               "threshold": 0.9,
               "direction": "down"
             }
@@ -2184,7 +2184,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.125,
               "threshold": 0.8,
               "direction": "down"
@@ -2215,7 +2215,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0115,
               "threshold": 0.9,
               "direction": "down"
@@ -2228,14 +2228,14 @@
       "tag": "ipo",
       "tag_display": "IPO",
       "event_count": 1,
-      "avg_probability": 0.171,
-      "max_probability": 0.171,
-      "min_probability": 0.171,
+      "avg_probability": 0.1705,
+      "max_probability": 0.1705,
+      "min_probability": 0.1705,
       "events": [
         {
           "id": "48299",
           "title": "Discord IPO Closing Market Cap",
-          "probability": 0.171,
+          "probability": 0.1705,
           "tags": [
             "ipo",
             "tech",
@@ -2244,8 +2244,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.171,
+              "time": "22:15",
+              "prob": 0.1705,
               "threshold": 0.8,
               "direction": "down"
             }
@@ -2257,14 +2257,14 @@
       "tag": "ipos",
       "tag_display": "IPOS",
       "event_count": 1,
-      "avg_probability": 0.645,
-      "max_probability": 0.645,
-      "min_probability": 0.645,
+      "avg_probability": 0.6605,
+      "max_probability": 0.6605,
+      "min_probability": 0.6605,
       "events": [
         {
           "id": "79048",
           "title": "IPOs before 2027?",
-          "probability": 0.645,
+          "probability": 0.6605,
           "tags": [
             "ipos",
             "business",
@@ -2274,8 +2274,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.645,
+              "time": "22:15",
+              "prob": 0.6605,
               "threshold": 0.6,
               "direction": "up"
             }
@@ -2304,7 +2304,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0455,
               "threshold": 0.9,
               "direction": "down"
@@ -2317,14 +2317,14 @@
       "tag": "science",
       "tag_display": "SCIENCE",
       "event_count": 1,
-      "avg_probability": 0.335,
-      "max_probability": 0.335,
-      "min_probability": 0.335,
+      "avg_probability": 0.565,
+      "max_probability": 0.565,
+      "min_probability": 0.565,
       "events": [
         {
           "id": "79905",
           "title": "Where will 2026 rank among the hottest years on record?",
-          "probability": 0.335,
+          "probability": 0.565,
           "tags": [
             "science",
             "pop-culture",
@@ -2335,8 +2335,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.335,
+              "time": "22:15",
+              "prob": 0.565,
               "threshold": 0.6,
               "direction": "down"
             }
@@ -2363,7 +2363,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.735,
               "threshold": 0.7,
               "direction": "up"
@@ -2393,7 +2393,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.164,
               "threshold": 0.8,
               "direction": "down"
@@ -2406,14 +2406,14 @@
       "tag": "xrp",
       "tag_display": "XRP",
       "event_count": 1,
-      "avg_probability": 0.12,
-      "max_probability": 0.12,
-      "min_probability": 0.12,
+      "avg_probability": 0.055,
+      "max_probability": 0.055,
+      "min_probability": 0.055,
       "events": [
         {
           "id": "89530",
           "title": "What price will XRP hit in 2026?",
-          "probability": 0.12,
+          "probability": 0.055,
           "tags": [
             "xrp",
             "crypto",
@@ -2423,8 +2423,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.12,
+              "time": "22:15",
+              "prob": 0.055,
               "threshold": 0.8,
               "direction": "down"
             }
@@ -2453,7 +2453,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.0645,
               "threshold": 0.9,
               "direction": "down"
@@ -2483,7 +2483,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.165,
               "threshold": 0.8,
               "direction": "down"
@@ -2496,14 +2496,14 @@
       "tag": "bnb",
       "tag_display": "BNB",
       "event_count": 1,
-      "avg_probability": 0.07,
-      "max_probability": 0.07,
-      "min_probability": 0.07,
+      "avg_probability": 0.08,
+      "max_probability": 0.08,
+      "min_probability": 0.08,
       "events": [
         {
           "id": "89572",
           "title": "What price will BNB hit in 2026?",
-          "probability": 0.07,
+          "probability": 0.08,
           "tags": [
             "bnb",
             "yearly",
@@ -2513,8 +2513,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.07,
+              "time": "22:15",
+              "prob": 0.08,
               "threshold": 0.9,
               "direction": "down"
             }
@@ -2543,7 +2543,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.115,
               "threshold": 0.8,
               "direction": "down"
@@ -2573,7 +2573,7 @@
           ],
           "history": [
             {
-              "time": "22:01",
+              "time": "22:15",
               "prob": 0.145,
               "threshold": 0.8,
               "direction": "down"
@@ -2586,14 +2586,14 @@
       "tag": "ventuals",
       "tag_display": "VENTUALS",
       "event_count": 1,
-      "avg_probability": 0.369,
-      "max_probability": 0.369,
-      "min_probability": 0.369,
+      "avg_probability": 0.366,
+      "max_probability": 0.366,
+      "min_probability": 0.366,
       "events": [
         {
           "id": "90395",
           "title": "Ventuals FDV above ___ one day after launch?",
-          "probability": 0.369,
+          "probability": 0.366,
           "tags": [
             "ventuals",
             "pre-market",
@@ -2602,8 +2602,8 @@
           ],
           "history": [
             {
-              "time": "22:01",
-              "prob": 0.369,
+              "time": "22:15",
+              "prob": 0.366,
               "threshold": 0.6,
               "direction": "down"
             }
@@ -2617,7 +2617,7 @@
       "tag": "tech",
       "tag_display": "TECH",
       "event_count": 16,
-      "avg_probability": 0.14303125,
+      "avg_probability": 0.14090624999999998,
       "max_probability": 0.7,
       "min_probability": 0.013,
       "events": [
@@ -2662,9 +2662,15 @@
               "prob": 0.4,
               "threshold": 0.6,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.365,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.4
+          "current_prob": 0.365
         },
         {
           "id": "49286",
@@ -2687,6 +2693,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.013,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.013,
               "threshold": 0.9,
               "direction": "down"
@@ -2713,6 +2725,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.023,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.023,
               "threshold": 0.9,
               "direction": "down"
@@ -2744,6 +2762,12 @@
               "prob": 0.165,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.165,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
           "current_prob": 0.165
@@ -2769,6 +2793,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.215,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.215,
               "threshold": 0.7,
               "direction": "down"
@@ -2799,9 +2829,15 @@
               "prob": 0.0645,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0655,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.0645
+          "current_prob": 0.0655
         },
         {
           "id": "67081",
@@ -2827,6 +2863,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.12,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.12,
               "threshold": 0.8,
               "direction": "down"
@@ -2858,6 +2900,12 @@
               "prob": 0.0505,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0505,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0505
@@ -2881,6 +2929,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.065,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.065,
               "threshold": 0.9,
               "direction": "down"
@@ -2912,6 +2966,12 @@
               "prob": 0.15,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.15,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
           "current_prob": 0.15
@@ -2939,6 +2999,12 @@
               "prob": 0.085,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.085,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.085
@@ -2961,6 +3027,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.7,
+              "threshold": 0.7,
+              "direction": "up"
+            },
+            {
+              "time": "22:15",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
@@ -2992,6 +3064,12 @@
               "prob": 0.0905,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0905,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0905
@@ -3014,6 +3092,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.06,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.06,
               "threshold": 0.9,
               "direction": "down"
@@ -3045,6 +3129,12 @@
               "prob": 0.07,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.07,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.07
@@ -3071,6 +3161,12 @@
               "prob": 0.017,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.017,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.017
@@ -3081,9 +3177,9 @@
       "tag": "crypto",
       "tag_display": "CRYPTO",
       "event_count": 9,
-      "avg_probability": 0.28300000000000003,
+      "avg_probability": 0.21783333333333335,
       "max_probability": 0.71,
-      "min_probability": 0.116,
+      "min_probability": 0.0255,
       "events": [
         {
           "id": "74055",
@@ -3112,9 +3208,15 @@
               "prob": 0.3,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.29,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.3
+          "current_prob": 0.29
         },
         {
           "id": "84914",
@@ -3143,9 +3245,15 @@
               "prob": 0.3,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.034,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.3
+          "current_prob": 0.034
         },
         {
           "id": "52130",
@@ -3168,9 +3276,15 @@
               "prob": 0.26,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0255,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.26
+          "current_prob": 0.0255
         },
         {
           "id": "73040",
@@ -3191,6 +3305,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.23,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.23,
               "threshold": 0.7,
               "direction": "down"
@@ -3221,9 +3341,15 @@
               "prob": 0.336,
               "threshold": 0.6,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.3255,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.336
+          "current_prob": 0.3255
         },
         {
           "id": "73902",
@@ -3244,6 +3370,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.71,
+              "threshold": 0.7,
+              "direction": "up"
+            },
+            {
+              "time": "22:15",
               "prob": 0.71,
               "threshold": 0.7,
               "direction": "up"
@@ -3274,9 +3406,15 @@
               "prob": 0.14,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0675,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.14
+          "current_prob": 0.0675
         },
         {
           "id": "89603",
@@ -3299,6 +3437,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.155,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.155,
               "threshold": 0.8,
               "direction": "down"
@@ -3328,9 +3472,15 @@
               "prob": 0.116,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.123,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.116
+          "current_prob": 0.123
         }
       ]
     },
@@ -3338,8 +3488,8 @@
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 6,
-      "avg_probability": 0.18158333333333332,
-      "max_probability": 0.695,
+      "avg_probability": 0.18066666666666664,
+      "max_probability": 0.69,
       "min_probability": 0.002,
       "events": [
         {
@@ -3364,6 +3514,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.002,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.002,
               "threshold": 0.9,
               "direction": "down"
@@ -3396,9 +3552,15 @@
               "prob": 0.695,
               "threshold": 0.6,
               "direction": "up"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.69,
+              "threshold": 0.6,
+              "direction": "up"
             }
           ],
-          "current_prob": 0.695
+          "current_prob": 0.69
         },
         {
           "id": "78470",
@@ -3424,9 +3586,15 @@
               "prob": 0.0865,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.086,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.0865
+          "current_prob": 0.086
         },
         {
           "id": "79066",
@@ -3449,6 +3617,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.1105,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.1105,
               "threshold": 0.8,
               "direction": "down"
@@ -3481,6 +3655,12 @@
               "prob": 0.0505,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0505,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0505
@@ -3504,6 +3684,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.145,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.145,
               "threshold": 0.8,
               "direction": "down"
@@ -3545,6 +3731,12 @@
               "prob": 0.012,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.012,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.012
@@ -3570,6 +3762,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.03,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.03,
               "threshold": 0.9,
               "direction": "down"
@@ -3603,6 +3801,12 @@
               "prob": 0.265,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.265,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
           "current_prob": 0.265
@@ -3628,6 +3832,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.11,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.11,
               "threshold": 0.8,
               "direction": "down"
@@ -3659,6 +3869,12 @@
               "prob": 0.075,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.075,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.075
@@ -3669,7 +3885,7 @@
       "tag": "bitcoin",
       "tag_display": "BITCOIN",
       "event_count": 3,
-      "avg_probability": 0.17333333333333334,
+      "avg_probability": 0.18666666666666668,
       "max_probability": 0.378,
       "min_probability": 0.042,
       "events": [
@@ -3705,6 +3921,12 @@
               "prob": 0.378,
               "threshold": 0.6,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.378,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ],
           "current_prob": 0.378
@@ -3731,9 +3953,15 @@
               "prob": 0.1,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.14,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.1
+          "current_prob": 0.14
         },
         {
           "id": "89502",
@@ -3755,6 +3983,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.042,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.042,
               "threshold": 0.9,
               "direction": "down"
@@ -3797,6 +4031,12 @@
               "prob": 0.135,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.135,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
           "current_prob": 0.135
@@ -3826,6 +4066,12 @@
               "prob": 0.0425,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0425,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0425
@@ -3850,6 +4096,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.24,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.24,
               "threshold": 0.7,
               "direction": "down"
@@ -3889,6 +4141,12 @@
               "prob": 0.22,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.22,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
           "current_prob": 0.22
@@ -3911,6 +4169,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.39,
+              "threshold": 0.6,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.39,
               "threshold": 0.6,
               "direction": "down"
@@ -3940,6 +4204,12 @@
               "prob": 0.175,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.175,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
           "current_prob": 0.175
@@ -3950,8 +4220,8 @@
       "tag": "economy",
       "tag_display": "ECONOMY",
       "event_count": 2,
-      "avg_probability": 0.12875,
-      "max_probability": 0.25,
+      "avg_probability": 0.12125,
+      "max_probability": 0.235,
       "min_probability": 0.0075,
       "events": [
         {
@@ -3988,9 +4258,15 @@
               "prob": 0.25,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.235,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.25
+          "current_prob": 0.235
         },
         {
           "id": "79041",
@@ -4016,6 +4292,12 @@
               "prob": 0.0075,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0075,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0075
@@ -4026,8 +4308,8 @@
       "tag": "ethereum",
       "tag_display": "ETHEREUM",
       "event_count": 2,
-      "avg_probability": 0.07625,
-      "max_probability": 0.115,
+      "avg_probability": 0.06125,
+      "max_probability": 0.085,
       "min_probability": 0.0375,
       "events": [
         {
@@ -4054,9 +4336,15 @@
               "prob": 0.115,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.085,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.115
+          "current_prob": 0.085
         },
         {
           "id": "89519",
@@ -4081,6 +4369,12 @@
               "prob": 0.0375,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0375,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0375
@@ -4091,8 +4385,8 @@
       "tag": "pre-market",
       "tag_display": "PRE-MARKET",
       "event_count": 2,
-      "avg_probability": 0.14650000000000002,
-      "max_probability": 0.275,
+      "avg_probability": 0.1365,
+      "max_probability": 0.255,
       "min_probability": 0.018,
       "events": [
         {
@@ -4115,6 +4409,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.018,
+              "threshold": 0.9,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.018,
               "threshold": 0.9,
               "direction": "down"
@@ -4144,9 +4444,15 @@
               "prob": 0.275,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.255,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.275
+          "current_prob": 0.255
         }
       ]
     },
@@ -4154,9 +4460,9 @@
       "tag": "yearly",
       "tag_display": "YEARLY",
       "event_count": 2,
-      "avg_probability": 0.08225,
+      "avg_probability": 0.08675,
       "max_probability": 0.125,
-      "min_probability": 0.0395,
+      "min_probability": 0.0485,
       "events": [
         {
           "id": "89525",
@@ -4181,9 +4487,15 @@
               "prob": 0.0395,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0485,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.0395
+          "current_prob": 0.0485
         },
         {
           "id": "89588",
@@ -4205,6 +4517,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.125,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.125,
               "threshold": 0.8,
               "direction": "down"
@@ -4254,6 +4572,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.164,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.164,
               "threshold": 0.8,
               "direction": "down"
@@ -4312,6 +4636,12 @@
               "prob": 0.165,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.165,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
           "current_prob": 0.165
@@ -4350,6 +4680,12 @@
               "prob": 0.0115,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0115,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0115
@@ -4360,9 +4696,9 @@
       "tag": "ipo",
       "tag_display": "IPO",
       "event_count": 1,
-      "avg_probability": 0.171,
-      "max_probability": 0.171,
-      "min_probability": 0.171,
+      "avg_probability": 0.1705,
+      "max_probability": 0.1705,
+      "min_probability": 0.1705,
       "events": [
         {
           "id": "48299",
@@ -4386,9 +4722,15 @@
               "prob": 0.171,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.1705,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.171
+          "current_prob": 0.1705
         }
       ]
     },
@@ -4396,9 +4738,9 @@
       "tag": "ipos",
       "tag_display": "IPOS",
       "event_count": 1,
-      "avg_probability": 0.645,
-      "max_probability": 0.645,
-      "min_probability": 0.645,
+      "avg_probability": 0.6605,
+      "max_probability": 0.6605,
+      "min_probability": 0.6605,
       "events": [
         {
           "id": "79048",
@@ -4423,9 +4765,15 @@
               "prob": 0.645,
               "threshold": 0.6,
               "direction": "up"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.6605,
+              "threshold": 0.6,
+              "direction": "up"
             }
           ],
-          "current_prob": 0.645
+          "current_prob": 0.6605
         }
       ]
     },
@@ -4460,6 +4808,12 @@
               "prob": 0.0455,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0455,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0455
@@ -4470,9 +4824,9 @@
       "tag": "science",
       "tag_display": "SCIENCE",
       "event_count": 1,
-      "avg_probability": 0.335,
-      "max_probability": 0.335,
-      "min_probability": 0.335,
+      "avg_probability": 0.565,
+      "max_probability": 0.565,
+      "min_probability": 0.565,
       "events": [
         {
           "id": "79905",
@@ -4498,9 +4852,15 @@
               "prob": 0.335,
               "threshold": 0.6,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.565,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.335
+          "current_prob": 0.565
         }
       ]
     },
@@ -4533,6 +4893,12 @@
               "prob": 0.735,
               "threshold": 0.7,
               "direction": "up"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.735,
+              "threshold": 0.7,
+              "direction": "up"
             }
           ],
           "current_prob": 0.735
@@ -4543,9 +4909,9 @@
       "tag": "xrp",
       "tag_display": "XRP",
       "event_count": 1,
-      "avg_probability": 0.12,
-      "max_probability": 0.12,
-      "min_probability": 0.12,
+      "avg_probability": 0.055,
+      "max_probability": 0.055,
+      "min_probability": 0.055,
       "events": [
         {
           "id": "89530",
@@ -4570,9 +4936,15 @@
               "prob": 0.12,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.055,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.12
+          "current_prob": 0.055
         }
       ]
     },
@@ -4607,6 +4979,12 @@
               "prob": 0.0645,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.0645,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
           "current_prob": 0.0645
@@ -4617,9 +4995,9 @@
       "tag": "bnb",
       "tag_display": "BNB",
       "event_count": 1,
-      "avg_probability": 0.07,
-      "max_probability": 0.07,
-      "min_probability": 0.07,
+      "avg_probability": 0.08,
+      "max_probability": 0.08,
+      "min_probability": 0.08,
       "events": [
         {
           "id": "89572",
@@ -4644,9 +5022,15 @@
               "prob": 0.07,
               "threshold": 0.9,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.08,
+              "threshold": 0.9,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.07
+          "current_prob": 0.08
         }
       ]
     },
@@ -4678,6 +5062,12 @@
             },
             {
               "time": "22:01",
+              "prob": 0.115,
+              "threshold": 0.8,
+              "direction": "down"
+            },
+            {
+              "time": "22:15",
               "prob": 0.115,
               "threshold": 0.8,
               "direction": "down"
@@ -4718,6 +5108,12 @@
               "prob": 0.145,
               "threshold": 0.8,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.145,
+              "threshold": 0.8,
+              "direction": "down"
             }
           ],
           "current_prob": 0.145
@@ -4728,9 +5124,9 @@
       "tag": "ventuals",
       "tag_display": "VENTUALS",
       "event_count": 1,
-      "avg_probability": 0.369,
-      "max_probability": 0.369,
-      "min_probability": 0.369,
+      "avg_probability": 0.366,
+      "max_probability": 0.366,
+      "min_probability": 0.366,
       "events": [
         {
           "id": "90395",
@@ -4754,9 +5150,15 @@
               "prob": 0.369,
               "threshold": 0.6,
               "direction": "down"
+            },
+            {
+              "time": "22:15",
+              "prob": 0.366,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.369
+          "current_prob": 0.366
         }
       ]
     }
