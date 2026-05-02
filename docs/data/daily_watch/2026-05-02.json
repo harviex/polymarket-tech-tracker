@@ -55,7 +55,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.235
+      "current_prob": 0.255
     },
     "79078": {
       "id": "79078",
@@ -118,7 +118,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.465
+      "current_prob": 0.38
     },
     "74055": {
       "id": "74055",
@@ -167,7 +167,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.28
+      "current_prob": 0.3
     },
     "86448": {
       "id": "86448",
@@ -390,7 +390,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.3
+      "current_prob": 0.305
     },
     "32565": {
       "id": "32565",
@@ -529,7 +529,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0105
+      "current_prob": 0.01
     },
     "48297": {
       "id": "48297",
@@ -575,7 +575,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.031
+      "current_prob": 0.0295
     },
     "48299": {
       "id": "48299",
@@ -619,7 +619,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.164
+      "current_prob": 0.1625
     },
     "48300": {
       "id": "48300",
@@ -845,7 +845,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.165
+      "current_prob": 0.175
     },
     "57705": {
       "id": "57705",
@@ -1262,7 +1262,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.3185
+      "current_prob": 0.3295
     },
     "73902": {
       "id": "73902",
@@ -1390,7 +1390,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.049
+      "current_prob": 0.0505
     },
     "78468": {
       "id": "78468",
@@ -1525,7 +1525,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.018
+      "current_prob": 0.0175
     },
     "79041": {
       "id": "79041",
@@ -1571,7 +1571,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.0075
+      "current_prob": 0.008
     },
     "79048": {
       "id": "79048",
@@ -1616,7 +1616,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.6475
+      "current_prob": 0.647
     },
     "79049": {
       "id": "79049",
@@ -1887,7 +1887,7 @@
           "direction": "up"
         }
       ],
-      "current_prob": 0.7
+      "current_prob": 0.695
     },
     "79075": {
       "id": "79075",
@@ -2022,7 +2022,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.15
+      "current_prob": 0.145
     },
     "79079": {
       "id": "79079",
@@ -2202,7 +2202,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.385
+      "current_prob": 0.375
     },
     "80144": {
       "id": "80144",
@@ -2648,7 +2648,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.12
+      "current_prob": 0.095
     },
     "89554": {
       "id": "89554",
@@ -3052,7 +3052,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.349
+      "current_prob": 0.369
     },
     "90401": {
       "id": "90401",
@@ -3096,7 +3096,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.1185
+      "current_prob": 0.116
     }
   }
 }
