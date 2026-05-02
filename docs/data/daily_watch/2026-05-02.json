@@ -17,6 +17,12 @@
           "prob": 0.775,
           "threshold": 0.9,
           "direction": "down"
+        },
+        {
+          "time": "19:13",
+          "prob": 0.775,
+          "threshold": 0.9,
+          "direction": "down"
         }
       ],
       "current_prob": 0.775
@@ -38,9 +44,76 @@
           "prob": 0.57,
           "threshold": 0.6,
           "direction": "down"
+        },
+        {
+          "time": "19:13",
+          "prob": 0.51,
+          "threshold": 0.6,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.57
+      "current_prob": 0.51
+    },
+    "74055": {
+      "id": "74055",
+      "title": "Consensys IPO closing market cap above ___ ?",
+      "tags": [
+        "crypto",
+        "ipos",
+        "pre-market"
+      ],
+      "first_seen": "2026-05-02T19:13:05.627451",
+      "history": [
+        {
+          "time": "19:13",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.7
+    },
+    "86448": {
+      "id": "86448",
+      "title": "Which companies announce bankruptcy before 2027?",
+      "tags": [
+        "business",
+        "crypto",
+        "finance",
+        "tech",
+        "bitcoin"
+      ],
+      "first_seen": "2026-05-02T19:13:05.627493",
+      "history": [
+        {
+          "time": "19:13",
+          "prob": 0.48,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.48
+    },
+    "89559": {
+      "id": "89559",
+      "title": "What price will Hyperliquid hit in 2026?",
+      "tags": [
+        "hyperliquid",
+        "crypto",
+        "yearly",
+        "hit-price",
+        "crypto-prices"
+      ],
+      "first_seen": "2026-05-02T19:13:05.627512",
+      "history": [
+        {
+          "time": "19:13",
+          "prob": 0.78,
+          "threshold": 0.8,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.78
     }
   }
 }
