@@ -147,7 +147,7 @@ const App = (() => {
                         </div>
                         
                         <div class="summary-events" id="summary-events-${idx}" style="display: ${expandedTagIdx === idx ? 'block' : 'none'};">
-                            <!-- Lazy loaded events will appear here -->
+                            ${expandedTagIdx === idx && summary.events ? renderLongTermEventsList(summary.events) : ''}
                         </div>
                     </div>
                 `).join('')}
@@ -200,7 +200,7 @@ const App = (() => {
                         </div>
                         
                         <div class="summary-events" id="hour-watch-events-${idx}" style="display: ${expandedHourWatchIdx === idx ? 'block' : 'none'}">
-                            <!-- Events will be loaded here -->
+                            ${expandedHourWatchIdx === idx && summary.events ? renderHourWatchEventsList(summary.events) : ''}
                         </div>
                     </div>
                 `).join('')}
@@ -222,25 +222,20 @@ const App = (() => {
             expandedHourWatchIdx = null;
         } else {
             expandedHourWatchIdx = idx;
-            loadHourWatchEvents(idx);
         }
         renderHourWatchSummaries();
     }
     
-    function loadHourWatchEvents(idx) {
-        const summary = eventsData.hour_watch_summaries?.[idx];
-        if (!summary || !summary.events) return;
+    function renderHourWatchEventsList(events) {
+        if (!events || events.length === 0) return '';
         
-        const container = document.getElementById(`hour-watch-events-${idx}`);
-        if (!container || container.children.length > 0) return;
-        
-        container.innerHTML = `
+        return `
             <div class="events-divider"></div>
             <div class="events-grid">
-                ${summary.events.map(event => `
+                ${events.map(event => `
                     <div class="event-mini-card">
                         <div class="event-mini-title">${event.title}</div>
-                        <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
+                        <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
                         ${event.history ? `
                             <div class="event-history">
                                 <small>${formatHistory(event.history)}</small>
@@ -339,22 +334,17 @@ const App = (() => {
             expandedTagIdx = null;
         } else {
             expandedTagIdx = idx;
-            loadSummaryEvents(idx);
         }
         renderLongTermSummaries();
     }
     
-    function loadSummaryEvents(idx) {
-        const summary = eventsData.long_term_summaries[idx];
-        if (!summary || !summary.events) return;
+    function renderLongTermEventsList(events) {
+        if (!events || events.length === 0) return '';
         
-        const container = document.getElementById(`summary-events-${idx}`);
-        if (!container || container.children.length > 0) return;
-        
-        container.innerHTML = `
+        return `
             <div class="events-divider"></div>
             <div class="events-grid">
-                ${summary.events.map(event => `
+                ${events.map(event => `
                     <div class="event-mini-card">
                         <div class="event-mini-title">${event.title}</div>
                         <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
