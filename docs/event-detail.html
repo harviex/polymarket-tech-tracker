@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Detail - Polymarket Tech Tracker</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/summary-cards.css">
+    <link rel="stylesheet" href="css/event-detail.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header class="header glass-card">
+            <h1>📊 Event Detail</h1>
+            <a href="index.html" class="back-link">← Back to Dashboard</a>
+        </header>
+
+        <main>
+            <div id="event-content">
+                <div class="loading-placeholder">
+                    <div class="spinner"></div>
+                    <p>Loading event details...</p>
+                </div>
+            </div>
+
+            <section class="news-section glass-card">
+                <h2>📰 Related News (via SearXNG)</h2>
+                <div id="news-content">
+                    <div class="loading-placeholder">
+                        <div class="spinner"></div>
+                        <p>Searching for related news...</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="js/event-detail.js"></script>
+</body>
+</html>

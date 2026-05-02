@@ -233,7 +233,7 @@ const App = (() => {
             <div class="events-divider"></div>
             <div class="events-grid">
                 ${events.map(event => `
-                    <div class="event-mini-card">
+                    <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
                             <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
@@ -316,7 +316,7 @@ const App = (() => {
             <div class="events-divider"></div>
             <div class="events-grid">
                 ${events.map(event => `
-                    <div class="event-mini-card">
+                    <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
                             <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
@@ -349,7 +349,7 @@ const App = (() => {
             <div class="events-divider"></div>
             <div class="events-grid">
                 ${events.map(event => `
-                    <div class="event-mini-card">
+                    <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
                             <div class="event-mini-probability">${(event.probability * 100).toFixed(1)}%</div>
