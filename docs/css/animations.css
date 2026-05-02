@@ -1,14 +1,4 @@
 /* Animations - Moderate Animation Effects */
-/* Keep particles but reduce count */
-#particles-js {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: 0;
-    pointer-events: none;
-}
 
 /* Simple fade for scroll elements */
 .scroll-animate {
