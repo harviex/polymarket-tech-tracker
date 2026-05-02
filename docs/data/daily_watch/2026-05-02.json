@@ -111,9 +111,52 @@
           "prob": 0.78,
           "threshold": 0.8,
           "direction": "down"
+        },
+        {
+          "time": "11:34",
+          "prob": 0.835,
+          "threshold": 0.8,
+          "direction": "up"
         }
       ],
-      "current_prob": 0.78
+      "current_prob": 0.835
+    },
+    "72966": {
+      "id": "72966",
+      "title": "Another S&P 500 Company buys Bitcoin by ___?",
+      "tags": [
+        "bitcoin",
+        "crypto"
+      ],
+      "first_seen": "2026-05-02T11:34:50.574389",
+      "history": [
+        {
+          "time": "11:34",
+          "prob": 0.622,
+          "threshold": 0.6,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.622
+    },
+    "84914": {
+      "id": "84914",
+      "title": "Hyperbeat FDV above ___ one day after launch?",
+      "tags": [
+        "crypto",
+        "pre-market",
+        "fdv"
+      ],
+      "first_seen": "2026-05-02T11:34:50.574419",
+      "history": [
+        {
+          "time": "11:34",
+          "prob": 0.7,
+          "threshold": 0.9,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.7
     }
   }
 }
