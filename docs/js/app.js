@@ -121,7 +121,7 @@ const App = (() => {
         container.innerHTML = `
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card" onclick="toggleTagSummary(${idx})">
+                    <div class="summary-card glass-card" onclick="App.toggleTagSummary(${idx})">
                         <div class="summary-header">
                             <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
                             <div class="summary-toggle">
@@ -174,7 +174,7 @@ const App = (() => {
         container.innerHTML = `
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card" onclick="toggleHourWatchSummary(${idx})">
+                    <div class="summary-card glass-card" onclick="App.toggleHourWatchSummary(${idx})">
                         <div class="summary-header">
                             <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
                             <div class="summary-toggle">
@@ -264,7 +264,7 @@ const App = (() => {
         container.innerHTML = `
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card" onclick="toggleDailyWatchSummary(${idx})">
+                    <div class="summary-card glass-card" onclick="App.toggleDailyWatchSummary(${idx})">
                         <div class="summary-header">
                             <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
                             <div class="summary-toggle">
