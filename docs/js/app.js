@@ -295,7 +295,7 @@ const App = (() => {
                         </div>
                         
                         <div class="summary-events" id="daily-watch-events-${idx}" style="display: ${expandedDailyWatchIdx === idx ? 'block' : 'none'}">
-                            <!-- Events will be loaded here -->
+                            ${expandedDailyWatchIdx === idx && summary.events ? renderDailyWatchEventsList(summary.events) : ''}
                         </div>
                     </div>
                 `).join('')}
@@ -308,22 +308,17 @@ const App = (() => {
             expandedDailyWatchIdx = null;
         } else {
             expandedDailyWatchIdx = idx;
-            loadDailyWatchEvents(idx);
         }
         renderDailyWatchSummaries();
     }
     
-    function loadDailyWatchEvents(idx) {
-        const summary = eventsData.daily_watch_summaries?.[idx];
-        if (!summary || !summary.events) return;
+    function renderDailyWatchEventsList(events) {
+        if (!events || events.length === 0) return '';
         
-        const container = document.getElementById(`daily-watch-events-${idx}`);
-        if (!container || container.children.length > 0) return;
-        
-        container.innerHTML = `
+        return `
             <div class="events-divider"></div>
             <div class="events-grid">
-                ${summary.events.map(event => `
+                ${events.map(event => `
                     <div class="event-mini-card">
                         <div class="event-mini-title">${event.title}</div>
                         <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
