@@ -58,6 +58,16 @@
     margin-left: 0.5rem;
 }
 
+.badge-threshold {
+    background: var(--accent-purple, #8b5cf6);
+    color: white;
+    padding: 0.125rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    margin-left: 0.5rem;
+    font-weight: 600;
+}
+
 /* News animation */
 @keyframes slideDown {
     from {

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Fetch Polymarket events - Final Version
-1-hour comparison + 3% change threshold
+Fetch Polymarket events - Multi-Threshold Version
+60%/70%/80%/90% thresholds + 1-hour comparison
 Generates tag summary cards for long-term high-probability events
 """
 import json
@@ -16,8 +16,7 @@ TECH_DIR = DATA_DIR / "technology"
 CONFIG_FILE = DATA_DIR / "config.json"
 
 GAMMA_API = "https://gamma-api.polymarket.com/events"
-HIGH_THRESHOLD = 0.70
-CHANGE_THRESHOLD = 0.03  # 3% change
+THRESHOLDS = [0.60, 0.70, 0.80, 0.90]  # Multi-threshold detection
 
 def load_config():
     try:
@@ -113,7 +112,7 @@ def save_snapshot(events):
             pass
 
 def categorize_events(current_events, last_hour_events):
-    """Categorize based on 1-hour comparison + 3% threshold"""
+    """Categorize based on crossing any threshold (60%/70%/80%/90%)"""
     new_entries = []
     exited_entries = []
     long_term = []
@@ -121,33 +120,45 @@ def categorize_events(current_events, last_hour_events):
     for event in current_events:
         event_id = event['id']
         current_prob = event['probability']
-        current_high = current_prob >= HIGH_THRESHOLD
         
         # Get last hour data
         last_data = last_hour_events.get(event_id, {})
         last_prob = last_data.get('probability', current_prob)
-        last_high = last_prob >= HIGH_THRESHOLD
         
-        # Calculate change
-        prob_change = abs(current_prob - last_prob)
+        # Check which thresholds were crossed
+        crossed_up = None  # Highest threshold crossed going up
+        crossed_down = None  # Highest threshold crossed going down
         
-        # Check if crossed threshold with >3% change
-        crossed_to_high = (not last_high) and current_high and prob_change >= CHANGE_THRESHOLD
-        crossed_from_high = last_high and (not current_high) and prob_change >= CHANGE_THRESHOLD
+        for threshold in sorted(THRESHOLDS, reverse=True):  # Check from high to low
+            last_above = last_prob >= threshold
+            current_above = current_prob >= threshold
+            
+            if not last_above and current_above:
+                # Crossed UP across this threshold
+                crossed_up = threshold
+                break  # Found highest threshold crossed up
+            elif last_above and not current_above:
+                # Crossed DOWN across this threshold
+                crossed_down = threshold
+                break  # Found highest threshold crossed down
         
-        if crossed_to_high:
+        # Categorize
+        if crossed_up:
             new_entries.append({
                 **event,
                 'hours_ago': 1,
-                'change': prob_change
+                'change': current_prob - last_prob,
+                'crossed_threshold': crossed_up
             })
-        elif crossed_from_high:
+        elif crossed_down:
             exited_entries.append({
                 **event,
                 'hours_ago': 1,
-                'change': prob_change
+                'change': last_prob - current_prob,  # Positive value for display
+                'crossed_threshold': crossed_down
             })
-        elif current_high:
+        elif current_prob >= min(THRESHOLDS):
+            # Currently above lowest threshold but didn't just cross
             long_term.append(event)
     
     return new_entries, exited_entries, long_term

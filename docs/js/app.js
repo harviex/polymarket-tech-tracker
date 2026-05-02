@@ -53,6 +53,7 @@ const App = (() => {
                 <div class="event-meta">
                     <span class="label-new">NEW</span>
                     <span>↑ +${(event.change * 100).toFixed(1)}%</span>
+                    ${event.crossed_threshold ? `<span class="badge-threshold">越过 ${(event.crossed_threshold * 100).toFixed(0)}% 线</span>` : ''}
                     ${event.news ? '<span class="badge-news">📰 News</span>' : ''}
                 </div>
                 ${event.tags ? `<div class="event-tags">${event.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : ''}
@@ -88,6 +89,7 @@ const App = (() => {
                 </div>
                 <div class="event-meta">
                     <span>↓ -${(event.change * 100).toFixed(1)}%</span>
+                    ${event.crossed_threshold ? `<span class="badge-threshold">低过 ${(event.crossed_threshold * 100).toFixed(0)}% 线</span>` : ''}
                     ${event.news ? '<span class="badge-news">📰 News</span>' : ''}
                 </div>
                 
