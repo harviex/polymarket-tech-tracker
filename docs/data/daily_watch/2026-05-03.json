@@ -16,9 +16,15 @@
           "prob": 0.695,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "17:36",
+          "prob": 0.695,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.7
+      "current_prob": 0.695
     }
   }
 }
