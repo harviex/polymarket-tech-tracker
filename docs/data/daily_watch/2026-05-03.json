@@ -28,9 +28,15 @@
           "prob": 0.7,
           "threshold": 0.7,
           "direction": "up"
+        },
+        {
+          "time": "20:29",
+          "prob": 0.695,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.7
+      "current_prob": 0.695
     },
     "57708": {
       "id": "57708",
@@ -52,7 +58,27 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.52
+      "current_prob": 0.515
+    },
+    "73197": {
+      "id": "73197",
+      "title": "US Treasury transactions on blockchain by June 30?",
+      "tags": [
+        "economy",
+        "trump",
+        "politics",
+        "crypto"
+      ],
+      "first_seen": "2026-05-03T20:29:42.060179",
+      "history": [
+        {
+          "time": "20:29",
+          "prob": 0.61,
+          "threshold": 0.6,
+          "direction": "up"
+        }
+      ],
+      "current_prob": 0.61
     }
   }
 }
