@@ -22,9 +22,15 @@
           "prob": 0.695,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "18:38",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
         }
       ],
-      "current_prob": 0.695
+      "current_prob": 0.7
     }
   }
 }

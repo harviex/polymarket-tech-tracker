@@ -1,19 +1,19 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T02:04:46.451309",
+  "updated_at": "2026-05-03T18:38:52.588123",
   "hour_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
       "event_count": 1,
-      "avg_probability": 0.695,
-      "max_probability": 0.695,
-      "min_probability": 0.695,
+      "avg_probability": 0.7,
+      "max_probability": 0.7,
+      "min_probability": 0.7,
       "events": [
         {
           "id": "79070",
           "title": "AI wins IMO gold medal in 2026?",
-          "probability": 0.695,
+          "probability": 0.7,
           "tags": [
             "tech",
             "ai",
@@ -21,10 +21,10 @@
           ],
           "history": [
             {
-              "time": "02:04",
-              "prob": 0.695,
+              "time": "18:38",
+              "prob": 0.7,
               "threshold": 0.7,
-              "direction": "down"
+              "direction": "up"
             }
           ]
         }
@@ -36,9 +36,9 @@
       "tag": "tech",
       "tag_display": "TECH",
       "event_count": 1,
-      "avg_probability": 0.695,
-      "max_probability": 0.695,
-      "min_probability": 0.695,
+      "avg_probability": 0.7,
+      "max_probability": 0.7,
+      "min_probability": 0.7,
       "events": [
         {
           "id": "79070",
@@ -48,16 +48,28 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-04T02:04:46.450804",
+          "first_seen": "2026-05-03T02:03:13.773858",
           "history": [
             {
-              "time": "02:04",
+              "time": "02:03",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "17:36",
+              "prob": 0.695,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "18:38",
+              "prob": 0.7,
+              "threshold": 0.7,
+              "direction": "up"
             }
           ],
-          "current_prob": 0.695
+          "current_prob": 0.7
         }
       ]
     }
