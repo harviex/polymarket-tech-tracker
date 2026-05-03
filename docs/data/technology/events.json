@@ -1,19 +1,19 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-03T19:43:51.721830",
+  "updated_at": "2026-05-04T04:01:25.049094",
   "hour_watch_summaries": [
     {
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.52,
-      "max_probability": 0.52,
-      "min_probability": 0.52,
+      "avg_probability": 0.515,
+      "max_probability": 0.515,
+      "min_probability": 0.515,
       "events": [
         {
           "id": "57708",
           "title": "Which company has second best AI model end of June?",
-          "probability": 0.52,
+          "probability": 0.515,
           "tags": [
             "big-tech",
             "ai",
@@ -24,8 +24,8 @@
           ],
           "history": [
             {
-              "time": "19:43",
-              "prob": 0.52,
+              "time": "04:01",
+              "prob": 0.515,
               "threshold": 0.6,
               "direction": "down"
             }
@@ -51,22 +51,16 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-03T02:03:13.773858",
+          "first_seen": "2026-05-04T02:04:46.450804",
           "history": [
             {
-              "time": "02:03",
+              "time": "02:04",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             },
             {
-              "time": "17:36",
-              "prob": 0.695,
-              "threshold": 0.7,
-              "direction": "down"
-            },
-            {
-              "time": "18:38",
+              "time": "03:01",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
@@ -80,9 +74,9 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.52,
-      "max_probability": 0.52,
-      "min_probability": 0.52,
+      "avg_probability": 0.515,
+      "max_probability": 0.515,
+      "min_probability": 0.515,
       "events": [
         {
           "id": "57708",
@@ -95,16 +89,16 @@
             "tech",
             "gpt"
           ],
-          "first_seen": "2026-05-03T19:43:51.721431",
+          "first_seen": "2026-05-04T04:01:25.048556",
           "history": [
             {
-              "time": "19:43",
-              "prob": 0.52,
+              "time": "04:01",
+              "prob": 0.515,
               "threshold": 0.6,
               "direction": "down"
             }
           ],
-          "current_prob": 0.52
+          "current_prob": 0.515
         }
       ]
     }

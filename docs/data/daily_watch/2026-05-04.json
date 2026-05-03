@@ -25,6 +25,28 @@
         }
       ],
       "current_prob": 0.7
+    },
+    "57708": {
+      "id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "tags": [
+        "big-tech",
+        "ai",
+        "openai",
+        "grok",
+        "tech",
+        "gpt"
+      ],
+      "first_seen": "2026-05-04T04:01:25.048556",
+      "history": [
+        {
+          "time": "04:01",
+          "prob": 0.515,
+          "threshold": 0.6,
+          "direction": "down"
+        }
+      ],
+      "current_prob": 0.515
     }
   }
 }
