@@ -1,45 +1,15 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-03T21:30:28.417763",
-  "hour_watch_summaries": [
-    {
-      "tag": "economy",
-      "tag_display": "ECONOMY",
-      "event_count": 1,
-      "avg_probability": 0.525,
-      "max_probability": 0.525,
-      "min_probability": 0.525,
-      "events": [
-        {
-          "id": "73197",
-          "title": "US Treasury transactions on blockchain by June 30?",
-          "probability": 0.525,
-          "tags": [
-            "economy",
-            "trump",
-            "politics",
-            "crypto"
-          ],
-          "history": [
-            {
-              "time": "21:30",
-              "prob": 0.525,
-              "threshold": 0.6,
-              "direction": "down"
-            }
-          ]
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-05-04T06:02:19.229533",
+  "hour_watch_summaries": [],
   "daily_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
       "event_count": 1,
-      "avg_probability": 0.685,
-      "max_probability": 0.685,
-      "min_probability": 0.685,
+      "avg_probability": 0.69,
+      "max_probability": 0.69,
+      "min_probability": 0.69,
       "events": [
         {
           "id": "79070",
@@ -49,34 +19,28 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-03T02:03:13.773858",
+          "first_seen": "2026-05-04T02:04:46.450804",
           "history": [
             {
-              "time": "02:03",
+              "time": "02:04",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             },
             {
-              "time": "17:36",
-              "prob": 0.695,
-              "threshold": 0.7,
-              "direction": "down"
-            },
-            {
-              "time": "18:38",
+              "time": "03:01",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
             },
             {
-              "time": "20:29",
-              "prob": 0.695,
+              "time": "05:02",
+              "prob": 0.69,
               "threshold": 0.7,
               "direction": "down"
             }
           ],
-          "current_prob": 0.685
+          "current_prob": 0.69
         }
       ]
     },
@@ -84,9 +48,9 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.495,
-      "max_probability": 0.495,
-      "min_probability": 0.495,
+      "avg_probability": 0.46,
+      "max_probability": 0.46,
+      "min_probability": 0.46,
       "events": [
         {
           "id": "57708",
@@ -99,52 +63,16 @@
             "tech",
             "gpt"
           ],
-          "first_seen": "2026-05-03T19:43:51.721431",
+          "first_seen": "2026-05-04T04:01:25.048556",
           "history": [
             {
-              "time": "19:43",
-              "prob": 0.52,
+              "time": "04:01",
+              "prob": 0.515,
               "threshold": 0.6,
               "direction": "down"
             }
           ],
-          "current_prob": 0.495
-        }
-      ]
-    },
-    {
-      "tag": "economy",
-      "tag_display": "ECONOMY",
-      "event_count": 1,
-      "avg_probability": 0.525,
-      "max_probability": 0.525,
-      "min_probability": 0.525,
-      "events": [
-        {
-          "id": "73197",
-          "title": "US Treasury transactions on blockchain by June 30?",
-          "tags": [
-            "economy",
-            "trump",
-            "politics",
-            "crypto"
-          ],
-          "first_seen": "2026-05-03T20:29:42.060179",
-          "history": [
-            {
-              "time": "20:29",
-              "prob": 0.61,
-              "threshold": 0.6,
-              "direction": "up"
-            },
-            {
-              "time": "21:30",
-              "prob": 0.525,
-              "threshold": 0.6,
-              "direction": "down"
-            }
-          ],
-          "current_prob": 0.525
+          "current_prob": 0.46
         }
       ]
     }
