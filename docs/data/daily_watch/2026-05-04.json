@@ -22,9 +22,15 @@
           "prob": 0.7,
           "threshold": 0.7,
           "direction": "up"
+        },
+        {
+          "time": "05:02",
+          "prob": 0.69,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.7
+      "current_prob": 0.69
     },
     "57708": {
       "id": "57708",
@@ -46,7 +52,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.515
+      "current_prob": 0.505
     }
   }
 }
