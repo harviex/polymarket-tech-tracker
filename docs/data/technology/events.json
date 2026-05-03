@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T06:02:19.229533",
+  "updated_at": "2026-05-03T22:27:26.620829",
   "hour_watch_summaries": [],
   "daily_watch_summaries": [
     {
@@ -19,23 +19,29 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-04T02:04:46.450804",
+          "first_seen": "2026-05-03T02:03:13.773858",
           "history": [
             {
-              "time": "02:04",
+              "time": "02:03",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             },
             {
-              "time": "03:01",
+              "time": "17:36",
+              "prob": 0.695,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "18:38",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
             },
             {
-              "time": "05:02",
-              "prob": 0.69,
+              "time": "20:29",
+              "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -48,9 +54,9 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.46,
-      "max_probability": 0.46,
-      "min_probability": 0.46,
+      "avg_probability": 0.445,
+      "max_probability": 0.445,
+      "min_probability": 0.445,
       "events": [
         {
           "id": "57708",
@@ -63,16 +69,52 @@
             "tech",
             "gpt"
           ],
-          "first_seen": "2026-05-04T04:01:25.048556",
+          "first_seen": "2026-05-03T19:43:51.721431",
           "history": [
             {
-              "time": "04:01",
-              "prob": 0.515,
+              "time": "19:43",
+              "prob": 0.52,
               "threshold": 0.6,
               "direction": "down"
             }
           ],
-          "current_prob": 0.46
+          "current_prob": 0.445
+        }
+      ]
+    },
+    {
+      "tag": "economy",
+      "tag_display": "ECONOMY",
+      "event_count": 1,
+      "avg_probability": 0.51,
+      "max_probability": 0.51,
+      "min_probability": 0.51,
+      "events": [
+        {
+          "id": "73197",
+          "title": "US Treasury transactions on blockchain by June 30?",
+          "tags": [
+            "economy",
+            "trump",
+            "politics",
+            "crypto"
+          ],
+          "first_seen": "2026-05-03T20:29:42.060179",
+          "history": [
+            {
+              "time": "20:29",
+              "prob": 0.61,
+              "threshold": 0.6,
+              "direction": "up"
+            },
+            {
+              "time": "21:30",
+              "prob": 0.525,
+              "threshold": 0.6,
+              "direction": "down"
+            }
+          ],
+          "current_prob": 0.51
         }
       ]
     }
