@@ -1,11 +1,96 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T00:05:01.901898",
-  "hour_watch_summaries": [],
-  "daily_watch_summaries": [],
+  "updated_at": "2026-05-04T00:40:00.000000",
+  "hour_watch_summaries": [
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 3,
+      "avg_probability": 0.75,
+      "max_probability": 0.95,
+      "min_probability": 0.65,
+      "events": [
+        {
+          "id": "12345",
+          "title": "Test Event 1 - AI wins IMO gold medal in 2026?",
+          "probability": 0.70,
+          "tags": ["tech", "ai", "big-tech"],
+          "history": [
+            {"time": "00:40", "prob": 0.70, "threshold": 0.70, "direction": "up"}
+          ]
+        },
+        {
+          "id": "12346", 
+          "title": "Test Event 2 - Anthropic IPO before 2027?",
+          "probability": 0.85,
+          "tags": ["tech", "ai", "ipo"],
+          "history": [
+            {"time": "00:40", "prob": 0.85, "threshold": 0.80, "direction": "up"}
+          ]
+        },
+        {
+          "id": "12347",
+          "title": "Test Event 3 - New MAI model released by April 2026?",
+          "probability": 0.95,
+          "tags": ["tech", "ai"],
+          "history": [
+            {"time": "00:40", "prob": 0.95, "threshold": 0.90, "direction": "up"}
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "ai",
+      "tag_display": "AI",
+      "event_count": 2,
+      "avg_probability": 0.80,
+      "max_probability": 0.90,
+      "min_probability": 0.70,
+      "events": [
+        {
+          "id": "12348",
+          "title": "Test Event 4 - Best AI model on May 8?",
+          "probability": 0.90,
+          "tags": ["ai", "tech"],
+          "history": [
+            {"time": "00:40", "prob": 0.90, "threshold": 0.90, "direction": "up"}
+          ]
+        },
+        {
+          "id": "12349",
+          "title": "Test Event 5 - OpenAI revenue ranking April 27-May 3?",
+          "probability": 0.75,
+          "tags": ["ai", "openai"],
+          "history": [
+            {"time": "00:40", "prob": 0.75, "threshold": 0.70, "direction": "up"}
+          ]
+        }
+      ]
+    }
+  ],
+  "daily_watch_summaries": [
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 5,
+      "avg_probability": 0.78,
+      "max_probability": 0.95,
+      "min_probability": 0.65,
+      "events": [
+        {
+          "id": "12345",
+          "title": "Test Event 1 - AI wins IMO gold medal in 2026?",
+          "probability": 0.70,
+          "tags": ["tech", "ai", "big-tech"],
+          "history": [
+            {"time": "00:40", "prob": 0.70, "threshold": 0.70, "direction": "up"}
+          ]
+        }
+      ]
+    }
+  ],
   "long_term_data": {
-    "event_count": 0,
-    "events": [],
+    "events": {},
     "updated_at": null
   }
 }
