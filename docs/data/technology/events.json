@@ -1,30 +1,33 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T03:01:50.634595",
+  "updated_at": "2026-05-03T19:43:51.721830",
   "hour_watch_summaries": [
     {
-      "tag": "tech",
-      "tag_display": "TECH",
+      "tag": "big-tech",
+      "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.7,
-      "max_probability": 0.7,
-      "min_probability": 0.7,
+      "avg_probability": 0.52,
+      "max_probability": 0.52,
+      "min_probability": 0.52,
       "events": [
         {
-          "id": "79070",
-          "title": "AI wins IMO gold medal in 2026?",
-          "probability": 0.7,
+          "id": "57708",
+          "title": "Which company has second best AI model end of June?",
+          "probability": 0.52,
           "tags": [
-            "tech",
+            "big-tech",
             "ai",
-            "big-tech"
+            "openai",
+            "grok",
+            "tech",
+            "gpt"
           ],
           "history": [
             {
-              "time": "03:01",
-              "prob": 0.7,
-              "threshold": 0.7,
-              "direction": "up"
+              "time": "19:43",
+              "prob": 0.52,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ]
         }
@@ -48,22 +51,60 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-04T02:04:46.450804",
+          "first_seen": "2026-05-03T02:03:13.773858",
           "history": [
             {
-              "time": "02:04",
+              "time": "02:03",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             },
             {
-              "time": "03:01",
+              "time": "17:36",
+              "prob": 0.695,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "18:38",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
             }
           ],
           "current_prob": 0.7
+        }
+      ]
+    },
+    {
+      "tag": "big-tech",
+      "tag_display": "BIG-TECH",
+      "event_count": 1,
+      "avg_probability": 0.52,
+      "max_probability": 0.52,
+      "min_probability": 0.52,
+      "events": [
+        {
+          "id": "57708",
+          "title": "Which company has second best AI model end of June?",
+          "tags": [
+            "big-tech",
+            "ai",
+            "openai",
+            "grok",
+            "tech",
+            "gpt"
+          ],
+          "first_seen": "2026-05-03T19:43:51.721431",
+          "history": [
+            {
+              "time": "19:43",
+              "prob": 0.52,
+              "threshold": 0.6,
+              "direction": "down"
+            }
+          ],
+          "current_prob": 0.52
         }
       ]
     }
