@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-03T18:38:52.588123",
+  "updated_at": "2026-05-04T03:01:50.634595",
   "hour_watch_summaries": [
     {
       "tag": "tech",
@@ -21,7 +21,7 @@
           ],
           "history": [
             {
-              "time": "18:38",
+              "time": "03:01",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
@@ -48,22 +48,16 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-03T02:03:13.773858",
+          "first_seen": "2026-05-04T02:04:46.450804",
           "history": [
             {
-              "time": "02:03",
+              "time": "02:04",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             },
             {
-              "time": "17:36",
-              "prob": 0.695,
-              "threshold": 0.7,
-              "direction": "down"
-            },
-            {
-              "time": "18:38",
+              "time": "03:01",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
