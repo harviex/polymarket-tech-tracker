@@ -34,6 +34,12 @@
           "prob": 0.69,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "08:10",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up"
         }
       ],
       "current_prob": 0.7
@@ -64,7 +70,7 @@
           "direction": "down"
         }
       ],
-      "current_prob": 0.445
+      "current_prob": 0.455
     },
     "57711": {
       "id": "57711",
@@ -97,9 +103,15 @@
           "prob": 0.69,
           "threshold": 0.7,
           "direction": "down"
+        },
+        {
+          "time": "08:10",
+          "prob": 0.685,
+          "threshold": 0.7,
+          "direction": "down"
         }
       ],
-      "current_prob": 0.69
+      "current_prob": 0.685
     }
   }
 }

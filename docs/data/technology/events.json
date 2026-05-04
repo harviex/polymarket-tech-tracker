@@ -1,19 +1,19 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T05:20:57.002542",
+  "updated_at": "2026-05-04T08:10:45.901616",
   "hour_watch_summaries": [
     {
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 1,
-      "avg_probability": 0.69,
-      "max_probability": 0.69,
-      "min_probability": 0.69,
+      "avg_probability": 0.685,
+      "max_probability": 0.685,
+      "min_probability": 0.685,
       "events": [
         {
           "id": "57711",
           "title": "Largest Company end of June?",
-          "probability": 0.69,
+          "probability": 0.685,
           "tags": [
             "ai",
             "tech",
@@ -25,10 +25,38 @@
           ],
           "history": [
             {
-              "time": "05:20",
-              "prob": 0.69,
+              "time": "08:10",
+              "prob": 0.685,
               "threshold": 0.7,
               "direction": "down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 1,
+      "avg_probability": 0.7,
+      "max_probability": 0.7,
+      "min_probability": 0.7,
+      "events": [
+        {
+          "id": "79070",
+          "title": "AI wins IMO gold medal in 2026?",
+          "probability": 0.7,
+          "tags": [
+            "tech",
+            "ai",
+            "big-tech"
+          ],
+          "history": [
+            {
+              "time": "08:10",
+              "prob": 0.7,
+              "threshold": 0.7,
+              "direction": "up"
             }
           ]
         }
@@ -77,6 +105,12 @@
               "prob": 0.69,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "08:10",
+              "prob": 0.7,
+              "threshold": 0.7,
+              "direction": "up"
             }
           ],
           "current_prob": 0.7
@@ -87,9 +121,9 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.445,
-      "max_probability": 0.445,
-      "min_probability": 0.445,
+      "avg_probability": 0.455,
+      "max_probability": 0.455,
+      "min_probability": 0.455,
       "events": [
         {
           "id": "57708",
@@ -117,7 +151,7 @@
               "direction": "down"
             }
           ],
-          "current_prob": 0.445
+          "current_prob": 0.455
         }
       ]
     },
@@ -125,9 +159,9 @@
       "tag": "ai",
       "tag_display": "AI",
       "event_count": 1,
-      "avg_probability": 0.69,
-      "max_probability": 0.69,
-      "min_probability": 0.69,
+      "avg_probability": 0.685,
+      "max_probability": 0.685,
+      "min_probability": 0.685,
       "events": [
         {
           "id": "57711",
@@ -160,9 +194,15 @@
               "prob": 0.69,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "08:10",
+              "prob": 0.685,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.69
+          "current_prob": 0.685
         }
       ]
     }
