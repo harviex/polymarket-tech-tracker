@@ -1,96 +1,106 @@
-// app.js - Two-Board System: 每日榜 + 长期榜
+// app.js - Daily Watch (Threshold Crossings) + Long-Term Board
 const App = (() => {
-    let eventsData = {
-        daily_watch_summaries: [],
-        long_term_data: { events: {}, updated_at: null }
-    };
+    let dailyWatchData = { date: '', crossings: [], crossing_count: 0 };
+    let longTermData = { events: {}, updated_at: null, event_count: 0 };
     
     async function init() {
-        await loadEvents();
+        await Promise.all([loadDailyWatch(), loadLongTerm()]);
         renderAllBoards();
         setupSearch();
         setupScrollAnimations();
     }
     
-    async function loadEvents() {
+    // ==================== 加载数据 ====================
+    async function loadDailyWatch() {
+        const today = new Date().toISOString().split('T')[0];
         try {
-            const response = await fetch('data/technology/events.json');
+            const response = await fetch(`data/daily_watch/${today}.json`);
             if (response.ok) {
-                eventsData = await response.json();
+                dailyWatchData = await response.json();
             }
         } catch (error) {
-            console.error('Failed to load events:', error);
+            console.error('Failed to load Daily Watch:', error);
         }
     }
     
+    async function loadLongTerm() {
+        try {
+            const response = await fetch('data/long_term/long_term.json');
+            if (response.ok) {
+                longTermData = await response.json();
+            }
+        } catch (error) {
+            console.error('Failed to load Long-Term data:', error);
+        }
+    }
+    
+    // ==================== 渲染所有板块 ====================
     function renderAllBoards() {
         renderDailyWatchBoard();
         renderLongTermBoard();
         updateMetaInfo();
     }
     
-    // ==================== 每日榜 ====================
+    // ==================== Daily Watch (阈值跨越) ====================
     function renderDailyWatchBoard() {
-        const container = document.getElementById('daily-watch-groups');
+        const container = document.getElementById('daily-watch-crossings');
         if (!container) return;
         
-        const summaries = eventsData.daily_watch_summaries || [];
+        const crossings = dailyWatchData.crossings || [];
         
-        if (summaries.length === 0) {
-            container.innerHTML = '<p class="no-results">No daily watch events</p>';
+        if (crossings.length === 0) {
+            container.innerHTML = '<p class="no-results">今天还没有阈值跨越事件</p>';
             return;
         }
         
+        // 按时间倒序排列（最新的在前面）
+        const sorted = [...crossings].sort((a, b) => b.timestamp.localeCompare(a.timestamp));
+        
         container.innerHTML = `
-            <div class="summary-cards-grid">
-                ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card">
-                        <div class="summary-tag" style="margin-bottom: 1rem;">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                        
-                        <div class="events-grid">
-                            ${renderDailyWatchEventsList(summary.events)}
-                        </div>
-                    </div>
-                `).join('')}
+            <div class="crossings-list">
+                ${sorted.map(cross => renderCrossingItem(cross)).join('')}
             </div>
         `;
     }
     
-    function renderDailyWatchEventsList(events) {
-        if (!events || events.length === 0) return '';
+    function renderCrossingItem(cross) {
+        const arrow = cross.direction === 'up' ? '⬆️' : '⬇️';
+        const directionClass = cross.direction === 'up' ? 'cross-up' : 'cross-down';
+        const thresholdLabel = `${(cross.threshold * 100).toFixed(0)}%`;
         
-        // 格式化volume
-        const formatVolume = (vol) => {
-            if (vol >= 1000000) return (vol / 1000000).toFixed(1) + 'M';
-            if (vol >= 1000) return (vol / 1000).toFixed(1) + 'K';
-            return vol.toString();
-        };
+        // 构建 PolyMarket URL
+        const url = cross.slug 
+            ? `https://polymarket.com/event/${cross.slug}`
+            : `https://polymarket.com/event/${cross.event_id}`;
         
         return `
-            <div class="events-grid">
-                ${events.map(event => {
-                    // 直接使用验证后的URL
-                    const polymarketUrl = event.url || `https://polymarket.com/event/${event.id}`;
-                    return `
-                    <div class="event-mini-card" onclick="window.open('${polymarketUrl}', '_blank')" style="cursor: pointer;">
-                        <div class="event-mini-header">
-                            <div class="event-mini-title">${event.title}</div>
-                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}% | Vol: ${formatVolume(event.volume || 0)}</div>
-                        </div>
-                    </div>
-                `;
-                }).join('')}
+            <div class="crossing-item ${directionClass}" onclick="window.open('${url}', '_blank')" style="cursor: pointer;">
+                <div class="crossing-header">
+                    <span class="crossing-time">${cross.time}</span>
+                    <span class="crossing-arrow">${arrow}</span>
+                    <span class="crossing-threshold">${thresholdLabel}</span>
+                </div>
+                <div class="crossing-title">${cross.title}</div>
+                <div class="crossing-probs">
+                    <span class="prob-before">${(cross.prev_prob * 100).toFixed(1)}%</span>
+                    <span class="prob-arrow">→</span>
+                    <span class="prob-after">${(cross.curr_prob * 100).toFixed(1)}%</span>
+                </div>
             </div>
         `;
     }
     
-    // ==================== 长期榜 ====================
+    // ==================== Long-Term Board ====================
     function renderLongTermBoard() {
         const container = document.getElementById('long-term-groups');
         if (!container) return;
         
-        const longTermData = eventsData.long_term_data || { events: {}, updated_at: null };
         const events = Object.values(longTermData.events || {});
+        
+        if (events.length === 0) {
+            container.innerHTML = '<p class="no-results">暂无长期高概率事件</p>';
+            return;
+        }
         
         // 按标签分组
         const tagGroups = {};
@@ -103,46 +113,18 @@ const App = (() => {
             tagGroups[mainTag].push(event);
         });
         
-        const summaries = Object.entries(tagGroups).map(([tag, tagEvents]) => ({
-            tag,
-            tag_display: tag.toUpperCase(),
-            event_count: tagEvents.length,
-            avg_probability: tagEvents.reduce((sum, e) => sum + (e.current_prob || 0), 0) / tagEvents.length,
-            max_probability: Math.max(...tagEvents.map(e => e.current_prob || 0)),
-            min_probability: Math.min(...tagEvents.map(e => e.current_prob || 1)),
-            events: tagEvents
-        }));
-        
-        if (summaries.length === 0) {
-            container.innerHTML = '<p class="no-results">No long-term events</p>';
-            // 更新计数
-            const longTermCount = document.getElementById('long-term-count');
-            if (longTermCount) longTermCount.textContent = '0';
-            return;
-        }
-        
-        container.innerHTML = `
-            <div class="summary-cards-grid">
-                ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card">
-                        <div class="summary-tag" style="margin-bottom: 1rem;">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                        
-                        <div class="events-grid">
-                            ${renderLongTermEventsList(summary.events)}
-                        </div>
-                    </div>
-                `).join('')}
+        // 渲染每个标签组
+        container.innerHTML = Object.entries(tagGroups).map(([tag, events]) => `
+            <div class="tag-group">
+                <h3 class="tag-title">${tag.toUpperCase()}</h3>
+                <div class="events-grid">
+                    ${events.map(event => renderLongTermEvent(event)).join('')}
+                </div>
             </div>
-        `;
-        
-        // 更新计数
-        const longTermCount = document.getElementById('long-term-count');
-        if (longTermCount) longTermCount.textContent = events.length;
+        `).join('');
     }
     
-    function renderLongTermEventsList(events) {
-        if (!events || events.length === 0) return '';
-        
+    function renderLongTermEvent(event) {
         // 格式化volume
         const formatVolume = (vol) => {
             if (vol >= 1000000) return (vol / 1000000).toFixed(1) + 'M';
@@ -150,60 +132,64 @@ const App = (() => {
             return vol.toString();
         };
         
+        // 使用验证后的URL
+        const url = event.url || `https://polymarket.com/event/${event.id}`;
+        
         return `
-            <div class="events-grid">
-                ${events.map(event => {
-                    // 直接使用验证后的URL
-                    const polymarketUrl = event.url || `https://polymarket.com/event/${event.id}`;
-                    return `
-                    <div class="event-mini-card" onclick="window.open('${polymarketUrl}', '_blank')" style="cursor: pointer;">
-                        <div class="event-mini-header">
-                            <div class="event-mini-title">${event.title}</div>
-                            <div class="event-mini-probability">
-                                ${(event.current_prob * 100).toFixed(1)}% (${event.option_text || 'Yes'}) | Vol: ${formatVolume(event.volume || 0)}
-                            </div>
-                        </div>
+            <div class="event-mini-card" onclick="window.open('${url}', '_blank')" style="cursor: pointer;">
+                <div class="event-mini-header">
+                    <div class="event-mini-title">${event.title}</div>
+                    <div class="event-mini-probability">
+                        ${(event.current_prob * 100).toFixed(1)}% 
+                        ${event.option_text ? `| ${event.option_text}` : ''}
+                        | Vol: ${formatVolume(event.volume || 0)}
                     </div>
-                `;
-                }).join('')}
+                </div>
             </div>
         `;
     }
     
-    // ==================== 工具函数 ====================
-    function formatHistory(history) {
-        if (!history || history.length === 0) return '';
-        return history.map(h => {
-            const arrow = h.direction === 'up' ? '↑' : '↓';
-            const thresholdText = h.threshold ? ` (${h.direction === 'up' ? 'crossed up' : 'dropped below'} ${(h.threshold * 100).toFixed(0)}%)` : '';
-            return `${h.time}: ${(h.prob * 100).toFixed(1)}% ${arrow}${thresholdText}`;
-        }).join('<br>');
-    }
-    
+    // ==================== Meta Info ====================
     function updateMetaInfo() {
-        // 更新每日榜元信息
-        const dailyWatchMeta = document.getElementById('daily-watch-meta');
-        if (dailyWatchMeta) {
-            const summaries = eventsData.daily_watch_summaries || [];
-            const totalEvents = summaries.reduce((sum, s) => sum + s.event_count, 0);
-            dailyWatchMeta.style.display = 'block';
-            dailyWatchMeta.innerHTML = `<p>Total ${totalEvents} events tracked today</p>`;
+        const dailyCount = document.getElementById('daily-watch-count');
+        if (dailyCount) {
+            dailyCount.textContent = dailyWatchData.crossing_count || 0;
+        }
+        
+        const longTermCount = document.getElementById('long-term-count');
+        if (longTermCount) {
+            longTermCount.textContent = longTermData.event_count || Object.keys(longTermData.events || {}).length;
         }
     }
     
+    // ==================== Search ====================
     function setupSearch() {
         const searchInput = document.getElementById('search-input');
         if (!searchInput) return;
         
         searchInput.addEventListener('input', (e) => {
             const query = e.target.value.toLowerCase();
-            document.querySelectorAll('.event-mini-card').forEach(card => {
-                const title = card.querySelector('.event-mini-title')?.textContent.toLowerCase() || '';
-                card.style.display = title.includes(query) ? 'block' : 'none';
-            });
+            filterEvents(query);
         });
     }
     
+    function filterEvents(query) {
+        // 过滤 Daily Watch crossings
+        const crossingItems = document.querySelectorAll('.crossing-item');
+        crossingItems.forEach(item => {
+            const title = item.querySelector('.crossing-title')?.textContent.toLowerCase() || '';
+            item.style.display = title.includes(query) ? '' : 'none';
+        });
+        
+        // 过滤 Long-Term events
+        const eventCards = document.querySelectorAll('.event-mini-card');
+        eventCards.forEach(card => {
+            const title = card.querySelector('.event-mini-title')?.textContent.toLowerCase() || '';
+            card.style.display = title.includes(query) ? '' : 'none';
+        });
+    }
+    
+    // ==================== Scroll Animations ====================
     function setupScrollAnimations() {
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
@@ -213,18 +199,15 @@ const App = (() => {
             });
         }, { threshold: 0.1 });
         
-        document.querySelectorAll('.scroll-animate').forEach(el => {
+        document.querySelectorAll('.glass-card, .event-mini-card, .crossing-item').forEach(el => {
             observer.observe(el);
         });
     }
     
-    return {
-        init,
-        loadEvents,
-        renderAllBoards
-    };
+    return { init, renderAllBoards };
 })();
 
+// 初始化
 document.addEventListener('DOMContentLoaded', () => {
     App.init();
 });
