@@ -76,8 +76,8 @@ def extract_option_text(event):
     # 默认返回前50字符
     return question[:50].strip()
 
-def filter_and_process_events(events, min_prob=0.70, max_prob=0.99):
-    """过滤并处理高概率事件"""
+def filter_and_process_events(events, min_prob=0.70, max_prob=1.0):
+    """过滤并处理高概率事件（包含100%已结束事件）"""
     filtered = []
     for event in events:
         if not event.get('markets'):

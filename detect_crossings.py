@@ -56,14 +56,27 @@ def get_event_probability(event):
         return None
 
 def load_previous_snapshot():
-    """加载上一小时的状态（只返回events部分）"""
+    """加载上一小时的状态（只返回events部分）
+    如果是新的一天，自动清理旧快照（节约存储空间）
+    """
     if not SNAPSHOT_FILE.exists():
         return {}
     
     try:
         with open(SNAPSHOT_FILE) as f:
             snapshot = json.load(f)
-            return snapshot.get('events', {})
+        
+        # 检查是否是新的一天
+        snapshot_time = datetime.fromisoformat(snapshot.get('timestamp', ''))
+        now = datetime.now()
+        
+        if snapshot_time.date() < now.date():
+            # 前一天的数据，删除（新一天用当天数据对比）
+            SNAPSHOT_FILE.unlink()
+            print(f"🗑️  Previous day snapshot deleted (storage optimization)")
+            return {}
+        
+        return snapshot.get('events', {})
     except Exception as e:
         print(f"⚠️  Error loading snapshot: {e}", file=sys.stderr)
         return {}
