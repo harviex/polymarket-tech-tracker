@@ -108,30 +108,77 @@ def extract_option_text(event):
     if not markets:
         return None
     
-    # 如果有多个子市场（选择题），找概率最高的那个
+    # 获取第一个市场的信息（主市场）
+    main_market = markets[0]
+    outcomes_str = main_market.get('outcomes', '["Yes", "No"]')
+    
+    try:
+        outcomes = json.loads(outcomes_str)
+    except:
+        outcomes = ["Yes", "No"]
+    
+    # 情况1：选择题（outcomes 不是 Yes/No）
+    if len(outcomes) >= 2 and outcomes != ["Yes", "No"]:
+        # 这是选择题，找概率最高的选项
+        best_option = None
+        best_prob = 0
+        
+        # 如果有多个市场，每个市场对应一个选项
+        if len(markets) > 1:
+            for market in markets:
+                try:
+                    outcome_prices = json.loads(market.get('outcomePrices', '["0", "0"]'))
+                    prob = float(outcome_prices[0])
+                    # 从question中提取选项名（去掉 "Will ..." 前缀）
+                    question = market.get('question', '')
+                    option = extract_option_from_question(question)
+                    if prob > best_prob:
+                        best_prob = prob
+                        best_option = option
+                except:
+                    pass
+        else:
+            # 单个市场包含多个选项
+            try:
+                outcome_prices = json.loads(main_market.get('outcomePrices', '["0", "0"]'))
+                # 找概率最高的选项
+                for i, outcome in enumerate(outcomes):
+                    if i < len(outcome_prices):
+                        prob = float(outcome_prices[i])
+                        if prob > best_prob:
+                            best_prob = prob
+                            best_option = outcome
+            except:
+                pass
+        
+        return best_option if best_option else outcomes[0]
+    
+    # 情况2：Yes/No 题（可能是多市场，每个市场对应一个选项）
     if len(markets) > 1:
+        # 多市场 Yes/No 题（如 "Which company has..."）
+        # 找到概率最高的市场，返回该市场的选项名
         best_market = None
         best_prob = 0
         
         for market in markets:
             try:
                 outcome_prices = json.loads(market.get('outcomePrices', '["0", "0"]'))
-                yes_prob = float(outcome_prices[0])
-                if yes_prob > best_prob:
-                    best_prob = yes_prob
+                prob = float(outcome_prices[0])  # Yes 的概率
+                if prob > best_prob:
+                    best_prob = prob
                     best_market = market
             except:
                 pass
         
         if best_market:
-            # 从问题的question中提取关键信息
+            # 从 question 中提取选项名（公司名、产品名等）
             question = best_market.get('question', '')
-            return extract_key_info(question)
+            option = extract_option_from_question(question)
+            return option
     
-    # 单个市场（Yes/No类型）
-    # 检查是Yes概率高还是No概率高
+    # 情况3：单个 Yes/No 市场
     try:
-        outcome_prices = json.loads(markets[0].get('outcomePrices', '["0", "0"]'))
+        outcome_prices = json.loads(main_market.get('outcomePrices', '["0", "0"]'))
         yes_prob = float(outcome_prices[0])
         no_prob = float(outcome_prices[1]) if len(outcome_prices) > 1 else 0
         
@@ -142,32 +189,59 @@ def extract_option_text(event):
     except:
         return "Yes/No"
 
-def extract_key_info(question):
-    """从问题文本中提取关键信息"""
-    # 去掉前缀，提取关键部分
+
+def extract_option_from_question(question):
+    """
+    从问题文本中提取选项名
+    例如：
+    - "Will Anthropic have the second best AI model..." -> "Anthropic"
+    - "Will SpaceX or OpenAI IPO first?" -> "SpaceX or OpenAI"
+    - "SpaceX IPO closing market cap above $1T?" -> "$1T"
+    - "Will any AI model reach 1510 Overall Arena Score..." -> "1510"
+    """
     import re
     
-    # 例如："SpaceX IPO closing market cap above $1T?" -> "$1T"
-    # 或者："Will Google Gemini score at least 40% on..." -> "40%"
-    
-    # 尝试提取 $ 后面的数字和单位
-    match = re.search(r'\$[\d.]+[BMKT]?', question)
+    # 先尝试提取 $ 后面的数字和单位（最高优先级）
+    match = re.search(r'\$[0-9.]+[BMKT]?', question)
     if match:
         return match.group(0)
     
     # 尝试提取百分比
-    match = re.search(r'\d+%', question)
+    match = re.search(r'[0-9]+%', question)
     if match:
         return match.group(0)
     
-    # 尝试提取 "above XXX" 或 "below XXX"
-    match = re.search(r'(?:above|below)\s+([\w\d\s$%.]+)\?', question, re.IGNORECASE)
+    # 尝试提取 "reach ___ Score" 中的数字（填空题）
+    match = re.search(r'reach\s+([0-9]+)', question, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    
+    # 尝试提取 "above ___" 中的数字或短语
+    match = re.search(r'above\s+([0-9]+(?:\.[0-9]+)?[BMKT]?|[A-Za-z]+)', question, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    
+    # 去掉 "Will " 前缀
+    text = re.sub(r'^Will\s+', '', question, flags=re.IGNORECASE)
+    
+    # 如果是 "X or Y" 格式（如 "SpaceX or OpenAI IPO first?"）
+    if re.search(r'\s+or\s+', text, re.IGNORECASE):
+        # 返回 "X or Y"（去掉后面的动词描述）
+        match = re.match(r'^(.*?or\s+.*?)(?:\s+(?:have|be|first|closing|ipo)\s+)', text, re.IGNORECASE)
+        if match:
+            return match.group(1).strip()
+        # 如果没匹配到，返回整个 "X or Y or Z..." 部分（到问号前）
+        match = re.match(r'^(.*?\?)\s*', text)
+        if match:
+            return match.group(1).strip()
+    
+    # 否则，提取第一个有意义的短语（到第一个动词或介词）
+    match = re.match(r'^([A-Za-z0-9_\s]+)(?:\s+(?:have|has|be|is|are|will|first|closing|score|reach|release)\s+)', text, re.IGNORECASE)
     if match:
         return match.group(1).strip()
     
-    # 默认返回问题本身（截断）
-    return question[:50]
-
+    # 默认：返回前50个字符
+    return question[:50].strip()
 def filter_and_process_events(events, min_prob=0.70, max_prob=0.99):
     """过滤并处理高概率事件"""
     filtered = []

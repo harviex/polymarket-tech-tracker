@@ -13,6 +13,20 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.74,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.74,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.74
@@ -43,6 +57,48 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.9355,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.9355,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.9355,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.9355,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.9355,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.9355,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.9355
@@ -62,6 +118,34 @@
         },
         {
           "time": "23:08",
+          "prob": 0.825,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.825,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.825,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.825,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
           "prob": 0.825,
           "threshold": 0.8,
           "direction": "up",
@@ -96,6 +180,48 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.93,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.93,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.93,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.93,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.93,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.93,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.93
@@ -122,6 +248,48 @@
         },
         {
           "time": "23:08",
+          "prob": 0.935,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.935,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.935,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.935,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.935,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.935,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
           "prob": 0.935,
           "threshold": 0.9,
           "direction": "up",
@@ -156,6 +324,48 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.977,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.977,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.977,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.977,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.977,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.977,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.977
@@ -186,6 +396,48 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.958,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.958,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.958,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.958,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.958,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.958,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.958
@@ -198,6 +450,20 @@
       "history": [
         {
           "time": "23:08",
+          "prob": 0.74,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.74,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
           "prob": 0.74,
           "threshold": 0.7,
           "direction": "up",
@@ -225,6 +491,34 @@
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.86,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.86,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.86,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.86,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
         }
       ],
       "current_prob": 0.86
@@ -238,6 +532,20 @@
         {
           "time": "23:08",
           "prob": 0.775,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.79,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.79,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
@@ -260,6 +568,34 @@
         },
         {
           "time": "23:08",
+          "prob": 0.815,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.815,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.815,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.815,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
           "prob": 0.815,
           "threshold": 0.8,
           "direction": "up",
@@ -294,6 +630,48 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.9875,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.9875,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.9875,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.9875,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.9875,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.9875,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.9875
@@ -313,6 +691,34 @@
         },
         {
           "time": "23:08",
+          "prob": 0.815,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.815,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.815,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.815,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
           "prob": 0.815,
           "threshold": 0.8,
           "direction": "up",
@@ -340,6 +746,34 @@
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.88,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.88,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.88,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.88,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
         }
       ],
       "current_prob": 0.88
@@ -356,6 +790,20 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.773,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
+          "prob": 0.773,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.7755
@@ -368,6 +816,20 @@
       "history": [
         {
           "time": "23:08",
+          "prob": 0.79,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:22",
+          "prob": 0.79,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:25",
           "prob": 0.79,
           "threshold": 0.7,
           "direction": "up",
