@@ -221,7 +221,8 @@
           "elon-musk",
           "tesla"
         ],
-        "slug": "will-tesla-launch-a-driverless-robotaxi-service-by-june-30-2026"
+        "slug": "will-tesla-launch-a-driverless-robotaxi-service-by-june-30-2026",
+        "volume": 116703.762131
       },
       "36314": {
         "id": "36314",
@@ -233,7 +234,8 @@
           "tech",
           "video-games"
         ],
-        "slug": "gta-6-launch-postponed"
+        "slug": "gta-6-launch-postponed",
+        "volume": 83228.627579
       },
       "38555": {
         "id": "38555",
@@ -245,7 +247,8 @@
           "big-tech",
           "apple"
         ],
-        "slug": "apple-airtags-2-priced-below-30-usd-at-release"
+        "slug": "apple-airtags-2-priced-below-30-usd-at-release",
+        "volume": 60837.26224
       },
       "45214": {
         "id": "45214",
@@ -259,7 +262,8 @@
           "finance",
           "acquisitions"
         ],
-        "slug": "who-will-acquire-tiktok-559"
+        "slug": "who-will-acquire-tiktok-559",
+        "volume": 1029483.649021
       },
       "48292": {
         "id": "48292",
@@ -273,7 +277,8 @@
           "ipos",
           "finance"
         ],
-        "slug": "openai-ipo-closing-market-cap"
+        "slug": "openai-ipo-closing-market-cap",
+        "volume": 1630079.6799720007
       },
       "48297": {
         "id": "48297",
@@ -287,7 +292,8 @@
           "ipos",
           "finance"
         ],
-        "slug": "databricks-ipo-closing-market-cap"
+        "slug": "databricks-ipo-closing-market-cap",
+        "volume": 397063.44670599996
       },
       "48299": {
         "id": "48299",
@@ -299,7 +305,8 @@
           "ipos",
           "finance"
         ],
-        "slug": "discord-ipo-closing-market-cap"
+        "slug": "discord-ipo-closing-market-cap",
+        "volume": 884183.12644
       },
       "48300": {
         "id": "48300",
@@ -314,7 +321,8 @@
           "ipos",
           "finance"
         ],
-        "slug": "anthropic-ipo-closing-market-cap"
+        "slug": "anthropic-ipo-closing-market-cap",
+        "volume": 1137852.1875590016
       },
       "53746": {
         "id": "53746",
@@ -331,7 +339,8 @@
           "gpt",
           "ai"
         ],
-        "slug": "which-companys-ai-will-first-hit-1500-on-chatbot-arena-by-june-30"
+        "slug": "which-companys-ai-will-first-hit-1500-on-chatbot-arena-by-june-30",
+        "volume": 610974.896939
       },
       "64099": {
         "id": "64099",
@@ -344,9 +353,10 @@
           "finance",
           "acquisitions"
         ],
-        "slug": "who-will-acquire-warner-bros-discovery"
+        "slug": "who-will-acquire-warner-bros-discovery",
+        "volume": 457974.701259
       }
     },
-    "updated_at": "2026-05-04T16:33:35.455331"
+    "updated_at": "2026-05-04T16:55:08.120267"
   }
 }

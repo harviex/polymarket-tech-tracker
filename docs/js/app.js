@@ -233,19 +233,6 @@ const App = (() => {
                         <div class="summary-header">
                             <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
                         </div>
-                        <div class="summary-stats">
-                            <div class="stat">
-                                <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
-                                <div class="stat-label">Avg</div>
-                            </div>
-                            <div class="stat">
-                                <div class="stat-value">${(summary.max_probability * 100).toFixed(1)}%</div>
-                                <div class="stat-label">Max</div>
-                            </div>
-                        </div>
-                        <div class="summary-meta">
-                            Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
-                        </div>
                         
                         <div class="summary-events">
                             ${renderLongTermEventsList(summary.events)}
@@ -263,6 +250,13 @@ const App = (() => {
     function renderLongTermEventsList(events) {
         if (!events || events.length === 0) return '';
         
+        // 格式化volume
+        const formatVolume = (vol) => {
+            if (vol >= 1000000) return (vol / 1000000).toFixed(1) + 'M';
+            if (vol >= 1000) return (vol / 1000).toFixed(1) + 'K';
+            return vol.toString();
+        };
+        
         return `
             <div class="events-divider"></div>
             <div class="events-grid">
@@ -270,13 +264,8 @@ const App = (() => {
                     <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
-                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}% | Vol: ${formatVolume(event.volume || 0)}</div>
                         </div>
-                        ${event.peak_prob ? `
-                            <div class="event-meta">
-                                <small>Peak: ${(event.peak_prob * 100).toFixed(1)}%</small>
-                            </div>
-                        ` : ''}
                     </div>
                 `).join('')}
             </div>
