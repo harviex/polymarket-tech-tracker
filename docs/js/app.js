@@ -229,18 +229,11 @@ const App = (() => {
         container.innerHTML = `
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card" onclick="App.toggleLongTermSummary(${idx})">
+                    <div class="summary-card glass-card">
                         <div class="summary-header">
                             <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                            <div class="summary-toggle">
-                                ${expandedLongTermIdx === idx ? '▼' : '▶'}
-                            </div>
                         </div>
                         <div class="summary-stats">
-                            <div class="stat">
-                                <div class="stat-value">${summary.event_count}</div>
-                                <div class="stat-label">Events</div>
-                            </div>
                             <div class="stat">
                                 <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
                                 <div class="stat-label">Avg</div>
@@ -254,8 +247,8 @@ const App = (() => {
                             Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
                         </div>
                         
-                        <div class="summary-events" id="long-term-events-${idx}" style="display: ${expandedLongTermIdx === idx ? 'block' : 'none'};">
-                            ${expandedLongTermIdx === idx ? renderLongTermEventsList(summary.events) : ''}
+                        <div class="summary-events">
+                            ${renderLongTermEventsList(summary.events)}
                         </div>
                     </div>
                 `).join('')}
