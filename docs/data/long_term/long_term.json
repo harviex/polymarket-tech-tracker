@@ -1030,7 +1030,7 @@
     "103468": {
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
-      "probability": 0.835,
+      "probability": 0.8,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -1139,11 +1139,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.835,
+      "current_prob": 0.8,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.8,
       "history": [
         {
           "time": "19:30",
@@ -1536,7 +1536,7 @@
     "193319": {
       "id": "193319",
       "title": "Will SpaceX or OpenAI IPO first?",
-      "probability": 0.956,
+      "probability": 0.958,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -1655,11 +1655,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.956,
+      "current_prob": 0.958,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
-      "peak_prob": 0.956,
-      "last_checked_prob": 0.956,
+      "peak_prob": 0.958,
+      "last_checked_prob": 0.958,
       "history": [
         {
           "time": "19:30",
@@ -1671,7 +1671,7 @@
     "193337": {
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
-      "probability": 0.735,
+      "probability": 0.74,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -2197,11 +2197,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.735,
+      "current_prob": 0.74,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
-      "peak_prob": 0.735,
-      "last_checked_prob": 0.735,
+      "peak_prob": 0.74,
+      "last_checked_prob": 0.74,
       "history": [
         {
           "time": "19:30",
@@ -2334,7 +2334,7 @@
     "336406": {
       "id": "336406",
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
-      "probability": 0.79,
+      "probability": 0.785,
       "option_text": "Will any AI model reach 1510 Overall Arena Score b",
       "tags": [
         "ai",
@@ -2800,11 +2800,11 @@
       "endDate": "2026-09-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.79,
+      "current_prob": 0.785,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.785,
       "history": [
         {
           "time": "19:30",
@@ -2816,7 +2816,7 @@
     "365407": {
       "id": "365407",
       "title": "Lyft total rides above __ in Q1?",
-      "probability": 0.8155,
+      "probability": 0.815,
       "option_text": "235m",
       "tags": [
         "tech",
@@ -3694,11 +3694,11 @@
       "endDate": "2026-05-14T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8155,
+      "current_prob": 0.815,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
       "peak_prob": 0.8155,
-      "last_checked_prob": 0.8155,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "19:30",
@@ -7683,7 +7683,7 @@
     "385557": {
       "id": "385557",
       "title": "Largest Company end of May?",
-      "probability": 0.7625,
+      "probability": 0.766,
       "option_text": "Will NVIDIA be the largest company in the world by",
       "tags": [
         "tech",
@@ -10565,11 +10565,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7625,
+      "current_prob": 0.766,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
-      "peak_prob": 0.7625,
-      "last_checked_prob": 0.7625,
+      "peak_prob": 0.766,
+      "last_checked_prob": 0.766,
       "history": [
         {
           "time": "19:30",
@@ -10581,7 +10581,7 @@
     "404632": {
       "id": "404632",
       "title": "Will SpaceX acquire Cursor?",
-      "probability": 0.8,
+      "probability": 0.795,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -10693,11 +10693,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.795,
       "added_at": "2026-05-04T19:30:44.582598",
       "first_seen": "2026-05-04T19:30:44.582598",
       "peak_prob": 0.8,
-      "last_checked_prob": 0.8,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "19:30",
@@ -10707,5 +10707,5 @@
       ]
     }
   },
-  "updated_at": "2026-05-04T19:30:44.583106"
+  "updated_at": "2026-05-04T12:15:40.214062"
 }
