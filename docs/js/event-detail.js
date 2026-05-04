@@ -155,7 +155,10 @@ function renderEventDetail(event) {
         <div class="event-detail-card">
             <div class="event-detail-header">
                 <div class="event-detail-title">${event.title}</div>
-                <div class="event-detail-probability">${(probability * 100).toFixed(1)}%</div>
+                <div class="event-detail-probability">
+                    ${(probability * 100).toFixed(1)}% 
+                    ${event.option_text ? `| ${event.option_text}` : ''}
+                </div>
             </div>
             
             <div class="event-meta">
