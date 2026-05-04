@@ -1,7 +1,38 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T08:01:29.670203",
+  "updated_at": "2026-05-04T01:24:35.206901",
   "hour_watch_summaries": [
+    {
+      "tag": "big-tech",
+      "tag_display": "BIG-TECH",
+      "event_count": 1,
+      "avg_probability": 0.495,
+      "max_probability": 0.495,
+      "min_probability": 0.495,
+      "events": [
+        {
+          "id": "57708",
+          "title": "Which company has second best AI model end of June?",
+          "probability": 0.495,
+          "tags": [
+            "big-tech",
+            "ai",
+            "openai",
+            "grok",
+            "tech",
+            "gpt"
+          ],
+          "history": [
+            {
+              "time": "01:24",
+              "prob": 0.495,
+              "threshold": 0.6,
+              "direction": "down"
+            }
+          ]
+        }
+      ]
+    },
     {
       "tag": "ai",
       "tag_display": "AI",
@@ -25,8 +56,36 @@
           ],
           "history": [
             {
-              "time": "08:01",
+              "time": "01:24",
               "prob": 0.695,
+              "threshold": 0.7,
+              "direction": "down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 1,
+      "avg_probability": 0.69,
+      "max_probability": 0.69,
+      "min_probability": 0.69,
+      "events": [
+        {
+          "id": "79070",
+          "title": "AI wins IMO gold medal in 2026?",
+          "probability": 0.69,
+          "tags": [
+            "tech",
+            "ai",
+            "big-tech"
+          ],
+          "history": [
+            {
+              "time": "01:24",
+              "prob": 0.69,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -71,6 +130,12 @@
               "prob": 0.69,
               "threshold": 0.7,
               "direction": "down"
+            },
+            {
+              "time": "01:24",
+              "prob": 0.69,
+              "threshold": 0.7,
+              "direction": "down"
             }
           ],
           "current_prob": 0.69
@@ -81,9 +146,9 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.465,
-      "max_probability": 0.465,
-      "min_probability": 0.465,
+      "avg_probability": 0.495,
+      "max_probability": 0.495,
+      "min_probability": 0.495,
       "events": [
         {
           "id": "57708",
@@ -103,9 +168,15 @@
               "prob": 0.515,
               "threshold": 0.6,
               "direction": "down"
+            },
+            {
+              "time": "01:24",
+              "prob": 0.495,
+              "threshold": 0.6,
+              "direction": "down"
             }
           ],
-          "current_prob": 0.465
+          "current_prob": 0.495
         }
       ]
     },
@@ -133,6 +204,12 @@
           "history": [
             {
               "time": "08:01",
+              "prob": 0.695,
+              "threshold": 0.7,
+              "direction": "down"
+            },
+            {
+              "time": "01:24",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
