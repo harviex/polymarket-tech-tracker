@@ -208,8 +208,145 @@
     }
   ],
   "long_term_data": {
-    "event_count": 0,
-    "events": [],
-    "updated_at": null
+    "events": {
+      "33441": {
+        "id": "33441",
+        "title": "Will Tesla launch a driverless Robotaxi service by June 30, 2026?",
+        "current_prob": 1.0,
+        "tags": [
+          "tech",
+          "robotaxi",
+          "big-tech",
+          "ai",
+          "elon-musk",
+          "tesla"
+        ],
+        "slug": "will-tesla-launch-a-driverless-robotaxi-service-by-june-30-2026"
+      },
+      "36314": {
+        "id": "36314",
+        "title": "GTA 6 launch postponed?",
+        "current_prob": 1.0,
+        "tags": [
+          "pop-culture",
+          "gta-vi",
+          "tech",
+          "video-games"
+        ],
+        "slug": "gta-6-launch-postponed"
+      },
+      "38555": {
+        "id": "38555",
+        "title": "Apple AirTags 2 priced below $30 USD at release?",
+        "current_prob": 1.0,
+        "tags": [
+          "tech",
+          "pop-culture",
+          "big-tech",
+          "apple"
+        ],
+        "slug": "apple-airtags-2-priced-below-30-usd-at-release"
+      },
+      "45214": {
+        "id": "45214",
+        "title": "Who will acquire TikTok?",
+        "current_prob": 1.0,
+        "tags": [
+          "tiktok",
+          "tech",
+          "china",
+          "big-tech",
+          "finance",
+          "acquisitions"
+        ],
+        "slug": "who-will-acquire-tiktok-559"
+      },
+      "48292": {
+        "id": "48292",
+        "title": "OpenAI IPO Closing Market Cap",
+        "current_prob": 0.775,
+        "tags": [
+          "big-tech",
+          "openai",
+          "ipo",
+          "tech",
+          "ipos",
+          "finance"
+        ],
+        "slug": "openai-ipo-closing-market-cap"
+      },
+      "48297": {
+        "id": "48297",
+        "title": "Databricks IPO Closing Market Cap",
+        "current_prob": 0.8655,
+        "tags": [
+          "big-tech",
+          "tech",
+          "ipo",
+          "databricks",
+          "ipos",
+          "finance"
+        ],
+        "slug": "databricks-ipo-closing-market-cap"
+      },
+      "48299": {
+        "id": "48299",
+        "title": "Discord IPO Closing Market Cap",
+        "current_prob": 0.815,
+        "tags": [
+          "ipo",
+          "tech",
+          "ipos",
+          "finance"
+        ],
+        "slug": "discord-ipo-closing-market-cap"
+      },
+      "48300": {
+        "id": "48300",
+        "title": "Anthropic IPO Closing Market Cap",
+        "current_prob": 0.985,
+        "tags": [
+          "ai",
+          "ipo",
+          "tech",
+          "big-tech",
+          "anthropic",
+          "ipos",
+          "finance"
+        ],
+        "slug": "anthropic-ipo-closing-market-cap"
+      },
+      "53746": {
+        "id": "53746",
+        "title": "Which company's AI will first hit 1500 on Chatbot Arena by June 30?",
+        "current_prob": 1.0,
+        "tags": [
+          "openai",
+          "anthropic",
+          "xai",
+          "big-tech",
+          "deepseek",
+          "tech",
+          "google",
+          "gpt",
+          "ai"
+        ],
+        "slug": "which-companys-ai-will-first-hit-1500-on-chatbot-arena-by-june-30"
+      },
+      "64099": {
+        "id": "64099",
+        "title": "Who will acquire Warner Bros. Discovery?",
+        "current_prob": 1.0,
+        "tags": [
+          "business",
+          "tech",
+          "big-tech",
+          "finance",
+          "acquisitions"
+        ],
+        "slug": "who-will-acquire-warner-bros-discovery"
+      }
+    },
+    "updated_at": "2026-05-04T16:33:35.455331"
   }
 }
