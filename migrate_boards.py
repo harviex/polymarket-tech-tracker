@@ -78,6 +78,10 @@ def migrate_daily_to_long_term():
     # 将昨天每日榜的所有事件转入长期榜
     for event_id, event in daily_data.get('events', {}).items():
         if event_id not in long_term_data['events']:
+            # 计算峰值概率
+            peak_prob = max((h['prob'] for h in event.get('history', [])), default=event.get('current_prob', 0))
+            
+            # 保存完整信息，包括市场数据
             long_term_data['events'][event_id] = {
                 'id': event_id,
                 'title': event.get('title'),
@@ -86,8 +90,18 @@ def migrate_daily_to_long_term():
                 'first_seen': event.get('first_seen'),
                 'history': event.get('history', []),
                 'current_prob': event.get('current_prob'),
-                'peak_prob': max((h['prob'] for h in event.get('history', [])), default=event.get('current_prob', 0)),
-                'source_date': yesterday
+                'peak_prob': peak_prob,
+                'source_date': yesterday,
+                # 保存完整市场信息
+                'markets': event.get('markets', []),
+                'resolutionSource': event.get('resolutionSource', ''),
+                'description': event.get('description', ''),
+                'volume': event.get('volume', 0),
+                'liquidity': event.get('liquidity', 0),
+                'startDate': event.get('startDate', ''),
+                'endDate': event.get('endDate', ''),
+                'active': event.get('active', False),
+                'closed': event.get('closed', False)
             }
             migrated_count += 1
             print(f"  ➡️  Added to long-term: {event.get('title')} (prob: {event.get('current_prob', 0):.1%})")

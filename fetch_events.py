@@ -66,7 +66,7 @@ def get_probability(event):
         return None
 
 def filter_tech_events(events, tech_tags):
-    """Filter technology events"""
+    """Filter technology events - save complete market info"""
     filtered = []
     for event in events:
         event_tags = [t['slug'] for t in event.get('tags', [])]
@@ -74,11 +74,23 @@ def filter_tech_events(events, tech_tags):
         if any(tag in event_tags for tag in tech_tags):
             prob = get_probability(event)
             if prob is not None and 0 < prob < 1:
+                # Save complete event info including markets
                 filtered.append({
                     'id': event['id'],
                     'title': event.get('title', ''),
                     'probability': prob,
-                    'tags': [t['slug'] for t in event.get('tags', [])]
+                    'tags': [t['slug'] for t in event.get('tags', [])],
+                    # Save complete markets array
+                    'markets': event.get('markets', []),
+                    # Save additional fields for detail page
+                    'resolutionSource': event.get('resolutionSource', ''),
+                    'description': event.get('description', ''),
+                    'volume': event.get('volume', 0),
+                    'liquidity': event.get('liquidity', 0),
+                    'startDate': event.get('startDate', ''),
+                    'endDate': event.get('endDate', ''),
+                    'active': event.get('active', False),
+                    'closed': event.get('closed', False)
                 })
     
     return filtered
@@ -270,7 +282,17 @@ def update_watch_events(current_events, last_hour_events, daily_data, long_term_
                     'tags': event['tags'],
                     'first_seen': datetime.now().isoformat(),
                     'history': [],
-                    'current_prob': current_prob
+                    'current_prob': current_prob,
+                    # Save complete market info
+                    'markets': event.get('markets', []),
+                    'resolutionSource': event.get('resolutionSource', ''),
+                    'description': event.get('description', ''),
+                    'volume': event.get('volume', 0),
+                    'liquidity': event.get('liquidity', 0),
+                    'startDate': event.get('startDate', ''),
+                    'endDate': event.get('endDate', ''),
+                    'active': event.get('active', False),
+                    'closed': event.get('closed', False)
                 }
             
             daily_data['events'][event_id]['history'].append(history_entry)

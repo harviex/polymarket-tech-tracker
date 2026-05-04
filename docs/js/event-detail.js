@@ -144,19 +144,22 @@ function renderEventDetail(event) {
     
     const historyHtml = event.history ? renderHistory(event.history) : '';
     
-    // Extract API fields
-    const description = apiDetails?.description || '';
-    const startDate = apiDetails?.startDate || '';
-    const endDate = apiDetails?.endDate || '';
-    const volume = apiDetails?.volume || 0;
-    const liquidity = apiDetails?.liquidity || 0;
-    const openInterest = apiDetails?.openInterest || 0;
-    const volume24hr = apiDetails?.volume24hr || 0;
-    const volume1wk = apiDetails?.volume1wk || 0;
-    const active = apiDetails?.active || false;
-    const closed = apiDetails?.closed || false;
-    const commentCount = apiDetails?.commentCount || 0;
-    const markets = apiDetails?.markets || [];
+    // Extract fields from local data first, then API as fallback
+    const description = event.description || apiDetails?.description || '';
+    const resolutionSource = event.resolutionSource || apiDetails?.resolutionSource || '';
+    const startDate = event.startDate || apiDetails?.startDate || '';
+    const endDate = event.endDate || apiDetails?.endDate || '';
+    const volume = event.volume || apiDetails?.volume || 0;
+    const liquidity = event.liquidity || apiDetails?.liquidity || 0;
+    const openInterest = apiDetails?.openInterest || 0; // Not saved locally
+    const volume24hr = event.volume24hr || apiDetails?.volume24hr || 0;
+    const volume1wk = event.volume1wk || apiDetails?.volume1wk || 0;
+    const active = event.active || apiDetails?.active || false;
+    const closed = event.closed || apiDetails?.closed || false;
+    const commentCount = apiDetails?.commentCount || 0; // Not saved locally
+    
+    // Use markets from local data first, then API
+    const markets = (event.markets && event.markets.length > 0) ? event.markets : (apiDetails?.markets || []);
     
     container.innerHTML = `
         <div class="event-detail-card">
@@ -259,10 +262,10 @@ function renderEventDetail(event) {
                 </div>
             ` : ''}
             
-            ${apiDetails?.resolutionSource ? `
+            ${resolutionSource ? `
                 <div class="event-resolution-source">
                     <h3>📋 Resolution Source</h3>
-                    <div class="resolution-content">${apiDetails.resolutionSource || 'Not specified'}</div>
+                    <div class="resolution-content">${resolutionSource}</div>
                 </div>
             ` : ''}
             
