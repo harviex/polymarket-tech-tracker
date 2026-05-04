@@ -282,12 +282,153 @@ header h1 {
     transition: background 0.3s;
 }
 
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
 .archive-btn:hover {
     background: var(--accent-hover);
 }
 
+/* Daily Watch - 2列网格布局 */
+.crossings-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
 @media (max-width: 768px) {
-    .markets-grid {
+    .crossings-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* 新型卡片 - 两行布局 */
+.crossing-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+.crossing-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 16px var(--shadow);
+}
+
+/* 上涨/下跌颜色 */
+.crossing-card.cross-up {
+    border-left: 4px solid var(--success);
+}
+
+.crossing-card.cross-down {
+    border-left: 4px solid var(--danger);
+}
+
+/* 第一行：事件名称 */
+.crossing-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    min-height: 40px;
+}
+
+/* 第二行：时间 + 阈值 + 数值变化（同一行） */
+.crossing-meta {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    flex-wrap: wrap;
+}
+
+.crossing-time {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
+.crossing-threshold {
+    background: var(--bg-secondary);
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+
+.crossing-probs {
+    margin-left: auto;
+    font-weight: 600;
+}
+
+.crossing-probs .prob-before {
+    color: var(--text-secondary);
+}
+
+.crossing-probs .prob-arrow {
+    margin: 0 5px;
+    color: var(--text-secondary);
+}
+
+.crossing-probs .prob-after {
+    color: var(--accent);
+}
+
+/* 多次变动历史 */
+.crossing-history {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+}
+
+/* Long-Term Events Grid */
+.events-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.event-mini-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 15px;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px var(--shadow);
+}
+
+.event-mini-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 16px var(--shadow);
+}
+
+.event-mini-header {
+    /* 样式 */
+}
+
+.event-mini-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    line-height: 1.4;
+}
+
+.event-mini-info {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+@media (max-width: 768px) {
+    .events-grid {
         grid-template-columns: 1fr;
     }
     

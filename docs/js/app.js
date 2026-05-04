@@ -2,14 +2,14 @@
 const App = (() => {
     let dailyWatchData = { date: '', crossings: [], crossing_count: 0 };
     let longTermData = { events: {}, updated_at: null, event_count: 0 };
-    
+
     async function init() {
         await Promise.all([loadDailyWatch(), loadLongTerm()]);
         renderAllBoards();
         setupSearch();
         setupScrollAnimations();
     }
-    
+
     // ==================== 加载数据 ====================
     async function loadDailyWatch() {
         // 使用北京时间 (UTC+8)
@@ -26,7 +26,7 @@ const App = (() => {
             console.error('Failed to load Daily Watch:', error);
         }
     }
-    
+
     async function loadLongTerm() {
         try {
             const response = await fetch('data/long_term/long_term.json');
@@ -37,14 +37,14 @@ const App = (() => {
             console.error('Failed to load Long-Term data:', error);
         }
     }
-    
+
     // ==================== 渲染所有板块 ====================
     function renderAllBoards() {
         renderDailyWatchBoard();
         renderLongTermBoard();
         updateMetaInfo();
     }
-    
+
     // ==================== Daily Watch (阈值跨越) ====================
     function renderDailyWatchBoard() {
         const container = document.getElementById('daily-watch-crossings');
@@ -57,43 +57,101 @@ const App = (() => {
             return;
         }
         
-        // 按时间倒序排列（最新的在前面）
-        const sorted = [...crossings].sort((a, b) => b.timestamp.localeCompare(a.timestamp));
+        // 1a: 按event_id归并事件
+        const mergedEvents = {};
+        crossings.forEach(cross => {
+            const id = cross.event_id;
+            if (!mergedEvents[id]) {
+                mergedEvents[id] = {
+                    event_id: id,
+                    title: cross.title,
+                    slug: cross.slug,
+                    history: [],  // 所有变动历史
+                    latestCross: null  // 最新变动（用于颜色判断）
+                };
+            }
+            
+            // 添加历史记录
+            mergedEvents[id].history.push({
+                time: cross.time,
+                prev_prob: cross.prev_prob,
+                curr_prob: cross.curr_prob,
+                threshold: cross.threshold,
+                direction: cross.direction
+            });
+            
+            // 更新最新变动（用于颜色）
+            const newTime = cross.timestamp || `${cross.time}:00`;
+            const oldTime = mergedEvents[id].latestCross ? 
+                (mergedEvents[id].latestCross.timestamp || '00:00:00') : '00:00:00';
+            
+            if (newTime >= oldTime) {
+                mergedEvents[id].latestCross = {
+                    direction: cross.direction,
+                    time: cross.time,
+                    threshold: cross.threshold,
+                    prev_prob: cross.prev_prob,
+                    curr_prob: cross.curr_prob,
+                    timestamp: cross.timestamp
+                };
+            }
+        });
+        
+        // 按最新变动时间倒序
+        const sorted = Object.values(mergedEvents).sort((a, b) => {
+            const timeA = a.latestCross?.timestamp || '00:00:00';
+            const timeB = b.latestCross?.timestamp || '00:00:00';
+            return timeB.localeCompare(timeA);
+        });
         
         container.innerHTML = `
-            <div class="crossings-list">
-                ${sorted.map(cross => renderCrossingItem(cross)).join('')}
+            <div class="crossings-grid">
+                ${sorted.map(event => renderMergedCrossing(event)).join('')}
             </div>
         `;
     }
-    
-    function renderCrossingItem(cross) {
-        const arrow = cross.direction === 'up' ? '⬆️' : '⬇️';
-        const directionClass = cross.direction === 'up' ? 'cross-up' : 'cross-down';
-        const thresholdLabel = `${(cross.threshold * 100).toFixed(0)}%`;
+
+    function renderMergedCrossing(event) {
+        const latest = event.latestCross;
+        if (!latest) return '';
         
-        // 构建 PolyMarket URL
-        const url = cross.slug 
-            ? `https://polymarket.com/event/${cross.slug}`
-            : `https://polymarket.com/event/${cross.event_id}`;
+        // 1b: 颜色逻辑 - 以最新变动为准
+        const directionClass = latest.direction === 'up' ? 'cross-up' : 'cross-down';
+        
+        // 构建 URL
+        const url = event.slug 
+            ? `https://polymarket.com/event/${event.slug}`
+            : `https://polymarket.com/event/${event.event_id}`;
+        
+        // 1d: 布局 - 两行
+        // 第一行：事件名称
+        // 第二行：时间 + 阈值 + 数值变化（同一行）
+        
+        // 1e: 多次变动历史
+        const historyHtml = event.history.length > 1 ? `
+            <div class="crossing-history">
+                ${event.history.map(h => {
+                    const arrow = h.direction === 'up' ? '↑' : '↓';
+                    return `${h.time} ${h.threshold*100}%${arrow}`;
+                }).join(' | ')}
+            </div>
+        ` : '';
         
         return `
-            <div class="crossing-item ${directionClass}" onclick="window.open('${url}', '_blank')" style="cursor: pointer;">
-                <div class="crossing-header">
-                    <span class="crossing-time">${cross.time}</span>
-                    <span class="crossing-arrow">${arrow}</span>
-                    <span class="crossing-threshold">${thresholdLabel}</span>
+            <div class="crossing-card ${directionClass}" onclick="window.open('${url}', '_blank')" style="cursor: pointer;">
+                <div class="crossing-title">${event.title}</div>
+                <div class="crossing-meta">
+                    <span class="crossing-time">${latest.time}</span>
+                    <span class="crossing-threshold">${(latest.threshold * 100).toFixed(0)}%</span>
+                    <span class="crossing-probs">
+                        ${(latest.prev_prob * 100).toFixed(1)}% → ${(latest.curr_prob * 100).toFixed(1)}%
+                    </span>
                 </div>
-                <div class="crossing-title">${cross.title}</div>
-                <div class="crossing-probs">
-                    <span class="prob-before">${(cross.prev_prob * 100).toFixed(1)}%</span>
-                    <span class="prob-arrow">→</span>
-                    <span class="prob-after">${(cross.curr_prob * 100).toFixed(1)}%</span>
-                </div>
+                ${historyHtml}
             </div>
         `;
     }
-    
+
     // ==================== Long-Term Board ====================
     function renderLongTermBoard() {
         const container = document.getElementById('long-term-groups');
@@ -127,7 +185,7 @@ const App = (() => {
             </div>
         `).join('');
     }
-    
+
     function renderLongTermEvent(event) {
         // 格式化volume
         const formatVolume = (vol) => {
@@ -136,6 +194,9 @@ const App = (() => {
             return vol.toString();
         };
         
+        // 2a & 2b: 结论选取 - 使用option_text，不显示重复内容
+        const conclusion = event.option_text || 'Yes/No';
+        
         // 使用验证后的URL
         const url = event.url || `https://polymarket.com/event/${event.id}`;
         
@@ -143,16 +204,16 @@ const App = (() => {
             <div class="event-mini-card" onclick="window.open('${url}', '_blank')" style="cursor: pointer;">
                 <div class="event-mini-header">
                     <div class="event-mini-title">${event.title}</div>
-                    <div class="event-mini-probability">
+                    <div class="event-mini-info">
                         ${(event.current_prob * 100).toFixed(1)}% 
-                        ${event.option_text ? `| ${event.option_text}` : ''}
+                        | ${conclusion}
                         | Vol: ${formatVolume(event.volume || 0)}
                     </div>
                 </div>
             </div>
         `;
     }
-    
+
     // ==================== Meta Info ====================
     function updateMetaInfo() {
         const dailyCount = document.getElementById('daily-watch-count');
@@ -165,7 +226,7 @@ const App = (() => {
             longTermCount.textContent = longTermData.event_count || Object.keys(longTermData.events || {}).length;
         }
     }
-    
+
     // ==================== Search ====================
     function setupSearch() {
         const searchInput = document.getElementById('search-input');
@@ -176,10 +237,10 @@ const App = (() => {
             filterEvents(query);
         });
     }
-    
+
     function filterEvents(query) {
         // 过滤 Daily Watch crossings
-        const crossingItems = document.querySelectorAll('.crossing-item');
+        const crossingItems = document.querySelectorAll('.crossing-card');
         crossingItems.forEach(item => {
             const title = item.querySelector('.crossing-title')?.textContent.toLowerCase() || '';
             item.style.display = title.includes(query) ? '' : 'none';
@@ -192,7 +253,7 @@ const App = (() => {
             card.style.display = title.includes(query) ? '' : 'none';
         });
     }
-    
+
     // ==================== Scroll Animations ====================
     function setupScrollAnimations() {
         const observer = new IntersectionObserver((entries) => {
@@ -203,11 +264,11 @@ const App = (() => {
             });
         }, { threshold: 0.1 });
         
-        document.querySelectorAll('.glass-card, .event-mini-card, .crossing-item').forEach(el => {
+        document.querySelectorAll('.glass-card, .event-mini-card, .crossing-card').forEach(el => {
             observer.observe(el);
         });
     }
-    
+
     return { init, renderAllBoards };
 })();
 
