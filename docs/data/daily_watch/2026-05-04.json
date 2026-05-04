@@ -5,10 +5,10 @@
       "id": "98133",
       "title": "Elon Musk trillionaire before 2027?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574127",
+      "first_seen": "2026-05-04T23:08:29.020805",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.74,
           "threshold": 0.7,
           "direction": "up",
@@ -21,24 +21,24 @@
       "id": "102007",
       "title": "SpaceX IPO closing market cap above ___ ?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574153",
+      "first_seen": "2026-05-04T23:08:29.020832",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.9355,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.9355,
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.9355,
           "threshold": 0.9,
           "direction": "up",
@@ -51,17 +51,17 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574168",
+      "first_seen": "2026-05-04T23:08:29.020847",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.825,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.825,
           "threshold": 0.8,
           "direction": "up",
@@ -74,24 +74,24 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574180",
+      "first_seen": "2026-05-04T23:08:29.020859",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.93,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.93,
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.93,
           "threshold": 0.9,
           "direction": "up",
@@ -104,24 +104,24 @@
       "id": "108522",
       "title": "AI data center moratorium passed before 2027?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574201",
+      "first_seen": "2026-05-04T23:08:29.020880",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.935,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.935,
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.935,
           "threshold": 0.9,
           "direction": "up",
@@ -134,24 +134,24 @@
       "id": "192790",
       "title": "Anthropic $500B+ valuation in 2026?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574215",
+      "first_seen": "2026-05-04T23:08:29.020894",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.977,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.977,
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.977,
           "threshold": 0.9,
           "direction": "up",
@@ -164,24 +164,24 @@
       "id": "193319",
       "title": "Will SpaceX or OpenAI IPO first?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574247",
+      "first_seen": "2026-05-04T23:08:29.020908",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.958,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.958,
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.958,
           "threshold": 0.9,
           "direction": "up",
@@ -194,10 +194,10 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574261",
+      "first_seen": "2026-05-04T23:08:29.020920",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.74,
           "threshold": 0.7,
           "direction": "up",
@@ -210,17 +210,17 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574270",
+      "first_seen": "2026-05-04T23:08:29.020939",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.86,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.86,
           "threshold": 0.8,
           "direction": "up",
@@ -233,10 +233,10 @@
       "id": "336406",
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574281",
+      "first_seen": "2026-05-04T23:08:29.020950",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.775,
           "threshold": 0.7,
           "direction": "up",
@@ -249,17 +249,17 @@
       "id": "365407",
       "title": "Lyft total rides above __ in Q1?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574290",
+      "first_seen": "2026-05-04T23:08:29.020959",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.815,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.815,
           "threshold": 0.8,
           "direction": "up",
@@ -272,24 +272,24 @@
       "id": "376068",
       "title": "Uber # of trips above __ in Q1?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574300",
+      "first_seen": "2026-05-04T23:08:29.020970",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.9875,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.9875,
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.9875,
           "threshold": 0.9,
           "direction": "up",
@@ -302,17 +302,17 @@
       "id": "376512",
       "title": "Which company has the second best AI model end of May?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574312",
+      "first_seen": "2026-05-04T23:08:29.020982",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.815,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.815,
           "threshold": 0.8,
           "direction": "up",
@@ -325,17 +325,17 @@
       "id": "379514",
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574322",
+      "first_seen": "2026-05-04T23:08:29.020992",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.88,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         },
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.88,
           "threshold": 0.8,
           "direction": "up",
@@ -348,26 +348,26 @@
       "id": "385557",
       "title": "Largest Company end of May?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574332",
+      "first_seen": "2026-05-04T23:08:29.021002",
       "history": [
         {
-          "time": "23:04",
-          "prob": 0.779,
+          "time": "23:08",
+          "prob": 0.7755,
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
         }
       ],
-      "current_prob": 0.779
+      "current_prob": 0.7755
     },
     "404632": {
       "id": "404632",
       "title": "Will SpaceX acquire Cursor?",
       "tags": [],
-      "first_seen": "2026-05-04T23:04:01.574340",
+      "first_seen": "2026-05-04T23:08:29.021010",
       "history": [
         {
-          "time": "23:04",
+          "time": "23:08",
           "prob": 0.79,
           "threshold": 0.7,
           "direction": "up",
