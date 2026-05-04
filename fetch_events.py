@@ -485,6 +485,29 @@ def main():
     print("\n📊 Checking threshold crossings (70%/80%/90%)...")
     crossings = check_threshold_crossings(high_prob_events, long_term_data)
     
+    # 5.1 为新添加的事件生成阈值记录
+    now = datetime.now()
+    now_str = now.strftime('%H:%M')
+    added_events = [e for e in changed_events if e['change'] == 'added']
+    for added in added_events:
+        event_id = added['id']
+        if event_id in long_term_data['events']:
+            lt_event = long_term_data['events'][event_id]
+            prob = lt_event['current_prob']
+            
+            # 检查这个概率超过了哪些阈值
+            for threshold in THRESHOLDS:
+                if prob >= threshold:
+                    crossings.append({
+                        'event_id': event_id,
+                        'title': added['title'],
+                        'threshold': threshold,
+                        'direction': 'up',
+                        'prob': prob,
+                        'time': now_str
+                    })
+                    print(f"  ⬆️ New event above {threshold:.0%}: {added['title']} ({prob:.1%})")
+    
     # 6. 保存Long Term数据
     save_long_term_data(long_term_data)
     print(f"✅ Long-Term updated: {len(long_term_data['events'])} events")
