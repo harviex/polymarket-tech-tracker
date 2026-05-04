@@ -6,10 +6,6 @@ const App = (() => {
         long_term_data: { events: {}, updated_at: null }
     };
     
-    let expandedHourWatchIdx = null;
-    let expandedDailyWatchIdx = null;
-    let expandedLongTermIdx = null;
-    
     async function init() {
         await loadEvents();
         renderAllBoards();
@@ -50,33 +46,11 @@ const App = (() => {
         container.innerHTML = `
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card" onclick="App.toggleHourWatchSummary(${idx})">
-                        <div class="summary-header">
-                            <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                            <div class="summary-toggle">
-                                ${expandedHourWatchIdx === idx ? '▼' : '▶'}
-                            </div>
-                        </div>
-                        <div class="summary-stats">
-                            <div class="stat">
-                                <div class="stat-value">${summary.event_count}</div>
-                                <div class="stat-label">Events</div>
-                            </div>
-                            <div class="stat">
-                                <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
-                                <div class="stat-label">Avg</div>
-                            </div>
-                            <div class="stat">
-                                <div class="stat-value">${(summary.max_probability * 100).toFixed(1)}%</div>
-                                <div class="stat-label">Max</div>
-                            </div>
-                        </div>
-                        <div class="summary-meta">
-                            Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
-                        </div>
+                    <div class="summary-card glass-card">
+                        <div class="summary-tag" style="margin-bottom: 1rem;">${summary.tag_display || summary.tag.toUpperCase()}</div>
                         
-                        <div class="summary-events" id="hour-watch-events-${idx}" style="display: ${expandedHourWatchIdx === idx ? 'block' : 'none'};">
-                            ${expandedHourWatchIdx === idx && summary.events ? renderHourWatchEventsList(summary.events) : ''}
+                        <div class="events-grid">
+                            ${renderHourWatchEventsList(summary.events)}
                         </div>
                     </div>
                 `).join('')}
@@ -87,32 +61,28 @@ const App = (() => {
     function renderHourWatchEventsList(events) {
         if (!events || events.length === 0) return '';
         
+        // 格式化volume
+        const formatVolume = (vol) => {
+            if (vol >= 1000000) return (vol / 1000000).toFixed(1) + 'M';
+            if (vol >= 1000) return (vol / 1000).toFixed(1) + 'K';
+            return vol.toString();
+        };
+        
         return `
-            <div class="events-divider"></div>
             <div class="events-grid">
                 ${events.map(event => `
                     <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
-                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}% | Vol: ${formatVolume(event.volume || 0)}</div>
                         </div>
-                        ${event.history ? `
-                            <div class="event-history">
-                                <small>${formatHistory(event.history)}</small>
-                            </div>
-                        ` : ''}
                     </div>
                 `).join('')}
             </div>
         `;
     }
     
-    function toggleHourWatchSummary(idx) {
-        expandedHourWatchIdx = expandedHourWatchIdx === idx ? null : idx;
-        renderHourWatchBoard();
-    }
-    
-    // ==================== 每日榜 ====================
+    // ==================== 工具函数 ====================
     function renderDailyWatchBoard() {
         const container = document.getElementById('daily-watch-groups');
         if (!container) return;
@@ -127,33 +97,11 @@ const App = (() => {
         container.innerHTML = `
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card" onclick="App.toggleDailyWatchSummary(${idx})">
-                        <div class="summary-header">
-                            <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                            <div class="summary-toggle">
-                                ${expandedDailyWatchIdx === idx ? '▼' : '▶'}
-                            </div>
-                        </div>
-                        <div class="summary-stats">
-                            <div class="stat">
-                                <div class="stat-value">${summary.event_count}</div>
-                                <div class="stat-label">Events</div>
-                            </div>
-                            <div class="stat">
-                                <div class="stat-value">${(summary.avg_probability * 100).toFixed(1)}%</div>
-                                <div class="stat-label">Avg</div>
-                            </div>
-                            <div class="stat">
-                                <div class="stat-value">${(summary.max_probability * 100).toFixed(1)}%</div>
-                                <div class="stat-label">Max</div>
-                            </div>
-                        </div>
-                        <div class="summary-meta">
-                            Min: ${(summary.min_probability * 100).toFixed(1)}% | Range: ${((summary.max_probability - summary.min_probability) * 100).toFixed(1)}%
-                        </div>
+                    <div class="summary-card glass-card">
+                        <div class="summary-tag" style="margin-bottom: 1rem;">${summary.tag_display || summary.tag.toUpperCase()}</div>
                         
-                        <div class="summary-events" id="daily-watch-events-${idx}" style="display: ${expandedDailyWatchIdx === idx ? 'block' : 'none'};">
-                            ${expandedDailyWatchIdx === idx && summary.events ? renderDailyWatchEventsList(summary.events) : ''}
+                        <div class="events-grid">
+                            ${renderDailyWatchEventsList(summary.events)}
                         </div>
                     </div>
                 `).join('')}
@@ -164,29 +112,25 @@ const App = (() => {
     function renderDailyWatchEventsList(events) {
         if (!events || events.length === 0) return '';
         
+        // 格式化volume
+        const formatVolume = (vol) => {
+            if (vol >= 1000000) return (vol / 1000000).toFixed(1) + 'M';
+            if (vol >= 1000) return (vol / 1000).toFixed(1) + 'K';
+            return vol.toString();
+        };
+        
         return `
-            <div class="events-divider"></div>
             <div class="events-grid">
                 ${events.map(event => `
                     <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
-                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}%</div>
+                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}% | Vol: ${formatVolume(event.volume || 0)}</div>
                         </div>
-                        ${event.history ? `
-                            <div class="event-history">
-                                <small>${formatHistory(event.history)}</small>
-                            </div>
-                        ` : ''}
                     </div>
                 `).join('')}
             </div>
         `;
-    }
-    
-    function toggleDailyWatchSummary(idx) {
-        expandedDailyWatchIdx = expandedDailyWatchIdx === idx ? null : idx;
-        renderDailyWatchBoard();
     }
     
     // ==================== 长期榜 ====================
@@ -230,11 +174,9 @@ const App = (() => {
             <div class="summary-cards-grid">
                 ${summaries.map((summary, idx) => `
                     <div class="summary-card glass-card">
-                        <div class="summary-header">
-                            <div class="summary-tag">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                        </div>
+                        <div class="summary-tag" style="margin-bottom: 1rem;">${summary.tag_display || summary.tag.toUpperCase()}</div>
                         
-                        <div class="summary-events">
+                        <div class="events-grid">
                             ${renderLongTermEventsList(summary.events)}
                         </div>
                     </div>
@@ -269,11 +211,6 @@ const App = (() => {
                 `).join('')}
             </div>
         `;
-    }
-    
-    function toggleLongTermSummary(idx) {
-        expandedLongTermIdx = expandedLongTermIdx === idx ? null : idx;
-        renderLongTermBoard();
     }
     
     // ==================== 工具函数 ====================
@@ -335,9 +272,6 @@ const App = (() => {
     
     return {
         init,
-        toggleHourWatchSummary,
-        toggleDailyWatchSummary,
-        toggleLongTermSummary,
         loadEvents,
         renderAllBoards
     };

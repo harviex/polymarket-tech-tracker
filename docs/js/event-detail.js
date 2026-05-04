@@ -75,6 +75,18 @@ function findEventInData(data, eventId) {
         }
     }
     
+    // Check long_term_data.events (for Long-Term board)
+    if (!event && data.long_term_data && data.long_term_data.events) {
+        event = data.long_term_data.events[eventId];
+        if (event) {
+            // Add tag info from the event itself
+            if (event.tags && event.tags.length > 0) {
+                event.tag = event.tags[0];
+                event.tag_display = event.tags[0].toUpperCase();
+            }
+        }
+    }
+    
     // Check new_entries
     if (!event && data.new_entries) {
         event = data.new_entries.find(e => e.id === eventId);
@@ -83,16 +95,6 @@ function findEventInData(data, eventId) {
     // Check exited_entries
     if (!event && data.exited_entries) {
         event = data.exited_entries.find(e => e.id === eventId);
-    }
-    
-    // Check long_term_summaries
-    if (!event && data.long_term_summaries) {
-        for (const summary of data.long_term_summaries) {
-            if (summary.events) {
-                event = summary.events.find(e => e.id === eventId);
-                if (event) break;
-            }
-        }
     }
     
     return event;
