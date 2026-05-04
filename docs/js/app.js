@@ -12,7 +12,11 @@ const App = (() => {
     
     // ==================== 加载数据 ====================
     async function loadDailyWatch() {
-        const today = new Date().toISOString().split('T')[0];
+        // 使用北京时间 (UTC+8)
+        const now = new Date();
+        const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
+        const today = beijingTime.toISOString().split('T')[0];
+        
         try {
             const response = await fetch(`data/daily_watch/${today}.json`);
             if (response.ok) {
