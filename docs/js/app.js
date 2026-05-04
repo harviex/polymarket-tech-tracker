@@ -153,9 +153,7 @@ const App = (() => {
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
                             <div class="event-mini-probability">
-                                ${(event.current_prob * 100).toFixed(1)}% 
-                                ${event.option_text ? `| ${event.option_text}` : ''}
-                                | Vol: ${formatVolume(event.volume || 0)}
+                                ${(event.current_prob * 100).toFixed(1)}% (${event.option_text || 'Yes'}) | Vol: ${formatVolume(event.volume || 0)}
                             </div>
                         </div>
                     </div>
