@@ -68,14 +68,21 @@ const App = (() => {
         
         return `
             <div class="events-grid">
-                ${events.map(event => `
-                    <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
+                ${events.map(event => {
+                    // 构建 PolyMarket URL
+                    let polymarketUrl = `https://polymarket.com/event/${event.id}`;
+                    if (event.markets && event.markets[0] && event.markets[0].slug) {
+                        polymarketUrl = `https://polymarket.com/${event.markets[0].slug}`;
+                    }
+                    return `
+                    <div class="event-mini-card" onclick="window.open('${polymarketUrl}', '_blank')" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
                             <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}% | Vol: ${formatVolume(event.volume || 0)}</div>
                         </div>
                     </div>
-                `).join('')}
+                `;
+                }).join('')}
             </div>
         `;
     }
@@ -148,8 +155,14 @@ const App = (() => {
         
         return `
             <div class="events-grid">
-                ${events.map(event => `
-                    <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
+                ${events.map(event => {
+                    // 构建 PolyMarket URL
+                    let polymarketUrl = `https://polymarket.com/event/${event.id}`;
+                    if (event.markets && event.markets[0] && event.markets[0].slug) {
+                        polymarketUrl = `https://polymarket.com/${event.markets[0].slug}`;
+                    }
+                    return `
+                    <div class="event-mini-card" onclick="window.open('${polymarketUrl}', '_blank')" style="cursor: pointer;">
                         <div class="event-mini-header">
                             <div class="event-mini-title">${event.title}</div>
                             <div class="event-mini-probability">
@@ -157,7 +170,8 @@ const App = (() => {
                             </div>
                         </div>
                     </div>
-                `).join('')}
+                `;
+                }).join('')}
             </div>
         `;
     }
