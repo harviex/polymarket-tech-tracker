@@ -1,7 +1,40 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-03T23:32:14.776437",
-  "hour_watch_summaries": [],
+  "updated_at": "2026-05-04T08:01:29.670203",
+  "hour_watch_summaries": [
+    {
+      "tag": "ai",
+      "tag_display": "AI",
+      "event_count": 1,
+      "avg_probability": 0.695,
+      "max_probability": 0.695,
+      "min_probability": 0.695,
+      "events": [
+        {
+          "id": "57711",
+          "title": "Largest Company end of June?",
+          "probability": 0.695,
+          "tags": [
+            "ai",
+            "tech",
+            "big-tech",
+            "economy",
+            "deepseek",
+            "business",
+            "finance"
+          ],
+          "history": [
+            {
+              "time": "08:01",
+              "prob": 0.695,
+              "threshold": 0.7,
+              "direction": "down"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -19,29 +52,23 @@
             "ai",
             "big-tech"
           ],
-          "first_seen": "2026-05-03T02:03:13.773858",
+          "first_seen": "2026-05-04T02:04:46.450804",
           "history": [
             {
-              "time": "02:03",
+              "time": "02:04",
               "prob": 0.695,
               "threshold": 0.7,
               "direction": "down"
             },
             {
-              "time": "17:36",
-              "prob": 0.695,
-              "threshold": 0.7,
-              "direction": "down"
-            },
-            {
-              "time": "18:38",
+              "time": "03:01",
               "prob": 0.7,
               "threshold": 0.7,
               "direction": "up"
             },
             {
-              "time": "20:29",
-              "prob": 0.695,
+              "time": "05:02",
+              "prob": 0.69,
               "threshold": 0.7,
               "direction": "down"
             }
@@ -54,9 +81,9 @@
       "tag": "big-tech",
       "tag_display": "BIG-TECH",
       "event_count": 1,
-      "avg_probability": 0.495,
-      "max_probability": 0.495,
-      "min_probability": 0.495,
+      "avg_probability": 0.465,
+      "max_probability": 0.465,
+      "min_probability": 0.465,
       "events": [
         {
           "id": "57708",
@@ -69,52 +96,49 @@
             "tech",
             "gpt"
           ],
-          "first_seen": "2026-05-03T19:43:51.721431",
+          "first_seen": "2026-05-04T04:01:25.048556",
           "history": [
             {
-              "time": "19:43",
-              "prob": 0.52,
+              "time": "04:01",
+              "prob": 0.515,
               "threshold": 0.6,
               "direction": "down"
             }
           ],
-          "current_prob": 0.495
+          "current_prob": 0.465
         }
       ]
     },
     {
-      "tag": "economy",
-      "tag_display": "ECONOMY",
+      "tag": "ai",
+      "tag_display": "AI",
       "event_count": 1,
-      "avg_probability": 0.59,
-      "max_probability": 0.59,
-      "min_probability": 0.59,
+      "avg_probability": 0.695,
+      "max_probability": 0.695,
+      "min_probability": 0.695,
       "events": [
         {
-          "id": "73197",
-          "title": "US Treasury transactions on blockchain by June 30?",
+          "id": "57711",
+          "title": "Largest Company end of June?",
           "tags": [
+            "ai",
+            "tech",
+            "big-tech",
             "economy",
-            "trump",
-            "politics",
-            "crypto"
+            "deepseek",
+            "business",
+            "finance"
           ],
-          "first_seen": "2026-05-03T20:29:42.060179",
+          "first_seen": "2026-05-04T08:01:29.669591",
           "history": [
             {
-              "time": "20:29",
-              "prob": 0.61,
-              "threshold": 0.6,
-              "direction": "up"
-            },
-            {
-              "time": "21:30",
-              "prob": 0.525,
-              "threshold": 0.6,
+              "time": "08:01",
+              "prob": 0.695,
+              "threshold": 0.7,
               "direction": "down"
             }
           ],
-          "current_prob": 0.59
+          "current_prob": 0.695
         }
       ]
     }
