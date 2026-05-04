@@ -258,7 +258,6 @@ const App = (() => {
         };
         
         return `
-            <div class="events-divider"></div>
             <div class="events-grid">
                 ${events.map(event => `
                     <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">

@@ -39,6 +39,17 @@ async function loadEventDetail(eventId) {
             event.apiDetails = apiDetails;
         }
         
+        // Check if a specific market is requested
+        const urlParams = new URLSearchParams(window.location.search);
+        const marketId = urlParams.get('marketId');
+        
+        if (marketId && apiDetails && apiDetails.markets) {
+            const market = apiDetails.markets.find(m => m.id === marketId);
+            if (market) {
+                event.selectedMarket = market;
+            }
+        }
+        
         renderEventDetail(event);
         
     } catch (error) {
@@ -243,6 +254,13 @@ function renderEventDetail(event) {
                 <div class="event-description">
                     <h3>📝 Description</h3>
                     <div class="description-content">${formatDescription(description)}</div>
+                </div>
+            ` : ''}
+            
+            ${apiDetails?.resolutionSource ? `
+                <div class="event-resolution-source">
+                    <h3>📋 Resolution Source</h3>
+                    <div class="resolution-content">${apiDetails.resolutionSource || 'Not specified'}</div>
                 </div>
             ` : ''}
             
