@@ -69,13 +69,8 @@ const App = (() => {
         return `
             <div class="events-grid">
                 ${events.map(event => {
-                    // 优先使用事件的slug构建URL，否则使用id
-                    let polymarketUrl;
-                    if (event.slug) {
-                        polymarketUrl = `https://polymarket.com/event/${event.slug}`;
-                    } else {
-                        polymarketUrl = `https://polymarket.com/event/${event.id}`;
-                    }
+                    // 直接使用验证后的URL
+                    const polymarketUrl = event.url || `https://polymarket.com/event/${event.id}`;
                     return `
                     <div class="event-mini-card" onclick="window.open('${polymarketUrl}', '_blank')" style="cursor: pointer;">
                         <div class="event-mini-header">
@@ -158,8 +153,8 @@ const App = (() => {
         return `
             <div class="events-grid">
                 ${events.map(event => {
-                    // 使用事件ID构建URL
-                    const polymarketUrl = `https://polymarket.com/event/${event.id}`;
+                    // 直接使用验证后的URL
+                    const polymarketUrl = event.url || `https://polymarket.com/event/${event.id}`;
                     return `
                     <div class="event-mini-card" onclick="window.open('${polymarketUrl}', '_blank')" style="cursor: pointer;">
                         <div class="event-mini-header">

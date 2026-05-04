@@ -14,6 +14,7 @@ import sys
 from pathlib import Path
 from datetime import datetime
 import urllib.request
+import urllib.error
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "docs" / "data"
@@ -28,6 +29,42 @@ THRESHOLDS = [0.70, 0.80, 0.90]
 
 # 长期榜变动阈值：从峰值下跌超过30%视为变动
 LONG_TERM_CHANGE_THRESHOLD = 0.30
+
+def verify_polymarket_url(event_id, slug=None):
+    """
+    验证 PolyMarket URL 是否可访问
+    优先使用 ID，如果失败则尝试 slug
+    返回可用的 URL 或 None
+    """
+    # 优先测试 ID
+    url_by_id = f"https://polymarket.com/event/{event_id}"
+    try:
+        req = urllib.request.Request(url_by_id)
+        req.add_header('User-Agent', 'Mozilla/5.0 (compatible; PolymarketTracker/1.0)')
+        req.add_header('Accept', 'text/html')
+        with urllib.request.urlopen(req, timeout=10) as response:
+            if response.status == 200:
+                return url_by_id
+    except (urllib.error.HTTPError, urllib.error.URLError, Exception):
+        pass  # ID 不行，尝试 slug
+    
+    # ID 失败，尝试 slug
+    if slug:
+        url_by_slug = f"https://polymarket.com/event/{slug}"
+        try:
+            req = urllib.request.Request(url_by_slug)
+            req.add_header('User-Agent', 'Mozilla/5.0 (compatible; PolymarketTracker/1.0)')
+            req.add_header('Accept', 'text/html')
+            with urllib.request.urlopen(req, timeout=10) as response:
+                if response.status == 200:
+                    return url_by_slug
+        except (urllib.error.HTTPError, urllib.error.URLError, Exception):
+            pass  # slug 也不行
+    
+    # 都不行，返回使用 slug 的 URL（不过滤）
+    if slug:
+        return f"https://polymarket.com/event/{slug}"
+    return url_by_id  # 返回 ID 的 URL（即使可能404）
 
 def fetch_high_prob_events():
     """从API抓取高概率科技事件（70%-99%）"""
@@ -150,9 +187,16 @@ def filter_and_process_events(events, min_prob=0.70, max_prob=0.99):
             # 提取选项信息
             option_text = extract_option_text(event)
             
+            # 验证 PolyMarket URL
+            event_id = event['id']
+            slug = event.get('slug', '')
+            verified_url = verify_polymarket_url(event_id, slug)
+            
             filtered.append({
-                'id': event['id'],
+                'id': event_id,
                 'title': event.get('title', ''),
+                'slug': slug,
+                'url': verified_url,  # 保存验证后的URL
                 'probability': prob,
                 'option_text': option_text,  # 新增：对应的选项内容
                 'tags': [t['slug'] for t in event.get('tags', [])],
