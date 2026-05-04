@@ -672,6 +672,11 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "22:45",
+          "prob": 0.9875,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.9875
@@ -911,6 +916,34 @@
         }
       ],
       "current_prob": 0.7235
+    },
+    "362036": {
+      "id": "362036",
+      "title": "New MAI model released by...?",
+      "tags": [],
+      "first_seen": "2026-05-04T22:45:47.252655",
+      "history": [
+        {
+          "time": "22:45",
+          "prob": 0.9995,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9995
+    },
+    "449108": {
+      "id": "449108",
+      "title": "ChatGPT back in as #1 Free App in the US Apple App Store by...?",
+      "tags": [],
+      "first_seen": "2026-05-04T22:45:47.252664",
+      "history": [
+        {
+          "time": "22:45",
+          "prob": 0.9995,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9995
     }
   }
 }
