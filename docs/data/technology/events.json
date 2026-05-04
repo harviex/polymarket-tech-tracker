@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-04T16:46:46.674440",
+  "updated_at": "2026-05-04T18:09:42.642067",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -856,6 +856,11 @@
               "threshold": 0.7,
               "direction": "up",
               "reason": "Crossed up 70%"
+            },
+            {
+              "time": "18:09",
+              "prob": 0.733,
+              "reason": "Removed from Long-Term (prob < 70%)"
             }
           ],
           "current_prob": 0.733
@@ -894,13 +899,13 @@
     }
   ],
   "long_term_data": {
-    "event_count": 18,
+    "event_count": 17,
     "events": [
       {
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/98133",
+        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
         "probability": 0.74,
         "option_text": "Yes",
         "tags": [
@@ -1029,7 +1034,7 @@
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/102007",
+        "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
         "probability": 0.9355,
         "option_text": "$1T",
         "tags": [
@@ -1924,7 +1929,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.835,
+        "probability": 0.81,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2033,11 +2038,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.835,
+        "current_prob": 0.81,
         "added_at": "2026-05-04T23:25:17.006216",
         "first_seen": "2026-05-04T23:25:17.006216",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.835,
+        "last_checked_prob": 0.81,
         "history": [
           {
             "time": "23:25",
@@ -2178,7 +2183,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+        "url": "https://polymarket.com/event/108522",
         "probability": 0.9355,
         "option_text": "Yes",
         "tags": [
@@ -2437,7 +2442,7 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
+        "url": "https://polymarket.com/event/193319",
         "probability": 0.958,
         "option_text": "SpaceX",
         "tags": [
@@ -3119,7 +3124,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.86,
         "option_text": "Up",
         "tags": [
@@ -3243,7 +3248,7 @@
         "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
         "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
         "url": "https://polymarket.com/event/336406",
-        "probability": 0.795,
+        "probability": 0.775,
         "option_text": "1510",
         "tags": [
           "ai",
@@ -3721,11 +3726,11 @@
         "endDate": "2026-09-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.795,
+        "current_prob": 0.775,
         "added_at": "2026-05-04T23:25:17.006216",
         "first_seen": "2026-05-04T23:25:17.006216",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.795,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "23:25",
@@ -4630,7 +4635,7 @@
         "id": "376068",
         "title": "Uber # of trips above __ in Q1?",
         "slug": "uber-of-trips-above-in-q1",
-        "url": "https://polymarket.com/event/uber-of-trips-above-in-q1",
+        "url": "https://polymarket.com/event/376068",
         "probability": 0.9875,
         "option_text": "3.2B",
         "tags": [
@@ -5587,7 +5592,7 @@
         "title": "Which company has the second best AI model end of May?",
         "slug": "which-company-has-the-second-best-ai-model-end-of-may",
         "url": "https://polymarket.com/event/376512",
-        "probability": 0.815,
+        "probability": 0.82,
         "option_text": "Anthropic",
         "tags": [
           "tech",
@@ -8493,11 +8498,11 @@
         "endDate": "2026-05-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.815,
+        "current_prob": 0.82,
         "added_at": "2026-05-04T23:25:17.006216",
         "first_seen": "2026-05-04T23:25:17.006216",
-        "peak_prob": 0.815,
-        "last_checked_prob": 0.815,
+        "peak_prob": 0.82,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "23:25",
@@ -8510,7 +8515,7 @@
         "id": "379514",
         "title": "Anthropic valued higher than OpenAI in 2026?",
         "slug": "anthropic-valued-higher-than-openai-in-2026",
-        "url": "https://polymarket.com/event/379514",
+        "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
         "probability": 0.885,
         "option_text": "Yes",
         "tags": [
@@ -8643,7 +8648,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/385557",
-        "probability": 0.755,
+        "probability": 0.7605,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -11525,11 +11530,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.755,
+        "current_prob": 0.7605,
         "added_at": "2026-05-04T23:25:17.006216",
         "first_seen": "2026-05-04T23:25:17.006216",
         "peak_prob": 0.773,
-        "last_checked_prob": 0.755,
+        "last_checked_prob": 0.7605,
         "history": [
           {
             "time": "23:25",
@@ -11542,8 +11547,8 @@
         "id": "404632",
         "title": "Will SpaceX acquire Cursor?",
         "slug": "will-spacex-acquire-cursor",
-        "url": "https://polymarket.com/event/404632",
-        "probability": 0.79,
+        "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
+        "probability": 0.8,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -11655,11 +11660,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.79,
+        "current_prob": 0.8,
         "added_at": "2026-05-04T23:25:17.006216",
         "first_seen": "2026-05-04T23:25:17.006216",
-        "peak_prob": 0.79,
-        "last_checked_prob": 0.79,
+        "peak_prob": 0.8,
+        "last_checked_prob": 0.8,
         "history": [
           {
             "time": "23:25",
@@ -11669,141 +11674,10 @@
         ]
       },
       {
-        "id": "100079",
-        "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-        "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/100079",
-        "probability": 0.733,
-        "option_text": "Yes",
-        "tags": [
-          "tech",
-          "finance",
-          "big-tech",
-          "acquisitions",
-          "netflix",
-          "warner-bros"
-        ],
-        "markets": [
-          {
-            "id": "896056",
-            "question": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-            "conditionId": "0x745bad0ff4724aab8a5e52ce4fe1558a493fb248a679b51f54bbe21923979f02",
-            "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-            "resolutionSource": "",
-            "endDate": "2026-12-31T00:00:00Z",
-            "liquidity": "700.31416",
-            "startDate": "2025-12-08T16:39:06.049147Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-paramount-close-warner-bros-acquisition-by-end-of-2026-fxUworkcokOv.jpg",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-paramount-close-warner-bros-acquisition-by-end-of-2026-fxUworkcokOv.jpg",
-            "description": "This market will resolve to “Yes” if, Paramount (directly or through a subsidiary) acquires control of Warner Bros. Discovery's studios and streaming businesses by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nResolution will be based on official company communications and regulatory filings from Paramount and Warner Bros. Discovery (or any successor entities), supplemented as needed by a consensus of reporting from major reputable news outlets.",
-            "outcomes": "[\"Yes\", \"No\"]",
-            "outcomePrices": "[\"0.733\", \"0.267\"]",
-            "volume": "110479.25529499991",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2025-12-08T16:22:30.619351Z",
-            "updatedAt": "2026-05-04T16:45:02.470058Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0x8b8bc04b957032c8380547d790c7983310f945880a584bce8af055633d99d02f",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.001,
-            "orderMinSize": 5,
-            "volumeNum": 110479.25529499991,
-            "liquidityNum": 700.31416,
-            "endDateIso": "2026-12-31",
-            "startDateIso": "2025-12-08",
-            "hasReviewedDates": true,
-            "volume24hr": 83.14,
-            "volume1wk": 1074.8126570000002,
-            "volume1mo": 5908.3131490000005,
-            "volume1yr": 110479.25529499994,
-            "clobTokenIds": "[\"89566598418366581813277215279543727759920481939148932603553987458437131667828\", \"46470632352366621547295225922510898360914410924108755129921762137818023348745\"]",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volume24hrClob": 83.14,
-            "volume1wkClob": 1074.8126570000002,
-            "volume1moClob": 5908.3131490000005,
-            "volume1yrClob": 110479.25529499994,
-            "volumeClob": 110479.25529499991,
-            "liquidityClob": 700.31416,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2025-12-08T16:38:43Z",
-            "cyom": false,
-            "competitive": 0.9485065290446927,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "rewardsMinSize": 0,
-            "rewardsMaxSpread": 0,
-            "spread": 0.034,
-            "oneDayPriceChange": 0.0545,
-            "oneHourPriceChange": 0.0635,
-            "oneWeekPriceChange": -0.0005,
-            "oneMonthPriceChange": 0.0395,
-            "lastTradePrice": 0.715,
-            "bestBid": 0.716,
-            "bestAsk": 0.75,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2025-12-08T16:30:34.718145Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "tech_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.04,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            }
-          }
-        ],
-        "resolutionSource": "",
-        "description": "This market will resolve to “Yes” if, Paramount (directly or through a subsidiary) acquires control of Warner Bros. Discovery's studios and streaming businesses by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nResolution will be based on official company communications and regulatory filings from Paramount and Warner Bros. Discovery (or any successor entities), supplemented as needed by a consensus of reporting from major reputable news outlets.",
-        "volume": 110479.25529499991,
-        "liquidity": 699.39452,
-        "startDate": "2025-12-08T16:47:19.434229Z",
-        "endDate": "2026-12-31T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.733,
-        "added_at": "2026-05-04T16:46:46.655353",
-        "first_seen": "2026-05-04T16:46:46.655353",
-        "peak_prob": 0.733,
-        "last_checked_prob": 0.733,
-        "history": [
-          {
-            "time": "16:46",
-            "prob": 0.733,
-            "reason": "Added to Long-Term (high probability)"
-          }
-        ]
-      },
-      {
         "id": "414034",
         "title": "Which company has the best Coding AI model end of May?",
         "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
-        "url": "https://polymarket.com/event/414034",
+        "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
         "probability": 0.9,
         "option_text": "Anthropic",
         "tags": [
@@ -14718,6 +14592,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-04T16:46:46.655504"
+    "updated_at": "2026-05-04T18:09:42.624357"
   }
 }
