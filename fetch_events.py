@@ -288,6 +288,10 @@ def update_long_term_events(new_events, long_term_data):
             # 更新选项文本（可能变化）
             lt_event['option_text'] = new_event.get('option_text')
             
+            # 更新 URL（可能变化）
+            if 'url' in new_event:
+                lt_event['url'] = new_event['url']
+            
             # 如果概率变化超过5%，记录历史
             if abs(new_prob - old_prob) >= 0.05:
                 lt_event['history'].append({
