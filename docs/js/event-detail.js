@@ -87,16 +87,6 @@ function findEventInData(data, eventId) {
         }
     }
     
-    // Check new_entries
-    if (!event && data.new_entries) {
-        event = data.new_entries.find(e => e.id === eventId);
-    }
-    
-    // Check exited_entries
-    if (!event && data.exited_entries) {
-        event = data.exited_entries.find(e => e.id === eventId);
-    }
-    
     return event;
 }
 

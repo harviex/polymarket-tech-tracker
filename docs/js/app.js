@@ -1,7 +1,6 @@
-// app.js - Three-Board System: 1小时榜 + 每日榜 + 长期榜
+// app.js - Two-Board System: 每日榜 + 长期榜
 const App = (() => {
     let eventsData = {
-        hour_watch_summaries: [],
         daily_watch_summaries: [],
         long_term_data: { events: {}, updated_at: null }
     };
@@ -25,64 +24,12 @@ const App = (() => {
     }
     
     function renderAllBoards() {
-        renderHourWatchBoard();
         renderDailyWatchBoard();
         renderLongTermBoard();
         updateMetaInfo();
     }
     
-    // ==================== 1小时榜 ====================
-    function renderHourWatchBoard() {
-        const container = document.getElementById('hour-watch-groups');
-        if (!container) return;
-        
-        const summaries = eventsData.hour_watch_summaries || [];
-        
-        if (summaries.length === 0) {
-            container.innerHTML = '<p class="no-results">No 1-hour watch events</p>';
-            return;
-        }
-        
-        container.innerHTML = `
-            <div class="summary-cards-grid">
-                ${summaries.map((summary, idx) => `
-                    <div class="summary-card glass-card">
-                        <div class="summary-tag" style="margin-bottom: 1rem;">${summary.tag_display || summary.tag.toUpperCase()}</div>
-                        
-                        <div class="events-grid">
-                            ${renderHourWatchEventsList(summary.events)}
-                        </div>
-                    </div>
-                `).join('')}
-            </div>
-        `;
-    }
-    
-    function renderHourWatchEventsList(events) {
-        if (!events || events.length === 0) return '';
-        
-        // 格式化volume
-        const formatVolume = (vol) => {
-            if (vol >= 1000000) return (vol / 1000000).toFixed(1) + 'M';
-            if (vol >= 1000) return (vol / 1000).toFixed(1) + 'K';
-            return vol.toString();
-        };
-        
-        return `
-            <div class="events-grid">
-                ${events.map(event => `
-                    <div class="event-mini-card" onclick="window.location.href='event-detail.html?id=${event.id}'" style="cursor: pointer;">
-                        <div class="event-mini-header">
-                            <div class="event-mini-title">${event.title}</div>
-                            <div class="event-mini-probability">${(event.current_prob * 100).toFixed(1)}% | Vol: ${formatVolume(event.volume || 0)}</div>
-                        </div>
-                    </div>
-                `).join('')}
-            </div>
-        `;
-    }
-    
-    // ==================== 工具函数 ====================
+    // ==================== 每日榜 ====================
     function renderDailyWatchBoard() {
         const container = document.getElementById('daily-watch-groups');
         if (!container) return;
@@ -224,15 +171,6 @@ const App = (() => {
     }
     
     function updateMetaInfo() {
-        // 更新1小时榜元信息
-        const hourWatchMeta = document.getElementById('hour-watch-meta');
-        if (hourWatchMeta) {
-            const summaries = eventsData.hour_watch_summaries || [];
-            const totalEvents = summaries.reduce((sum, s) => sum + s.event_count, 0);
-            hourWatchMeta.style.display = 'block';
-            hourWatchMeta.innerHTML = `<p>Total ${totalEvents} events crossed thresholds in the last hour</p>`;
-        }
-        
         // 更新每日榜元信息
         const dailyWatchMeta = document.getElementById('daily-watch-meta');
         if (dailyWatchMeta) {
