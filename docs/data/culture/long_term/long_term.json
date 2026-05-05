@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-2026-fifa-world-cup",
-      "probability": 0.93,
+      "probability": 0.94,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.93,
+      "current_prob": 0.94,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.93,
-      "last_checked_prob": 0.93,
+      "peak_prob": 0.94,
+      "last_checked_prob": 0.94,
       "history": [
         {
           "time": "15:48",
@@ -91,7 +91,7 @@
       "title": "Eurovision 2026: First Semi-Final",
       "slug": "eurovision-2026-first-semi-final",
       "url": "https://polymarket.com/event/eurovision-2026-first-semi-final",
-      "probability": 0.9695,
+      "probability": 0.985,
       "option_text": "Israel",
       "tags": [
         "eurovision",
@@ -100,42 +100,15 @@
       ],
       "volume": 596429.804275,
       "liquidity": 144925.02368,
-      "current_prob": 0.9695,
+      "current_prob": 0.985,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9695,
-      "last_checked_prob": 0.9695,
+      "peak_prob": 0.985,
+      "last_checked_prob": 0.985,
       "history": [
         {
           "time": "15:48",
           "prob": 0.9695,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "166704": {
-      "id": "166704",
-      "title": "Eurovision 2026: Second Semi-Final",
-      "slug": "eurovision-2026-second-semi-final",
-      "url": "https://polymarket.com/event/eurovision-2026-second-semi-final",
-      "probability": 0.984,
-      "option_text": "Australia",
-      "tags": [
-        "eurovision",
-        "music",
-        "pop-culture"
-      ],
-      "volume": 294427.256705,
-      "liquidity": 80740.59217,
-      "current_prob": 0.984,
-      "added_at": "2026-05-05T15:48:24.558565",
-      "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.987,
-      "last_checked_prob": 0.984,
-      "history": [
-        {
-          "time": "15:48",
-          "prob": 0.987,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
@@ -145,7 +118,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.9345,
+      "probability": 0.948,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -153,11 +126,11 @@
       ],
       "volume": 78921.15187900001,
       "liquidity": 22883.93051,
-      "current_prob": 0.9345,
+      "current_prob": 0.948,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.935,
-      "last_checked_prob": 0.9345,
+      "peak_prob": 0.948,
+      "last_checked_prob": 0.948,
       "history": [
         {
           "time": "15:48",
@@ -171,7 +144,7 @@
       "title": "Who will die in The Boys: Season 5?",
       "slug": "who-will-die-in-the-boys-season-5",
       "url": "https://polymarket.com/event/who-will-die-in-the-boys-season-5",
-      "probability": 0.735,
+      "probability": 0.745,
       "option_text": "Homelander",
       "tags": [
         "movies",
@@ -180,41 +153,15 @@
       ],
       "volume": 283195.91994100006,
       "liquidity": 22851.93501,
-      "current_prob": 0.735,
+      "current_prob": 0.745,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.735,
-      "last_checked_prob": 0.735,
+      "peak_prob": 0.745,
+      "last_checked_prob": 0.745,
       "history": [
         {
           "time": "15:48",
           "prob": 0.735,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "307308": {
-      "id": "307308",
-      "title": "Highest Domestically Grossing April Film on May 31?",
-      "slug": "highest-domestically-grossing-april-film-on-may-31",
-      "url": "https://polymarket.com/event/highest-domestically-grossing-april-film-on-may-31",
-      "probability": 0.9895,
-      "option_text": "The Super Mario Galaxy Movie",
-      "tags": [
-        "movies",
-        "pop-culture"
-      ],
-      "volume": 249221.739106,
-      "liquidity": 32162.13737,
-      "current_prob": 0.9895,
-      "added_at": "2026-05-05T15:48:24.558565",
-      "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9895,
-      "last_checked_prob": 0.9895,
-      "history": [
-        {
-          "time": "15:48",
-          "prob": 0.989,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
@@ -250,7 +197,7 @@
       "title": "Who will be featured on ICEMAN?",
       "slug": "who-will-be-featured-on-iceman",
       "url": "https://polymarket.com/event/who-will-be-featured-on-iceman",
-      "probability": 0.81,
+      "probability": 0.845,
       "option_text": "21 Savage",
       "tags": [
         "drake",
@@ -262,11 +209,11 @@
       ],
       "volume": 78347.410386,
       "liquidity": 31291.17072,
-      "current_prob": 0.81,
+      "current_prob": 0.845,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.81,
-      "last_checked_prob": 0.81,
+      "peak_prob": 0.845,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "15:48",
@@ -362,7 +309,7 @@
       "title": "#1 Free App in the US Apple App Store on May 5?",
       "slug": "1-free-app-in-the-us-apple-app-store-on-may-5",
       "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-may-5",
-      "probability": 0.975,
+      "probability": 0.9825,
       "option_text": "ChatGPT",
       "tags": [
         "app-store",
@@ -373,11 +320,11 @@
       ],
       "volume": 10141.433453999998,
       "liquidity": 5188.17729,
-      "current_prob": 0.975,
+      "current_prob": 0.9825,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.975,
-      "last_checked_prob": 0.975,
+      "peak_prob": 0.9825,
+      "last_checked_prob": 0.9825,
       "history": [
         {
           "time": "15:48",
@@ -385,8 +332,36 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "283618": {
+      "id": "283618",
+      "title": "Will Olivia Rodrigo release a new original album by...?",
+      "slug": "will-olivia-rodrigo-release-a-new-original-album-by-august-31",
+      "url": "https://polymarket.com/event/will-olivia-rodrigo-release-a-new-original-album-by-august-31",
+      "probability": 0.987,
+      "option_text": "August 31",
+      "tags": [
+        "song",
+        "music",
+        "album",
+        "pop-culture"
+      ],
+      "volume": 13582.391846999997,
+      "liquidity": 5934.19663,
+      "current_prob": 0.987,
+      "added_at": "2026-05-05T18:47:12.236700",
+      "first_seen": "2026-05-05T18:47:12.236700",
+      "peak_prob": 0.987,
+      "last_checked_prob": 0.987,
+      "history": [
+        {
+          "time": "18:47",
+          "prob": 0.987,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-05T16:52:07.000046",
-  "event_count": 14
+  "updated_at": "2026-05-05T18:47:12.236818",
+  "event_count": 13
 }
