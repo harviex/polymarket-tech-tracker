@@ -40,7 +40,7 @@
   "about-merge": "Event Merging:",
   "about-merge-desc": "Multiple crossings of same event are merged into one card",
   "about-data-title": "🔮 Data Source",
-  "about-data-text": "All data comes from the Polymarket API (gamma-api.polymarket.com). Daily Watch updates hourly, Long-Term updates daily at 17:00 (Beijing Time).",
+  "about-data-text": "All data comes from the Polymarket API (gamma-api.polymarket.com). Daily Watch updates hourly, Long-Term updates daily at 00:00 (Beijing Time).",
   "about-vision-title": "🔮 Future Vision",
   "about-vision-text": "Starting with technology events, we plan to expand to economy, geopolitics, and more. Our unique \"change as news\" perspective offers a fresh take on prediction market analysis.",
   "about-disclaimer-title": "⚠️ Disclaimer",

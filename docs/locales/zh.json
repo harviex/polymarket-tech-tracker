@@ -40,7 +40,7 @@
   "about-merge": "事件合併：",
   "about-merge-desc": "同一事件的多次跨越會合併到一張卡片中",
   "about-data-title": "🔮 數據來源",
-  "about-data-text": "所有數據來自 Polymarket API (gamma-api.polymarket.com)。每日觀察每小時更新，長期事件每日 17:00（北京時間）更新。",
+  "about-data-text": "所有數據來自 Polymarket API (gamma-api.polymarket.com)。每日觀察每小時更新，長期事件每日 00:00（北京時間）更新。",
   "about-vision-title": "🔮 未來願景",
   "about-vision-text": "從科技事件開始，我們計劃擴展至經濟、地緣政治等領域。我們獨特的「變化即新聞」視角為預測市場分析帶來全新觀點。",
   "about-disclaimer-title": "⚠️ 免責聲明",
