@@ -46,18 +46,44 @@ def fetch_high_prob_events(max_retries=3):
     print(f"❌ All {max_retries} attempts failed", file=sys.stderr)
     return []
 
-def extract_option_text(event):
-    """提取事件的关键选项信息（简化版）"""
+def extract_option_text(event, yes_prob=None):
+    """提取概率对应的选项文字
+    
+    Args:
+        event: 事件数据
+        yes_prob: Yes选项的概率（0-1），如果为None则从事件中提取
+    
+    Returns:
+        概率对应的选项文字（如 "Yes", "No", "$1T", "75%" 等）
+    """
+    import re, json
+    
     markets = event.get('markets', [])
     if not markets:
         return None
     
-    import re
-    
-    # 获取第一个市场
     main_market = markets[0]
     
-    # 尝试提取 $金额
+    # 获取选项名称和价格
+    outcome_names = json.loads(main_market.get('outcomeNames', '[]'))
+    outcome_prices = json.loads(main_market.get('outcomePrices', '[]'))
+    
+    # 如果没有提供 yes_prob，从 outcome_prices 计算（默认第一个是 Yes）
+    if yes_prob is None:
+        yes_prob = float(outcome_prices[0]) if len(outcome_prices) > 0 else 0
+    
+    # 对于二元市场（Yes/No）
+    if outcome_names == ["Yes", "No"] or outcome_names == ["No", "Yes"]:
+        return "Yes" if yes_prob > 0.5 else "No"
+    
+    # 对于多选项市场，找到概率最高的选项
+    if len(outcome_names) > 0 and len(outcome_prices) == len(outcome_names):
+        # 将价格字符串转为浮点数
+        prices = [float(p) for p in outcome_prices]
+        max_idx = prices.index(max(prices))
+        return outcome_names[max_idx]
+    
+    # 尝试从问题中提取 $金额（适用于 "above ___ ?" 类型）
     question = main_market.get('question', '')
     match = re.search(r'\$[0-9.]+[BMKT]?', question)
     if match:
@@ -68,13 +94,8 @@ def extract_option_text(event):
     if match:
         return match.group(0)
     
-    # 尝试提取 reach ___ Score
-    match = re.search(r'reach\s+([0-9]+)', question, re.IGNORECASE)
-    if match:
-        return match.group(1)
-    
-    # 默认返回前50字符
-    return question[:50].strip()
+    # 兜底：根据概率返回 Yes 或 No
+    return "Yes" if yes_prob > 0.5 else "No"
 
 def filter_and_process_events(events, min_prob=0.70, max_prob=1.0, required_tags=None):
     """过滤并处理高概率事件（包含100%已结束事件）
@@ -104,7 +125,7 @@ def filter_and_process_events(events, min_prob=0.70, max_prob=1.0, required_tags
             yes_prob = float(outcome_prices[0]) if len(outcome_prices) > 0 else 0
             
             if min_prob <= yes_prob <= max_prob:
-                option_text = extract_option_text(event)
+                option_text = extract_option_text(event, yes_prob=yes_prob)
                 event_id = event['id']
                 slug = event.get('slug', '')
                 

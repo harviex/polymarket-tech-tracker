@@ -6,7 +6,7 @@
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
       "probability": 0.745,
-      "option_text": "Elon Musk trillionaire before 2027?",
+      "option_text": "Yes",
       "tags": [
         "elon-musk",
         "tech",
@@ -1029,7 +1029,7 @@
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.805,
-      "option_text": "Will Apple release a foldable iPhone before 2027?",
+      "option_text": "Yes",
       "tags": [
         "apple",
         "tech",
@@ -1156,7 +1156,7 @@
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.93,
-      "option_text": "Will Apple release iPhone 18 in 2026?",
+      "option_text": "Yes",
       "tags": [
         "big-tech",
         "apple",
@@ -1284,7 +1284,7 @@
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
       "probability": 0.936,
-      "option_text": "AI data center moratorium passed before 2027?",
+      "option_text": "Yes",
       "tags": [
         "pop-culture",
         "tech",
@@ -1543,7 +1543,7 @@
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
       "probability": 0.958,
-      "option_text": "Will SpaceX or OpenAI IPO first?",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "business",
@@ -2224,8 +2224,8 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.895,
-      "option_text": "Tech Layoffs Up or Down in 20​26?",
+      "probability": 0.87,
+      "option_text": "Yes",
       "tags": [
         "big-tech",
         "tech",
@@ -2329,11 +2329,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.895,
+      "current_prob": 0.87,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.895,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "23:25",
@@ -2347,8 +2347,8 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
-      "probability": 0.765,
-      "option_text": "1510",
+      "probability": 0.76,
+      "option_text": "Yes",
       "tags": [
         "ai",
         "tech",
@@ -2825,11 +2825,11 @@
       "endDate": "2026-09-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.765,
+      "current_prob": 0.76,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.765,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "23:25",
@@ -2844,7 +2844,7 @@
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
       "probability": 0.816,
-      "option_text": "Will Lyft’s total rides in Q1 2026 be above 230m?",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "kpis",
@@ -3736,7 +3736,7 @@
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
       "probability": 0.83,
-      "option_text": "Will Anthropic have the second best AI model at th",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "big-tech",
@@ -6660,7 +6660,7 @@
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
       "probability": 0.885,
-      "option_text": "Anthropic valued higher than OpenAI in 2026?",
+      "option_text": "Yes",
       "tags": [
         "finance",
         "ai",
@@ -6791,8 +6791,8 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.788,
-      "option_text": "Will NVIDIA be the largest company in the world by",
+      "probability": 0.7885,
+      "option_text": "Yes",
       "tags": [
         "tech",
         "economy",
@@ -9673,11 +9673,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.788,
+      "current_prob": 0.7885,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
-      "peak_prob": 0.788,
-      "last_checked_prob": 0.788,
+      "peak_prob": 0.7885,
+      "last_checked_prob": 0.7885,
       "history": [
         {
           "time": "23:25",
@@ -9692,7 +9692,7 @@
       "slug": "will-spacex-acquire-cursor",
       "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
       "probability": 0.795,
-      "option_text": "Will SpaceX acquire Cursor?",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "ai",
@@ -9822,7 +9822,7 @@
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
       "probability": 0.9,
-      "option_text": "Will Anthropic have the best Coding AI model at th",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "coding",
@@ -12740,7 +12740,7 @@
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "probability": 0.74,
-      "option_text": "Will Paramount close Warner Bros. acquisition by e",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "finance",
@@ -12870,7 +12870,7 @@
       "slug": "will-tesla-launch-a-driverless-robotaxi-service-by-june-30-2026",
       "url": "https://polymarket.com/event/will-tesla-launch-a-driverless-robotaxi-service-by-june-30-2026",
       "probability": 1.0,
-      "option_text": "Will Tesla launch a driverless Robotaxi service by",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "robotaxi",
@@ -12900,7 +12900,7 @@
       "slug": "gta-6-launch-postponed",
       "url": "https://polymarket.com/event/gta-6-launch-postponed",
       "probability": 1.0,
-      "option_text": "GTA 6 launch postponed?",
+      "option_text": "Yes",
       "tags": [
         "pop-culture",
         "gta-vi",
@@ -12956,7 +12956,7 @@
       "slug": "which-companys-ai-will-first-hit-1500-on-chatbot-arena-by-june-30",
       "url": "https://polymarket.com/event/which-companys-ai-will-first-hit-1500-on-chatbot-arena-by-june-30",
       "probability": 1.0,
-      "option_text": "Will Anthropic be the first company to have an AI",
+      "option_text": "Yes",
       "tags": [
         "openai",
         "anthropic",
@@ -12989,7 +12989,7 @@
       "slug": "next-ceo-of-apple",
       "url": "https://polymarket.com/event/next-ceo-of-apple",
       "probability": 1.0,
-      "option_text": "Will John Ternus be the next CEO of Apple?",
+      "option_text": "Yes",
       "tags": [
         "big-tech",
         "business",
@@ -13017,7 +13017,7 @@
       "slug": "which-companies-will-be-acquired-before-2027",
       "url": "https://polymarket.com/event/which-companies-will-be-acquired-before-2027",
       "probability": 1.0,
-      "option_text": "Will iRobot be acquired before 2027?",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "prediction-markets",
@@ -13049,7 +13049,7 @@
       "slug": "paramount-acquires-warner-bros-discovery-by-june-30",
       "url": "https://polymarket.com/event/paramount-acquires-warner-bros-discovery-by-june-30",
       "probability": 1.0,
-      "option_text": "Paramount x Warner Bros. acquisition announced by",
+      "option_text": "Yes",
       "tags": [
         "politics",
         "media",
@@ -13082,7 +13082,7 @@
       "slug": "will-apple-release-airtag-2-by-june-30",
       "url": "https://polymarket.com/event/will-apple-release-airtag-2-by-june-30",
       "probability": 1.0,
-      "option_text": "Will Apple release AirTag 2 by June 30?",
+      "option_text": "Yes",
       "tags": [
         "big-tech",
         "apple",
@@ -13109,7 +13109,7 @@
       "slug": "chatbot-arena-how-high-will-ai-score-by-december-31",
       "url": "https://polymarket.com/event/chatbot-arena-how-high-will-ai-score-by-december-31",
       "probability": 1.0,
-      "option_text": "Will any AI model reach a Chatbot Arena score of a",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "big-tech",
@@ -13137,7 +13137,7 @@
       "slug": "critical-discord-incident-by",
       "url": "https://polymarket.com/event/critical-discord-incident-by",
       "probability": 1.0,
-      "option_text": "Critical Discord Incident by March 31, 2026?",
+      "option_text": "Yes",
       "tags": [
         "hack",
         "pop-culture",
@@ -13258,7 +13258,7 @@
       "slug": "spacex-and-xai-merger-offcially-announced-by-june-30",
       "url": "https://polymarket.com/event/spacex-and-xai-merger-offcially-announced-by-june-30",
       "probability": 1.0,
-      "option_text": "SpaceX and xAI merger officially announced by June",
+      "option_text": "Yes",
       "tags": [
         "business",
         "tech",
@@ -13291,7 +13291,7 @@
       "slug": "chatgpt-out-as-1-free-app-in-the-us-apple-app-store-by",
       "url": "https://polymarket.com/event/chatgpt-out-as-1-free-app-in-the-us-apple-app-store-by",
       "probability": 1.0,
-      "option_text": "Will ChatGPT be out as the #1 Free App in the US A",
+      "option_text": "Yes",
       "tags": [
         "pop-culture",
         "chatgpt",
@@ -13321,7 +13321,7 @@
       "slug": "polymarket-surpasses-robinhood-on-similar-web-in-2026",
       "url": "https://polymarket.com/event/polymarket-surpasses-robinhood-on-similar-web-in-2026",
       "probability": 1.0,
-      "option_text": "Polymarket surpasses Robinhood on Similar Web in 2",
+      "option_text": "Yes",
       "tags": [
         "views",
         "web",
@@ -13351,7 +13351,7 @@
       "slug": "claude-4pt7-released-by",
       "url": "https://polymarket.com/event/claude-4pt7-released-by",
       "probability": 1.0,
-      "option_text": "Claude 4.7 released by May 31?",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "big-tech",
@@ -13409,7 +13409,7 @@
       "slug": "new-mai-model-released-by",
       "url": "https://polymarket.com/event/new-mai-model-released-by",
       "probability": 0.9995,
-      "option_text": "Will a new MAI model be released by April 30, 2026",
+      "option_text": "Yes",
       "tags": [
         "ai",
         "tech",
@@ -13436,7 +13436,7 @@
       "slug": "uber-of-trips-above-in-q1",
       "url": "https://polymarket.com/event/uber-of-trips-above-in-q1",
       "probability": 0.9915,
-      "option_text": "Uber # of trips above 3.2B in Q1?",
+      "option_text": "Yes",
       "tags": [
         "finance",
         "kpis",
@@ -13465,7 +13465,7 @@
       "slug": "will-anthropic-provide-mythos-to-the-us-government-by-june-30",
       "url": "https://polymarket.com/event/will-anthropic-provide-mythos-to-the-us-government-by-june-30",
       "probability": 1.0,
-      "option_text": "Will Anthropic provide Mythos to the US government",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "dario-amodei",
@@ -13497,7 +13497,7 @@
       "slug": "chatgpt-outage-by-432",
       "url": "https://polymarket.com/event/chatgpt-outage-by-432",
       "probability": 1.0,
-      "option_text": "ChatGPT Outage by May 1?",
+      "option_text": "Yes",
       "tags": [
         "ai",
         "chatgpt",
@@ -13527,7 +13527,7 @@
       "slug": "deepseek-v4-released-on",
       "url": "https://polymarket.com/event/deepseek-v4-released-on",
       "probability": 1.0,
-      "option_text": "Will DeepSeek V4 be released on or prior to April",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "china",
@@ -13554,7 +13554,7 @@
       "slug": "chatgpt-back-in-as-1-free-app-in-the-us-apple-app-store-by-116",
       "url": "https://polymarket.com/event/chatgpt-back-in-as-1-free-app-in-the-us-apple-app-store-by-116",
       "probability": 1.0,
-      "option_text": "Will ChatGPT be back in as the #1 Free App in the",
+      "option_text": "Yes",
       "tags": [
         "apple",
         "app-store",
@@ -13577,8 +13577,38 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "probability": 0.722,
+      "option_text": "40%",
+      "tags": [
+        "tech",
+        "big-tech",
+        "gemini-3",
+        "business",
+        "gemini",
+        "ai"
+      ],
+      "volume": 130716.146006,
+      "liquidity": 967.04251,
+      "current_prob": 0.722,
+      "added_at": "2026-05-05T10:35:10.755180",
+      "first_seen": "2026-05-05T10:35:10.755180",
+      "peak_prob": 0.722,
+      "last_checked_prob": 0.722,
+      "history": [
+        {
+          "time": "10:35",
+          "prob": 0.722,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-05T10:14:46.693539",
-  "event_count": 41
+  "updated_at": "2026-05-05T10:35:10.755399",
+  "event_count": 42
 }
