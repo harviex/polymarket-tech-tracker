@@ -420,6 +420,13 @@ body {
     font-size: 0.875rem;
 }
 
+#copyright {
+    margin-top: 0.5rem;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    opacity: 0.8;
+}
+
 .footer-link {
     display: inline-block;
     margin-top: 1rem;
