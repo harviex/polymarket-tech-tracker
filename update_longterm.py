@@ -111,19 +111,63 @@ def extract_option_text(event, yes_prob=None):
 import json
 import sys
 import subprocess
+import argparse
 from pathlib import Path
 from datetime import datetime
 
 BASE_DIR = Path(__file__).parent
+
+# 分类配置（与 detect_crossings.py 一致）
+CATEGORY_CONFIG = {
+    'tech': {
+        'tags': ['tech'],
+        'label': 'Technology'
+    },
+    'culture': {
+        'tags': ['pop-culture'],
+        'label': 'Culture (Pop-Culture)'
+    },
+    'economy': {
+        'tags': ['business', 'economy'],
+        'label': 'Economy (Business + Economy)'
+    }
+}
+
+def get_category_dir(category):
+    """获取分类数据目录"""
+    return BASE_DIR / "docs" / "data" / category
+
 TECH_DIR = BASE_DIR / "docs" / "data" / "tech"
 LONG_TERM_DIR = TECH_DIR / "long_term"
 
 GAMMA_API = "https://gamma-api.polymarket.com/events"
 
-def fetch_high_prob_events(max_retries=3):
-    """用curl抓取高概率科技事件（70%-99%）"""
+def fetch_events_by_tags(tags, max_retries=3):
+    """用curl抓取指定标签的事件（支持多标签合并去重）"""
     today = datetime.now().strftime('%Y-%m-%d')
-    url = f"{GAMMA_API}?tag_slug=tech&end_date_min={today}&volume_min=10000&limit=1000"
+    
+    if len(tags) == 1:
+        # 单个tag
+        return fetch_events_by_tag(tags[0], today, max_retries)
+    else:
+        # 多个tag：合并去重
+        print(f"  Fetching events from multiple tags: {', '.join(tags)}")
+        all_events = {}
+        for tag in tags:
+            events = fetch_events_by_tag(tag, today, max_retries)
+            print(f"    {tag}: {len(events)} events")
+            for event in events:
+                event_id = event.get('id')
+                if event_id and event_id not in all_events:
+                    all_events[event_id] = event
+        
+        merged = list(all_events.values())
+        print(f"    Merged: {len(merged)} unique events")
+        return merged
+
+def fetch_events_by_tag(tag, today, max_retries=3):
+    """抓取单个标签的事件"""
+    url = f"{GAMMA_API}?tag_slug={tag}&end_date_min={today}&volume_min=10000&limit=1000"
     
     for attempt in range(max_retries):
         try:
@@ -143,12 +187,12 @@ def fetch_high_prob_events(max_retries=3):
             else:
                 raise Exception(f"curl failed: {result.stderr}")
         except Exception as e:
-            print(f"  Attempt {attempt+1}/{max_retries} failed: {e}", file=sys.stderr)
+            print(f"  Attempt {attempt+1}/{max_retries} failed for tag '{tag}': {e}", file=sys.stderr)
             if attempt < max_retries - 1:
                 import time
                 time.sleep(2)
     
-    print(f"❌ All {max_retries} attempts failed", file=sys.stderr)
+    print(f"❌ All {max_retries} attempts failed for tag '{tag}'", file=sys.stderr)
     return []
 
 import re, json
@@ -211,7 +255,7 @@ def filter_and_process_events(events, min_prob=0.70, max_prob=0.99, required_tag
     
     return filtered
 
-def load_long_term_data():
+def load_long_term_data(LONG_TERM_DIR):
     """加载Long Term数据"""
     LONG_TERM_DIR.mkdir(parents=True, exist_ok=True)
     long_term_file = LONG_TERM_DIR / "long_term.json"
@@ -222,7 +266,7 @@ def load_long_term_data():
     with open(long_term_file) as f:
         return json.load(f)
 
-def save_long_term_data(long_term_data):
+def save_long_term_data(long_term_data, LONG_TERM_DIR):
     """保存Long Term数据"""
     LONG_TERM_DIR.mkdir(parents=True, exist_ok=True)
     long_term_file = LONG_TERM_DIR / "long_term.json"
@@ -308,13 +352,24 @@ def update_long_term_events(new_events, long_term_data):
 
 def main():
     """主函数"""
+    # 命令行参数解析
+    parser = argparse.ArgumentParser(description='Polymarket Long-Term Updater')
+    parser.add_argument('--category', choices=['tech', 'culture', 'economy'], default='tech',
+                        help='Category to process (default: tech)')
+    args = parser.parse_args()
+    
+    category = args.category
+    config = CATEGORY_CONFIG[category]
+    category_dir = get_category_dir(category)
+    LONG_TERM_DIR = category_dir / "long_term"
+    
     print(f"\n{'='*60}")
-    print(f"🔄 Long-Term Daily Update - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"🔄 Long-Term Daily Update - {config['label']} - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     print(f"{'='*60}\n")
     
     # 1. 抓取高概率事件
     print("1️⃣  Fetching high-probability events (70%-99%)...")
-    events = fetch_high_prob_events()
+    events = fetch_events_by_tags(config['tags'])
     print(f"   Found {len(events)} events from API\n")
     
     # 🔒 关键检查：如果API返回空，保留现有数据
@@ -325,7 +380,7 @@ def main():
     
     # 2. 过滤和处理
     print("2️⃣  Filtering and processing events...")
-    high_prob_events = filter_and_process_events(events)
+    high_prob_events = filter_and_process_events(events, required_tags=config['tags'])
     print(f"   {len(high_prob_events)} high-probability events\n")
     
     if high_prob_events:
@@ -337,7 +392,7 @@ def main():
     
     # 3. 加载现有Long-Term数据
     print("3️⃣  Loading existing Long-Term data...")
-    long_term_data = load_long_term_data()
+    long_term_data = load_long_term_data(LONG_TERM_DIR)
     print(f"   Current events: {len(long_term_data.get('events', {}))}\n")
     
     # 4. 更新事件
@@ -348,7 +403,7 @@ def main():
     
     # 5. 保存
     print("5️⃣  Saving Long-Term data...")
-    save_long_term_data(long_term_data)
+    save_long_term_data(long_term_data, LONG_TERM_DIR)
     print(f"✅ Saved to {LONG_TERM_DIR / 'long_term.json'}\n")
     
     print(f"{'='*60}")
