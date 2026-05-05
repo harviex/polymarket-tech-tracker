@@ -111,6 +111,11 @@ def filter_and_process_events(events, min_prob=0.70, max_prob=1.0, required_tags
                 # 不验证URL，直接构建
                 url = f"https://polymarket.com/event/{slug}" if slug else f"https://polymarket.com/event/{event_id}"
                 
+                # 检查交易量 ≥ 10K
+                volume = event.get('volume', 0)
+                if volume < 10000:
+                    continue  # 交易量不足，跳过
+                
                 filtered.append({
                     'id': event_id,
                     'title': event.get('title', ''),
@@ -119,7 +124,7 @@ def filter_and_process_events(events, min_prob=0.70, max_prob=1.0, required_tags
                     'probability': yes_prob,
                     'option_text': option_text,
                     'tags': event_tags,
-                    'volume': event.get('volume',0),
+                    'volume': volume,
                     'liquidity': event.get('liquidity', 0),
                 })
         except Exception as e:

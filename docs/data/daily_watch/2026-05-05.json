@@ -67,8 +67,30 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-05-05T08:00:35.528491"
+    },
+    {
+      "event_id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-05T10:00:10.180491"
+    },
+    {
+      "event_id": "414034",
+      "title": "Which company has the best Coding AI model end of May?",
+      "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
+      "prev_prob": 0.89,
+      "curr_prob": 0.915,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-05T10:00:10.180515"
     }
   ],
-  "last_updated": "2026-05-05T08:00:35.528697",
-  "crossing_count": 6
+  "last_updated": "2026-05-05T10:00:10.180700",
+  "crossing_count": 8
 }
