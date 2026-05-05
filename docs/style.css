@@ -284,7 +284,6 @@ header h1 {
 
     font-weight: 600;
     margin-bottom: 5px;
-}
 
 .archive-btn:hover {
     background: var(--accent-hover);

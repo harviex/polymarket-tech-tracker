@@ -56,8 +56,19 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-05-05T06:00:39.697484"
+    },
+    {
+      "event_id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "prev_prob": 0.8,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-05T08:00:35.528491"
     }
   ],
-  "last_updated": "2026-05-05T06:00:39.697673",
-  "crossing_count": 5
+  "last_updated": "2026-05-05T08:00:35.528697",
+  "crossing_count": 6
 }

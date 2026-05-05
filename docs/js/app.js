@@ -123,17 +123,17 @@ const App = (() => {
             ? `https://polymarket.com/event/${event.slug}`
             : `https://polymarket.com/event/${event.event_id}`;
         
-        // 1d: 布局 - 两行
-        // 第一行：事件名称
-        // 第二行：时间 + 阈值 + 数值变化（同一行）
+        // 1d: 数值格式 - 时间 + 阈值符号 + 数值变化（同一行）
+        // 格式：6:00 90% 70.5% → 74.0%
+        const mainLine = `${latest.time} ${(latest.threshold * 100).toFixed(0)}% ${(latest.prev_prob * 100).toFixed(1)}% → ${(latest.curr_prob * 100).toFixed(1)}%`;
         
-        // 1e: 多次变动历史
+        // 1e: 多次变动历史 - 每个时间点换行显示
         const historyHtml = event.history.length > 1 ? `
             <div class="crossing-history">
                 ${event.history.map(h => {
                     const arrow = h.direction === 'up' ? '↑' : '↓';
-                    return `${h.time} ${h.threshold*100}%${arrow}`;
-                }).join(' | ')}
+                    return `${h.time} ${(h.threshold * 100).toFixed(0)}% ${h.prev_prob * 100}%${arrow} → ${h.curr_prob * 100}%`;
+                }).join('<br>')}
             </div>
         ` : '';
         
@@ -141,11 +141,7 @@ const App = (() => {
             <div class="crossing-card ${directionClass}" onclick="window.open('${url}', '_blank')" style="cursor: pointer;">
                 <div class="crossing-title">${event.title}</div>
                 <div class="crossing-meta">
-                    <span class="crossing-time">${latest.time}</span>
-                    <span class="crossing-threshold">${(latest.threshold * 100).toFixed(0)}%</span>
-                    <span class="crossing-probs">
-                        ${(latest.prev_prob * 100).toFixed(1)}% → ${(latest.curr_prob * 100).toFixed(1)}%
-                    </span>
+                    ${mainLine}
                 </div>
                 ${historyHtml}
             </div>
@@ -168,7 +164,13 @@ const App = (() => {
         const tagGroups = {};
         events.forEach(event => {
             const tags = event.tags || [];
-            const mainTag = tags[0] || 'other';
+            let mainTag = tags[0] || 'other';
+            
+            // 2: 如果第一个标签是 "tech"，忽略它，用第二个标签
+            if (mainTag.toLowerCase() === 'tech' && tags.length > 1) {
+                mainTag = tags[1];
+            }
+            
             if (!tagGroups[mainTag]) {
                 tagGroups[mainTag] = [];
             }
