@@ -45,8 +45,30 @@
       "direction": "down",
       "time": "03:01",
       "timestamp": "2026-05-06T03:01:28.134658"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6265,
+      "curr_prob": 0.747,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:01",
+      "timestamp": "2026-05-06T04:01:45.514896"
+    },
+    {
+      "event_id": "192773",
+      "title": "Will OpenAI release a social network in 2026?",
+      "slug": "will-openai-release-a-social-network-in-2026",
+      "prev_prob": 0.735,
+      "curr_prob": 0.67,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-05-06T04:01:45.514924"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-06T03:01:28.134867"
+  "crossing_count": 6,
+  "last_updated": "2026-05-06T04:01:45.515175"
 }
