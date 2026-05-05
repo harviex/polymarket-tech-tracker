@@ -1,6 +1,19 @@
 {
   "date": "2026-05-05",
   "created_at": "2026-05-05T15:47:40.956535",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.695,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-05T16:00:49.883233"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-05T16:00:49.883536"
 }

@@ -4,110 +4,6 @@ Polymarket Tech Tracker - Culture (Pop-Culture) Long-Term Updater
 每天00:00运行：抓取高概率pop-culture事件（70%-99%）并更新Long-Term数据
 """
 
-def extract_option_from_question(question):
-    """从问题文本中提取选项名"""
-    # 先尝试提取 $ 后面的数字和单位（最高优先级）
-    match = re.search(r'\$[0-9.]+[BMKT]?', question)
-    if match:
-        return match.group(0).lstrip(">")
-    
-    # 尝试提取百分比
-    match = re.search(r'[0-9]+%', question)
-    if match:
-        return match.group(0).lstrip(">")
-    
-    # 尝试提取 "reach ___ Score" 中的数字
-    match = re.search(r'reach\s+([0-9]+)', question, re.IGNORECASE)
-    if match:
-        return match.group(1)
-    
-    # 尝试提取 "above ___" 中的内容
-    match = re.search(r'above\s+([0-9]+(?:\.[0-9]+)?[BMKT]?|[A-Za-z]+)', question, re.IGNORECASE)
-    if match:
-        return match.group(1)
-    
-    # 去掉 "Will " 前缀
-    text = re.sub(r'^Will\s+', '', question, flags=re.IGNORECASE)
-    
-    # 如果是 "X or Y" 格式
-    if re.search(r'\s+or\s+', text, re.IGNORECASE):
-        match = re.match(r'^(.*?or\s+.*?)(?:\s+(?:have|be|first|closing|ipo)\s+)', text, re.IGNORECASE)
-        if match:
-            return match.group(1).strip()
-        # 返回到问号前的内容
-        match = re.match(r'^(.*?)\?', text)
-        if match:
-            return match.group(1).strip()
-    
-    # 尝试提取 "Will X ..." 中的 X
-    match = re.match(r'^(\w+)(?:\s|$)', text)
-    if match:
-        return match.group(1)
-    
-    return "Choice"
-
-def extract_option_text(event, yes_prob=None):
-    """提取概率对应的选项文字（最终修复版）"""
-    markets = event.get('markets', [])
-    if not markets:
-        return None
-    
-    main_market = markets[0]
-    title = event.get('title', '')
-    question = main_market.get('question', '')
-    
-    # ✅ 优先级1: groupItemTitle
-    group_item_title = main_market.get('groupItemTitle', '')
-    if group_item_title and group_item_title.strip() != '':
-        return group_item_title.strip()
-    
-    # ✅ 优先级2: 检查 comes 字段（fetch_events.py 使用这个）
-    outcome_names_str = main_market.get('outcomes', main_market.get('outcomeNames', '[]'))
-    
-    if outcome_names_str is None or outcome_names_str == 'None':
-        outcome_names = []
-    else:
-        try:
-            outcome_names = json.loads(outcome_names_str)
-        except:
-            outcome_names = []
-    
-    # 获取价格
-    outcome_prices_str = main_market.get('outcomePrices', '[]')
-    try:
-        outcome_prices = json.loads(outcome_prices_str)
-    except:
-        outcome_prices = []
-    
-    if yes_prob is None:
-        yes_prob = float(outcome_prices[0]) if len(outcome_prices) > 0 else 0
-    
-    # ✅ 优先级3: 二元市场
-    if outcome_names == ["Yes", "No"] or outcome_names == ["No", "Yes"]:
-        return "Yes" if yes_prob > 0.5 else "No"
-    
-    # ✅ 优先级4: 多选项市场
-    if len(outcome_names) > 0 and len(outcome_prices) == len(outcome_names):
-        prices = [float(p) for p in outcome_prices]
-        max_idx = prices.index(max(prices))
-        return outcome_names[max_idx]
-    
-    # ✅ 优先级5: 使用 extract_option_from_question
-    if question:
-        option = extract_option_from_question(question)
-        if option and option != "Choice":
-            return option
-    
-    # ✅ 优先级6: 从 title 提取
-    if title:
-        option = extract_option_from_question(title)
-        if option and option != "Choice":
-            return option
-    
-    # 最后兜底
-    return "Yes" if yes_prob > 0.5 else "No"
-
-
 import json
 import sys
 import subprocess
@@ -151,8 +47,66 @@ def fetch_high_prob_events(max_retries=3):
     print(f"❌ All {max_retries} attempts failed", file=sys.stderr)
     return []
 
-import re, json
-
+def extract_option_text(event, yes_prob=None):
+    """提取概率对应的选项文字"""
+    import re, json
+    
+    markets = event.get('markets', [])
+    if not markets:
+        return None
+    
+    main_market = markets[0]
+    title = event.get('title', '')
+    question = main_market.get('question', '')
+    description = event.get('description', '')
+    
+    outcome_names = json.loads(main_market.get('outcomeNames', '[]'))
+    outcome_prices = json.loads(main_market.get('outcomePrices', '[]'))
+    
+    if yes_prob is None:
+        yes_prob = float(outcome_prices[0]) if len(outcome_prices) > 0 else 0
+    
+    if outcome_names == ["Yes", "No"] or outcome_names == ["No", "Yes"]:
+        return "Yes" if yes_prob > 0.5 else "No"
+    
+    if len(outcome_names) > 0 and len(outcome_prices) == len(outcome_names):
+        prices = [float(p) for p in outcome_prices]
+        max_idx = prices.index(max(prices))
+        return outcome_names[max_idx]
+    
+    if ' or ' in question and '?' in question:
+        resolve_matches = re.findall(r'resolve to "([^"]+)"', description, re.IGNORECASE)
+        if len(resolve_matches) >= 2:
+            return resolve_matches[0] if yes_prob > 0.5 else resolve_matches[1]
+    
+    if 'above' in question.lower():
+        amount_match = re.search(r'above\s+([0-9,.]+[BMKTm]?)', question, re.IGNORECASE)
+        if amount_match:
+            value = amount_match.group(1)
+            if '$' not in value and any(c.isdigit() for c in value):
+                return value.upper()
+            return value
+        amount_match = re.search(r'\$([0-9,.]+[BMKT]?)', description, re.IGNORECASE)
+        if amount_match:
+            return '$' + amount_match.group(1)
+        return "Yes" if yes_prob > 0.5 else "No"
+    
+    match = re.search(r'\$[0-9.]+[BMKT]?', question)
+    if match:
+        return match.group(0)
+    
+    match = re.search(r'[0-9]+%', question)
+    if match:
+        return match.group(0)
+    
+    if 'Which ' in title or 'Which ' in question:
+        import re
+        match = re.search(r'Will ([A-Za-z]+) ', question)
+        if match:
+            return match.group(1)
+        return "Choice"
+    
+    return "Yes" if yes_prob > 0.5 else "No"
 
 def filter_and_process_events(events, min_prob=0.70, max_prob=0.99, required_tags=None):
     """过滤并处理高概率事件（70%-99%，不含100%）"""

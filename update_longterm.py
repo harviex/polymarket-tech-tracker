@@ -4,6 +4,110 @@ Polymarket Tech Tracker - Long-Term Updater (Simplified)
 每天00:00运行：抓取高概率事件（70%-99%）并更新Long-Term数据
 """
 
+def extract_option_from_question(question):
+    """从问题文本中提取选项名"""
+    # 先尝试提取 $ 后面的数字和单位（最高优先级）
+    match = re.search(r'\$[0-9.]+[BMKT]?', question)
+    if match:
+        return match.group(0).lstrip(">")
+    
+    # 尝试提取百分比
+    match = re.search(r'[0-9]+%', question)
+    if match:
+        return match.group(0).lstrip(">")
+    
+    # 尝试提取 "reach ___ Score" 中的数字
+    match = re.search(r'reach\s+([0-9]+)', question, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    
+    # 尝试提取 "above ___" 中的内容
+    match = re.search(r'above\s+([0-9]+(?:\.[0-9]+)?[BMKT]?|[A-Za-z]+)', question, re.IGNORECASE)
+    if match:
+        return match.group(1)
+    
+    # 去掉 "Will " 前缀
+    text = re.sub(r'^Will\s+', '', question, flags=re.IGNORECASE)
+    
+    # 如果是 "X or Y" 格式
+    if re.search(r'\s+or\s+', text, re.IGNORECASE):
+        match = re.match(r'^(.*?or\s+.*?)(?:\s+(?:have|be|first|closing|ipo)\s+)', text, re.IGNORECASE)
+        if match:
+            return match.group(1).strip()
+        # 返回到问号前的内容
+        match = re.match(r'^(.*?)\?', text)
+        if match:
+            return match.group(1).strip()
+    
+    # 尝试提取 "Will X ..." 中的 X
+    match = re.match(r'^(\w+)(?:\s|$)', text)
+    if match:
+        return match.group(1)
+    
+    return "Choice"
+
+def extract_option_text(event, yes_prob=None):
+    """提取概率对应的选项文字（最终修复版）"""
+    markets = event.get('markets', [])
+    if not markets:
+        return None
+    
+    main_market = markets[0]
+    title = event.get('title', '')
+    question = main_market.get('question', '')
+    
+    # ✅ 优先级1: groupItemTitle
+    group_item_title = main_market.get('groupItemTitle', '')
+    if group_item_title and group_item_title.strip() != '':
+        return group_item_title.strip()
+    
+    # ✅ 优先级2: 检查 comes 字段（fetch_events.py 使用这个）
+    outcome_names_str = main_market.get('outcomes', main_market.get('outcomeNames', '[]'))
+    
+    if outcome_names_str is None or outcome_names_str == 'None':
+        outcome_names = []
+    else:
+        try:
+            outcome_names = json.loads(outcome_names_str)
+        except:
+            outcome_names = []
+    
+    # 获取价格
+    outcome_prices_str = main_market.get('outcomePrices', '[]')
+    try:
+        outcome_prices = json.loads(outcome_prices_str)
+    except:
+        outcome_prices = []
+    
+    if yes_prob is None:
+        yes_prob = float(outcome_prices[0]) if len(outcome_prices) > 0 else 0
+    
+    # ✅ 优先级3: 二元市场
+    if outcome_names == ["Yes", "No"] or outcome_names == ["No", "Yes"]:
+        return "Yes" if yes_prob > 0.5 else "No"
+    
+    # ✅ 优先级4: 多选项市场
+    if len(outcome_names) > 0 and len(outcome_prices) == len(outcome_names):
+        prices = [float(p) for p in outcome_prices]
+        max_idx = prices.index(max(prices))
+        return outcome_names[max_idx]
+    
+    # ✅ 优先级5: 使用 extract_option_from_question
+    if question:
+        option = extract_option_from_question(question)
+        if option and option != "Choice":
+            return option
+    
+    # ✅ 优先级6: 从 title 提取
+    if title:
+        option = extract_option_from_question(title)
+        if option and option != "Choice":
+            return option
+    
+    # 最后兜底
+    return "Yes" if yes_prob > 0.5 else "No"
+
+
 import json
 import sys
 import subprocess
@@ -47,99 +151,8 @@ def fetch_high_prob_events(max_retries=3):
     print(f"❌ All {max_retries} attempts failed", file=sys.stderr)
     return []
 
-def extract_option_text(event, yes_prob=None):
-    """提取概率对应的选项文字
-    
-    Args:
-        event: 事件数据
-        yes_prob: Yes选项的概率（0-1），如果为None则从事件中提取
-    
-    Returns:
-        概率对应的选项文字（如 "Yes", "No", "SpaceX", "$1T", "75%" 等）
-    """
-    import re, json
-    
-    markets = event.get('markets', [])
-    if not markets:
-        return None
-    
-    main_market = markets[0]
-    title = event.get('title', '')  # 使用标题而不是 question
-    question = main_market.get('question', '')  # 保留作为备用
-    description = event.get('description', '')
-    
-    # 获取选项名称和价格
-    outcome_names = json.loads(main_market.get('outcomeNames', '[]'))
-    outcome_prices = json.loads(main_market.get('outcomePrices', '[]'))
-    
-    # 如果没有提供 yes_prob，从 outcome_prices 计算（默认第一个是 Yes）
-    if yes_prob is None:
-        yes_prob = float(outcome_prices[0]) if len(outcome_prices) > 0 else 0
-    
-    # 对于二元市场（Yes/No）
-    if outcome_names == ["Yes", "No"] or outcome_names == ["No", "Yes"]:
-        return "Yes" if yes_prob > 0.5 else "No"
-    
-    # 对于多选项市场，找到概率最高的选项
-    if len(outcome_names) > 0 and len(outcome_prices) == len(outcome_names):
-        # 将价格字符串转为浮点数
-        prices = [float(p) for p in outcome_prices]
-        max_idx = prices.index(max(prices))
-        return outcome_names[max_idx]
-    
-    # 处理 "Will A or B ...?" 格式（从描述中提取选项）
-    if ' or ' in question and '?' in question:
-        # 从描述中提取选项：resolve to "A" if ... resolve to "B" if ...
-        resolve_matches = re.findall(r'resolve to "([^"]+)"', description, re.IGNORECASE)
-        if len(resolve_matches) >= 2:
-            # 根据概率返回对应选项（第一个选项对应高概率）
-            return resolve_matches[0] if yes_prob > 0.5 else resolve_matches[1]
-    
-    # 处理 "above ___ ?" 或 "above $___ ?" 格式（从 question 字段提取阈值）
-    if 'above' in question.lower():
-        # 从 question 字段提取数值（如 "above 230m"）
-        amount_match = re.search(r'above\s+([0-9,.]+[BMKTm]?)', question, re.IGNORECASE)
-        if amount_match:
-            value = amount_match.group(1)
-            # 添加 $ 前缀（如果是金额）
-            if '$' not in value and any(c.isdigit() for c in value):
-                return value.upper()  # 返回 "230M"
-            return value
-        # 尝试从描述中提取
-        amount_match = re.search(r'\$([0-9,.]+[BMKT]?)', description, re.IGNORECASE)
-        if amount_match:
-            return '$' + amount_match.group(1)
-        # 如果没有具体金额，返回 Yes/No（这是二元问题）
-        return "Yes" if yes_prob > 0.5 else "No"
-    
-    # 尝试从问题中提取 $金额
-    match = re.search(r'\$[0-9.]+[BMKT]?', question)
-    if match:
-        return match.group(0)
-    
-    # 尝试提取百分比
-    match = re.search(r'[0-9]+%', question)
-    if match:
-        return match.group(0)
-    
-    # 兜底：根据问题类型返回
-    if 'Which company' in title or 'Which company' in question or 'company' in title.lower():
-        # 尝试从 question 字段提取公司名（格式：Will Anthropic have...）
-        import re
-        match = re.search(r'Will ([A-Za-z]+) ', question)
-        if match:
-            return match.group(1)  # 返回公司名
-        return "Company"
-    elif 'Which model' in title or 'Which model' in question:
-        return "Model"
-    elif title.startswith('Which ') or title.startswith('Who ') or 'Which' in title:
-        # 尝试从 question 字段提取
-        import re
-        match = re.search(r'Will ([A-Za-z]+) ', question)
-        if match:
-            return match.group(1)
-        return "Choice"
-    return "Yes" if yes_prob > 0.5 else "No"
+import re, json
+
 
 def filter_and_process_events(events, min_prob=0.70, max_prob=0.99, required_tags=None):
     """过滤并处理高概率事件（70%-99%，不含100%）

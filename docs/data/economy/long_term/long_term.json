@@ -6,7 +6,7 @@
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
       "probability": 0.74,
-      "option_text": null,
+      "option_text": "Yes",
       "tags": [
         "elon-musk",
         "tech",
@@ -35,7 +35,7 @@
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
       "probability": 0.958,
-      "option_text": null,
+      "option_text": "SpaceX",
       "tags": [
         "tech",
         "business",
@@ -71,7 +71,7 @@
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.74,
-      "option_text": null,
+      "option_text": "$800B",
       "tags": [
         "finance",
         "ipos",
@@ -103,8 +103,8 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.865,
-      "option_text": null,
+      "probability": 0.88,
+      "option_text": "Up",
       "tags": [
         "big-tech",
         "tech",
@@ -116,11 +116,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.865,
+      "current_prob": 0.88,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.865,
-      "last_checked_prob": 0.865,
+      "peak_prob": 0.88,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "15:48",
@@ -134,8 +134,8 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.786,
-      "option_text": null,
+      "probability": 0.7865,
+      "option_text": "NVIDIA",
       "tags": [
         "tech",
         "economy",
@@ -145,11 +145,11 @@
       ],
       "volume": 1494181.3773530002,
       "liquidity": 703026.70483,
-      "current_prob": 0.786,
+      "current_prob": 0.7865,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.786,
-      "last_checked_prob": 0.786,
+      "peak_prob": 0.787,
+      "last_checked_prob": 0.7865,
       "history": [
         {
           "time": "15:48",
@@ -164,7 +164,7 @@
       "slug": "how-high-will-inflation-get-in-2026",
       "url": "https://polymarket.com/event/how-high-will-inflation-get-in-2026",
       "probability": 0.745,
-      "option_text": null,
+      "option_text": "Above 4%",
       "tags": [
         "inflation",
         "macro-indicators",
@@ -192,7 +192,7 @@
       "slug": "ecb-rate-hike-in-2026",
       "url": "https://polymarket.com/event/ecb-rate-hike-in-2026",
       "probability": 0.915,
-      "option_text": null,
+      "option_text": "Yes",
       "tags": [
         "economic-policy",
         "eu",
@@ -223,7 +223,7 @@
       "slug": "bank-of-mexico-decision-in-may",
       "url": "https://polymarket.com/event/bank-of-mexico-decision-in-may",
       "probability": 0.9385,
-      "option_text": null,
+      "option_text": "Decrease",
       "tags": [
         "Global-Rates",
         "banxico",
@@ -236,7 +236,7 @@
       "current_prob": 0.9385,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.9385,
+      "peak_prob": 0.939,
       "last_checked_prob": 0.9385,
       "history": [
         {
@@ -252,7 +252,7 @@
       "slug": "bank-of-england-rate-hike-in-2026",
       "url": "https://polymarket.com/event/bank-of-england-rate-hike-in-2026",
       "probability": 0.7,
-      "option_text": null,
+      "option_text": "Yes",
       "tags": [
         "boe",
         "economy",
@@ -281,7 +281,7 @@
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
       "probability": 0.795,
-      "option_text": null,
+      "option_text": "Decrease",
       "tags": [
         "economy",
         "Global-Rates",
@@ -311,7 +311,7 @@
       "slug": "fed-decision-in-july-181",
       "url": "https://polymarket.com/event/fed-decision-in-july-181",
       "probability": 0.885,
-      "option_text": null,
+      "option_text": "No change",
       "tags": [
         "fomc",
         "economic-policy",
@@ -341,8 +341,8 @@
       "title": "Lyft total rides above __ in Q1?",
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
-      "probability": 0.8155,
-      "option_text": null,
+      "probability": 0.8165,
+      "option_text": "230m",
       "tags": [
         "tech",
         "kpis",
@@ -353,11 +353,11 @@
       ],
       "volume": 27964.369789,
       "liquidity": 1241.41231,
-      "current_prob": 0.8155,
+      "current_prob": 0.8165,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.8155,
-      "last_checked_prob": 0.8155,
+      "peak_prob": 0.8165,
+      "last_checked_prob": 0.8165,
       "history": [
         {
           "time": "15:48",
@@ -371,8 +371,8 @@
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
-      "probability": 0.88,
-      "option_text": null,
+      "probability": 0.885,
+      "option_text": "Yes",
       "tags": [
         "finance",
         "ai",
@@ -385,11 +385,11 @@
       ],
       "volume": 44787.27473799998,
       "liquidity": 7686.6026,
-      "current_prob": 0.88,
+      "current_prob": 0.885,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.88,
-      "last_checked_prob": 0.88,
+      "peak_prob": 0.885,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "15:48",
@@ -399,6 +399,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-05T15:48:42.895598",
+  "updated_at": "2026-05-05T16:52:20.638317",
   "event_count": 13
 }

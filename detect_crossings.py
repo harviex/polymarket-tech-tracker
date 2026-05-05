@@ -146,7 +146,7 @@ def save_snapshot(category_dir, events):
     print(f"✅ Snapshot saved: {len(events)} events")
 
 def detect_crossings(current_events, previous_snapshot):
-    """检测阈值跨越"""
+    """检测阈值跨越（修复版：支持同一事件多次跨越）"""
     crossings = []
     now_str = datetime.now().strftime('%H:%M')
     
@@ -160,40 +160,42 @@ def detect_crossings(current_events, previous_snapshot):
         
         prev_prob = previous_snapshot[event_id]['prob']
         
-        # 检测是否跨越任意阈值
-        crossed = None
-        direction = None
-        
+        # 检测所有阈值跨越（移除 break）
         for threshold in sorted(THRESHOLDS, reverse=True):
             prev_above = prev_prob >= threshold
             curr_above = current_prob >= threshold
             
             if not prev_above and curr_above:
                 # 向上跨越
-                crossed = threshold
-                direction = 'up'
-                break
+                crossings.append({
+                    'event_id': event['id'],
+                    'title': event['title'],
+                    'slug': event.get('slug', ''),
+                    'prev_prob': prev_prob,
+                    'curr_prob': current_prob,
+                    'threshold': threshold,
+                    'direction': 'up',
+                    'time': now_str,
+                    'timestamp': datetime.now().isoformat()
+                })
+                arrow = '⬆️'
+                print(f"  {arrow} {event['title'][:50]}... {prev_prob:.1%} → {current_prob:.1%} (跨越 {threshold:.0%})")
+                
             elif prev_above and not curr_above:
                 # 向下跨越
-                crossed = threshold
-                direction = 'down'
-                break
-        
-        if crossed:
-            crossings.append({
-                'event_id': event['id'],
-                'title': event['title'],
-                'slug': event.get('slug', ''),
-                'prev_prob': prev_prob,
-                'curr_prob': current_prob,
-                'threshold': crossed,
-                'direction': direction,
-                'time': now_str,
-                'timestamp': datetime.now().isoformat()
-            })
-            
-            arrow = '⬆️' if direction == 'up' else '⬇️'
-            print(f"  {arrow} {event['title'][:50]}... {prev_prob:.1%} → {current_prob:.1%} (跨越 {crossed:.0%})")
+                crossings.append({
+                    'event_id': event['id'],
+                    'title': event['title'],
+                    'slug': event.get('slug', ''),
+                    'prev_prob': prev_prob,
+                    'curr_prob': current_prob,
+                    'threshold': threshold,
+                    'direction': 'down',
+                    'time': now_str,
+                    'timestamp': datetime.now().isoformat()
+                })
+                arrow = '⬇️'
+                print(f"  {arrow} {event['title'][:50]}... {prev_prob:.1%} → {current_prob:.1%} (跨越 {threshold:.0%})")
     
     return crossings
 
