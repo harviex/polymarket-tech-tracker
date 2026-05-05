@@ -1,6 +1,30 @@
 {
   "date": "2026-05-06",
   "created_at": "2026-05-06T00:04:23.725578",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "04:01",
+      "timestamp": "2026-05-06T04:01:44.958546"
+    },
+    {
+      "event_id": "434533",
+      "title": "Will Bryan Johnson have sex again by May 31?",
+      "slug": "will-bryan-johnson-have-sex-again-by-may-31",
+      "prev_prob": 0.705,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-05-06T04:01:44.958636"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-06T04:01:44.958854"
 }
