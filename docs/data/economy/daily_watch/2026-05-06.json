@@ -1,6 +1,19 @@
 {
   "date": "2026-05-06",
   "created_at": "2026-05-06T00:02:24.417036",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.81,
+      "curr_prob": 0.775,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-06T01:01:47.903192"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-06T01:01:47.903380"
 }
