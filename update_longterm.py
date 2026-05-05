@@ -54,7 +54,7 @@ def extract_option_text(event, yes_prob=None):
         yes_prob: Yes选项的概率（0-1），如果为None则从事件中提取
     
     Returns:
-        概率对应的选项文字（如 "Yes", "No", "$1T", "75%" 等）
+        概率对应的选项文字（如 "Yes", "No", "SpaceX", "$1T", "75%" 等）
     """
     import re, json
     
@@ -63,6 +63,9 @@ def extract_option_text(event, yes_prob=None):
         return None
     
     main_market = markets[0]
+    title = event.get('title', '')  # 使用标题而不是 question
+    question = main_market.get('question', '')  # 保留作为备用
+    description = event.get('description', '')
     
     # 获取选项名称和价格
     outcome_names = json.loads(main_market.get('outcomeNames', '[]'))
@@ -83,8 +86,28 @@ def extract_option_text(event, yes_prob=None):
         max_idx = prices.index(max(prices))
         return outcome_names[max_idx]
     
-    # 尝试从问题中提取 $金额（适用于 "above ___ ?" 类型）
-    question = main_market.get('question', '')
+    # 处理 "Will A or B ...?" 格式（从描述中提取选项）
+    if ' or ' in question and '?' in question:
+        # 从描述中提取选项：resolve to "A" if ... resolve to "B" if ...
+        resolve_matches = re.findall(r'resolve to "([^"]+)"', description, re.IGNORECASE)
+        if len(resolve_matches) >= 2:
+            # 根据概率返回对应选项（第一个选项对应高概率）
+            return resolve_matches[0] if yes_prob > 0.5 else resolve_matches[1]
+    
+    # 处理 "above ___ ?" 或 "above $___ ?" 格式（从描述或问题提取阈值）
+    if 'above' in question.lower():
+        # 尝试从描述中提取金额阈值
+        # 描述格式："is above the listed amount" 或 "above $XXX"
+        amount_match = re.search(r'\$([0-9,.]+[BMKT]?)', description, re.IGNORECASE)
+        if not amount_match:
+            # 尝试从问题中提取
+            amount_match = re.search(r'\$([0-9,.]+[BMKT]?)', question)
+        if amount_match:
+            return '$' + amount_match.group(1)
+        # 如果没有具体金额，返回 Yes/No（这是二元问题）
+        return "Yes" if yes_prob > 0.5 else "No"
+    
+    # 尝试从问题中提取 $金额
     match = re.search(r'\$[0-9.]+[BMKT]?', question)
     if match:
         return match.group(0)
@@ -94,7 +117,23 @@ def extract_option_text(event, yes_prob=None):
     if match:
         return match.group(0)
     
-    # 兜底：根据概率返回 Yes 或 No
+    # 兜底：根据问题类型返回
+    if 'Which company' in title or 'Which company' in question:
+        # 尝试从 question 字段提取公司名（格式：Will Anthropic have...）
+        import re
+        match = re.search(r'Will ([A-Za-z]+) ', question)
+        if match:
+            return match.group(1)  # 返回公司名
+        return "Company"
+    elif 'Which model' in title or 'Which model' in question:
+        return "Model"
+    elif title.startswith('Which ') or title.startswith('Who ') or 'Which' in title:
+        # 尝试从 question 字段提取
+        import re
+        match = re.search(r'Will ([A-Za-z]+) ', question)
+        if match:
+            return match.group(1)
+        return "Choice"
     return "Yes" if yes_prob > 0.5 else "No"
 
 def filter_and_process_events(events, min_prob=0.70, max_prob=0.99, required_tags=None):

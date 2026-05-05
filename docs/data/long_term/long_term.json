@@ -1543,7 +1543,7 @@
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
       "probability": 0.958,
-      "option_text": "Yes",
+      "option_text": "SpaceX",
       "tags": [
         "tech",
         "business",
@@ -2224,8 +2224,8 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.87,
-      "option_text": "Yes",
+      "probability": 0.88,
+      "option_text": "Up",
       "tags": [
         "big-tech",
         "tech",
@@ -2329,11 +2329,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.87,
+      "current_prob": 0.88,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.87,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "23:25",
@@ -2347,7 +2347,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
-      "probability": 0.775,
+      "probability": 0.76,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2825,11 +2825,11 @@
       "endDate": "2026-09-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.76,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "23:25",
@@ -3736,7 +3736,7 @@
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
       "probability": 0.83,
-      "option_text": "Yes",
+      "option_text": "Anthropic",
       "tags": [
         "tech",
         "big-tech",
@@ -6791,7 +6791,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.7895,
+      "probability": 0.788,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -9673,11 +9673,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7895,
+      "current_prob": 0.788,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.7895,
-      "last_checked_prob": 0.7895,
+      "last_checked_prob": 0.788,
       "history": [
         {
           "time": "23:25",
@@ -9821,8 +9821,8 @@
       "title": "Which company has the best Coding AI model end of May?",
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
-      "probability": 0.9,
-      "option_text": "Yes",
+      "probability": 0.885,
+      "option_text": "Anthropic",
       "tags": [
         "tech",
         "coding",
@@ -12721,11 +12721,11 @@
       "endDate": "2026-05-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9,
+      "current_prob": 0.885,
       "added_at": "2026-05-04T16:46:46.655353",
       "first_seen": "2026-05-04T16:46:46.655353",
       "peak_prob": 0.91,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "16:46",
@@ -12863,38 +12863,8 @@
           "reason": "Added to Long-Term (high probability)"
         }
       ]
-    },
-    "190776": {
-      "id": "190776",
-      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
-      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "probability": 0.7385,
-      "option_text": "40%",
-      "tags": [
-        "tech",
-        "big-tech",
-        "gemini-3",
-        "business",
-        "gemini",
-        "ai"
-      ],
-      "volume": 130716.146006,
-      "liquidity": 967.04251,
-      "current_prob": 0.7385,
-      "added_at": "2026-05-05T10:35:10.755180",
-      "first_seen": "2026-05-05T10:35:10.755180",
-      "peak_prob": 0.7385,
-      "last_checked_prob": 0.7385,
-      "history": [
-        {
-          "time": "10:35",
-          "prob": 0.722,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
     }
   },
-  "updated_at": "2026-05-05T10:43:54.168157",
-  "event_count": 18
+  "updated_at": "2026-05-05T11:24:22.730742",
+  "event_count": 17
 }
