@@ -5,86 +5,117 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About - POLYMARKET AGENT</title>
     <meta name="description" content="About the POLYMARKET AGENT project">
+    
+    <!-- Stylesheets -->
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/animations.css">
     <link rel="stylesheet" href="css/responsive.css">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    
+    <!-- Header -->
     <header class="glass-header">
         <div class="header-content">
             <div class="logo">
-                <h1>About This Project</h1>
+                <h1 id="site-title">POLYMARKET AGENT</h1>
             </div>
+            
             <nav class="main-nav">
                 <a href="index.html" class="nav-btn">
                     <span class="icon">←</span>
-                    <span>Back to Home</span>
+                    <span id="back-home">Back to Home</span>
                 </a>
             </nav>
+            
+            <div class="header-controls">
+                <button class="control-btn" id="lang-toggle" title="Switch language">
+                    <span id="current-lang">EN</span>
+                </button>
+                <button class="control-btn" id="theme-toggle" title="Toggle theme">
+                    <span class="theme-icon">🌙</span>
+                </button>
+            </div>
         </div>
     </header>
     
     <main class="main-content" style="margin-top: 120px; max-width: 900px;">
         <section class="about-section glass-panel" style="padding: 3rem;">
             <h2 style="font-size: 2.5rem; margin-bottom: 1.5rem; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-                CHANGE IS NEWS
+                <span id="about-title">CHANGE IS NEWS</span>
             </h2>
             
             <div style="font-size: 1.125rem; line-height: 1.8; color: var(--text-secondary);">
                 <p style="margin-bottom: 1.5rem;">
-                    We believe <strong style="color: var(--text-primary);">CHANGE ITSELF IS NEWS</strong>. 
-                    While Polymarket treats news as change, we reverse the perspective: 
-                    <strong style="color: var(--text-primary);">prediction changes ARE the news</strong>.
+                    <span id="about-philosophy">We believe <strong style="color: var(--text-primary);">CHANGE ITSELF IS NEWS</strong>. 
+                    While traditional media reports on events, we reverse the perspective: 
+                    <strong style="color: var(--text-primary);">prediction changes ARE the news</strong>.</span>
                 </p>
                 
-                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;">🎯 Our Approach</h3>
-                <p style="margin-bottom: 1.5rem;">
-                    Traditional news reports on events. We track prediction market movements 
-                    and identify significant probability shifts as newsworthy events. 
-                    When probability crosses key thresholds (30% / 70%), we generate news.
+                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;" id="about-approach-title">🎯 Our Approach</h3>
+                <p style="margin-bottom: 1.5rem;" id="about-approach-text">
+                    We track Polymarket prediction events in real-time, monitoring probability shifts 
+                    across key thresholds (70% / 80% / 90%). When significant changes occur, we generate news.
                 </p>
                 
-                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;">📊 Three Event Categories</h3>
+                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;" id="about-categories-title">📊 Event Categories</h3>
                 <ul style="list-style: none; padding: 0;">
-                    <li style="padding: 0.5rem 0;">🆕 <strong>New High-Probability:</strong> Events that just crossed 70%</li>
-                    <li style="padding: 0.5rem 0;">🚪 <strong>Exited High-Probability:</strong> Events that fell below 70%</li>
-                    <li style="padding: 0.5rem 0;">🏆 <strong>Long-Term High-Probability:</strong> Stable events (5+ days)</li>
+                    <li style="padding: 0.5rem 0;"><strong id="about-daily-watch">📅 Daily Watch - Threshold Crossings:</strong> <span id="about-daily-desc">Events crossing 70%/80%/90% thresholds today, with history tracking</span></li>
+                    <li style="padding: 0.5rem 0;"><strong id="about-long-term">🏆 Long-Term High-Probability Events:</strong> <span id="about-long-term-desc">Stable events (70%-99% probability, excluding 100%) with TECH tag, volume ≥ 10K, end date ≥ today</span></li>
                 </ul>
                 
-                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;">🔮 Future Vision</h3>
-                <p style="margin-bottom: 1.5rem;">
+                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;" id="about-rules-title">📋 Selection Rules</h3>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="padding: 0.5rem 0;">✅ <strong id="about-tag">TECH Tag:</strong> <span id="about-tag-desc">Events must have TECH tag (extensible to other tags)</span></li>
+                    <li style="padding: 0.5rem 0;">✅ <strong id="about-prob">Probability Range:</strong> <span id="about-prob-desc">70%-99% (excluding 100% events)</span></li>
+                    <li style="padding: 0.5rem 0;">✅ <strong id="about-volume">Trading Volume:</strong> <span id="about-volume-desc">≥ 10,000 USDC</span></li>
+                    <li style="padding: 0.5rem 0;">✅ <strong id="about-date">End Date:</strong> <span id="about-date-desc">≥ Today (future events only)</span></li>
+                    <li style="padding: 0.5rem 0;">✅ <strong id="about-merge">Event Merging:</strong> <span id="about-merge-desc">Multiple crossings of same event are merged into one card</span></li>
+                </ul>
+                
+                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;" id="about-data-title">🔮 Data Source</h3>
+                <p style="margin-bottom: 1.5rem;" id="about-data-text">
+                    All data comes from the <strong>Polymarket API</strong> (gamma-api.polymarket.com). 
+                    Daily Watch updates hourly, Long-Term updates daily at 17:00 (Beijing Time).
+                </p>
+                
+                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;" id="about-vision-title">🔮 Future Vision</h3>
+                <p style="margin-bottom: 1.5rem;" id="about-vision-text">
                     Starting with technology events, we plan to expand to economy, 
                     geopolitics, and more. Our unique "change as news" perspective 
                     offers a fresh take on prediction market analysis.
                 </p>
                 
-                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;">⚖️ Disclaimer</h3>
-                <p style="padding: 1rem; background: rgba(239, 68, 68, 0.1); border-left: 3px solid #ef4444; border-radius: 4px;">
+                <h3 style="color: var(--accent-blue); margin: 2rem 0 1rem;" id="about-disclaimer-title">⚖️ Disclaimer</h3>
+                <p style="padding: 1rem; background: rgba(239, 68, 68, 0.1); border-left: 3px solid #ef4444; border-radius: 4px;" id="about-disclaimer-text">
                     This site is for informational purposes only. Not financial advice. 
-                    All data from Polymarket API. We do not encourage gambling.
+                    We do not encourage gambling. All data from Polymarket API.
                 </p>
             </div>
             
             <div style="margin-top: 3rem; text-align: center;">
                 <a href="index.html" class="nav-btn" style="display: inline-flex;">
                     <span class="icon">🏠</span>
-                    <span>Back to Tracker</span>
+                    <span id="back-tracker">Back to Tracker</span>
                 </a>
             </div>
         </section>
     </main>
     
+    <!-- Footer -->
     <footer class="glass-footer">
         <div class="footer-content">
-            <p>Powered by Polymarket API</p>
-            <p>This site is for informational purposes only. Not financial advice.</p>
+            <p id="powered-by">Powered by Polymarket API</p>
+            <p id="disclaimer">This site is for informational purposes only. Not financial advice.</p>
+            <p id="copyright">Hermes Agent 小爱玛 for Harvie Tse</p>
         </div>
     </footer>
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
-    <script src="js/animations.js"></script>
+    <!-- Scripts -->
+    <script src="js/i18n.js"></script>
+    <script src="js/theme.js"></script>
 </body>
 </html>

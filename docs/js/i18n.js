@@ -1,4 +1,4 @@
-// i18n.js - Multilingual Support (EN/ZH/JA)
+// i18n.js - Multilingual Support (EN/CH)
 const I18n = (() => {
     let currentLang = 'en';
     let translations = {};
@@ -13,10 +13,13 @@ const I18n = (() => {
     
     async function loadLanguage(lang) {
         try {
-            const response = await fetch(\`locales/\${lang}.json\`);
+            const response = await fetch(`locales/${lang}.json`);
             translations = await response.json();
             currentLang = lang;
             localStorage.setItem('lang', lang);
+            
+            // Update HTML lang attribute
+            document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
         } catch (error) {
             console.error('Failed to load language:', lang, error);
         }
@@ -40,10 +43,9 @@ const I18n = (() => {
     }
     
     async function switchLanguage() {
-        const langs = ['en', 'zh', 'ja'];
-        const currentIndex = langs.indexOf(currentLang);
-        const nextIndex = (currentIndex + 1) % langs.length;
-        await loadLanguage(langs[nextIndex]);
+        // EN ↔ CH toggle
+        const newLang = currentLang === 'en' ? 'zh' : 'en';
+        await loadLanguage(newLang);
         applyTranslations();
         updateLangButton();
     }
@@ -51,7 +53,7 @@ const I18n = (() => {
     function updateLangButton() {
         const btn = document.getElementById('current-lang');
         if (btn) {
-            btn.textContent = currentLang.toUpperCase();
+            btn.textContent = currentLang === 'en' ? 'EN' : 'CH';
         }
     }
     
