@@ -1,43 +1,93 @@
 #!/usr/bin/env python3
 """
-Polymarket Tech Tracker - 阈值跨越检测器
-每天12点清空Daily Watch，每小时检测是否跨越70%/80%/90%阈值线
-只记录跨越事件，没有变化不记录
+Polymarket Tech Tracker - 通用阈值跨越检测器
+支持多分类：technology, pop-culture, economy
+用法：
+  python3 detect_crossings.py --category tech        # 检测tech分类
+  python3 detect_crossings.py --category culture     # 检测culture分类 (pop-culture tag)
+  python3 detect_crossings.py --category economy     # 检测economy分类 (合并business+economy)
+  python3 detect_crossings.py --category tech --reset  # 重置并创建基准
 """
 
 import json
 import sys
+import argparse
 from pathlib import Path
 from datetime import datetime
 import urllib.request
 import urllib.error
 
 BASE_DIR = Path(__file__).parent
-DATA_DIR = BASE_DIR / "docs" / "data"
-DAILY_WATCH_DIR = DATA_DIR / "daily_watch"
-SNAPSHOT_FILE = DATA_DIR / "previous_snapshot.json"
-
 GAMMA_API = "https://gamma-api.polymarket.com/events"
 
 # 阈值线
 THRESHOLDS = [0.70, 0.80, 0.90]
 
-def fetch_all_tech_events():
-    """从API抓取所有科技事件（不过滤概率）"""
+# 分类配置
+CATEGORY_CONFIG = {
+    'tech': {
+        'tags': ['tech'],
+        'label': 'Technology'
+    },
+    'culture': {
+        'tags': ['pop-culture'],
+        'label': 'Culture (Pop-Culture)'
+    },
+    'economy': {
+        'tags': ['business', 'economy'],
+        'label': 'Economy (Business + Economy)'
+    }
+}
+
+def get_category_dir(category):
+    """获取分类数据目录"""
+    return BASE_DIR / "docs" / "data" / category
+
+def fetch_all_events_by_tag(tag, max_retries=3):
+    """从API抓取指定标签的所有事件"""
     today = datetime.now().strftime('%Y-%m-%d')
-    url = f"{GAMMA_API}?tag_slug=tech&end_date_min={today}&volume_min=10000&limit=1000"
+    url = f"{GAMMA_API}?tag_slug={tag}&end_date_min={today}&volume_min=10000&limit=1000"
     
-    try:
-        req = urllib.request.Request(url)
-        req.add_header('User-Agent', 'Mozilla/5.0 (compatible; PolymarketTracker/1.0)')
-        req.add_header('Accept', 'application/json')
+    for attempt in range(max_retries):
+        try:
+            req = urllib.request.Request(url)
+            req.add_header('User-Agent', 'Mozilla/5.0 (compatible; PolymarketTracker/1.0)')
+            req.add_header('Accept', 'application/json')
+            
+            with urllib.request.urlopen(req, timeout=30) as response:
+                events = json.loads(response.read())
+                return events if isinstance(events, list) else []
+        except Exception as e:
+            print(f"  Attempt {attempt+1}/{max_retries} failed for tag '{tag}': {e}", file=sys.stderr)
+            if attempt < max_retries - 1:
+                import time
+                time.sleep(2)
+    
+    print(f"❌ All {max_retries} attempts failed for tag '{tag}'", file=sys.stderr)
+    return []
+
+def fetch_all_events(category, config):
+    """抓取指定分类的所有事件（可能合并多个tag）"""
+    tags = config['tags']
+    
+    if len(tags) == 1:
+        # 单个tag
+        return fetch_all_events_by_tag(tags[0])
+    else:
+        # 多个tag：合并去重
+        print(f"  Fetching events from multiple tags: {', '.join(tags)}")
+        all_events = {}
+        for tag in tags:
+            events = fetch_all_events_by_tag(tag)
+            print(f"    {tag}: {len(events)} events")
+            for event in events:
+                event_id = event.get('id')
+                if event_id and event_id not in all_events:
+                    all_events[event_id] = event
         
-        with urllib.request.urlopen(req, timeout=30) as response:
-            events = json.loads(response.read())
-            return events if isinstance(events, list) else []
-    except Exception as e:
-        print(f"❌ Error fetching events: {e}", file=sys.stderr)
-        return []
+        merged = list(all_events.values())
+        print(f"    Merged: {len(merged)} unique events")
+        return merged
 
 def get_event_probability(event):
     """获取事件的概率（Yes的概率）"""
@@ -55,15 +105,15 @@ def get_event_probability(event):
         print(f"⚠️  Error getting probability for {event.get('id')}: {e}", file=sys.stderr)
         return None
 
-def load_previous_snapshot():
-    """加载上一小时的状态（只返回events部分）
-    如果是新的一天，自动清理旧快照（节约存储空间）
-    """
-    if not SNAPSHOT_FILE.exists():
+def load_previous_snapshot(category_dir):
+    """加载上一小时的状态"""
+    snapshot_file = category_dir / "previous_snapshot.json"
+    
+    if not snapshot_file.exists():
         return {}
     
     try:
-        with open(SNAPSHOT_FILE) as f:
+        with open(snapshot_file) as f:
             snapshot = json.load(f)
         
         # 检查是否是新的一天
@@ -71,8 +121,8 @@ def load_previous_snapshot():
         now = datetime.now()
         
         if snapshot_time.date() < now.date():
-            # 前一天的数据，删除（新一天用当天数据对比）
-            SNAPSHOT_FILE.unlink()
+            # 前一天的数据，删除
+            snapshot_file.unlink()
             print(f"🗑️  Previous day snapshot deleted (storage optimization)")
             return {}
         
@@ -81,24 +131,22 @@ def load_previous_snapshot():
         print(f"⚠️  Error loading snapshot: {e}", file=sys.stderr)
         return {}
 
-def save_snapshot(events):
+def save_snapshot(category_dir, events):
     """保存当前状态为下一小时的参考"""
     snapshot = {
         'timestamp': datetime.now().isoformat(),
         'events': {str(e['id']): {'prob': e['prob']} for e in events}
     }
     
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    with open(SNAPSHOT_FILE, 'w') as f:
+    category_dir.mkdir(parents=True, exist_ok=True)
+    snapshot_file = category_dir / "previous_snapshot.json"
+    with open(snapshot_file, 'w') as f:
         json.dump(snapshot, f, indent=2, ensure_ascii=False)
     
     print(f"✅ Snapshot saved: {len(events)} events")
 
 def detect_crossings(current_events, previous_snapshot):
-    """
-    检测阈值跨越
-    返回：crossings 列表
-    """
+    """检测阈值跨越"""
     crossings = []
     now_str = datetime.now().strftime('%H:%M')
     
@@ -106,7 +154,7 @@ def detect_crossings(current_events, previous_snapshot):
         event_id = str(event['id'])
         current_prob = event['prob']
         
-        # 如果没有上一小时数据，跳过（首次运行或12点重置后）
+        # 如果没有上一小时数据，跳过
         if event_id not in previous_snapshot:
             continue
         
@@ -149,11 +197,12 @@ def detect_crossings(current_events, previous_snapshot):
     
     return crossings
 
-def save_daily_watch_crossings(crossings):
+def save_daily_watch_crossings(category_dir, crossings):
     """保存跨越事件到Daily Watch（累加模式）"""
     today = datetime.now().strftime('%Y-%m-%d')
-    DAILY_WATCH_DIR.mkdir(parents=True, exist_ok=True)
-    watch_file = DAILY_WATCH_DIR / f"{today}.json"
+    daily_watch_dir = category_dir / "daily_watch"
+    daily_watch_dir.mkdir(parents=True, exist_ok=True)
+    watch_file = daily_watch_dir / f"{today}.json"
     
     # 加载现有数据
     if watch_file.exists():
@@ -177,11 +226,12 @@ def save_daily_watch_crossings(crossings):
     
     print(f"✅ Daily Watch updated: {len(crossings)} new crossings (total: {daily_data['crossing_count']})")
 
-def reset_daily_watch():
-    """重置Daily Watch（每天12点调用）"""
+def reset_daily_watch(category_dir, category, config):
+    """重置Daily Watch（每天调用）"""
     today = datetime.now().strftime('%Y-%m-%d')
-    DAILY_WATCH_DIR.mkdir(parents=True, exist_ok=True)
-    watch_file = DAILY_WATCH_DIR / f"{today}.json"
+    daily_watch_dir = category_dir / "daily_watch"
+    daily_watch_dir.mkdir(parents=True, exist_ok=True)
+    watch_file = daily_watch_dir / f"{today}.json"
     
     # 创建空的Daily Watch
     daily_data = {
@@ -196,48 +246,60 @@ def reset_daily_watch():
     
     print(f"✅ Daily Watch reset for {today}")
     
-    # 同时重置快照（12点后首次运行需要重新建立基准）
-    if SNAPSHOT_FILE.exists():
-        SNAPSHOT_FILE.unlink()
+    # 同时重置快照
+    snapshot_file = category_dir / "previous_snapshot.json"
+    if snapshot_file.exists():
+        snapshot_file.unlink()
         print("✅ Previous snapshot cleared (will rebuild on next run)")
+    
+    # 抓取事件并保存基准状态
+    print(f"\n2️⃣  Fetching events for baseline ({config['label']})...")
+    events = fetch_all_events(category, config)
+    current_events = []
+    for event in events:
+        prob = get_event_probability(event)
+        if prob is not None and 0 < prob < 1:
+            current_events.append({
+                'id': event['id'],
+                'title': event.get('title', ''),
+                'slug': event.get('slug', ''),
+                'prob': prob
+            })
+    
+    print(f"   Saving baseline ({len(current_events)} events)...\n")
+    save_snapshot(category_dir, current_events)
+    print(f"✅ Reset complete! Next hourly run will detect crossings.\n")
 
 def main():
     """主函数"""
-    # 检查是否有 --reset 参数
-    reset_mode = '--reset' in sys.argv
+    parser = argparse.ArgumentParser(description='Polymarket Threshold Crossing Detector')
+    parser.add_argument('--category', choices=['tech', 'culture', 'economy'], default='tech',
+                        help='Category to process (default: tech)')
+    parser.add_argument('--reset', action='store_true',
+                        help='Reset Daily Watch and save baseline')
+    
+    args = parser.parse_args()
+    
+    category = args.category
+    config = CATEGORY_CONFIG[category]
+    category_dir = get_category_dir(category)
     
     print(f"\n{'='*60}")
-    print(f"🔍 Threshold Crossing Detection - {datetime.now().strftime('%Y-%m-%d %H:%M')}")
-    if reset_mode:
+    print(f"🔍 Threshold Crossing Detection - {config['label']}")
+    print(f"📅 {datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    if args.reset:
         print("🔄 RESET MODE: Clearing Daily Watch and saving baseline")
     print(f"{'='*60}\n")
     
-    if reset_mode:
-        # 重置模式：清空Daily Watch + 保存基准状态
+    if args.reset:
+        # 重置模式
         print("1️⃣  Resetting Daily Watch...")
-        reset_daily_watch()
-        
-        print("\n2️⃣  Fetching events for baseline...")
-        events = fetch_all_tech_events()
-        current_events = []
-        for event in events:
-            prob = get_event_probability(event)
-            if prob is not None and 0 < prob < 1:
-                current_events.append({
-                    'id': event['id'],
-                    'title': event.get('title', ''),
-                    'slug': event.get('slug', ''),
-                    'prob': prob
-                })
-        
-        print(f"   Saving baseline ({len(current_events)} events)...\n")
-        save_snapshot(current_events)
-        print("✅ Reset complete! Next hourly run will detect crossings.\n")
+        reset_daily_watch(category_dir, category, config)
         return
     
     # 正常检测流程
-    print("1️⃣  Fetching all tech events...")
-    events = fetch_all_tech_events()
+    print(f"1️⃣  Fetching all {category} events...")
+    events = fetch_all_events(category, config)
     print(f"   Found {len(events)} events\n")
     
     # 提取概率
@@ -257,12 +319,12 @@ def main():
     
     # 加载上一小时状态
     print("3️⃣  Loading previous snapshot...")
-    previous_snapshot = load_previous_snapshot()
+    previous_snapshot = load_previous_snapshot(category_dir)
     
     if not previous_snapshot:
         print("   ⚠️  No previous snapshot (first run after reset)")
         print("   Saving current state as baseline for next hour\n")
-        save_snapshot(current_events)
+        save_snapshot(category_dir, current_events)
         return
     
     print(f"   Loaded {len(previous_snapshot)} events from previous hour\n")
@@ -275,13 +337,13 @@ def main():
     # 保存结果
     if crossings:
         print("5️⃣  Saving to Daily Watch...")
-        save_daily_watch_crossings(crossings)
+        save_daily_watch_crossings(category_dir, crossings)
     else:
         print("5️⃣  No crossings detected - nothing to save")
     
     # 更新快照
     print("\n6️⃣  Updating snapshot for next hour...")
-    save_snapshot(current_events)
+    save_snapshot(category_dir, current_events)
     
     print(f"\n{'='*60}")
     print(f"✅ Detection complete!")

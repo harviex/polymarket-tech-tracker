@@ -1,40 +1,103 @@
 // app.js - Daily Watch (Threshold Crossings) + Long-Term Board
+// 支持多分类：technology, pop-culture, economy
 const App = (() => {
     let dailyWatchData = { date: '', crossings: [], crossing_count: 0 };
     let longTermData = { events: {}, updated_at: null, event_count: 0 };
+    let currentCategory = 'technology'; // 默认分类
+    
+    const categoryConfig = {
+        'technology': {
+            tags: ['tech'],
+            label: 'Technology'
+        },
+        'pop-culture': {
+            tags: ['pop-culture'],
+            label: 'Culture'
+        },
+        'economy': {
+            tags: ['business', 'economy'], // 合并两个 tag
+            label: 'Economy'
+        }
+    };
 
     async function init() {
-        await Promise.all([loadDailyWatch(), loadLongTerm()]);
+        setupNavigation();
+        await loadCategory(currentCategory);
         renderAllBoards();
         setupSearch();
         setupScrollAnimations();
     }
 
+    // ==================== 分类切换 ====================
+    function setupNavigation() {
+        const navButtons = document.querySelectorAll('.nav-btn[data-cat]');
+        navButtons.forEach(btn => {
+            btn.addEventListener('click', async () => {
+                const cat = btn.dataset.cat;
+                if (cat === currentCategory) return;
+                
+                // 更新按钮状态
+                navButtons.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                // 切换分类
+                currentCategory = cat;
+                await loadCategory(cat);
+                renderAllBoards();
+            });
+        });
+    }
+
+    async function loadCategory(cat) {
+        // 显示加载状态
+        showLoading();
+        
+        await Promise.all([loadDailyWatch(cat), loadLongTerm(cat)]);
+        
+        hideLoading();
+    }
+
+    function showLoading() {
+        const dailyContainer = document.getElementById('daily-watch-crossings');
+        const longTermContainer = document.getElementById('long-term-groups');
+        if (dailyContainer) dailyContainer.innerHTML = '<p class="loading">Loading...</p>';
+        if (longTermContainer) longTermContainer.innerHTML = '<p class="loading">Loading...</p>';
+    }
+
+    function hideLoading() {
+        // 加载完成后由 render 函数更新
+    }
+
     // ==================== 加载数据 ====================
-    async function loadDailyWatch() {
-        // 使用北京时间 (UTC+8)
+    async function loadDailyWatch(cat) {
         const now = new Date();
         const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
         const today = beijingTime.toISOString().split('T')[0];
         
         try {
-            const response = await fetch(`data/daily_watch/${today}.json`);
+            const response = await fetch(`data/${cat}/daily_watch/${today}.json`);
             if (response.ok) {
                 dailyWatchData = await response.json();
+            } else {
+                dailyWatchData = { date: today, crossings: [], crossing_count: 0 };
             }
         } catch (error) {
             console.error('Failed to load Daily Watch:', error);
+            dailyWatchData = { date: today, crossings: [], crossing_count: 0 };
         }
     }
 
-    async function loadLongTerm() {
+    async function loadLongTerm(cat) {
         try {
-            const response = await fetch('data/long_term/long_term.json');
+            const response = await fetch(`data/${cat}/long_term/long_term.json`);
             if (response.ok) {
                 longTermData = await response.json();
+            } else {
+                longTermData = { events: {}, updated_at: null, event_count: 0 };
             }
         } catch (error) {
             console.error('Failed to load Long-Term data:', error);
+            longTermData = { events: {}, updated_at: null, event_count: 0 };
         }
     }
 
