@@ -29,6 +29,11 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "17:10",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.705
@@ -78,6 +83,20 @@
         }
       ],
       "current_prob": 0.905
+    },
+    "438363": {
+      "id": "438363",
+      "title": "#1 Free App in the US Apple App Store on May 5?",
+      "tags": [],
+      "first_seen": "2026-05-05T17:10:09.784530",
+      "history": [
+        {
+          "time": "17:10",
+          "prob": 0.988,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.988
     }
   }
 }
