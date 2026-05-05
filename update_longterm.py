@@ -94,14 +94,18 @@ def extract_option_text(event, yes_prob=None):
             # 根据概率返回对应选项（第一个选项对应高概率）
             return resolve_matches[0] if yes_prob > 0.5 else resolve_matches[1]
     
-    # 处理 "above ___ ?" 或 "above $___ ?" 格式（从描述或问题提取阈值）
+    # 处理 "above ___ ?" 或 "above $___ ?" 格式（从 question 字段提取阈值）
     if 'above' in question.lower():
-        # 尝试从描述中提取金额阈值
-        # 描述格式："is above the listed amount" 或 "above $XXX"
+        # 从 question 字段提取数值（如 "above 230m"）
+        amount_match = re.search(r'above\s+([0-9,.]+[BMKTm]?)', question, re.IGNORECASE)
+        if amount_match:
+            value = amount_match.group(1)
+            # 添加 $ 前缀（如果是金额）
+            if '$' not in value and any(c.isdigit() for c in value):
+                return value.upper()  # 返回 "230M"
+            return value
+        # 尝试从描述中提取
         amount_match = re.search(r'\$([0-9,.]+[BMKT]?)', description, re.IGNORECASE)
-        if not amount_match:
-            # 尝试从问题中提取
-            amount_match = re.search(r'\$([0-9,.]+[BMKT]?)', question)
         if amount_match:
             return '$' + amount_match.group(1)
         # 如果没有具体金额，返回 Yes/No（这是二元问题）
