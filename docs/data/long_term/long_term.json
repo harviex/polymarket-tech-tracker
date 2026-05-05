@@ -247,7 +247,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.885,
+      "probability": 0.88,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -260,11 +260,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.885,
+      "current_prob": 0.88,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.89,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "15:48",
@@ -278,7 +278,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
-      "probability": 0.76,
+      "probability": 0.765,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -287,11 +287,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.76,
+      "current_prob": 0.765,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.77,
-      "last_checked_prob": 0.76,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "15:48",
@@ -305,7 +305,7 @@
       "title": "Lyft total rides above __ in Q1?",
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
-      "probability": 0.837,
+      "probability": 0.838,
       "option_text": "235m",
       "tags": [
         "tech",
@@ -317,11 +317,11 @@
       ],
       "volume": 27964.369789,
       "liquidity": 1241.41231,
-      "current_prob": 0.837,
+      "current_prob": 0.838,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.837,
-      "last_checked_prob": 0.837,
+      "peak_prob": 0.838,
+      "last_checked_prob": 0.838,
       "history": [
         {
           "time": "15:48",
@@ -334,8 +334,8 @@
       "id": "376512",
       "title": "Which company has the second best AI model end of May?",
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
-      "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
-      "probability": 0.83,
+      "url": "https://polymarket.com/event/376512",
+      "probability": 0.835,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -345,11 +345,11 @@
       ],
       "volume": 32456.710537000003,
       "liquidity": 58116.47389,
-      "current_prob": 0.83,
+      "current_prob": 0.835,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.83,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "15:48",
@@ -395,7 +395,7 @@
       "title": "Will SpaceX acquire Cursor?",
       "slug": "will-spacex-acquire-cursor",
       "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
-      "probability": 0.78,
+      "probability": 0.785,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -408,11 +408,11 @@
       ],
       "volume": 29912.501027,
       "liquidity": 10091.8366,
-      "current_prob": 0.78,
+      "current_prob": 0.785,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.785,
       "history": [
         {
           "time": "15:48",
@@ -426,7 +426,7 @@
       "title": "Which company has the best Coding AI model end of May?",
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
-      "probability": 0.92,
+      "probability": 0.915,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -436,11 +436,11 @@
       ],
       "volume": 10167.486776,
       "liquidity": 48514.58287,
-      "current_prob": 0.92,
+      "current_prob": 0.915,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.925,
-      "last_checked_prob": 0.92,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "15:48",
@@ -454,7 +454,7 @@
       "title": "Gemini 3.2 released by...?",
       "slug": "gemini-3pt2-released-by",
       "url": "https://polymarket.com/event/425315",
-      "probability": 0.805,
+      "probability": 0.815,
       "option_text": "Gemini 3.2 released by June 30, 2026?",
       "tags": [
         "ai",
@@ -984,11 +984,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.805,
+      "current_prob": 0.815,
       "added_at": "2026-05-05T11:07:54.787246",
       "first_seen": "2026-05-05T11:07:54.787246",
-      "peak_prob": 0.805,
-      "last_checked_prob": 0.805,
+      "peak_prob": 0.815,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "11:07",
@@ -1002,7 +1002,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.722,
+      "probability": 0.7155,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -1115,11 +1115,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.722,
+      "current_prob": 0.7155,
       "added_at": "2026-05-05T13:02:29.434077",
       "first_seen": "2026-05-05T13:02:29.434077",
       "peak_prob": 0.722,
-      "last_checked_prob": 0.722,
+      "last_checked_prob": 0.7155,
       "history": [
         {
           "time": "13:02",
@@ -1133,7 +1133,7 @@
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
       "url": "https://polymarket.com/event/190776",
-      "probability": 0.75,
+      "probability": 0.749,
       "option_text": "40%",
       "tags": [
         "tech",
@@ -1524,11 +1524,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.749,
       "added_at": "2026-05-05T20:09:20.225328",
       "first_seen": "2026-05-05T20:09:20.225328",
       "peak_prob": 0.75,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.749,
       "history": [
         {
           "time": "20:09",
@@ -1542,7 +1542,7 @@
       "title": "DoorDash Total Orders above __ in Q1? ",
       "slug": "doordash-total-orders-above-in-q1",
       "url": "https://polymarket.com/event/379221",
-      "probability": 0.98,
+      "probability": 0.9805,
       "option_text": "920M",
       "tags": [
         "tech",
@@ -2151,11 +2151,11 @@
       "endDate": "2026-05-06T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.98,
+      "current_prob": 0.9805,
       "added_at": "2026-05-05T20:09:20.225328",
       "first_seen": "2026-05-05T20:09:20.225328",
-      "peak_prob": 0.98,
-      "last_checked_prob": 0.98,
+      "peak_prob": 0.9805,
+      "last_checked_prob": 0.9805,
       "history": [
         {
           "time": "20:09",
@@ -2165,6 +2165,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-05T21:50:14.001552",
+  "updated_at": "2026-05-05T22:42:38.063263",
   "event_count": 17
 }
