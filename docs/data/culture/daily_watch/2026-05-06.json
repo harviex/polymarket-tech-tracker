@@ -34,8 +34,19 @@
       "direction": "up",
       "time": "05:00",
       "timestamp": "2026-05-06T05:00:31.510102"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-06T06:01:08.691996"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-06T05:00:31.510324"
+  "crossing_count": 4,
+  "last_updated": "2026-05-06T06:01:08.692332"
 }
