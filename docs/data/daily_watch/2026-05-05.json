@@ -80,6 +80,11 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "20:09",
+          "prob": 0.805,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.905
@@ -97,6 +102,52 @@
         }
       ],
       "current_prob": 0.988
+    },
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "tags": [],
+      "first_seen": "2026-05-05T20:09:20.228376",
+      "history": [
+        {
+          "time": "20:09",
+          "prob": 0.747,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.747
+    },
+    "379221": {
+      "id": "379221",
+      "title": "DoorDash Total Orders above __ in Q1? ",
+      "tags": [],
+      "first_seen": "2026-05-05T20:09:20.228383",
+      "history": [
+        {
+          "time": "20:09",
+          "prob": 0.98,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "20:09",
+          "prob": 0.98,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "20:09",
+          "prob": 0.98,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.98
     }
   }
 }
