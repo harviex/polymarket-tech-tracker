@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-05",
+  "events": {
+    "425315": {
+      "id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "tags": [],
+      "first_seen": "2026-05-05T11:07:54.788848",
+      "history": [
+        {
+          "time": "11:07",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.71
+    }
+  }
+}
