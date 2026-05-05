@@ -103,7 +103,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.88,
+      "probability": 0.875,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -116,11 +116,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.88,
+      "current_prob": 0.875,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
       "peak_prob": 0.88,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "15:48",
@@ -134,7 +134,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.7865,
+      "probability": 0.7845,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -145,11 +145,11 @@
       ],
       "volume": 1494181.3773530002,
       "liquidity": 703026.70483,
-      "current_prob": 0.7865,
+      "current_prob": 0.7845,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
       "peak_prob": 0.787,
-      "last_checked_prob": 0.7865,
+      "last_checked_prob": 0.7845,
       "history": [
         {
           "time": "15:48",
@@ -163,7 +163,7 @@
       "title": "How high will inflation get in 2026?",
       "slug": "how-high-will-inflation-get-in-2026",
       "url": "https://polymarket.com/event/how-high-will-inflation-get-in-2026",
-      "probability": 0.745,
+      "probability": 0.73,
       "option_text": "Above 4%",
       "tags": [
         "inflation",
@@ -173,11 +173,11 @@
       ],
       "volume": 810951.2666199985,
       "liquidity": 164887.86044,
-      "current_prob": 0.745,
+      "current_prob": 0.73,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
       "peak_prob": 0.745,
-      "last_checked_prob": 0.745,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "15:48",
@@ -222,7 +222,7 @@
       "title": "Bank of Mexico Decision in May",
       "slug": "bank-of-mexico-decision-in-may",
       "url": "https://polymarket.com/event/bank-of-mexico-decision-in-may",
-      "probability": 0.9385,
+      "probability": 0.9415,
       "option_text": "Decrease",
       "tags": [
         "Global-Rates",
@@ -233,44 +233,15 @@
       ],
       "volume": 217709.7974420001,
       "liquidity": 16441.26184,
-      "current_prob": 0.9385,
+      "current_prob": 0.9415,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.939,
-      "last_checked_prob": 0.9385,
+      "peak_prob": 0.9415,
+      "last_checked_prob": 0.9415,
       "history": [
         {
           "time": "15:48",
           "prob": 0.9385,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "231170": {
-      "id": "231170",
-      "title": "Bank of England rate hike in 2026?",
-      "slug": "bank-of-england-rate-hike-in-2026",
-      "url": "https://polymarket.com/event/bank-of-england-rate-hike-in-2026",
-      "probability": 0.7,
-      "option_text": "Yes",
-      "tags": [
-        "boe",
-        "economy",
-        "interest-rate",
-        "bank-rate",
-        "Global-Rates"
-      ],
-      "volume": 25885.530470000005,
-      "liquidity": 2664.7692,
-      "current_prob": 0.7,
-      "added_at": "2026-05-05T15:48:42.895397",
-      "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.7,
-      "last_checked_prob": 0.7,
-      "history": [
-        {
-          "time": "15:48",
-          "prob": 0.7,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
@@ -280,7 +251,7 @@
       "title": "Bank of Russia decision in June?",
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
-      "probability": 0.795,
+      "probability": 0.805,
       "option_text": "Decrease",
       "tags": [
         "economy",
@@ -292,11 +263,11 @@
       ],
       "volume": 45353.75095600002,
       "liquidity": 7052.30339,
-      "current_prob": 0.795,
+      "current_prob": 0.805,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.795,
-      "last_checked_prob": 0.795,
+      "peak_prob": 0.805,
+      "last_checked_prob": 0.805,
       "history": [
         {
           "time": "15:48",
@@ -341,7 +312,7 @@
       "title": "Lyft total rides above __ in Q1?",
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
-      "probability": 0.8165,
+      "probability": 0.8355,
       "option_text": "230m",
       "tags": [
         "tech",
@@ -353,11 +324,11 @@
       ],
       "volume": 27964.369789,
       "liquidity": 1241.41231,
-      "current_prob": 0.8165,
+      "current_prob": 0.8355,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.8165,
-      "last_checked_prob": 0.8165,
+      "peak_prob": 0.8355,
+      "last_checked_prob": 0.8355,
       "history": [
         {
           "time": "15:48",
@@ -397,8 +368,39 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+      "probability": 0.705,
+      "option_text": "NVIDIA",
+      "tags": [
+        "ai",
+        "tech",
+        "big-tech",
+        "economy",
+        "deepseek",
+        "business",
+        "finance"
+      ],
+      "volume": 9566933.161242975,
+      "liquidity": 1125915.97912,
+      "current_prob": 0.705,
+      "added_at": "2026-05-05T18:47:15.558062",
+      "first_seen": "2026-05-05T18:47:15.558062",
+      "peak_prob": 0.705,
+      "last_checked_prob": 0.705,
+      "history": [
+        {
+          "time": "18:47",
+          "prob": 0.705,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-05T16:52:20.638317",
+  "updated_at": "2026-05-05T18:47:15.558201",
   "event_count": 13
 }
