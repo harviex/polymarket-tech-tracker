@@ -76,12 +76,27 @@ def extract_option_text(event):
     # 默认返回前50字符
     return question[:50].strip()
 
-def filter_and_process_events(events, min_prob=0.70, max_prob=1.0):
-    """过滤并处理高概率事件（包含100%已结束事件）"""
+def filter_and_process_events(events, min_prob=0.70, max_prob=1.0, required_tags=None):
+    """过滤并处理高概率事件（包含100%已结束事件）
+    
+    Args:
+        events: 原始事件列表
+        min_prob: 最小概率（默认0.70）
+        max_prob: 最大概率（默认1.0，即不过滤100%）
+        required_tags: 必需的标签列表（如['tech']），None表示不检查标签
+    """
+    if required_tags is None:
+        required_tags = ['tech']  # 默认要求tech标签
+    
     filtered = []
     for event in events:
         if not event.get('markets'):
             continue
+        
+        # 检查是否包含必需标签
+        event_tags = [t.get('slug', '') for t in event.get('tags', [])]
+        if required_tags and not any(tag in event_tags for tag in required_tags):
+            continue  # 不包含必需标签，跳过
         
         try:
             market = event['markets'][0]
@@ -103,8 +118,8 @@ def filter_and_process_events(events, min_prob=0.70, max_prob=1.0):
                     'url': url,
                     'probability': yes_prob,
                     'option_text': option_text,
-                    'tags': [t['slug'] for t in event.get('tags', [])],
-                    'volume': event.get('volume', 0),
+                    'tags': event_tags,
+                    'volume': event.get('volume',0),
                     'liquidity': event.get('liquidity', 0),
                 })
         except Exception as e:
