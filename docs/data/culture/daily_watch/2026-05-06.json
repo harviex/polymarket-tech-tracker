@@ -23,8 +23,19 @@
       "direction": "down",
       "time": "04:01",
       "timestamp": "2026-05-06T04:01:44.958636"
+    },
+    {
+      "event_id": "434533",
+      "title": "Will Bryan Johnson have sex again by May 31?",
+      "slug": "will-bryan-johnson-have-sex-again-by-may-31",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-06T05:00:31.510102"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-06T04:01:44.958854"
+  "crossing_count": 3,
+  "last_updated": "2026-05-06T05:00:31.510324"
 }
