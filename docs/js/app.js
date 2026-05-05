@@ -3,14 +3,14 @@
 const App = (() => {
     let dailyWatchData = { date: '', crossings: [], crossing_count: 0 };
     let longTermData = { events: {}, updated_at: null, event_count: 0 };
-    let currentCategory = 'technology'; // 默认分类
+    let currentCategory = 'tech'; // 默认分类
     
     const categoryConfig = {
-        'technology': {
+        'tech': {
             tags: ['tech'],
             label: 'Technology'
         },
-        'pop-culture': {
+        'culture': {
             tags: ['pop-culture'],
             label: 'Culture'
         },
