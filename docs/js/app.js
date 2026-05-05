@@ -143,7 +143,7 @@ const App = (() => {
                 <div class="crossing-meta">
                     ${mainLine}
                 </div>
-                ${historyHtml}
+                ${historyHtml ? '<br>' + historyHtml : ''}
             </div>
         `;
     }
