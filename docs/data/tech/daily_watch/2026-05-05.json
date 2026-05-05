@@ -110,8 +110,41 @@
       "direction": "down",
       "time": "20:01",
       "timestamp": "2026-05-05T20:01:25.942752"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.695,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-05T21:00:52.583505"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.684,
+      "curr_prob": 0.7215,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-05T21:00:52.583548"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.695,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-05T21:00:52.583614"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-05-05T20:01:25.942956"
+  "crossing_count": 13,
+  "last_updated": "2026-05-05T21:00:52.583810"
 }
