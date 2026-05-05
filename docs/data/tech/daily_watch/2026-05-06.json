@@ -12,8 +12,30 @@
       "direction": "up",
       "time": "01:01",
       "timestamp": "2026-05-06T01:01:42.058647"
+    },
+    {
+      "event_id": "192773",
+      "title": "Will OpenAI release a social network in 2026?",
+      "slug": "will-openai-release-a-social-network-in-2026",
+      "prev_prob": 0.845,
+      "curr_prob": 0.77,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "02:05",
+      "timestamp": "2026-05-06T02:05:55.877412"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.88,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "02:05",
+      "timestamp": "2026-05-06T02:05:55.877452"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-06T01:01:42.058814"
+  "crossing_count": 3,
+  "last_updated": "2026-05-06T02:05:55.877638"
 }
