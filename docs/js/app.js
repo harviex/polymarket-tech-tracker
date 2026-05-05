@@ -132,7 +132,7 @@ const App = (() => {
             <div class="crossing-history">
                 ${event.history.map(h => {
                     const arrow = h.direction === 'up' ? '↑' : '↓';
-                    return `${h.time} ${(h.threshold * 100).toFixed(0)}% ${(h.curr_prob * 100).toFixed(1)}%${arrow}`;
+                    return `${h.time} ${(h.threshold * 100).toFixed(0)}% ${arrow}`;
                 }).join('<br>')}
             </div>
         ` : '';
