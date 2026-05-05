@@ -127,13 +127,13 @@ const App = (() => {
         // 格式：6:00 90% 70.5% → 74.0%
         const mainLine = `${latest.time} ${(latest.threshold * 100).toFixed(0)}% ${(latest.prev_prob * 100).toFixed(1)}% → ${(latest.curr_prob * 100).toFixed(1)}%`;
         
-        // 1e: 多次变动历史 - 每个时间点换行显示
+        // 1e: 历史变动 - 同一行显示，每个时间点用紫色块框起来，时间倒序
         const historyHtml = event.history.length > 1 ? `
             <div class="crossing-history">
-                ${event.history.map(h => {
+                ${event.history.slice().sort((a, b) => b.time.localeCompare(a.time)).map(h => {
                     const arrow = h.direction === 'up' ? '↑' : '↓';
-                    return `${h.time} ${(h.threshold * 100).toFixed(0)}% ${arrow}`;
-                }).join('<br>')}
+                    return `<span class="history-item">${h.time} ${(h.threshold * 100).toFixed(0)}% ${arrow}</span>`;
+                }).join(' ')}
             </div>
         ` : '';
         
