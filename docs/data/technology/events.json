@@ -1,11 +1,11 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-05T13:02:29.439528",
+  "updated_at": "2026-05-05T15:27:39.995542",
   "daily_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 3,
+      "event_count": 4,
       "events": [
         {
           "id": "425315",
@@ -54,12 +54,42 @@
             }
           ],
           "current_prob": 0.7215
+        },
+        {
+          "id": "192773",
+          "title": "Will OpenAI release a social network in 2026?",
+          "tags": [],
+          "first_seen": "2026-05-05T15:27:39.995199",
+          "history": [
+            {
+              "time": "15:27",
+              "prob": 0.905,
+              "threshold": 0.7,
+              "direction": "up",
+              "reason": "Crossed up 70%"
+            },
+            {
+              "time": "15:27",
+              "prob": 0.905,
+              "threshold": 0.8,
+              "direction": "up",
+              "reason": "Crossed up 80%"
+            },
+            {
+              "time": "15:27",
+              "prob": 0.905,
+              "threshold": 0.9,
+              "direction": "up",
+              "reason": "Crossed up 90%"
+            }
+          ],
+          "current_prob": 0.905
         }
       ]
     }
   ],
   "long_term_data": {
-    "event_count": 20,
+    "event_count": 21,
     "events": [
       {
         "id": "98133",
@@ -153,7 +183,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.935,
+        "probability": 0.945,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -162,11 +192,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.935,
+        "current_prob": 0.945,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.935,
-        "last_checked_prob": 0.935,
+        "peak_prob": 0.945,
+        "last_checked_prob": 0.945,
         "history": [
           {
             "time": "15:48",
@@ -209,7 +239,7 @@
         "id": "192790",
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
-        "url": "https://polymarket.com/event/192790",
+        "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
         "probability": 0.98,
         "option_text": "Yes",
         "tags": [
@@ -238,7 +268,7 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/193319",
+        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
         "probability": 0.958,
         "option_text": "SpaceX",
         "tags": [
@@ -274,7 +304,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/193337",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
         "probability": 0.74,
         "option_text": "$800B",
         "tags": [
@@ -307,8 +337,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.875,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.87,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -321,11 +351,11 @@
         ],
         "volume": 25090.081947,
         "liquidity": 198.462,
-        "current_prob": 0.875,
+        "current_prob": 0.87,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.875,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.87,
         "history": [
           {
             "time": "15:48",
@@ -338,7 +368,7 @@
         "id": "336406",
         "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
         "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
-        "url": "https://polymarket.com/event/336406",
+        "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
         "probability": 0.77,
         "option_text": "1510",
         "tags": [
@@ -366,7 +396,7 @@
         "title": "Lyft total rides above __ in Q1?",
         "slug": "lyft-total-rides-above-in-q1",
         "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
-        "probability": 0.836,
+        "probability": 0.8365,
         "option_text": "235m",
         "tags": [
           "tech",
@@ -378,11 +408,11 @@
         ],
         "volume": 27964.369789,
         "liquidity": 1241.41231,
-        "current_prob": 0.836,
+        "current_prob": 0.8365,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.836,
-        "last_checked_prob": 0.836,
+        "peak_prob": 0.8365,
+        "last_checked_prob": 0.8365,
         "history": [
           {
             "time": "15:48",
@@ -395,7 +425,7 @@
         "id": "376512",
         "title": "Which company has the second best AI model end of May?",
         "slug": "which-company-has-the-second-best-ai-model-end-of-may",
-        "url": "https://polymarket.com/event/376512",
+        "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
         "probability": 0.83,
         "option_text": "Anthropic",
         "tags": [
@@ -456,7 +486,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/385557",
-        "probability": 0.7835,
+        "probability": 0.7435,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -467,11 +497,11 @@
         ],
         "volume": 1494181.3773530002,
         "liquidity": 703026.70483,
-        "current_prob": 0.7835,
+        "current_prob": 0.7435,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.786,
-        "last_checked_prob": 0.7835,
+        "last_checked_prob": 0.7435,
         "history": [
           {
             "time": "15:48",
@@ -484,7 +514,7 @@
         "id": "404632",
         "title": "Will SpaceX acquire Cursor?",
         "slug": "will-spacex-acquire-cursor",
-        "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
+        "url": "https://polymarket.com/event/404632",
         "probability": 0.785,
         "option_text": "Yes",
         "tags": [
@@ -515,8 +545,8 @@
         "id": "414034",
         "title": "Which company has the best Coding AI model end of May?",
         "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
-        "url": "https://polymarket.com/event/414034",
-        "probability": 0.92,
+        "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
+        "probability": 0.915,
         "option_text": "Anthropic",
         "tags": [
           "tech",
@@ -526,11 +556,11 @@
         ],
         "volume": 10167.486776,
         "liquidity": 48514.58287,
-        "current_prob": 0.92,
+        "current_prob": 0.915,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.925,
-        "last_checked_prob": 0.92,
+        "last_checked_prob": 0.915,
         "history": [
           {
             "time": "15:48",
@@ -543,8 +573,8 @@
         "id": "438363",
         "title": "#1 Free App in the US Apple App Store on May 5?",
         "slug": "1-free-app-in-the-us-apple-app-store-on-may-5",
-        "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-may-5",
-        "probability": 0.9825,
+        "url": "https://polymarket.com/event/438363",
+        "probability": 0.988,
         "option_text": "ChatGPT",
         "tags": [
           "app-store",
@@ -555,11 +585,11 @@
         ],
         "volume": 10141.433453999998,
         "liquidity": 5188.17729,
-        "current_prob": 0.9825,
+        "current_prob": 0.988,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9825,
-        "last_checked_prob": 0.9825,
+        "peak_prob": 0.988,
+        "last_checked_prob": 0.988,
         "history": [
           {
             "time": "15:48",
@@ -572,8 +602,8 @@
         "id": "425315",
         "title": "Gemini 3.2 released by...?",
         "slug": "gemini-3pt2-released-by",
-        "url": "https://polymarket.com/event/425315",
-        "probability": 0.73,
+        "url": "https://polymarket.com/event/gemini-3pt2-released-by",
+        "probability": 0.775,
         "option_text": "Gemini 3.2 released by June 30, 2026?",
         "tags": [
           "ai",
@@ -1103,11 +1133,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.775,
         "added_at": "2026-05-05T11:07:54.787246",
         "first_seen": "2026-05-05T11:07:54.787246",
-        "peak_prob": 0.73,
-        "last_checked_prob": 0.73,
+        "peak_prob": 0.775,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "11:07",
@@ -4097,8 +4127,149 @@
             "reason": "Added to Long-Term (high probability)"
           }
         ]
+      },
+      {
+        "id": "192773",
+        "title": "Will OpenAI release a social network in 2026?",
+        "slug": "will-openai-release-a-social-network-in-2026",
+        "url": "https://polymarket.com/event/192773",
+        "probability": 0.905,
+        "option_text": "Yes",
+        "tags": [
+          "openai",
+          "big-tech",
+          "ai",
+          "gpt",
+          "tech"
+        ],
+        "markets": [
+          {
+            "id": "1294328",
+            "question": "Will OpenAI release a social network in 2026?",
+            "conditionId": "0xe97152561097edb4ab240c4658342d32ed8750dc18ed2eabc27ee06ce6ae5c8b",
+            "slug": "will-openai-release-a-social-network-in-2026",
+            "resolutionSource": "",
+            "endDate": "2026-12-31T00:00:00Z",
+            "liquidity": "5389.3798",
+            "startDate": "2026-01-29T20:38:50.217257Z",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dd-65dc951d7c.png",
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/dd-65dc951d7c.png",
+            "description": "This market will resolve to “Yes” if OpenAI launches a social network by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA social network refers to a platform or service developed by OpenAI that is primarily intended for users to create profiles or identities and publicly share, view, or interact with content or other users in a feed, network, or similar format. \n\nTools or features whose primary purpose is not to function as a social network, even if they allow limited user interaction, such as comments, reactions, or sharing, will not qualify unless they are clearly released and presented by OpenAI as a social network, social platform, or similar.\n\nA qualifying social network must be publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must be clearly defined and publicly announced by OpenAI as being accessible to the general public.\n\nSocial networks may qualify regardless of whether they are launched as a standalone platform or as social-network functionality integrated into another OpenAI product, provided that OpenAI clearly presents the product or feature as a social network or social platform, or similar.\n\nMessaging or messenger-style applications solely designed for private one-to-one or small-group communication will not qualify for this market.\n\nThe primary resolution source for this market will be official information from OpenAI; however, a consensus of credible reporting will also be used.",
+            "outcomes": "[\"Yes\", \"No\"]",
+            "outcomePrices": "[\"0.905\", \"0.095\"]",
+            "volume": "14462.107824999997",
+            "active": true,
+            "closed": false,
+            "marketMakerAddress": "",
+            "createdAt": "2026-01-29T17:58:38.455867Z",
+            "updatedAt": "2026-05-05T15:24:52.145152Z",
+            "new": false,
+            "featured": false,
+            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+            "archived": false,
+            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+            "restricted": true,
+            "groupItemTitle": "",
+            "groupItemThreshold": "0",
+            "questionID": "0xbdddd6821bbf56c2209dce8e3f179d549b13df274b4421e8d61f6c42eba74fc4",
+            "enableOrderBook": true,
+            "orderPriceMinTickSize": 0.01,
+            "orderMinSize": 5,
+            "volumeNum": 14462.107824999997,
+            "liquidityNum": 5389.3798,
+            "endDateIso": "2026-12-31",
+            "startDateIso": "2026-01-29",
+            "hasReviewedDates": true,
+            "volume24hr": 8894.63655,
+            "volume1wk": 9055.194496,
+            "volume1mo": 9399.05633,
+            "volume1yr": 14462.107825000001,
+            "clobTokenIds": "[\"35162435508550569894885907104732453786428446460311835767844898641437367939974\", \"39183639490729729447786174907561327518754458647964682163615911835515028800863\"]",
+            "umaBond": "500",
+            "umaReward": "5",
+            "volume24hrClob": 8894.63655,
+            "volume1wkClob": 9055.194496,
+            "volume1moClob": 9399.05633,
+            "volume1yrClob": 14462.107825000001,
+            "volumeClob": 14462.107824999997,
+            "liquidityClob": 5389.3798,
+            "makerBaseFee": 1000,
+            "takerBaseFee": 1000,
+            "customLiveness": 0,
+            "acceptingOrders": true,
+            "negRisk": false,
+            "negRiskRequestID": "",
+            "ready": false,
+            "funded": false,
+            "acceptingOrdersTimestamp": "2026-01-29T20:37:44Z",
+            "cyom": false,
+            "competitive": 0.8590880780051975,
+            "pagerDutyNotificationEnabled": false,
+            "approved": true,
+            "clobRewards": [
+              {
+                "id": "64747",
+                "conditionId": "0xe97152561097edb4ab240c4658342d32ed8750dc18ed2eabc27ee06ce6ae5c8b",
+                "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "rewardsAmount": 0,
+                "rewardsDailyRate": 5,
+                "startDate": "2026-01-29",
+                "endDate": "2500-12-31"
+              }
+            ],
+            "rewardsMinSize": 100,
+            "rewardsMaxSpread": 4.5,
+            "spread": 0.01,
+            "oneDayPriceChange": 0.59,
+            "oneHourPriceChange": 0.355,
+            "oneWeekPriceChange": 0.725,
+            "oneMonthPriceChange": 0.645,
+            "lastTradePrice": 0.65,
+            "bestBid": 0.9,
+            "bestAsk": 0.91,
+            "automaticallyActive": true,
+            "clearBookOnStart": true,
+            "manualActivation": false,
+            "negRiskOther": false,
+            "umaResolutionStatuses": "[]",
+            "pendingDeployment": false,
+            "deploying": false,
+            "deployingTimestamp": "2026-01-29T20:36:29.734779Z",
+            "rfqEnabled": false,
+            "holdingRewardsEnabled": false,
+            "feesEnabled": true,
+            "requiresTranslation": false,
+            "feeType": "tech_fees",
+            "feeSchedule": {
+              "exponent": 1,
+              "rate": 0.04,
+              "takerOnly": true,
+              "rebateRate": 0.25
+            }
+          }
+        ],
+        "resolutionSource": "",
+        "description": "This market will resolve to “Yes” if OpenAI launches a social network by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA social network refers to a platform or service developed by OpenAI that is primarily intended for users to create profiles or identities and publicly share, view, or interact with content or other users in a feed, network, or similar format. \n\nTools or features whose primary purpose is not to function as a social network, even if they allow limited user interaction, such as comments, reactions, or sharing, will not qualify unless they are clearly released and presented by OpenAI as a social network, social platform, or similar.\n\nA qualifying social network must be publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must be clearly defined and publicly announced by OpenAI as being accessible to the general public.\n\nSocial networks may qualify regardless of whether they are launched as a standalone platform or as social-network functionality integrated into another OpenAI product, provided that OpenAI clearly presents the product or feature as a social network or social platform, or similar.\n\nMessaging or messenger-style applications solely designed for private one-to-one or small-group communication will not qualify for this market.\n\nThe primary resolution source for this market will be official information from OpenAI; however, a consensus of credible reporting will also be used.",
+        "volume": 14462.107824999997,
+        "liquidity": 5691.1852,
+        "startDate": "2026-01-29T20:40:03.980658Z",
+        "endDate": "2026-12-31T00:00:00Z",
+        "active": true,
+        "closed": false,
+        "current_prob": 0.905,
+        "added_at": "2026-05-05T15:27:39.990094",
+        "first_seen": "2026-05-05T15:27:39.990094",
+        "peak_prob": 0.905,
+        "last_checked_prob": 0.905,
+        "history": [
+          {
+            "time": "15:27",
+            "prob": 0.905,
+            "reason": "Added to Long-Term (high probability)"
+          }
+        ]
       }
     ],
-    "updated_at": "2026-05-05T13:02:29.434210"
+    "updated_at": "2026-05-05T15:27:39.990225"
   }
 }

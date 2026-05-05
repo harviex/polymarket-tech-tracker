@@ -48,6 +48,36 @@
         }
       ],
       "current_prob": 0.7215
+    },
+    "192773": {
+      "id": "192773",
+      "title": "Will OpenAI release a social network in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-05T15:27:39.995199",
+      "history": [
+        {
+          "time": "15:27",
+          "prob": 0.905,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "15:27",
+          "prob": 0.905,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "15:27",
+          "prob": 0.905,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.905
     }
   }
 }
