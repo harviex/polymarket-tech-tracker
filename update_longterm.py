@@ -97,13 +97,13 @@ def extract_option_text(event, yes_prob=None):
     # 兜底：根据概率返回 Yes 或 No
     return "Yes" if yes_prob > 0.5 else "No"
 
-def filter_and_process_events(events, min_prob=0.70, max_prob=1.0, required_tags=None):
-    """过滤并处理高概率事件（包含100%已结束事件）
+def filter_and_process_events(events, min_prob=0.70, max_prob=0.99, required_tags=None):
+    """过滤并处理高概率事件（70%-99%，不含100%）
     
     Args:
         events: 原始事件列表
         min_prob: 最小概率（默认0.70）
-        max_prob: 最大概率（默认1.0，即不过滤100%）
+        max_prob: 最大概率（默认0.99，不含100%）
         required_tags: 必需的标签列表（如['tech']），None表示不检查标签
     """
     if required_tags is None:
