@@ -6,7 +6,7 @@
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
       "probability": 0.74,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "elon-musk",
         "tech",
@@ -35,7 +35,7 @@
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
       "probability": 0.958,
-      "option_text": "SpaceX",
+      "option_text": null,
       "tags": [
         "tech",
         "business",
@@ -71,7 +71,7 @@
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.74,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "finance",
         "ipos",
@@ -104,7 +104,7 @@
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.865,
-      "option_text": "Up",
+      "option_text": null,
       "tags": [
         "big-tech",
         "tech",
@@ -135,7 +135,7 @@
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
       "probability": 0.786,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "tech",
         "economy",
@@ -164,7 +164,7 @@
       "slug": "how-high-will-inflation-get-in-2026",
       "url": "https://polymarket.com/event/how-high-will-inflation-get-in-2026",
       "probability": 0.745,
-      "option_text": "4%",
+      "option_text": null,
       "tags": [
         "inflation",
         "macro-indicators",
@@ -192,7 +192,7 @@
       "slug": "ecb-rate-hike-in-2026",
       "url": "https://polymarket.com/event/ecb-rate-hike-in-2026",
       "probability": 0.915,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "economic-policy",
         "eu",
@@ -223,7 +223,7 @@
       "slug": "bank-of-mexico-decision-in-may",
       "url": "https://polymarket.com/event/bank-of-mexico-decision-in-may",
       "probability": 0.9385,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "Global-Rates",
         "banxico",
@@ -252,7 +252,7 @@
       "slug": "bank-of-england-rate-hike-in-2026",
       "url": "https://polymarket.com/event/bank-of-england-rate-hike-in-2026",
       "probability": 0.7,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "boe",
         "economy",
@@ -281,7 +281,7 @@
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
       "probability": 0.795,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "economy",
         "Global-Rates",
@@ -311,7 +311,7 @@
       "slug": "fed-decision-in-july-181",
       "url": "https://polymarket.com/event/fed-decision-in-july-181",
       "probability": 0.885,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "fomc",
         "economic-policy",
@@ -342,7 +342,7 @@
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
       "probability": 0.8155,
-      "option_text": "230M",
+      "option_text": null,
       "tags": [
         "tech",
         "kpis",
@@ -372,7 +372,7 @@
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
       "probability": 0.88,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "finance",
         "ai",

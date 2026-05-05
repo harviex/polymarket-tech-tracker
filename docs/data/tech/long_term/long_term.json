@@ -135,7 +135,7 @@
       "slug": "spacex-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
       "probability": 0.9345,
-      "option_text": "Yes",
+      "option_text": "$1T",
       "tags": [
         "tech",
         "big-tech",
@@ -1543,7 +1543,7 @@
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
       "probability": 0.958,
-      "option_text": "SpaceX",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "business",
@@ -1679,7 +1679,7 @@
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.74,
-      "option_text": "Yes",
+      "option_text": "$800B",
       "tags": [
         "finance",
         "ipos",
@@ -2225,7 +2225,7 @@
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.865,
-      "option_text": "Up",
+      "option_text": "Yes",
       "tags": [
         "big-tech",
         "tech",
@@ -2844,7 +2844,7 @@
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
       "probability": 0.8155,
-      "option_text": "230M",
+      "option_text": "$230m",
       "tags": [
         "tech",
         "kpis",
@@ -3736,7 +3736,7 @@
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
       "probability": 0.83,
-      "option_text": "Anthropic",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "big-tech",
@@ -6792,7 +6792,7 @@
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
       "probability": 0.786,
-      "option_text": "NVIDIA",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "economy",
@@ -9822,7 +9822,7 @@
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
       "probability": 0.925,
-      "option_text": "Anthropic",
+      "option_text": "Yes",
       "tags": [
         "tech",
         "coding",
@@ -12740,7 +12740,7 @@
       "slug": "1-free-app-in-the-us-apple-app-store-on-may-5",
       "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-may-5",
       "probability": 0.9535,
-      "option_text": "Yes",
+      "option_text": null,
       "tags": [
         "app-store",
         "pop-culture",
