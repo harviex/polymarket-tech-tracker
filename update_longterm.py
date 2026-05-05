@@ -118,7 +118,7 @@ def extract_option_text(event, yes_prob=None):
         return match.group(0)
     
     # 兜底：根据问题类型返回
-    if 'Which company' in title or 'Which company' in question:
+    if 'Which company' in title or 'Which company' in question or 'company' in title.lower():
         # 尝试从 question 字段提取公司名（格式：Will Anthropic have...）
         import re
         match = re.search(r'Will ([A-Za-z]+) ', question)
