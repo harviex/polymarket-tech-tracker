@@ -11,7 +11,8 @@ from pathlib import Path
 from datetime import datetime
 
 BASE_DIR = Path(__file__).parent
-LONG_TERM_DIR = BASE_DIR / "docs" / "data" / "long_term"
+TECH_DIR = BASE_DIR / "docs" / "data" / "tech"
+LONG_TERM_DIR = TECH_DIR / "long_term"
 
 GAMMA_API = "https://gamma-api.polymarket.com/events"
 
