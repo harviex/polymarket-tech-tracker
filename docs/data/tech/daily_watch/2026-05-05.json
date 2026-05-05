@@ -55,8 +55,41 @@
       "direction": "up",
       "time": "03:00",
       "timestamp": "2026-05-05T03:00:51.865812"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.705,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "16:53",
+      "timestamp": "2026-05-05T16:53:37.198618"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.695,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-05T17:00:46.820866"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.69,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-05T17:00:46.820960"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-05T16:00:49.489715"
+  "crossing_count": 8,
+  "last_updated": "2026-05-05T17:00:46.821150"
 }
