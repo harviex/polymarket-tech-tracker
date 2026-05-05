@@ -1,6 +1,5 @@
 {
   "date": "2026-05-05",
-  "created_at": "2026-05-05T15:47:12.029900",
   "crossings": [
     {
       "event_id": "57711",
@@ -12,8 +11,52 @@
       "direction": "up",
       "time": "16:00",
       "timestamp": "2026-05-05T16:00:49.489468"
+    },
+    {
+      "event_id": "414034",
+      "title": "Which company has the best Coding AI model end of May?",
+      "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
+      "prev_prob": 0.89,
+      "curr_prob": 0.915,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-05T10:00:10.180515"
+    },
+    {
+      "event_id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-05T10:00:10.180491"
+    },
+    {
+      "event_id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-05-05T06:00:39.697410"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.677,
+      "curr_prob": 0.74,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-05T03:00:51.865812"
     }
   ],
-  "crossing_count": 1,
+  "crossing_count": 5,
   "last_updated": "2026-05-05T16:00:49.489715"
 }
