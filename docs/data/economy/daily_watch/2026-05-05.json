@@ -12,8 +12,30 @@
       "direction": "up",
       "time": "16:00",
       "timestamp": "2026-05-05T16:00:49.883233"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.7,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:39",
+      "timestamp": "2026-05-05T18:39:56.325256"
+    },
+    {
+      "event_id": "287380",
+      "title": "Bank of Russia decision in June?",
+      "slug": "bank-of-russia-decision-in-june",
+      "prev_prob": 0.795,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "18:39",
+      "timestamp": "2026-05-05T18:39:56.325291"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-05T16:00:49.883536"
+  "crossing_count": 3,
+  "last_updated": "2026-05-05T18:39:56.325488"
 }

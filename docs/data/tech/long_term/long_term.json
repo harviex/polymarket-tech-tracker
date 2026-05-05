@@ -1413,7 +1413,7 @@
       "title": "Anthropic $500B+ valuation in 2026?",
       "slug": "anthropic-500b-valuation-in-2026",
       "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-      "probability": 0.9815,
+      "probability": 0.98,
       "option_text": "Yes",
       "tags": [
         "claude-5",
@@ -1524,11 +1524,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9815,
+      "current_prob": 0.98,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.9815,
-      "last_checked_prob": 0.9815,
+      "last_checked_prob": 0.98,
       "history": [
         {
           "time": "23:25",
@@ -2224,7 +2224,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.88,
+      "probability": 0.87,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -2329,11 +2329,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.88,
+      "current_prob": 0.87,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "23:25",
@@ -2347,7 +2347,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
-      "probability": 0.76,
+      "probability": 0.765,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -2825,11 +2825,11 @@
       "endDate": "2026-09-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.76,
+      "current_prob": 0.765,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.76,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "23:25",
@@ -2843,7 +2843,7 @@
       "title": "Lyft total rides above __ in Q1?",
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
-      "probability": 0.8165,
+      "probability": 0.8355,
       "option_text": "230m",
       "tags": [
         "tech",
@@ -3717,11 +3717,11 @@
       "endDate": "2026-05-14T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8165,
+      "current_prob": 0.8355,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
-      "peak_prob": 0.8165,
-      "last_checked_prob": 0.8165,
+      "peak_prob": 0.8355,
+      "last_checked_prob": 0.8355,
       "history": [
         {
           "time": "23:25",
@@ -6791,7 +6791,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.7865,
+      "probability": 0.7845,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -9673,11 +9673,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7865,
+      "current_prob": 0.7845,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.7895,
-      "last_checked_prob": 0.7865,
+      "last_checked_prob": 0.7845,
       "history": [
         {
           "time": "23:25",
@@ -12739,7 +12739,7 @@
       "title": "#1 Free App in the US Apple App Store on May 5?",
       "slug": "1-free-app-in-the-us-apple-app-store-on-may-5",
       "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-may-5",
-      "probability": 0.975,
+      "probability": 0.9825,
       "option_text": "ChatGPT",
       "tags": [
         "app-store",
@@ -12750,11 +12750,11 @@
       ],
       "volume": 10141.433453999998,
       "liquidity": 5188.17729,
-      "current_prob": 0.975,
+      "current_prob": 0.9825,
       "added_at": "2026-05-05T15:51:45.580477",
       "first_seen": "2026-05-05T15:51:45.580477",
-      "peak_prob": 0.975,
-      "last_checked_prob": 0.975,
+      "peak_prob": 0.9825,
+      "last_checked_prob": 0.9825,
       "history": [
         {
           "time": "15:51",
@@ -12762,8 +12762,66 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+      "probability": 0.705,
+      "option_text": "NVIDIA",
+      "tags": [
+        "ai",
+        "tech",
+        "big-tech",
+        "economy",
+        "deepseek",
+        "business",
+        "finance"
+      ],
+      "volume": 9563830.776056975,
+      "liquidity": 1132273.42327,
+      "current_prob": 0.705,
+      "added_at": "2026-05-05T18:39:24.677759",
+      "first_seen": "2026-05-05T18:39:24.677759",
+      "peak_prob": 0.705,
+      "last_checked_prob": 0.705,
+      "history": [
+        {
+          "time": "18:39",
+          "prob": 0.705,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "425315": {
+      "id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "url": "https://polymarket.com/event/gemini-3pt2-released-by",
+      "probability": 0.715,
+      "option_text": "May 31",
+      "tags": [
+        "ai",
+        "google",
+        "tech"
+      ],
+      "volume": 60252.09555199999,
+      "liquidity": 15249.02266,
+      "current_prob": 0.715,
+      "added_at": "2026-05-05T18:39:24.677759",
+      "first_seen": "2026-05-05T18:39:24.677759",
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
+      "history": [
+        {
+          "time": "18:39",
+          "prob": 0.715,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-05T16:52:03.751488",
-  "event_count": 17
+  "updated_at": "2026-05-05T18:39:50.559423",
+  "event_count": 19
 }
