@@ -177,8 +177,19 @@
       "direction": "down",
       "time": "21:00",
       "timestamp": "2026-05-06T21:00:52.812598"
+    },
+    {
+      "event_id": "441595",
+      "title": "Elon Musk # tweets May 4 - May 6, 2026?",
+      "slug": "elon-musk-of-tweets-may-4-may-6",
+      "prev_prob": 0.6075,
+      "curr_prob": 0.7235,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-06T22:00:37.707978"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-05-06T21:00:52.812834"
+  "crossing_count": 17,
+  "last_updated": "2026-05-06T22:00:37.708246"
 }
