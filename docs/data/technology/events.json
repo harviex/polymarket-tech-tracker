@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-06T20:59:40.266607",
+  "updated_at": "2026-05-06T21:57:21.404647",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -117,8 +117,8 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-        "probability": 0.725,
+        "url": "https://polymarket.com/event/98133",
+        "probability": 0.73,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -129,11 +129,11 @@
         ],
         "volume": 452102.683907,
         "liquidity": 11810.1239,
-        "current_prob": 0.725,
+        "current_prob": 0.73,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.74,
-        "last_checked_prob": 0.725,
+        "last_checked_prob": 0.73,
         "history": [
           {
             "time": "15:48",
@@ -177,7 +177,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.83,
         "option_text": "Yes",
         "tags": [
@@ -204,7 +204,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.955,
         "option_text": "Yes",
         "tags": [
@@ -232,7 +232,7 @@
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
         "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-        "probability": 0.951,
+        "probability": 0.9505,
         "option_text": "Yes",
         "tags": [
           "pop-culture",
@@ -244,11 +244,11 @@
         ],
         "volume": 47755.81452399998,
         "liquidity": 10999.1322,
-        "current_prob": 0.951,
+        "current_prob": 0.9505,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.951,
-        "last_checked_prob": 0.951,
+        "last_checked_prob": 0.9505,
         "history": [
           {
             "time": "15:48",
@@ -290,7 +290,7 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/193319",
+        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
         "probability": 0.9585,
         "option_text": "SpaceX",
         "tags": [
@@ -359,8 +359,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.885,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.9,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -373,11 +373,11 @@
         ],
         "volume": 25090.081947,
         "liquidity": 198.462,
-        "current_prob": 0.885,
+        "current_prob": 0.9,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.9,
         "history": [
           {
             "time": "15:48",
@@ -453,7 +453,7 @@
         "title": "Which company has the second best AI model end of May?",
         "slug": "which-company-has-the-second-best-ai-model-end-of-may",
         "url": "https://polymarket.com/event/376512",
-        "probability": 0.84,
+        "probability": 0.83,
         "option_text": "Anthropic",
         "tags": [
           "tech",
@@ -463,11 +463,11 @@
         ],
         "volume": 32456.710537000003,
         "liquidity": 58116.47389,
-        "current_prob": 0.84,
+        "current_prob": 0.83,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.84,
+        "last_checked_prob": 0.83,
         "history": [
           {
             "time": "15:48",
@@ -480,7 +480,7 @@
         "id": "379514",
         "title": "Anthropic valued higher than OpenAI in 2026?",
         "slug": "anthropic-valued-higher-than-openai-in-2026",
-        "url": "https://polymarket.com/event/379514",
+        "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
         "probability": 0.845,
         "option_text": "Yes",
         "tags": [
@@ -512,7 +512,7 @@
         "id": "404632",
         "title": "Will SpaceX acquire Cursor?",
         "slug": "will-spacex-acquire-cursor",
-        "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
+        "url": "https://polymarket.com/event/404632",
         "probability": 0.76,
         "option_text": "Yes",
         "tags": [
@@ -544,7 +544,7 @@
         "title": "Which company has the best Coding AI model end of May?",
         "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
         "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
-        "probability": 0.925,
+        "probability": 0.94,
         "option_text": "Anthropic",
         "tags": [
           "tech",
@@ -554,11 +554,11 @@
         ],
         "volume": 10167.486776,
         "liquidity": 48514.58287,
-        "current_prob": 0.925,
+        "current_prob": 0.94,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.925,
+        "last_checked_prob": 0.94,
         "history": [
           {
             "time": "15:48",
@@ -571,7 +571,7 @@
         "id": "425315",
         "title": "Gemini 3.2 released by...?",
         "slug": "gemini-3pt2-released-by",
-        "url": "https://polymarket.com/event/gemini-3pt2-released-by",
+        "url": "https://polymarket.com/event/425315",
         "probability": 0.885,
         "option_text": "Gemini 3.2 released by June 30, 2026?",
         "tags": [
@@ -1250,7 +1250,7 @@
         "id": "428664",
         "title": "New Gemini reasoning flagship released by...?",
         "slug": "new-gemini-reasoning-flagship-released-by",
-        "url": "https://polymarket.com/event/428664",
+        "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
         "probability": 0.755,
         "option_text": "a new Gemini flagship",
         "tags": [
@@ -1816,7 +1816,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.71,
+        "probability": 0.7,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -4648,11 +4648,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.71,
+        "current_prob": 0.7,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.71,
-        "last_checked_prob": 0.71,
+        "last_checked_prob": 0.7,
         "history": [
           {
             "time": "19:15",
@@ -4665,8 +4665,8 @@
         "id": "385557",
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
-        "url": "https://polymarket.com/event/385557",
-        "probability": 0.738,
+        "url": "https://polymarket.com/event/largest-company-end-of-may-167",
+        "probability": 0.7695,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -7545,11 +7545,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.738,
+        "current_prob": 0.7695,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
-        "peak_prob": 0.738,
-        "last_checked_prob": 0.738,
+        "peak_prob": 0.7695,
+        "last_checked_prob": 0.7695,
         "history": [
           {
             "time": "19:15",
@@ -7559,6 +7559,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-06T20:59:40.257465"
+    "updated_at": "2026-05-06T21:57:21.396176"
   }
 }
