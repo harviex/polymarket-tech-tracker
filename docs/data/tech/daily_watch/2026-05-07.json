@@ -34,8 +34,41 @@
       "direction": "down",
       "time": "01:00",
       "timestamp": "2026-05-07T01:00:39.912296"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.7135,
+      "curr_prob": 0.621,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:03",
+      "timestamp": "2026-05-07T02:03:00.956410"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.885,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "02:03",
+      "timestamp": "2026-05-07T02:03:00.956454"
+    },
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.84,
+      "curr_prob": 0.72,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "02:03",
+      "timestamp": "2026-05-07T02:03:00.956485"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-07T01:00:39.912466"
+  "crossing_count": 6,
+  "last_updated": "2026-05-07T02:03:00.956666"
 }
