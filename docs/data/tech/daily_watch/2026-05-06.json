@@ -177,8 +177,19 @@
       "direction": "down",
       "time": "22:00",
       "timestamp": "2026-05-06T22:00:22.654316"
+    },
+    {
+      "event_id": "365407",
+      "title": "Lyft total rides above __ in Q1?",
+      "slug": "lyft-total-rides-above-in-q1",
+      "prev_prob": 0.8685,
+      "curr_prob": 0.9775,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-06T23:01:19.414482"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-05-06T22:00:22.654662"
+  "crossing_count": 17,
+  "last_updated": "2026-05-06T23:01:19.414791"
 }
