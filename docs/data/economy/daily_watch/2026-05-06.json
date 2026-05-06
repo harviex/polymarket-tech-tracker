@@ -100,8 +100,30 @@
       "direction": "up",
       "time": "10:00",
       "timestamp": "2026-05-06T10:00:26.866974"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.83,
+      "curr_prob": 0.655,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "11:01",
+      "timestamp": "2026-05-06T11:01:20.068049"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.83,
+      "curr_prob": 0.655,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "11:01",
+      "timestamp": "2026-05-06T11:01:20.068077"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-05-06T10:00:26.867182"
+  "crossing_count": 11,
+  "last_updated": "2026-05-06T11:01:20.068329"
 }
