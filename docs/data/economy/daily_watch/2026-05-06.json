@@ -199,8 +199,85 @@
       "direction": "up",
       "time": "18:01",
       "timestamp": "2026-05-06T18:01:55.466524"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.64,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "20:00",
+      "timestamp": "2026-05-06T20:00:54.815986"
+    },
+    {
+      "event_id": "118455",
+      "title": "ECB rate hike in 2026?",
+      "slug": "ecb-rate-hike-in-2026",
+      "prev_prob": 0.905,
+      "curr_prob": 0.78,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-06T20:00:54.816035"
+    },
+    {
+      "event_id": "118455",
+      "title": "ECB rate hike in 2026?",
+      "slug": "ecb-rate-hike-in-2026",
+      "prev_prob": 0.905,
+      "curr_prob": 0.78,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-06T20:00:54.816047"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.87,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-06T21:00:56.297262"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.73,
+      "curr_prob": 0.665,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:00",
+      "timestamp": "2026-05-06T21:00:56.297290"
+    },
+    {
+      "event_id": "118455",
+      "title": "ECB rate hike in 2026?",
+      "slug": "ecb-rate-hike-in-2026",
+      "prev_prob": 0.78,
+      "curr_prob": 0.85,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-06T21:00:56.297325"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.84,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "21:00",
+      "timestamp": "2026-05-06T21:00:56.297392"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-05-06T18:01:55.466789"
+  "crossing_count": 25,
+  "last_updated": "2026-05-06T21:00:56.297673"
 }
