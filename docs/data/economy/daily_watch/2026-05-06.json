@@ -67,8 +67,41 @@
       "direction": "up",
       "time": "09:00",
       "timestamp": "2026-05-06T09:00:18.471552"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.9,
+      "curr_prob": 0.86,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-06T10:00:26.866845"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.615,
+      "curr_prob": 0.83,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-06T10:00:26.866960"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.615,
+      "curr_prob": 0.83,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-06T10:00:26.866974"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-06T09:00:18.476472"
+  "crossing_count": 9,
+  "last_updated": "2026-05-06T10:00:26.867182"
 }
