@@ -1,6 +1,30 @@
 {
   "date": "2026-05-07",
   "created_at": "2026-05-07T00:01:38.717000",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.7135,
+      "curr_prob": 0.621,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:02",
+      "timestamp": "2026-05-07T02:02:01.613289"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.715,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:02",
+      "timestamp": "2026-05-07T02:02:01.613336"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-07T02:02:01.613591"
 }
