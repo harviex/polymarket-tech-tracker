@@ -67,8 +67,19 @@
       "direction": "down",
       "time": "02:03",
       "timestamp": "2026-05-07T02:03:00.956485"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.68,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-07T03:00:53.940503"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-07T02:03:00.956666"
+  "crossing_count": 7,
+  "last_updated": "2026-05-07T03:00:53.940783"
 }
