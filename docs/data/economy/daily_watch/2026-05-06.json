@@ -287,8 +287,30 @@
       "direction": "down",
       "time": "22:01",
       "timestamp": "2026-05-06T22:01:26.698651"
+    },
+    {
+      "event_id": "287166",
+      "title": "Bank of England decision in June?",
+      "slug": "bank-of-england-decision-in-june-221",
+      "prev_prob": 0.765,
+      "curr_prob": 0.83,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-06T23:01:42.400124"
+    },
+    {
+      "event_id": "365407",
+      "title": "Lyft total rides above __ in Q1?",
+      "slug": "lyft-total-rides-above-in-q1",
+      "prev_prob": 0.8685,
+      "curr_prob": 0.9775,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-06T23:01:42.400169"
     }
   ],
-  "crossing_count": 26,
-  "last_updated": "2026-05-06T22:01:26.699048"
+  "crossing_count": 28,
+  "last_updated": "2026-05-06T23:01:42.400520"
 }
