@@ -144,8 +144,30 @@
       "direction": "up",
       "time": "15:00",
       "timestamp": "2026-05-06T15:00:49.475297"
+    },
+    {
+      "event_id": "203708",
+      "title": "Ángela Aguilar & Christian Nodal split in 2026?",
+      "slug": "ngela-aguilar-christian-nodal-split-in-2026",
+      "prev_prob": 0.7,
+      "curr_prob": 0.66,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "16:00",
+      "timestamp": "2026-05-06T16:00:53.979524"
+    },
+    {
+      "event_id": "407521",
+      "title": "What will be said on ICEMAN?",
+      "slug": "what-will-be-said-on-iceman",
+      "prev_prob": 0.775,
+      "curr_prob": 0.885,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-06T16:00:53.979590"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-05-06T15:00:49.475560"
+  "crossing_count": 15,
+  "last_updated": "2026-05-06T16:00:53.979821"
 }
