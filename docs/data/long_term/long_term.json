@@ -5,7 +5,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.73,
+      "probability": 0.7,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -16,11 +16,11 @@
       ],
       "volume": 452102.683907,
       "liquidity": 11810.1239,
-      "current_prob": 0.73,
+      "current_prob": 0.7,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.74,
-      "last_checked_prob": 0.73,
+      "last_checked_prob": 0.7,
       "history": [
         {
           "time": "15:48",
@@ -119,7 +119,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.951,
+      "probability": 0.95,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -131,11 +131,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.951,
+      "current_prob": 0.95,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.951,
+      "last_checked_prob": 0.95,
       "history": [
         {
           "time": "15:48",
@@ -149,7 +149,7 @@
       "title": "Anthropic $500B+ valuation in 2026?",
       "slug": "anthropic-500b-valuation-in-2026",
       "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-      "probability": 0.9855,
+      "probability": 0.985,
       "option_text": "Yes",
       "tags": [
         "claude-5",
@@ -160,11 +160,11 @@
       ],
       "volume": 21764.31394299998,
       "liquidity": 10446.18675,
-      "current_prob": 0.9855,
+      "current_prob": 0.985,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9855,
-      "last_checked_prob": 0.9855,
+      "last_checked_prob": 0.985,
       "history": [
         {
           "time": "15:48",
@@ -247,7 +247,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.87,
+      "probability": 0.88,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -260,11 +260,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.87,
+      "current_prob": 0.88,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9,
-      "last_checked_prob": 0.87,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "15:48",
@@ -305,7 +305,7 @@
       "title": "Lyft total rides above __ in Q1?",
       "slug": "lyft-total-rides-above-in-q1",
       "url": "https://polymarket.com/event/lyft-total-rides-above-in-q1",
-      "probability": 0.9775,
+      "probability": 0.9785,
       "option_text": "235m",
       "tags": [
         "tech",
@@ -317,11 +317,11 @@
       ],
       "volume": 27964.369789,
       "liquidity": 1241.41231,
-      "current_prob": 0.9775,
+      "current_prob": 0.9785,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.9775,
-      "last_checked_prob": 0.9775,
+      "peak_prob": 0.9785,
+      "last_checked_prob": 0.9785,
       "history": [
         {
           "time": "15:48",
@@ -340,7 +340,7 @@
       "title": "Which company has the second best AI model end of May?",
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/376512",
-      "probability": 0.835,
+      "probability": 0.83,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -350,11 +350,11 @@
       ],
       "volume": 32456.710537000003,
       "liquidity": 58116.47389,
-      "current_prob": 0.835,
+      "current_prob": 0.83,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "15:48",
@@ -431,7 +431,7 @@
       "title": "Which company has the best Coding AI model end of May?",
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
-      "probability": 0.945,
+      "probability": 0.94,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -441,11 +441,11 @@
       ],
       "volume": 10167.486776,
       "liquidity": 48514.58287,
-      "current_prob": 0.945,
+      "current_prob": 0.94,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.945,
+      "last_checked_prob": 0.94,
       "history": [
         {
           "time": "15:48",
@@ -459,7 +459,7 @@
       "title": "Gemini 3.2 released by...?",
       "slug": "gemini-3pt2-released-by",
       "url": "https://polymarket.com/event/425315",
-      "probability": 0.88,
+      "probability": 0.875,
       "option_text": "Gemini 3.2 released by June 30, 2026?",
       "tags": [
         "ai",
@@ -989,11 +989,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.88,
+      "current_prob": 0.875,
       "added_at": "2026-05-05T11:07:54.787246",
       "first_seen": "2026-05-05T11:07:54.787246",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "11:07",
@@ -1137,7 +1137,7 @@
       "id": "428664",
       "title": "New Gemini reasoning flagship released by...?",
       "slug": "new-gemini-reasoning-flagship-released-by",
-      "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
+      "url": "https://polymarket.com/event/428664",
       "probability": 0.78,
       "option_text": "a new Gemini flagship",
       "tags": [
@@ -1703,7 +1703,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.7,
+      "probability": 0.705,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -4535,11 +4535,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7,
+      "current_prob": 0.705,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.71,
-      "last_checked_prob": 0.7,
+      "last_checked_prob": 0.705,
       "history": [
         {
           "time": "19:15",
@@ -4553,7 +4553,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.7745,
+      "probability": 0.779,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -7432,11 +7432,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7745,
+      "current_prob": 0.779,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
-      "peak_prob": 0.7745,
-      "last_checked_prob": 0.7745,
+      "peak_prob": 0.779,
+      "last_checked_prob": 0.779,
       "history": [
         {
           "time": "19:15",
@@ -7446,6 +7446,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-06T22:39:47.854906",
+  "updated_at": "2026-05-06T23:38:30.541474",
   "event_count": 17
 }
