@@ -45,8 +45,19 @@
       "direction": "down",
       "time": "06:01",
       "timestamp": "2026-05-06T06:01:08.691996"
+    },
+    {
+      "event_id": "410144",
+      "title": "Who will Trump publicly insult by May 31?",
+      "slug": "who-will-trump-publicly-insult-by-may-31",
+      "prev_prob": 0.725,
+      "curr_prob": 0.6,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "08:01",
+      "timestamp": "2026-05-06T08:01:17.811032"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-06T06:01:08.692332"
+  "crossing_count": 5,
+  "last_updated": "2026-05-06T08:01:17.811695"
 }
