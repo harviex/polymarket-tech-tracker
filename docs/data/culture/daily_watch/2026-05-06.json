@@ -89,8 +89,52 @@
       "direction": "up",
       "time": "13:01",
       "timestamp": "2026-05-06T13:01:10.413561"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.64,
+      "curr_prob": 0.755,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "14:02",
+      "timestamp": "2026-05-06T14:02:18.636943"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "14:02",
+      "timestamp": "2026-05-06T14:02:18.637000"
+    },
+    {
+      "event_id": "203708",
+      "title": "Ángela Aguilar & Christian Nodal split in 2026?",
+      "slug": "ngela-aguilar-christian-nodal-split-in-2026",
+      "prev_prob": 0.7,
+      "curr_prob": 0.665,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:02",
+      "timestamp": "2026-05-06T14:02:18.637029"
+    },
+    {
+      "event_id": "407521",
+      "title": "What will be said on ICEMAN?",
+      "slug": "what-will-be-said-on-iceman",
+      "prev_prob": 0.64,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "14:02",
+      "timestamp": "2026-05-06T14:02:18.637082"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-05-06T13:01:10.413784"
+  "crossing_count": 12,
+  "last_updated": "2026-05-06T14:02:18.637314"
 }
