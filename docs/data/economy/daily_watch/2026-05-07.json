@@ -23,8 +23,41 @@
       "direction": "down",
       "time": "02:02",
       "timestamp": "2026-05-07T02:02:01.613336"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.68,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-07T03:00:46.781736"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-07T03:00:46.781808"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.675,
+      "curr_prob": 0.715,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-07T03:00:46.781822"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-07T02:02:01.613591"
+  "crossing_count": 5,
+  "last_updated": "2026-05-07T03:00:46.782091"
 }
