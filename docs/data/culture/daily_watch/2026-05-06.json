@@ -67,8 +67,30 @@
       "direction": "down",
       "time": "11:01",
       "timestamp": "2026-05-06T11:01:08.797825"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-06T13:01:10.413526"
+    },
+    {
+      "event_id": "203708",
+      "title": "Ángela Aguilar & Christian Nodal split in 2026?",
+      "slug": "ngela-aguilar-christian-nodal-split-in-2026",
+      "prev_prob": 0.685,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-06T13:01:10.413561"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-06T11:01:08.798100"
+  "crossing_count": 8,
+  "last_updated": "2026-05-06T13:01:10.413784"
 }
