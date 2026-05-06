@@ -188,8 +188,41 @@
       "direction": "up",
       "time": "22:00",
       "timestamp": "2026-05-06T22:00:37.707978"
+    },
+    {
+      "event_id": "203708",
+      "title": "Ángela Aguilar & Christian Nodal split in 2026?",
+      "slug": "ngela-aguilar-christian-nodal-split-in-2026",
+      "prev_prob": 0.67,
+      "curr_prob": 0.71,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-06T23:01:36.882340"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.795,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-06T23:01:36.882377"
+    },
+    {
+      "event_id": "441595",
+      "title": "Elon Musk # tweets May 4 - May 6, 2026?",
+      "slug": "elon-musk-of-tweets-may-4-may-6",
+      "prev_prob": 0.7235,
+      "curr_prob": 0.8765,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-06T23:01:36.882419"
     }
   ],
-  "crossing_count": 17,
-  "last_updated": "2026-05-06T22:00:37.708246"
+  "crossing_count": 20,
+  "last_updated": "2026-05-06T23:01:36.882648"
 }
