@@ -1,6 +1,19 @@
 {
   "date": "2026-05-07",
   "created_at": "2026-05-07T00:05:14.692290",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "203708",
+      "title": "Ángela Aguilar & Christian Nodal split in 2026?",
+      "slug": "ngela-aguilar-christian-nodal-split-in-2026",
+      "prev_prob": 0.72,
+      "curr_prob": 0.685,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:01",
+      "timestamp": "2026-05-07T02:01:59.443643"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-07T02:01:59.444084"
 }
