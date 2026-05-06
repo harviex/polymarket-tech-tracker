@@ -18,6 +18,11 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "19:15",
+          "prob": 0.7155,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.749
@@ -49,6 +54,38 @@
         }
       ],
       "current_prob": 0.725
+    },
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "tags": [],
+      "first_seen": "2026-05-06T19:15:56.109430",
+      "history": [
+        {
+          "time": "19:15",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7
+    },
+    "385557": {
+      "id": "385557",
+      "title": "Largest Company end of May?",
+      "tags": [],
+      "first_seen": "2026-05-06T19:15:56.109439",
+      "history": [
+        {
+          "time": "19:15",
+          "prob": 0.707,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.707
     }
   }
 }
