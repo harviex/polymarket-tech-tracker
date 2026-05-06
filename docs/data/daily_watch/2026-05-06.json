@@ -14,6 +14,22 @@
         }
       ],
       "current_prob": 0.749
+    },
+    "428664": {
+      "id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "tags": [],
+      "first_seen": "2026-05-06T05:17:10.513975",
+      "history": [
+        {
+          "time": "05:17",
+          "prob": 0.725,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.725
     }
   }
 }
