@@ -111,8 +111,19 @@
       "direction": "down",
       "time": "10:00",
       "timestamp": "2026-05-06T10:00:49.963995"
+    },
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.645,
+      "curr_prob": 0.71,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-05-06T13:00:33.703240"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-05-06T10:00:49.964234"
+  "crossing_count": 11,
+  "last_updated": "2026-05-06T13:00:33.703464"
 }
