@@ -1,6 +1,19 @@
 {
   "date": "2026-05-08",
   "created_at": "2026-05-08T00:03:20.375608",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.82,
+      "curr_prob": 0.75,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-08T01:01:20.432358"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-08T01:01:20.432552"
 }
