@@ -157,6 +157,36 @@
         }
       ],
       "current_prob": 0.9805
+    },
+    "452357": {
+      "id": "452357",
+      "title": "#1 Free App in the US Apple App Store on May 8?",
+      "tags": [],
+      "first_seen": "2026-05-07T22:47:24.317729",
+      "history": [
+        {
+          "time": "22:47",
+          "prob": 0.9425,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "22:47",
+          "prob": 0.9425,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "22:47",
+          "prob": 0.9425,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9425
     }
   }
 }
