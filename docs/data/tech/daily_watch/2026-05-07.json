@@ -210,8 +210,19 @@
       "direction": "down",
       "time": "12:05",
       "timestamp": "2026-05-07T12:05:50.324816"
+    },
+    {
+      "event_id": "102007",
+      "title": "SpaceX IPO closing market cap above ___ ?",
+      "slug": "spacex-ipo-closing-market-cap-above",
+      "prev_prob": 0.885,
+      "curr_prob": 0.9345,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-05-07T13:00:44.641197"
     }
   ],
-  "crossing_count": 19,
-  "last_updated": "2026-05-07T12:05:50.325167"
+  "crossing_count": 20,
+  "last_updated": "2026-05-07T13:00:44.641529"
 }
