@@ -44,6 +44,13 @@
           "time": "12:24",
           "prob": 0.715,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "17:29",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.76
@@ -94,6 +101,36 @@
         }
       ],
       "current_prob": 0.7235
+    },
+    "452992": {
+      "id": "452992",
+      "title": "SUJA LIFE IPO Closing Market Cap",
+      "tags": [],
+      "first_seen": "2026-05-07T17:29:41.820934",
+      "history": [
+        {
+          "time": "17:29",
+          "prob": 0.905,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "17:29",
+          "prob": 0.905,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "17:29",
+          "prob": 0.905,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.905
     }
   }
 }
