@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-07T17:29:41.821312",
+  "updated_at": "2026-05-07T19:21:09.261340",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -303,7 +303,7 @@
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
         "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-        "probability": 0.9635,
+        "probability": 0.9655,
         "option_text": "SpaceX",
         "tags": [
           "tech",
@@ -321,11 +321,11 @@
         ],
         "volume": 72894.46307400003,
         "liquidity": 5844.62165,
-        "current_prob": 0.9635,
+        "current_prob": 0.9655,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.965,
-        "last_checked_prob": 0.9635,
+        "peak_prob": 0.9655,
+        "last_checked_prob": 0.9655,
         "history": [
           {
             "time": "15:48",
@@ -372,7 +372,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.715,
+        "probability": 0.85,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -385,11 +385,11 @@
         ],
         "volume": 25090.081947,
         "liquidity": 198.462,
-        "current_prob": 0.715,
+        "current_prob": 0.85,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9,
-        "last_checked_prob": 0.715,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "15:48",
@@ -400,6 +400,11 @@
             "time": "17:29",
             "prob": 0.715,
             "reason": "Update: 86.0% → 71.5%"
+          },
+          {
+            "time": "19:21",
+            "prob": 0.85,
+            "reason": "Update: 71.5% → 85.0%"
           }
         ]
       },
@@ -435,7 +440,7 @@
         "title": "Lyft total rides above __ in Q1?",
         "slug": "lyft-total-rides-above-in-q1",
         "url": "https://polymarket.com/event/365407",
-        "probability": 0.9775,
+        "probability": 0.9805,
         "option_text": "235m",
         "tags": [
           "tech",
@@ -447,11 +452,11 @@
         ],
         "volume": 27964.369789,
         "liquidity": 1241.41231,
-        "current_prob": 0.9775,
+        "current_prob": 0.9805,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9785,
-        "last_checked_prob": 0.9775,
+        "peak_prob": 0.9805,
+        "last_checked_prob": 0.9805,
         "history": [
           {
             "time": "15:48",
@@ -469,7 +474,7 @@
         "id": "376512",
         "title": "Which company has the second best AI model end of May?",
         "slug": "which-company-has-the-second-best-ai-model-end-of-may",
-        "url": "https://polymarket.com/event/376512",
+        "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
         "probability": 0.825,
         "option_text": "Anthropic",
         "tags": [
@@ -558,7 +563,7 @@
         "title": "Gemini 3.2 released by...?",
         "slug": "gemini-3pt2-released-by",
         "url": "https://polymarket.com/event/425315",
-        "probability": 0.785,
+        "probability": 0.75,
         "option_text": "Gemini 3.2 released by June 30, 2026?",
         "tags": [
           "ai",
@@ -1088,11 +1093,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.75,
         "added_at": "2026-05-05T11:07:54.787246",
         "first_seen": "2026-05-05T11:07:54.787246",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "11:07",
@@ -1242,7 +1247,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.765,
+        "probability": 0.745,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -4074,11 +4079,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.765,
+        "current_prob": 0.745,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.765,
-        "last_checked_prob": 0.765,
+        "last_checked_prob": 0.745,
         "history": [
           {
             "time": "19:15",
@@ -4092,7 +4097,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-        "probability": 0.7655,
+        "probability": 0.7895,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6971,11 +6976,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7655,
+        "current_prob": 0.7895,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
-        "peak_prob": 0.7875,
-        "last_checked_prob": 0.7655,
+        "peak_prob": 0.7895,
+        "last_checked_prob": 0.7895,
         "history": [
           {
             "time": "19:15",
@@ -7118,7 +7123,7 @@
         "title": "Will SpaceX acquire Cursor?",
         "slug": "will-spacex-acquire-cursor",
         "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
-        "probability": 0.7,
+        "probability": 0.75,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -7231,16 +7236,21 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7,
+        "current_prob": 0.75,
         "added_at": "2026-05-07T17:29:41.812015",
         "first_seen": "2026-05-07T17:29:41.812015",
-        "peak_prob": 0.7,
-        "last_checked_prob": 0.7,
+        "peak_prob": 0.75,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "17:29",
             "prob": 0.7,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "19:21",
+            "prob": 0.75,
+            "reason": "Update: 70.0% → 75.0%"
           }
         ]
       },
@@ -7249,7 +7259,7 @@
         "title": "SUJA LIFE IPO Closing Market Cap",
         "slug": "suja-life-ipo-closing-market-cap",
         "url": "https://polymarket.com/event/452992",
-        "probability": 0.905,
+        "probability": 0.955,
         "option_text": "$0.8B",
         "tags": [
           "finance",
@@ -7867,11 +7877,11 @@
         "endDate": "2026-05-07T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.955,
         "added_at": "2026-05-07T17:29:41.812015",
         "first_seen": "2026-05-07T17:29:41.812015",
-        "peak_prob": 0.905,
-        "last_checked_prob": 0.905,
+        "peak_prob": 0.955,
+        "last_checked_prob": 0.955,
         "history": [
           {
             "time": "17:29",
@@ -7881,6 +7891,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-07T17:29:41.812157"
+    "updated_at": "2026-05-07T19:21:09.252513"
   }
 }
