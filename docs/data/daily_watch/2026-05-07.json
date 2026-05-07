@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-07",
+  "events": {
+    "98133": {
+      "id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "tags": [],
+      "first_seen": "2026-05-07T01:27:45.169227",
+      "history": [
+        {
+          "time": "01:27",
+          "prob": 0.7,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7
+    }
+  }
+}
