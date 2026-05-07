@@ -177,8 +177,30 @@
       "direction": "down",
       "time": "10:01",
       "timestamp": "2026-05-07T10:01:49.686934"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.69,
+      "curr_prob": 0.715,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "11:01",
+      "timestamp": "2026-05-07T11:01:58.443115"
+    },
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.75,
+      "curr_prob": 0.665,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "11:01",
+      "timestamp": "2026-05-07T11:01:58.443205"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-05-07T10:01:49.687342"
+  "crossing_count": 18,
+  "last_updated": "2026-05-07T11:01:58.443583"
 }
