@@ -232,8 +232,41 @@
       "direction": "down",
       "time": "20:01",
       "timestamp": "2026-05-07T20:01:19.873787"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.72,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-05-07T21:01:26.784505"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.71,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-05-07T21:01:26.784579"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.775,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-05-07T21:01:26.784672"
     }
   ],
-  "crossing_count": 21,
-  "last_updated": "2026-05-07T20:01:19.874197"
+  "crossing_count": 24,
+  "last_updated": "2026-05-07T21:01:26.784961"
 }
