@@ -11,9 +11,44 @@
           "time": "01:27",
           "prob": 0.7,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "05:18",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.7
+    },
+    "404632": {
+      "id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "tags": [],
+      "first_seen": "2026-05-07T05:18:47.289814",
+      "history": [
+        {
+          "time": "05:18",
+          "prob": 0.76,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.76
+    },
+    "428664": {
+      "id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "tags": [],
+      "first_seen": "2026-05-07T05:18:47.289825",
+      "history": [
+        {
+          "time": "05:18",
+          "prob": 0.74,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.74
     }
   }
 }
