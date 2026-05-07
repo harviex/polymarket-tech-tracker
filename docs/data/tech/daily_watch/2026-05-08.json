@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-08",
+  "created_at": "2026-05-08T01:01:24.782693",
+  "crossings": [
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.7125,
+      "curr_prob": 0.62,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-08T01:01:24.782502"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.615,
+      "curr_prob": 0.72,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:01",
+      "timestamp": "2026-05-08T01:01:24.782549"
+    },
+    {
+      "event_id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "prev_prob": 0.705,
+      "curr_prob": 0.68,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-08T01:01:24.782576"
+    }
+  ],
+  "last_updated": "2026-05-08T01:01:24.782700",
+  "crossing_count": 3
+}
