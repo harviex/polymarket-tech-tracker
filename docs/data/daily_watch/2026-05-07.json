@@ -32,6 +32,13 @@
           "time": "05:18",
           "prob": 0.76,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "10:56",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.76
@@ -46,6 +53,13 @@
           "time": "05:18",
           "prob": 0.74,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "10:56",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.74
