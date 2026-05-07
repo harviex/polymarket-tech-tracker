@@ -12,8 +12,30 @@
       "direction": "down",
       "time": "02:02",
       "timestamp": "2026-05-08T02:02:27.347356"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.765,
+      "curr_prob": 0.85,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-08T04:00:28.533629"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-08T04:00:28.533657"
     }
   ],
-  "last_updated": "2026-05-08T02:02:27.347578",
-  "crossing_count": 1
+  "last_updated": "2026-05-08T04:00:28.533920",
+  "crossing_count": 3
 }
