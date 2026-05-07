@@ -78,8 +78,41 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-05-08T06:00:30.232342"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.77,
+      "curr_prob": 0.855,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:01",
+      "timestamp": "2026-05-08T07:01:28.082002"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.78,
+      "curr_prob": 0.845,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:01",
+      "timestamp": "2026-05-08T07:01:28.082049"
+    },
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.735,
+      "curr_prob": 0.585,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "07:01",
+      "timestamp": "2026-05-08T07:01:28.082063"
     }
   ],
-  "last_updated": "2026-05-08T06:00:30.232743",
-  "crossing_count": 7
+  "last_updated": "2026-05-08T07:01:28.082297",
+  "crossing_count": 10
 }
