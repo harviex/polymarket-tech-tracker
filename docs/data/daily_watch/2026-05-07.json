@@ -77,6 +77,13 @@
           "time": "15:24",
           "prob": 0.74,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "20:54",
+          "prob": 0.73,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.74
@@ -128,9 +135,28 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "20:54",
+          "prob": 0.955,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.905
+    },
+    "365407": {
+      "id": "365407",
+      "title": "Lyft total rides above __ in Q1?",
+      "tags": [],
+      "first_seen": "2026-05-07T20:54:50.095769",
+      "history": [
+        {
+          "time": "20:54",
+          "prob": 0.9805,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9805
     }
   }
 }
