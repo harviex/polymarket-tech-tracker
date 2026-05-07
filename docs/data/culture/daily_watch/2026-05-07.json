@@ -67,8 +67,19 @@
       "direction": "down",
       "time": "14:01",
       "timestamp": "2026-05-07T14:01:23.217079"
+    },
+    {
+      "event_id": "401113",
+      "title": "Who will be featured on ICEMAN?",
+      "slug": "who-will-be-featured-on-iceman",
+      "prev_prob": 0.685,
+      "curr_prob": 0.71,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:01",
+      "timestamp": "2026-05-07T15:01:00.702216"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-07T14:01:23.217269"
+  "crossing_count": 7,
+  "last_updated": "2026-05-07T15:01:00.702423"
 }
