@@ -45,8 +45,30 @@
       "direction": "down",
       "time": "09:03",
       "timestamp": "2026-05-07T09:03:00.501194"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.855,
+      "curr_prob": 0.685,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "14:01",
+      "timestamp": "2026-05-07T14:01:23.217055"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.855,
+      "curr_prob": 0.685,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:01",
+      "timestamp": "2026-05-07T14:01:23.217079"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-07T09:03:00.501401"
+  "crossing_count": 6,
+  "last_updated": "2026-05-07T14:01:23.217269"
 }
