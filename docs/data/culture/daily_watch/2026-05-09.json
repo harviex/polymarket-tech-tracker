@@ -144,8 +144,63 @@
       "direction": "up",
       "time": "03:00",
       "timestamp": "2026-05-09T03:00:32.360380"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.0005,
+      "curr_prob": 0.875,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:32.695495"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.0005,
+      "curr_prob": 0.875,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:32.695527"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.42,
+      "curr_prob": 0.9815,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:32.695546"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.42,
+      "curr_prob": 0.9815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:32.695563"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.42,
+      "curr_prob": 0.9815,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:32.695578"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-05-09T03:00:32.360562"
+  "crossing_count": 18,
+  "last_updated": "2026-05-09T04:00:32.695992"
 }
