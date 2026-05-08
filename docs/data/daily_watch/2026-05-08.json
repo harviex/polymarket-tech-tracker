@@ -37,6 +37,13 @@
           "time": "14:28",
           "prob": 0.7,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "18:02",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.72
@@ -63,6 +70,96 @@
         }
       ],
       "current_prob": 0.845
+    },
+    "428664": {
+      "id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "tags": [],
+      "first_seen": "2026-05-08T18:02:57.802122",
+      "history": [
+        {
+          "time": "18:02",
+          "prob": 0.77,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.77
+    },
+    "453040": {
+      "id": "453040",
+      "title": "Mobia Medical IPO Closing Market Cap",
+      "tags": [],
+      "first_seen": "2026-05-08T18:02:57.802128",
+      "history": [
+        {
+          "time": "18:02",
+          "prob": 0.94,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "18:02",
+          "prob": 0.94,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "18:02",
+          "prob": 0.94,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.94
+    },
+    "453057": {
+      "id": "453057",
+      "title": "Odyssey Therapeutics IPO Closing Market Cap",
+      "tags": [],
+      "first_seen": "2026-05-08T18:02:57.802132",
+      "history": [
+        {
+          "time": "18:02",
+          "prob": 0.7615,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7615
+    },
+    "100079": {
+      "id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "tags": [],
+      "first_seen": "2026-05-08T18:02:57.802134",
+      "history": [
+        {
+          "time": "18:02",
+          "prob": 0.7365,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7365
+    },
+    "452357": {
+      "id": "452357",
+      "title": "#1 Free App in the US Apple App Store on May 8?",
+      "tags": [],
+      "first_seen": "2026-05-08T18:02:57.802145",
+      "history": [
+        {
+          "time": "18:02",
+          "prob": 0.9865,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9865
     }
   }
 }
