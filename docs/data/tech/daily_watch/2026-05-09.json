@@ -34,8 +34,63 @@
       "direction": "up",
       "time": "02:05",
       "timestamp": "2026-05-09T02:05:09.954963"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.78,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "03:01",
+      "timestamp": "2026-05-09T03:01:01.350662"
+    },
+    {
+      "event_id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "prev_prob": 0.71,
+      "curr_prob": 0.66,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "03:01",
+      "timestamp": "2026-05-09T03:01:01.350703"
+    },
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.77,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "03:01",
+      "timestamp": "2026-05-09T03:01:01.350721"
+    },
+    {
+      "event_id": "376512",
+      "title": "Which company has the second best AI model end of May?",
+      "slug": "which-company-has-the-second-best-ai-model-end-of-may",
+      "prev_prob": 0.815,
+      "curr_prob": 0.765,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:45.777318"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "04:00",
+      "timestamp": "2026-05-09T04:00:45.777353"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-09T02:05:09.955125"
+  "crossing_count": 8,
+  "last_updated": "2026-05-09T04:00:45.777550"
 }
