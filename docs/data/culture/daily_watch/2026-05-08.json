@@ -56,8 +56,19 @@
       "direction": "up",
       "time": "10:00",
       "timestamp": "2026-05-08T10:00:31.446393"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.705,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-05-08T12:01:55.797847"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-08T10:00:31.446598"
+  "crossing_count": 6,
+  "last_updated": "2026-05-08T12:01:55.798076"
 }
