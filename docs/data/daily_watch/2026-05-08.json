@@ -25,9 +25,39 @@
           "time": "04:45",
           "prob": 0.72,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "12:01",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.72
+    },
+    "385367": {
+      "id": "385367",
+      "title": "Anthropic next funding round closed by...?",
+      "tags": [],
+      "first_seen": "2026-05-08T12:01:59.675247",
+      "history": [
+        {
+          "time": "12:01",
+          "prob": 0.845,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "12:01",
+          "prob": 0.845,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.845
     }
   }
 }
