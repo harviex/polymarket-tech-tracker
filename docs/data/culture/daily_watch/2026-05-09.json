@@ -199,8 +199,19 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-05-09T04:00:32.695578"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.715,
+      "curr_prob": 0.645,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-09T06:01:38.949086"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-05-09T04:00:32.695992"
+  "crossing_count": 19,
+  "last_updated": "2026-05-09T06:01:38.949323"
 }
