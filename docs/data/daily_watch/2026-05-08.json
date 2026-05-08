@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-08",
+  "events": {
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "tags": [],
+      "first_seen": "2026-05-08T01:30:39.623119",
+      "history": [
+        {
+          "time": "01:30",
+          "prob": 0.7035,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7035
+    }
+  }
+}
