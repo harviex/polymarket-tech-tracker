@@ -56,8 +56,30 @@
       "direction": "up",
       "time": "03:00",
       "timestamp": "2026-05-09T03:00:54.274358"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.815,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-09T06:01:50.945350"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.85,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-09T06:01:50.945425"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-09T03:00:54.274826"
+  "crossing_count": 7,
+  "last_updated": "2026-05-09T06:01:50.945718"
 }
