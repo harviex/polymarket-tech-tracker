@@ -1,6 +1,41 @@
 {
   "date": "2026-05-09",
   "created_at": "2026-05-09T00:00:43.720424",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.845,
+      "curr_prob": 0.78,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-09T01:01:28.997324"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.71,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-09T01:01:28.997353"
+    },
+    {
+      "event_id": "287395",
+      "title": "Fed Decision in July?",
+      "slug": "fed-decision-in-july-181",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-09T01:01:28.997424"
+    }
+  ],
+  "crossing_count": 3,
+  "last_updated": "2026-05-09T01:01:28.997616"
 }
