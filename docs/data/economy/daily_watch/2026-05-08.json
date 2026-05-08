@@ -166,8 +166,41 @@
       "direction": "down",
       "time": "13:01",
       "timestamp": "2026-05-08T13:01:17.346655"
+    },
+    {
+      "event_id": "385557",
+      "title": "Largest Company end of May?",
+      "slug": "largest-company-end-of-may-167",
+      "prev_prob": 0.789,
+      "curr_prob": 0.8665,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:00",
+      "timestamp": "2026-05-08T23:00:53.023208"
+    },
+    {
+      "event_id": "287166",
+      "title": "Bank of England decision in June?",
+      "slug": "bank-of-england-decision-in-june-221",
+      "prev_prob": 0.79,
+      "curr_prob": 0.835,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:00",
+      "timestamp": "2026-05-08T23:00:53.023299"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.725,
+      "curr_prob": 0.68,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "23:00",
+      "timestamp": "2026-05-08T23:00:53.023339"
     }
   ],
-  "last_updated": "2026-05-08T13:01:17.346948",
-  "crossing_count": 15
+  "last_updated": "2026-05-08T23:00:53.024092",
+  "crossing_count": 18
 }
