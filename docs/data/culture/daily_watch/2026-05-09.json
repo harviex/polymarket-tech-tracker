@@ -12,8 +12,52 @@
       "direction": "down",
       "time": "01:00",
       "timestamp": "2026-05-09T01:00:59.532515"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.755,
+      "curr_prob": 0.585,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:04",
+      "timestamp": "2026-05-09T02:04:46.287008"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.94,
+      "curr_prob": 0.675,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "02:04",
+      "timestamp": "2026-05-09T02:04:46.287097"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.94,
+      "curr_prob": 0.675,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "02:04",
+      "timestamp": "2026-05-09T02:04:46.287107"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.94,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:04",
+      "timestamp": "2026-05-09T02:04:46.287115"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-09T01:00:59.532687"
+  "crossing_count": 5,
+  "last_updated": "2026-05-09T02:04:46.287294"
 }
