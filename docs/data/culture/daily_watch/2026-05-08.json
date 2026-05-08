@@ -34,8 +34,30 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-05-08T08:00:33.525055"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.937,
+      "curr_prob": 0.8985,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-08T10:00:31.446330"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.695,
+      "curr_prob": 0.715,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-08T10:00:31.446393"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-08T08:00:33.525257"
+  "crossing_count": 5,
+  "last_updated": "2026-05-08T10:00:31.446598"
 }
