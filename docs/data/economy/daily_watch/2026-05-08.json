@@ -122,8 +122,30 @@
       "direction": "down",
       "time": "11:00",
       "timestamp": "2026-05-08T11:00:38.579868"
+    },
+    {
+      "event_id": "287166",
+      "title": "Bank of England decision in June?",
+      "slug": "bank-of-england-decision-in-june-221",
+      "prev_prob": 0.785,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "12:01",
+      "timestamp": "2026-05-08T12:01:21.778089"
+    },
+    {
+      "event_id": "287380",
+      "title": "Bank of Russia decision in June?",
+      "slug": "bank-of-russia-decision-in-june",
+      "prev_prob": 0.795,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "12:01",
+      "timestamp": "2026-05-08T12:01:21.778120"
     }
   ],
-  "last_updated": "2026-05-08T11:00:38.580130",
-  "crossing_count": 11
+  "last_updated": "2026-05-08T12:01:21.778369",
+  "crossing_count": 13
 }
