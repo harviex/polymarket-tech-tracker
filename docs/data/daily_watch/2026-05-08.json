@@ -14,6 +14,20 @@
         }
       ],
       "current_prob": 0.7035
+    },
+    "404632": {
+      "id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "tags": [],
+      "first_seen": "2026-05-08T04:45:11.763602",
+      "history": [
+        {
+          "time": "04:45",
+          "prob": 0.72,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.72
     }
   }
 }
