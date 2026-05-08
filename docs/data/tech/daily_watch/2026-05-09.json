@@ -89,8 +89,19 @@
       "direction": "down",
       "time": "04:00",
       "timestamp": "2026-05-09T04:00:45.777353"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-05-09T05:01:06.570871"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-05-09T04:00:45.777550"
+  "crossing_count": 9,
+  "last_updated": "2026-05-09T05:01:06.571092"
 }
