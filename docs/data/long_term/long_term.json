@@ -36,7 +36,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.83,
+      "probability": 0.865,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -45,11 +45,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.83,
+      "current_prob": 0.865,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.84,
-      "last_checked_prob": 0.83,
+      "peak_prob": 0.865,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "15:48",
@@ -228,7 +228,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.835,
+      "probability": 0.84,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -241,11 +241,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.835,
+      "current_prob": 0.84,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "15:48",
@@ -269,7 +269,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/336406",
-      "probability": 0.755,
+      "probability": 0.775,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -278,11 +278,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.755,
+      "current_prob": 0.775,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "15:48",
@@ -324,7 +324,7 @@
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
-      "probability": 0.865,
+      "probability": 0.87,
       "option_text": "Yes",
       "tags": [
         "finance",
@@ -338,11 +338,11 @@
       ],
       "volume": 44787.27473799998,
       "liquidity": 7686.6026,
-      "current_prob": 0.865,
+      "current_prob": 0.87,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "15:48",
@@ -384,7 +384,7 @@
       "title": "Gemini 3.2 released by...?",
       "slug": "gemini-3pt2-released-by",
       "url": "https://polymarket.com/event/gemini-3pt2-released-by",
-      "probability": 0.86,
+      "probability": 0.875,
       "option_text": "Gemini 3.2 released by June 30, 2026?",
       "tags": [
         "ai",
@@ -914,11 +914,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.86,
+      "current_prob": 0.875,
       "added_at": "2026-05-05T11:07:54.787246",
       "first_seen": "2026-05-05T11:07:54.787246",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.86,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "11:07",
@@ -937,7 +937,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.734,
+      "probability": 0.735,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -1050,11 +1050,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.734,
+      "current_prob": 0.735,
       "added_at": "2026-05-05T13:02:29.434077",
       "first_seen": "2026-05-05T13:02:29.434077",
       "peak_prob": 0.7385,
-      "last_checked_prob": 0.734,
+      "last_checked_prob": 0.735,
       "history": [
         {
           "time": "13:02",
@@ -1068,7 +1068,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.75,
+      "probability": 0.755,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3900,11 +3900,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.755,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.77,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "19:15",
@@ -3918,7 +3918,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/385557",
-      "probability": 0.804,
+      "probability": 0.807,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -6797,11 +6797,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.804,
+      "current_prob": 0.807,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
-      "peak_prob": 0.804,
-      "last_checked_prob": 0.804,
+      "peak_prob": 0.807,
+      "last_checked_prob": 0.807,
       "history": [
         {
           "time": "19:15",
@@ -6815,7 +6815,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.755,
+      "probability": 0.765,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -6926,11 +6926,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.755,
+      "current_prob": 0.765,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.805,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "05:18",
@@ -6949,7 +6949,7 @@
       "title": "#1 Free App in the US Apple App Store on May 8?",
       "slug": "1-free-app-in-the-us-apple-app-store-on-may-8",
       "url": "https://polymarket.com/event/1-free-app-in-the-us-apple-app-store-on-may-8",
-      "probability": 0.952,
+      "probability": 0.962,
       "option_text": "ChatGPT",
       "tags": [
         "app-store",
@@ -8987,11 +8987,11 @@
       "endDate": "2026-05-08T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.952,
+      "current_prob": 0.962,
       "added_at": "2026-05-07T22:47:24.304053",
       "first_seen": "2026-05-07T22:47:24.304053",
       "peak_prob": 0.9625,
-      "last_checked_prob": 0.952,
+      "last_checked_prob": 0.962,
       "history": [
         {
           "time": "22:47",
@@ -9001,6 +9001,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-08T08:15:45.484251",
+  "updated_at": "2026-05-08T10:13:20.659662",
   "event_count": 17
 }
