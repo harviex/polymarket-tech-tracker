@@ -12,8 +12,30 @@
       "direction": "down",
       "time": "01:01",
       "timestamp": "2026-05-09T01:01:00.444798"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "02:05",
+      "timestamp": "2026-05-09T02:05:09.954937"
+    },
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.665,
+      "curr_prob": 0.77,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "02:05",
+      "timestamp": "2026-05-09T02:05:09.954963"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-09T01:01:00.444990"
+  "crossing_count": 3,
+  "last_updated": "2026-05-09T02:05:09.955125"
 }
