@@ -100,8 +100,41 @@
       "direction": "up",
       "time": "05:01",
       "timestamp": "2026-05-09T05:01:06.570871"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.815,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-09T06:01:16.664988"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.665,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "06:01",
+      "timestamp": "2026-05-09T06:01:16.665059"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.85,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-09T06:01:16.665088"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-05-09T05:01:06.571092"
+  "crossing_count": 12,
+  "last_updated": "2026-05-09T06:01:16.665460"
 }
