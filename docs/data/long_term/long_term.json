@@ -227,7 +227,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.84,
       "option_text": "Up",
       "tags": [
@@ -942,7 +942,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.795,
+      "probability": 0.775,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3774,11 +3774,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.795,
+      "current_prob": 0.775,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.795,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "19:15",
@@ -3797,7 +3797,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.863,
+      "probability": 0.8635,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -6676,11 +6676,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.863,
+      "current_prob": 0.8635,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.8635,
-      "last_checked_prob": 0.863,
+      "last_checked_prob": 0.8635,
       "history": [
         {
           "time": "19:15",
@@ -6694,7 +6694,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -6805,11 +6805,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.805,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "05:18",
@@ -7056,7 +7056,7 @@
       "title": "New Gemini reasoning flagship released by...?",
       "slug": "new-gemini-reasoning-flagship-released-by",
       "url": "https://polymarket.com/event/428664",
-      "probability": 0.85,
+      "probability": 0.86,
       "option_text": "a new Gemini flagship",
       "tags": [
         "ai",
@@ -7579,11 +7579,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.85,
+      "current_prob": 0.86,
       "added_at": "2026-05-08T18:02:57.791807",
       "first_seen": "2026-05-08T18:02:57.791807",
-      "peak_prob": 0.85,
-      "last_checked_prob": 0.85,
+      "peak_prob": 0.86,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "18:02",
@@ -7593,6 +7593,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-08T22:41:49.685452",
+  "updated_at": "2026-05-08T23:43:06.374315",
   "event_count": 17
 }
