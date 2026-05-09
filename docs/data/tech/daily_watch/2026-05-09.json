@@ -265,8 +265,30 @@
       "direction": "down",
       "time": "20:01",
       "timestamp": "2026-05-09T20:01:03.508714"
+    },
+    {
+      "event_id": "102007",
+      "title": "SpaceX IPO closing market cap above ___ ?",
+      "slug": "spacex-ipo-closing-market-cap-above",
+      "prev_prob": 0.9345,
+      "curr_prob": 0.885,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "21:00",
+      "timestamp": "2026-05-09T21:00:51.093929"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-09T21:00:51.093975"
     }
   ],
-  "crossing_count": 24,
-  "last_updated": "2026-05-09T20:01:03.509177"
+  "crossing_count": 26,
+  "last_updated": "2026-05-09T21:00:51.094289"
 }
