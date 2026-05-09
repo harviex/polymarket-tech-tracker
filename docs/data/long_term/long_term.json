@@ -5,7 +5,7 @@
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-      "probability": 0.9345,
+      "probability": 0.936,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.9345,
+      "current_prob": 0.936,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.9345,
-      "last_checked_prob": 0.9345,
+      "peak_prob": 0.936,
+      "last_checked_prob": 0.936,
       "history": [
         {
           "time": "15:48",
@@ -159,7 +159,7 @@
       "title": "Will SpaceX or OpenAI IPO first?",
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/193319",
-      "probability": 0.979,
+      "probability": 0.975,
       "option_text": "SpaceX",
       "tags": [
         "tech",
@@ -177,11 +177,11 @@
       ],
       "volume": 72894.46307400003,
       "liquidity": 5844.62165,
-      "current_prob": 0.979,
+      "current_prob": 0.975,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9795,
-      "last_checked_prob": 0.979,
+      "last_checked_prob": 0.975,
       "history": [
         {
           "time": "15:48",
@@ -284,7 +284,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
-      "probability": 0.755,
+      "probability": 0.73,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -293,11 +293,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.755,
+      "current_prob": 0.73,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "15:48",
@@ -311,7 +311,7 @@
       "title": "Which company has the second best AI model end of May?",
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/376512",
-      "probability": 0.81,
+      "probability": 0.815,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -321,11 +321,11 @@
       ],
       "volume": 32456.710537000003,
       "liquidity": 58116.47389,
-      "current_prob": 0.81,
+      "current_prob": 0.815,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.81,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "15:48",
@@ -404,7 +404,7 @@
       "title": "Gemini 3.2 released by...?",
       "slug": "gemini-3pt2-released-by",
       "url": "https://polymarket.com/event/gemini-3pt2-released-by",
-      "probability": 0.905,
+      "probability": 0.915,
       "option_text": "Gemini 3.2 released by June 30, 2026?",
       "tags": [
         "ai",
@@ -934,11 +934,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.915,
       "added_at": "2026-05-05T11:07:54.787246",
       "first_seen": "2026-05-05T11:07:54.787246",
       "peak_prob": 0.925,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "11:07",
@@ -957,7 +957,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.8,
+      "probability": 0.76,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3789,11 +3789,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.76,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.8,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "19:15",
@@ -3812,7 +3812,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.8885,
+      "probability": 0.8895,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -6691,11 +6691,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8885,
+      "current_prob": 0.8895,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.8925,
-      "last_checked_prob": 0.8885,
+      "last_checked_prob": 0.8895,
       "history": [
         {
           "time": "19:15",
@@ -6709,7 +6709,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -6820,11 +6820,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.805,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "05:18",
@@ -7622,7 +7622,7 @@
       "title": "Will SpaceX acquire Cursor?",
       "slug": "will-spacex-acquire-cursor",
       "url": "https://polymarket.com/event/404632",
-      "probability": 0.765,
+      "probability": 0.77,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -7735,11 +7735,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.765,
+      "current_prob": 0.77,
       "added_at": "2026-05-09T04:57:19.592499",
       "first_seen": "2026-05-09T04:57:19.592499",
       "peak_prob": 0.77,
-      "last_checked_prob": 0.765,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "04:57",
@@ -7880,6 +7880,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-09T21:31:26.282470",
+  "updated_at": "2026-05-09T22:30:06.172264",
   "event_count": 17
 }
