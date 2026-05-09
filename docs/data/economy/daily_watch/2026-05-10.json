@@ -1,6 +1,19 @@
 {
   "date": "2026-05-10",
   "created_at": "2026-05-10T00:00:36.451219",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.67,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:01",
+      "timestamp": "2026-05-10T01:01:52.787444"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-10T01:01:52.787664"
 }
