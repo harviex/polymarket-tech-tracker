@@ -287,8 +287,52 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-05-09T17:00:41.497450"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.875,
+      "curr_prob": 0.0005,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-05-09T19:00:17.441133"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.875,
+      "curr_prob": 0.0005,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-05-09T19:00:17.441156"
+    },
+    {
+      "event_id": "407521",
+      "title": "What will be said on ICEMAN?",
+      "slug": "what-will-be-said-on-iceman",
+      "prev_prob": 0.635,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-05-09T19:00:17.441215"
+    },
+    {
+      "event_id": "407521",
+      "title": "What will be said on ICEMAN?",
+      "slug": "what-will-be-said-on-iceman",
+      "prev_prob": 0.635,
+      "curr_prob": 0.81,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-05-09T19:00:17.441224"
     }
   ],
-  "crossing_count": 26,
-  "last_updated": "2026-05-09T17:00:41.497684"
+  "crossing_count": 30,
+  "last_updated": "2026-05-09T19:00:17.441477"
 }
