@@ -144,8 +144,30 @@
       "direction": "down",
       "time": "09:00",
       "timestamp": "2026-05-09T09:00:24.896208"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.79,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-09T10:00:43.960529"
+    },
+    {
+      "event_id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "prev_prob": 0.67,
+      "curr_prob": 0.71,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-09T10:00:43.960602"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-05-09T09:00:24.896482"
+  "crossing_count": 15,
+  "last_updated": "2026-05-09T10:00:43.961348"
 }
