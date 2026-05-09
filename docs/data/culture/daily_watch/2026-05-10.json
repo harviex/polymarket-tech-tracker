@@ -1,6 +1,30 @@
 {
   "date": "2026-05-10",
   "created_at": "2026-05-10T00:00:35.306261",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.72,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:06",
+      "timestamp": "2026-05-10T02:06:14.849902"
+    },
+    {
+      "event_id": "458775",
+      "title": "Highest grossing movie this weekend (May 8)",
+      "slug": "highest-grossing-movie-this-weekend-may-8",
+      "prev_prob": 0.77,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "02:06",
+      "timestamp": "2026-05-10T02:06:14.849966"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-10T02:06:14.850119"
 }
