@@ -228,7 +228,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.84,
+      "probability": 0.79,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -241,11 +241,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.84,
+      "current_prob": 0.79,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "15:48",
@@ -274,7 +274,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/336406",
-      "probability": 0.75,
+      "probability": 0.77,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -283,11 +283,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.75,
+      "current_prob": 0.77,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "15:48",
@@ -329,7 +329,7 @@
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/379514",
-      "probability": 0.875,
+      "probability": 0.88,
       "option_text": "Yes",
       "tags": [
         "finance",
@@ -343,11 +343,11 @@
       ],
       "volume": 44787.27473799998,
       "liquidity": 7686.6026,
-      "current_prob": 0.875,
+      "current_prob": 0.88,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "15:48",
@@ -942,7 +942,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.775,
+      "probability": 0.795,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3774,11 +3774,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.795,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "19:15",
@@ -3797,7 +3797,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.8635,
+      "probability": 0.8725,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -6676,11 +6676,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8635,
+      "current_prob": 0.8725,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
-      "peak_prob": 0.8635,
-      "last_checked_prob": 0.8635,
+      "peak_prob": 0.8725,
+      "last_checked_prob": 0.8725,
       "history": [
         {
           "time": "19:15",
@@ -7056,7 +7056,7 @@
       "title": "New Gemini reasoning flagship released by...?",
       "slug": "new-gemini-reasoning-flagship-released-by",
       "url": "https://polymarket.com/event/428664",
-      "probability": 0.86,
+      "probability": 0.875,
       "option_text": "a new Gemini flagship",
       "tags": [
         "ai",
@@ -7579,11 +7579,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.86,
+      "current_prob": 0.875,
       "added_at": "2026-05-08T18:02:57.791807",
       "first_seen": "2026-05-08T18:02:57.791807",
-      "peak_prob": 0.86,
-      "last_checked_prob": 0.86,
+      "peak_prob": 0.875,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "18:02",
@@ -7593,6 +7593,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-08T23:43:06.374315",
+  "updated_at": "2026-05-09T01:28:00.812695",
   "event_count": 17
 }

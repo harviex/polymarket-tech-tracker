@@ -1,190 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-08T23:43:06.383594",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 8,
-      "events": [
-        {
-          "id": "190776",
-          "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
-          "tags": [],
-          "first_seen": "2026-05-08T01:30:39.623119",
-          "history": [
-            {
-              "time": "01:30",
-              "prob": 0.7035,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7035
-        },
-        {
-          "id": "404632",
-          "title": "Will SpaceX acquire Cursor?",
-          "tags": [],
-          "first_seen": "2026-05-08T04:45:11.763602",
-          "history": [
-            {
-              "time": "04:45",
-              "prob": 0.72,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "12:01",
-              "prob": 0.7,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "14:28",
-              "prob": 0.7,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "18:02",
-              "prob": 0.71,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "20:01",
-              "prob": 0.71,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.72
-        },
-        {
-          "id": "385367",
-          "title": "Anthropic next funding round closed by...?",
-          "tags": [],
-          "first_seen": "2026-05-08T12:01:59.675247",
-          "history": [
-            {
-              "time": "12:01",
-              "prob": 0.845,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "12:01",
-              "prob": 0.845,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            }
-          ],
-          "current_prob": 0.845
-        },
-        {
-          "id": "428664",
-          "title": "New Gemini reasoning flagship released by...?",
-          "tags": [],
-          "first_seen": "2026-05-08T18:02:57.802122",
-          "history": [
-            {
-              "time": "18:02",
-              "prob": 0.77,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.77
-        },
-        {
-          "id": "453040",
-          "title": "Mobia Medical IPO Closing Market Cap",
-          "tags": [],
-          "first_seen": "2026-05-08T18:02:57.802128",
-          "history": [
-            {
-              "time": "18:02",
-              "prob": 0.94,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "18:02",
-              "prob": 0.94,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "18:02",
-              "prob": 0.94,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            },
-            {
-              "time": "20:01",
-              "prob": 0.94,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.94
-        },
-        {
-          "id": "453057",
-          "title": "Odyssey Therapeutics IPO Closing Market Cap",
-          "tags": [],
-          "first_seen": "2026-05-08T18:02:57.802132",
-          "history": [
-            {
-              "time": "18:02",
-              "prob": 0.7615,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "21:45",
-              "prob": 0.985,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7615
-        },
-        {
-          "id": "100079",
-          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "tags": [],
-          "first_seen": "2026-05-08T18:02:57.802134",
-          "history": [
-            {
-              "time": "18:02",
-              "prob": 0.7365,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7365
-        },
-        {
-          "id": "452357",
-          "title": "#1 Free App in the US Apple App Store on May 8?",
-          "tags": [],
-          "first_seen": "2026-05-08T18:02:57.802145",
-          "history": [
-            {
-              "time": "18:02",
-              "prob": 0.9865,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.9865
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-05-09T01:28:00.821268",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 18,
     "events": [
@@ -416,7 +233,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.84,
+        "probability": 0.79,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -429,11 +246,11 @@
         ],
         "volume": 25090.081947,
         "liquidity": 198.462,
-        "current_prob": 0.84,
+        "current_prob": 0.79,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9,
-        "last_checked_prob": 0.84,
+        "last_checked_prob": 0.79,
         "history": [
           {
             "time": "15:48",
@@ -462,7 +279,7 @@
         "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
         "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
         "url": "https://polymarket.com/event/336406",
-        "probability": 0.75,
+        "probability": 0.77,
         "option_text": "1510",
         "tags": [
           "ai",
@@ -471,11 +288,11 @@
         ],
         "volume": 29375.669266,
         "liquidity": 8544.416,
-        "current_prob": 0.75,
+        "current_prob": 0.77,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.785,
-        "last_checked_prob": 0.75,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "15:48",
@@ -517,7 +334,7 @@
         "title": "Anthropic valued higher than OpenAI in 2026?",
         "slug": "anthropic-valued-higher-than-openai-in-2026",
         "url": "https://polymarket.com/event/379514",
-        "probability": 0.875,
+        "probability": 0.88,
         "option_text": "Yes",
         "tags": [
           "finance",
@@ -531,11 +348,11 @@
         ],
         "volume": 44787.27473799998,
         "liquidity": 7686.6026,
-        "current_prob": 0.875,
+        "current_prob": 0.88,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.88,
         "history": [
           {
             "time": "15:48",
@@ -1130,7 +947,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.775,
+        "probability": 0.795,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3962,11 +3779,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.795,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.795,
         "history": [
           {
             "time": "19:15",
@@ -3985,7 +3802,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-        "probability": 0.8635,
+        "probability": 0.8725,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6864,11 +6681,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8635,
+        "current_prob": 0.8725,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
-        "peak_prob": 0.8635,
-        "last_checked_prob": 0.8635,
+        "peak_prob": 0.8725,
+        "last_checked_prob": 0.8725,
         "history": [
           {
             "time": "19:15",
@@ -7244,7 +7061,7 @@
         "title": "New Gemini reasoning flagship released by...?",
         "slug": "new-gemini-reasoning-flagship-released-by",
         "url": "https://polymarket.com/event/428664",
-        "probability": 0.86,
+        "probability": 0.875,
         "option_text": "a new Gemini flagship",
         "tags": [
           "ai",
@@ -7767,11 +7584,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.86,
+        "current_prob": 0.875,
         "added_at": "2026-05-08T18:02:57.791807",
         "first_seen": "2026-05-08T18:02:57.791807",
-        "peak_prob": 0.86,
-        "last_checked_prob": 0.86,
+        "peak_prob": 0.875,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "18:02",
@@ -7781,6 +7598,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-08T23:43:06.374315"
+    "updated_at": "2026-05-09T01:28:00.812695"
   }
 }
