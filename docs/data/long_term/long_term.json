@@ -36,7 +36,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.845,
+      "probability": 0.835,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -45,11 +45,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.845,
+      "current_prob": 0.835,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "15:48",
@@ -73,7 +73,7 @@
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/103636",
-      "probability": 0.955,
+      "probability": 0.96,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -82,11 +82,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.955,
+      "current_prob": 0.96,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.955,
-      "last_checked_prob": 0.955,
+      "peak_prob": 0.96,
+      "last_checked_prob": 0.96,
       "history": [
         {
           "time": "15:48",
@@ -100,7 +100,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.932,
+      "probability": 0.933,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -112,11 +112,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.932,
+      "current_prob": 0.933,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.932,
+      "last_checked_prob": 0.933,
       "history": [
         {
           "time": "15:48",
@@ -159,7 +159,7 @@
       "title": "Will SpaceX or OpenAI IPO first?",
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-      "probability": 0.9795,
+      "probability": 0.979,
       "option_text": "SpaceX",
       "tags": [
         "tech",
@@ -177,11 +177,11 @@
       ],
       "volume": 72894.46307400003,
       "liquidity": 5844.62165,
-      "current_prob": 0.9795,
+      "current_prob": 0.979,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9795,
-      "last_checked_prob": 0.9795,
+      "last_checked_prob": 0.979,
       "history": [
         {
           "time": "15:48",
@@ -228,7 +228,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.79,
+      "probability": 0.845,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -241,11 +241,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.79,
+      "current_prob": 0.845,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "15:48",
@@ -266,6 +266,11 @@
           "time": "18:02",
           "prob": 0.78,
           "reason": "Update: 84.5% → 78.0%"
+        },
+        {
+          "time": "04:57",
+          "prob": 0.845,
+          "reason": "Update: 79.0% → 84.5%"
         }
       ]
     },
@@ -274,7 +279,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/336406",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -283,11 +288,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "15:48",
@@ -301,7 +306,7 @@
       "title": "Which company has the second best AI model end of May?",
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/376512",
-      "probability": 0.745,
+      "probability": 0.81,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -311,16 +316,21 @@
       ],
       "volume": 32456.710537000003,
       "liquidity": 58116.47389,
-      "current_prob": 0.745,
+      "current_prob": 0.81,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.745,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "15:48",
           "prob": 0.83,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "04:57",
+          "prob": 0.81,
+          "reason": "Update: 74.5% → 81.0%"
         }
       ]
     },
@@ -361,7 +371,7 @@
       "title": "Which company has the best Coding AI model end of May?",
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
-      "probability": 0.945,
+      "probability": 0.955,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -371,11 +381,11 @@
       ],
       "volume": 10167.486776,
       "liquidity": 48514.58287,
-      "current_prob": 0.945,
+      "current_prob": 0.955,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.945,
-      "last_checked_prob": 0.945,
+      "peak_prob": 0.955,
+      "last_checked_prob": 0.955,
       "history": [
         {
           "time": "15:48",
@@ -942,7 +952,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.795,
+      "probability": 0.79,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3774,11 +3784,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.795,
+      "current_prob": 0.79,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.795,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "19:15",
@@ -3797,7 +3807,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.8725,
+      "probability": 0.889,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -6676,11 +6686,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8725,
+      "current_prob": 0.889,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
-      "peak_prob": 0.8725,
-      "last_checked_prob": 0.8725,
+      "peak_prob": 0.889,
+      "last_checked_prob": 0.889,
       "history": [
         {
           "time": "19:15",
@@ -6694,7 +6704,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.775,
+      "probability": 0.765,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -6805,11 +6815,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.765,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.805,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "05:18",
@@ -7056,7 +7066,7 @@
       "title": "New Gemini reasoning flagship released by...?",
       "slug": "new-gemini-reasoning-flagship-released-by",
       "url": "https://polymarket.com/event/428664",
-      "probability": 0.875,
+      "probability": 0.865,
       "option_text": "a new Gemini flagship",
       "tags": [
         "ai",
@@ -7579,11 +7589,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.865,
       "added_at": "2026-05-08T18:02:57.791807",
       "first_seen": "2026-05-08T18:02:57.791807",
       "peak_prob": 0.875,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "18:02",
@@ -7591,8 +7601,139 @@
           "reason": "Added to Long-Term (high probability)"
         }
       ]
+    },
+    "404632": {
+      "id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "slug": "will-spacex-acquire-cursor",
+      "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
+      "probability": 0.73,
+      "option_text": "Yes",
+      "tags": [
+        "tech",
+        "ai",
+        "elon-musk",
+        "finance",
+        "acquisitions",
+        "spacex",
+        "tesla"
+      ],
+      "markets": [
+        {
+          "id": "2047984",
+          "question": "Will SpaceX acquire Cursor?",
+          "conditionId": "0xc2dd20bc42378191ba1e6068f2afa8b2a6c13881a42ee03e211441f0a2f3aeac",
+          "slug": "will-spacex-acquire-cursor",
+          "resolutionSource": "",
+          "endDate": "2026-12-31T00:00:00Z",
+          "liquidity": "11158.4452",
+          "startDate": "2026-04-22T00:02:00.095854Z",
+          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-spacex-acquire-cursor-0bU8zr85LSVB.png",
+          "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-spacex-acquire-cursor-0bU8zr85LSVB.png",
+          "description": "This market will resolve to \"Yes\" if it is officially announced that Cursor will be, has been, or is being acquired by or merged with SpaceX, by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nMergers or acquisitions involving Cursor or its parent company (if applicable), and SpaceX or its parent company, Space Exploration Technologies Corp., will qualify.\n\nAn announcement by Cursor or SpaceX within this market's timeframe will qualify for a \"Yes\" resolution, regardless of whether or when the announced acquisition/merger actually occurs.\n\nAnnouncements of partial sales may count, as long as the acquiring company acquires a controlling interest in the other company. A “controlling interest” refers to a change in ownership sufficient to control the company’s strategic decisions (typically more than 50% of equity, or equivalent control via voting and governance rights). Transactions or investments that do not result in a transfer of controlling interest will not count.\n\nThe primary resolution source for this market will be official information from Cursor and SpaceX; however, a consensus of credible reporting may also be used.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.73\", \"0.27\"]",
+          "volume": "36178.57298400002",
+          "active": true,
+          "closed": false,
+          "marketMakerAddress": "",
+          "createdAt": "2026-04-21T23:58:56.689142Z",
+          "updatedAt": "2026-05-09T04:55:51.719322Z",
+          "new": false,
+          "featured": false,
+          "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+          "archived": false,
+          "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+          "restricted": true,
+          "groupItemTitle": "",
+          "groupItemThreshold": "0",
+          "questionID": "0x66dc631786362de6c8e31ecc7e65985ec577c27da2321ff95c8a7cb5f2754a43",
+          "enableOrderBook": true,
+          "orderPriceMinTickSize": 0.01,
+          "orderMinSize": 5,
+          "volumeNum": 36178.57298400002,
+          "liquidityNum": 11158.4452,
+          "endDateIso": "2026-12-31",
+          "startDateIso": "2026-04-22",
+          "hasReviewedDates": true,
+          "volume24hr": 501.457144,
+          "volume1wk": 7476.331212999998,
+          "volume1mo": 36178.57298400003,
+          "volume1yr": 36178.57298400003,
+          "clobTokenIds": "[\"86491867302178601744430591671205540177115110519210520247140716861452435492610\", \"19561538496128590323880994228377575312704215274713040201581074932857663048903\"]",
+          "umaBond": "500",
+          "umaReward": "5",
+          "volume24hrClob": 501.457144,
+          "volume1wkClob": 7476.331212999998,
+          "volume1moClob": 36178.57298400003,
+          "volume1yrClob": 36178.57298400003,
+          "volumeClob": 36178.57298400002,
+          "liquidityClob": 11158.4452,
+          "makerBaseFee": 1000,
+          "takerBaseFee": 1000,
+          "customLiveness": 0,
+          "acceptingOrders": true,
+          "negRisk": false,
+          "negRiskRequestID": "",
+          "ready": false,
+          "funded": false,
+          "acceptingOrdersTimestamp": "2026-04-22T00:00:56Z",
+          "cyom": false,
+          "competitive": 0.9497578117580017,
+          "pagerDutyNotificationEnabled": false,
+          "approved": true,
+          "rewardsMinSize": 0,
+          "rewardsMaxSpread": 0,
+          "spread": 0.06,
+          "oneDayPriceChange": 0.065,
+          "oneHourPriceChange": 0.005,
+          "oneWeekPriceChange": -0.09,
+          "lastTradePrice": 0.68,
+          "bestBid": 0.7,
+          "bestAsk": 0.76,
+          "automaticallyActive": true,
+          "clearBookOnStart": true,
+          "manualActivation": false,
+          "negRiskOther": false,
+          "umaResolutionStatuses": "[]",
+          "pendingDeployment": false,
+          "deploying": false,
+          "deployingTimestamp": "2026-04-21T23:59:44.501325Z",
+          "rfqEnabled": false,
+          "holdingRewardsEnabled": false,
+          "feesEnabled": true,
+          "requiresTranslation": false,
+          "feeType": "tech_fees",
+          "feeSchedule": {
+            "exponent": 1,
+            "rate": 0.04,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          }
+        }
+      ],
+      "resolutionSource": "",
+      "description": "This market will resolve to \"Yes\" if it is officially announced that Cursor will be, has been, or is being acquired by or merged with SpaceX, by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nMergers or acquisitions involving Cursor or its parent company (if applicable), and SpaceX or its parent company, Space Exploration Technologies Corp., will qualify.\n\nAn announcement by Cursor or SpaceX within this market's timeframe will qualify for a \"Yes\" resolution, regardless of whether or when the announced acquisition/merger actually occurs.\n\nAnnouncements of partial sales may count, as long as the acquiring company acquires a controlling interest in the other company. A “controlling interest” refers to a change in ownership sufficient to control the company’s strategic decisions (typically more than 50% of equity, or equivalent control via voting and governance rights). Transactions or investments that do not result in a transfer of controlling interest will not count.\n\nThe primary resolution source for this market will be official information from Cursor and SpaceX; however, a consensus of credible reporting may also be used.",
+      "volume": 36178.57298400002,
+      "liquidity": 11127.6452,
+      "startDate": "2026-04-22T00:07:38.543799Z",
+      "endDate": "2026-12-31T00:00:00Z",
+      "active": true,
+      "closed": false,
+      "current_prob": 0.73,
+      "added_at": "2026-05-09T04:57:19.592499",
+      "first_seen": "2026-05-09T04:57:19.592499",
+      "peak_prob": 0.73,
+      "last_checked_prob": 0.73,
+      "history": [
+        {
+          "time": "04:57",
+          "prob": 0.73,
+          "reason": "Added to Long-Term (high probability)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-09T01:28:00.812695",
+  "updated_at": "2026-05-09T04:57:19.592631",
   "event_count": 17
 }

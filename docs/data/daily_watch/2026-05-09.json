@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-09",
+  "events": {
+    "404632": {
+      "id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "tags": [],
+      "first_seen": "2026-05-09T04:57:19.601488",
+      "history": [
+        {
+          "time": "04:57",
+          "prob": 0.73,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.73
+    }
+  }
+}
