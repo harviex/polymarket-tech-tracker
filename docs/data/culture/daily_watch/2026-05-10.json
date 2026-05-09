@@ -78,8 +78,52 @@
       "direction": "down",
       "time": "06:01",
       "timestamp": "2026-05-10T06:01:15.425774"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.375,
+      "curr_prob": 0.9835,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "07:01",
+      "timestamp": "2026-05-10T07:01:05.246939"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.375,
+      "curr_prob": 0.9835,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:01",
+      "timestamp": "2026-05-10T07:01:05.246964"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.375,
+      "curr_prob": 0.9835,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "07:01",
+      "timestamp": "2026-05-10T07:01:05.246973"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.705,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "07:01",
+      "timestamp": "2026-05-10T07:01:05.247005"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-10T06:01:15.426022"
+  "crossing_count": 11,
+  "last_updated": "2026-05-10T07:01:05.247234"
 }
