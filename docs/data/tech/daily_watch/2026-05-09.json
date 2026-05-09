@@ -287,8 +287,30 @@
       "direction": "up",
       "time": "21:00",
       "timestamp": "2026-05-09T21:00:51.093975"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.805,
+      "curr_prob": 0.78,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-09T22:00:48.976992"
+    },
+    {
+      "event_id": "102007",
+      "title": "SpaceX IPO closing market cap above ___ ?",
+      "slug": "spacex-ipo-closing-market-cap-above",
+      "prev_prob": 0.885,
+      "curr_prob": 0.9345,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-09T22:00:48.977045"
     }
   ],
-  "crossing_count": 26,
-  "last_updated": "2026-05-09T21:00:51.094289"
+  "crossing_count": 28,
+  "last_updated": "2026-05-09T22:00:48.977465"
 }
