@@ -386,8 +386,41 @@
       "direction": "down",
       "time": "21:00",
       "timestamp": "2026-05-09T21:00:50.671097"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.755,
+      "curr_prob": 0.575,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-09T22:00:51.641806"
+    },
+    {
+      "event_id": "401113",
+      "title": "Who will be featured on ICEMAN?",
+      "slug": "who-will-be-featured-on-iceman",
+      "prev_prob": 0.8,
+      "curr_prob": 0.705,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-09T22:00:51.641910"
+    },
+    {
+      "event_id": "448310",
+      "title": "Elon Musk # tweets May 7 - May 9, 2026?",
+      "slug": "elon-musk-of-tweets-may-7-may-9",
+      "prev_prob": 0.76,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-09T22:00:51.641933"
     }
   ],
-  "crossing_count": 35,
-  "last_updated": "2026-05-09T21:00:50.671373"
+  "crossing_count": 38,
+  "last_updated": "2026-05-09T22:00:51.642236"
 }
