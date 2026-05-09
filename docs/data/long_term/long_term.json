@@ -100,7 +100,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.9195,
+      "probability": 0.919,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -112,11 +112,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9195,
+      "current_prob": 0.919,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.9195,
+      "last_checked_prob": 0.919,
       "history": [
         {
           "time": "15:48",
@@ -228,7 +228,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.785,
+      "probability": 0.85,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -241,11 +241,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.785,
+      "current_prob": 0.85,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9,
-      "last_checked_prob": 0.785,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "15:48",
@@ -271,6 +271,11 @@
           "time": "04:57",
           "prob": 0.845,
           "reason": "Update: 79.0% → 84.5%"
+        },
+        {
+          "time": "19:47",
+          "prob": 0.85,
+          "reason": "Update: 78.5% → 85.0%"
         }
       ]
     },
@@ -279,7 +284,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/336406",
-      "probability": 0.755,
+      "probability": 0.765,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -288,11 +293,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.755,
+      "current_prob": 0.765,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "15:48",
@@ -305,7 +310,7 @@
       "id": "376512",
       "title": "Which company has the second best AI model end of May?",
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
-      "url": "https://polymarket.com/event/376512",
+      "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
       "probability": 0.81,
       "option_text": "Anthropic",
       "tags": [
@@ -370,7 +375,7 @@
       "id": "414034",
       "title": "Which company has the best Coding AI model end of May?",
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
-      "url": "https://polymarket.com/event/414034",
+      "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
       "probability": 0.935,
       "option_text": "Anthropic",
       "tags": [
@@ -6703,7 +6708,7 @@
       "id": "98133",
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
-      "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+      "url": "https://polymarket.com/event/98133",
       "probability": 0.775,
       "option_text": "Yes",
       "tags": [
@@ -7617,7 +7622,7 @@
       "title": "Will SpaceX acquire Cursor?",
       "slug": "will-spacex-acquire-cursor",
       "url": "https://polymarket.com/event/404632",
-      "probability": 0.755,
+      "probability": 0.745,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -7730,11 +7735,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.755,
+      "current_prob": 0.745,
       "added_at": "2026-05-09T04:57:19.592499",
       "first_seen": "2026-05-09T04:57:19.592499",
       "peak_prob": 0.755,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.745,
       "history": [
         {
           "time": "04:57",
@@ -7875,6 +7880,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-09T18:39:53.646118",
+  "updated_at": "2026-05-09T19:47:21.816611",
   "event_count": 17
 }
