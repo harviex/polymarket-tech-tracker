@@ -265,8 +265,30 @@
       "direction": "down",
       "time": "15:00",
       "timestamp": "2026-05-09T15:00:31.354830"
+    },
+    {
+      "event_id": "448310",
+      "title": "Elon Musk # tweets May 7 - May 9, 2026?",
+      "slug": "elon-musk-of-tweets-may-7-may-9",
+      "prev_prob": 0.405,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-09T17:00:41.497428"
+    },
+    {
+      "event_id": "448310",
+      "title": "Elon Musk # tweets May 7 - May 9, 2026?",
+      "slug": "elon-musk-of-tweets-may-7-may-9",
+      "prev_prob": 0.405,
+      "curr_prob": 0.815,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-09T17:00:41.497450"
     }
   ],
-  "crossing_count": 24,
-  "last_updated": "2026-05-09T15:00:31.355114"
+  "crossing_count": 26,
+  "last_updated": "2026-05-09T17:00:41.497684"
 }
