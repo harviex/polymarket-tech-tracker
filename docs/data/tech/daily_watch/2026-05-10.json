@@ -1,6 +1,30 @@
 {
   "date": "2026-05-10",
   "created_at": "2026-05-10T00:00:36.653547",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.785,
+      "curr_prob": 0.85,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-10T05:00:33.302310"
+    },
+    {
+      "event_id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "slug": "gemini-3pt2-released-by",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-10T05:00:33.302355"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-10T05:00:33.302522"
 }
