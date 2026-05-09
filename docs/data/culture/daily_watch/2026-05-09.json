@@ -331,8 +331,41 @@
       "direction": "up",
       "time": "19:00",
       "timestamp": "2026-05-09T19:00:17.441224"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.0005,
+      "curr_prob": 0.875,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "20:01",
+      "timestamp": "2026-05-09T20:01:18.579198"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.0005,
+      "curr_prob": 0.875,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "20:01",
+      "timestamp": "2026-05-09T20:01:18.579222"
+    },
+    {
+      "event_id": "448310",
+      "title": "Elon Musk # tweets May 7 - May 9, 2026?",
+      "slug": "elon-musk-of-tweets-may-7-may-9",
+      "prev_prob": 0.805,
+      "curr_prob": 0.755,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "20:01",
+      "timestamp": "2026-05-09T20:01:18.579288"
     }
   ],
-  "crossing_count": 30,
-  "last_updated": "2026-05-09T19:00:17.441477"
+  "crossing_count": 33,
+  "last_updated": "2026-05-09T20:01:18.579544"
 }
