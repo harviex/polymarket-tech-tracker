@@ -210,8 +210,30 @@
       "direction": "down",
       "time": "22:00",
       "timestamp": "2026-05-09T22:00:55.051524"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.78,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-09T23:01:55.473010"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.685,
+      "curr_prob": 0.745,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-09T23:01:55.473101"
     }
   ],
-  "crossing_count": 19,
-  "last_updated": "2026-05-09T22:00:55.051805"
+  "crossing_count": 21,
+  "last_updated": "2026-05-09T23:01:55.473445"
 }
