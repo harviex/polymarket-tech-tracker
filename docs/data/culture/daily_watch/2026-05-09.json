@@ -364,8 +364,30 @@
       "direction": "down",
       "time": "20:01",
       "timestamp": "2026-05-09T20:01:18.579288"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.73,
+      "curr_prob": 0.665,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:00",
+      "timestamp": "2026-05-09T21:00:50.671050"
+    },
+    {
+      "event_id": "407521",
+      "title": "What will be said on ICEMAN?",
+      "slug": "what-will-be-said-on-iceman",
+      "prev_prob": 0.835,
+      "curr_prob": 0.76,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "21:00",
+      "timestamp": "2026-05-09T21:00:50.671097"
     }
   ],
-  "crossing_count": 33,
-  "last_updated": "2026-05-09T20:01:18.579544"
+  "crossing_count": 35,
+  "last_updated": "2026-05-09T21:00:50.671373"
 }
