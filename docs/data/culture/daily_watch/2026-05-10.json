@@ -45,8 +45,41 @@
       "direction": "up",
       "time": "05:00",
       "timestamp": "2026-05-10T05:00:43.068735"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.9835,
+      "curr_prob": 0.375,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-10T06:01:15.425741"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.9835,
+      "curr_prob": 0.375,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-10T06:01:15.425765"
+    },
+    {
+      "event_id": "166699",
+      "title": "Eurovision 2026: First Semi-Final",
+      "slug": "eurovision-2026-first-semi-final",
+      "prev_prob": 0.9835,
+      "curr_prob": 0.375,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-10T06:01:15.425774"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-10T05:00:43.068965"
+  "crossing_count": 7,
+  "last_updated": "2026-05-10T06:01:15.426022"
 }
