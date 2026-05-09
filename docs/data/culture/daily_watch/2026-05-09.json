@@ -210,8 +210,41 @@
       "direction": "down",
       "time": "06:01",
       "timestamp": "2026-05-09T06:01:38.949086"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.645,
+      "curr_prob": 0.999,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-09T09:00:28.017836"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.645,
+      "curr_prob": 0.999,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-09T09:00:28.017862"
+    },
+    {
+      "event_id": "410152",
+      "title": "Will Trump publicly insult someone on...?",
+      "slug": "will-trump-publicly-insult-someone-on-312",
+      "prev_prob": 0.645,
+      "curr_prob": 0.999,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-09T09:00:28.017871"
     }
   ],
-  "crossing_count": 19,
-  "last_updated": "2026-05-09T06:01:38.949323"
+  "crossing_count": 22,
+  "last_updated": "2026-05-09T09:00:28.018121"
 }
