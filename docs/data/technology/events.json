@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-10T10:50:58.418361",
+  "updated_at": "2026-05-10T11:38:53.248541",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 20,
@@ -135,7 +135,7 @@
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
         "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-        "probability": 0.986,
+        "probability": 0.9855,
         "option_text": "Yes",
         "tags": [
           "claude-5",
@@ -146,11 +146,11 @@
         ],
         "volume": 21764.31394299998,
         "liquidity": 10446.18675,
-        "current_prob": 0.986,
+        "current_prob": 0.9855,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.986,
+        "last_checked_prob": 0.9855,
         "history": [
           {
             "time": "15:48",
@@ -200,7 +200,7 @@
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/193337",
-        "probability": 0.735,
+        "probability": 0.73,
         "option_text": "$800B",
         "tags": [
           "finance",
@@ -215,11 +215,11 @@
         ],
         "volume": 1485247.6510110004,
         "liquidity": 8560.2097,
-        "current_prob": 0.735,
+        "current_prob": 0.73,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.75,
-        "last_checked_prob": 0.735,
+        "last_checked_prob": 0.73,
         "history": [
           {
             "time": "15:48",
@@ -233,7 +233,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.8,
+        "probability": 0.805,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -246,11 +246,11 @@
         ],
         "volume": 25090.081947,
         "liquidity": 198.462,
-        "current_prob": 0.8,
+        "current_prob": 0.805,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9,
-        "last_checked_prob": 0.8,
+        "last_checked_prob": 0.805,
         "history": [
           {
             "time": "15:48",
@@ -962,7 +962,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.825,
+        "probability": 0.82,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3794,11 +3794,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.82,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "19:15",
@@ -3817,7 +3817,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-        "probability": 0.879,
+        "probability": 0.8815,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6696,11 +6696,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.879,
+        "current_prob": 0.8815,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.8925,
-        "last_checked_prob": 0.879,
+        "last_checked_prob": 0.8815,
         "history": [
           {
             "time": "19:15",
@@ -7758,7 +7758,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/192788",
-        "probability": 0.775,
+        "probability": 0.79,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -7871,11 +7871,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.79,
         "added_at": "2026-05-09T11:39:02.103528",
         "first_seen": "2026-05-09T11:39:02.103528",
-        "peak_prob": 0.78,
-        "last_checked_prob": 0.775,
+        "peak_prob": 0.79,
+        "last_checked_prob": 0.79,
         "history": [
           {
             "time": "11:39",
@@ -7885,6 +7885,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-10T10:50:58.409664"
+    "updated_at": "2026-05-10T11:38:53.240242"
   }
 }
