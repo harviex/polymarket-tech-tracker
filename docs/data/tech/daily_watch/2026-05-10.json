@@ -78,8 +78,30 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-05-10T17:00:35.078289"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.8,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "23:04",
+      "timestamp": "2026-05-10T23:04:59.487456"
+    },
+    {
+      "event_id": "385557",
+      "title": "Largest Company end of May?",
+      "slug": "largest-company-end-of-may-167",
+      "prev_prob": 0.8815,
+      "curr_prob": 0.903,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "23:04",
+      "timestamp": "2026-05-10T23:04:59.487512"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-10T17:00:35.078556"
+  "crossing_count": 9,
+  "last_updated": "2026-05-10T23:04:59.487762"
 }
