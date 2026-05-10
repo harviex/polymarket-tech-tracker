@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-10T09:18:27.096806",
+  "updated_at": "2026-05-10T10:50:58.418361",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 20,
@@ -164,7 +164,7 @@
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
         "url": "https://polymarket.com/event/193319",
-        "probability": 0.977,
+        "probability": 0.9765,
         "option_text": "SpaceX",
         "tags": [
           "tech",
@@ -182,11 +182,11 @@
         ],
         "volume": 72894.46307400003,
         "liquidity": 5844.62165,
-        "current_prob": 0.977,
+        "current_prob": 0.9765,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9795,
-        "last_checked_prob": 0.977,
+        "last_checked_prob": 0.9765,
         "history": [
           {
             "time": "15:48",
@@ -349,7 +349,7 @@
         "title": "Anthropic valued higher than OpenAI in 2026?",
         "slug": "anthropic-valued-higher-than-openai-in-2026",
         "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
-        "probability": 0.88,
+        "probability": 0.875,
         "option_text": "Yes",
         "tags": [
           "finance",
@@ -363,11 +363,11 @@
         ],
         "volume": 44787.27473799998,
         "liquidity": 7686.6026,
-        "current_prob": 0.88,
+        "current_prob": 0.875,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.88,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "15:48",
@@ -3817,7 +3817,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-        "probability": 0.8895,
+        "probability": 0.879,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6696,11 +6696,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8895,
+        "current_prob": 0.879,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.8925,
-        "last_checked_prob": 0.8895,
+        "last_checked_prob": 0.879,
         "history": [
           {
             "time": "19:15",
@@ -6714,7 +6714,7 @@
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
         "url": "https://polymarket.com/event/98133",
-        "probability": 0.745,
+        "probability": 0.75,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -6825,11 +6825,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.745,
+        "current_prob": 0.75,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.805,
-        "last_checked_prob": 0.745,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "05:18",
@@ -7758,7 +7758,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/192788",
-        "probability": 0.77,
+        "probability": 0.775,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -7871,11 +7871,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.775,
         "added_at": "2026-05-09T11:39:02.103528",
         "first_seen": "2026-05-09T11:39:02.103528",
         "peak_prob": 0.78,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "11:39",
@@ -7885,6 +7885,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-10T09:18:27.087153"
+    "updated_at": "2026-05-10T10:50:58.409664"
   }
 }
