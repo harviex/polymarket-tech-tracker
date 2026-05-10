@@ -78,8 +78,41 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-05-11T06:00:27.510700"
+    },
+    {
+      "event_id": "75515",
+      "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
+      "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
+      "prev_prob": 0.915,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "07:01",
+      "timestamp": "2026-05-11T07:01:08.644925"
+    },
+    {
+      "event_id": "401113",
+      "title": "Who will be featured on ICEMAN?",
+      "slug": "who-will-be-featured-on-iceman",
+      "prev_prob": 0.78,
+      "curr_prob": 0.83,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:01",
+      "timestamp": "2026-05-11T07:01:08.645027"
+    },
+    {
+      "event_id": "458897",
+      "title": "Elon Musk # tweets May 9 - May 11, 2026?",
+      "slug": "elon-musk-of-tweets-may-9-may-11",
+      "prev_prob": 0.705,
+      "curr_prob": 0.575,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "07:01",
+      "timestamp": "2026-05-11T07:01:08.645062"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-11T06:00:27.511047"
+  "crossing_count": 10,
+  "last_updated": "2026-05-11T07:01:08.645269"
 }
