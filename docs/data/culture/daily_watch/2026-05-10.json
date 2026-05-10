@@ -177,8 +177,52 @@
       "direction": "down",
       "time": "12:01",
       "timestamp": "2026-05-10T12:01:05.996957"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.75,
+      "curr_prob": 0.61,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "13:00",
+      "timestamp": "2026-05-10T13:00:44.239675"
+    },
+    {
+      "event_id": "213341",
+      "title": "Eurovision 2026: Top 10",
+      "slug": "eurovision-2026-top-10",
+      "prev_prob": 0.735,
+      "curr_prob": 0.305,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "13:00",
+      "timestamp": "2026-05-10T13:00:44.239733"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.73,
+      "curr_prob": 0.885,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-05-10T13:00:44.239765"
+    },
+    {
+      "event_id": "458775",
+      "title": "Highest grossing movie this weekend (May 8)",
+      "slug": "highest-grossing-movie-this-weekend-may-8",
+      "prev_prob": 0.515,
+      "curr_prob": 0.765,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-05-10T13:00:44.239807"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-05-10T12:01:05.997226"
+  "crossing_count": 20,
+  "last_updated": "2026-05-10T13:00:44.240079"
 }
