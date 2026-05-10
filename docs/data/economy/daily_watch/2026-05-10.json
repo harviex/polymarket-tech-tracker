@@ -155,8 +155,19 @@
       "direction": "down",
       "time": "20:01",
       "timestamp": "2026-05-10T20:01:26.058911"
+    },
+    {
+      "event_id": "80773",
+      "title": "How high will inflation get in 2026?",
+      "slug": "how-high-will-inflation-get-in-2026",
+      "prev_prob": 0.795,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-10T22:00:21.033381"
     }
   ],
-  "crossing_count": 14,
-  "last_updated": "2026-05-10T20:01:26.059230"
+  "crossing_count": 15,
+  "last_updated": "2026-05-10T22:00:21.033724"
 }
