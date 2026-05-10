@@ -12,8 +12,19 @@
       "direction": "up",
       "time": "01:01",
       "timestamp": "2026-05-11T01:01:23.551534"
+    },
+    {
+      "event_id": "287380",
+      "title": "Bank of Russia decision in June?",
+      "slug": "bank-of-russia-decision-in-june",
+      "prev_prob": 0.8,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-11T05:00:56.679320"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-11T01:01:23.551776"
+  "crossing_count": 2,
+  "last_updated": "2026-05-11T05:00:56.679532"
 }
