@@ -1,6 +1,19 @@
 {
   "date": "2026-05-11",
   "created_at": "2026-05-11T00:00:32.747248",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "slug": "new-gemini-reasoning-flagship-released-by",
+      "prev_prob": 0.88,
+      "curr_prob": 0.955,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "01:00",
+      "timestamp": "2026-05-11T01:00:55.945003"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-11T01:00:55.945178"
 }
