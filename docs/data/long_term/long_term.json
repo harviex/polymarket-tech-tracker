@@ -36,7 +36,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.855,
+      "probability": 0.85,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -45,11 +45,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.855,
+      "current_prob": 0.85,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "15:48",
@@ -284,7 +284,7 @@
       "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
       "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
       "url": "https://polymarket.com/event/will-any-ai-model-reach-overall-arena-score-by-september-30",
-      "probability": 0.75,
+      "probability": 0.765,
       "option_text": "1510",
       "tags": [
         "ai",
@@ -293,11 +293,11 @@
       ],
       "volume": 29375.669266,
       "liquidity": 8544.416,
-      "current_prob": 0.75,
+      "current_prob": 0.765,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "15:48",
@@ -311,7 +311,7 @@
       "title": "Which company has the second best AI model end of May?",
       "slug": "which-company-has-the-second-best-ai-model-end-of-may",
       "url": "https://polymarket.com/event/376512",
-      "probability": 0.84,
+      "probability": 0.83,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -321,11 +321,11 @@
       ],
       "volume": 32456.710537000003,
       "liquidity": 58116.47389,
-      "current_prob": 0.84,
+      "current_prob": 0.83,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "15:48",
@@ -376,7 +376,7 @@
       "title": "Which company has the best Coding AI model end of May?",
       "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
       "url": "https://polymarket.com/event/414034",
-      "probability": 0.9465,
+      "probability": 0.956,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -386,11 +386,11 @@
       ],
       "volume": 10167.486776,
       "liquidity": 48514.58287,
-      "current_prob": 0.9465,
+      "current_prob": 0.956,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9615,
-      "last_checked_prob": 0.9465,
+      "last_checked_prob": 0.956,
       "history": [
         {
           "time": "15:48",
@@ -6709,7 +6709,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.77,
+      "probability": 0.765,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -6820,11 +6820,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.765,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.805,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "05:18",
@@ -7627,7 +7627,7 @@
       "title": "Will SpaceX acquire Cursor?",
       "slug": "will-spacex-acquire-cursor",
       "url": "https://polymarket.com/event/404632",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -7740,11 +7740,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-05-09T04:57:19.592499",
       "first_seen": "2026-05-09T04:57:19.592499",
       "peak_prob": 0.78,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "04:57",
@@ -7758,7 +7758,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/192788",
-      "probability": 0.78,
+      "probability": 0.795,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -7871,11 +7871,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.78,
+      "current_prob": 0.795,
       "added_at": "2026-05-09T11:39:02.103528",
       "first_seen": "2026-05-09T11:39:02.103528",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "11:39",
@@ -7885,6 +7885,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-10T18:42:16.798556",
+  "updated_at": "2026-05-10T19:50:15.192142",
   "event_count": 17
 }
