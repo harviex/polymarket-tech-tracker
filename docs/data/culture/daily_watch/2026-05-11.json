@@ -34,8 +34,30 @@
       "direction": "up",
       "time": "03:01",
       "timestamp": "2026-05-11T03:01:10.276623"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.67,
+      "curr_prob": 0.715,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-11T04:00:20.114073"
+    },
+    {
+      "event_id": "458897",
+      "title": "Elon Musk # tweets May 9 - May 11, 2026?",
+      "slug": "elon-musk-of-tweets-may-9-may-11",
+      "prev_prob": 0.655,
+      "curr_prob": 0.725,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-11T04:00:20.114143"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-11T03:01:10.276917"
+  "crossing_count": 5,
+  "last_updated": "2026-05-11T04:00:20.114333"
 }
