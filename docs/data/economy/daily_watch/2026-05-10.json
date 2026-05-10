@@ -122,8 +122,30 @@
       "direction": "down",
       "time": "17:00",
       "timestamp": "2026-05-10T17:00:41.776764"
+    },
+    {
+      "event_id": "80773",
+      "title": "How high will inflation get in 2026?",
+      "slug": "how-high-will-inflation-get-in-2026",
+      "prev_prob": 0.785,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "18:01",
+      "timestamp": "2026-05-10T18:01:23.078074"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.695,
+      "curr_prob": 0.755,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "18:01",
+      "timestamp": "2026-05-10T18:01:23.078146"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-10T17:00:41.777018"
+  "crossing_count": 13,
+  "last_updated": "2026-05-10T18:01:23.078401"
 }
