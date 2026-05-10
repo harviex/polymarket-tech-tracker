@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-2026-fifa-world-cup",
-      "probability": 0.93,
+      "probability": 0.935,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.93,
+      "current_prob": 0.935,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.93,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.92,
+      "probability": 0.9235,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.92,
+      "current_prob": 0.9235,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.92,
+      "last_checked_prob": 0.9235,
       "history": [
         {
           "time": "15:48",
@@ -65,7 +65,7 @@
       "title": "Survivor 50 Winner",
       "slug": "survivor-50-winner",
       "url": "https://polymarket.com/event/survivor-50-winner",
-      "probability": 0.87,
+      "probability": 0.875,
       "option_text": "Aubry Bracco",
       "tags": [
         "pop-culture",
@@ -73,11 +73,11 @@
       ],
       "volume": 1423844.0927259997,
       "liquidity": 258724.06441,
-      "current_prob": 0.87,
+      "current_prob": 0.875,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.87,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "15:48",
@@ -91,7 +91,7 @@
       "title": "Eurovision 2026: First Semi-Final",
       "slug": "eurovision-2026-first-semi-final",
       "url": "https://polymarket.com/event/eurovision-2026-first-semi-final",
-      "probability": 0.9805,
+      "probability": 0.9785,
       "option_text": "Israel",
       "tags": [
         "eurovision",
@@ -100,11 +100,11 @@
       ],
       "volume": 596429.804275,
       "liquidity": 144925.02368,
-      "current_prob": 0.9805,
+      "current_prob": 0.9785,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9805,
+      "last_checked_prob": 0.9785,
       "history": [
         {
           "time": "15:48",
@@ -113,49 +113,12 @@
         }
       ]
     },
-    "248295": {
-      "id": "248295",
-      "title": "Who will die in The Boys: Season 5?",
-      "slug": "who-will-die-in-the-boys-season-5",
-      "url": "https://polymarket.com/event/who-will-die-in-the-boys-season-5",
-      "probability": 0.72,
-      "option_text": "Homelander",
-      "tags": [
-        "movies",
-        "pop-culture",
-        "the-boys"
-      ],
-      "volume": 283195.91994100006,
-      "liquidity": 22851.93501,
-      "current_prob": 0.72,
-      "added_at": "2026-05-05T15:48:24.558565",
-      "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.86,
-      "last_checked_prob": 0.72,
-      "history": [
-        {
-          "time": "15:48",
-          "prob": 0.735,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:07",
-          "prob": 0.86,
-          "reason": "Update: 74.5% → 86.0%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.72,
-          "reason": "Update: 77.5% → 72.0%"
-        }
-      ]
-    },
     "401113": {
       "id": "401113",
       "title": "Who will be featured on ICEMAN?",
       "slug": "who-will-be-featured-on-iceman",
       "url": "https://polymarket.com/event/who-will-be-featured-on-iceman",
-      "probability": 0.705,
+      "probability": 0.71,
       "option_text": "21 Savage",
       "tags": [
         "drake",
@@ -167,11 +130,11 @@
       ],
       "volume": 78347.410386,
       "liquidity": 31291.17072,
-      "current_prob": 0.705,
+      "current_prob": 0.71,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.85,
-      "last_checked_prob": 0.705,
+      "last_checked_prob": 0.71,
       "history": [
         {
           "time": "15:48",
@@ -228,7 +191,7 @@
       "title": "What will be said on ICEMAN?",
       "slug": "what-will-be-said-on-iceman",
       "url": "https://polymarket.com/event/what-will-be-said-on-iceman",
-      "probability": 0.77,
+      "probability": 0.835,
       "option_text": "Covid",
       "tags": [
         "celebrities",
@@ -242,11 +205,11 @@
       ],
       "volume": 56127.35001900003,
       "liquidity": 3395.59774,
-      "current_prob": 0.77,
+      "current_prob": 0.835,
       "added_at": "2026-05-07T00:07:39.600229",
       "first_seen": "2026-05-07T00:07:39.600229",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:07",
@@ -257,6 +220,11 @@
           "time": "00:05",
           "prob": 0.77,
           "reason": "Update: 86.5% → 77.0%"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.835,
+          "reason": "Update: 77.0% → 83.5%"
         }
       ]
     },
@@ -265,7 +233,7 @@
       "title": "Which characters will appear in Avengers: Doomsday?",
       "slug": "which-characters-will-appear-in-avengers-doomsday",
       "url": "https://polymarket.com/event/which-characters-will-appear-in-avengers-doomsday",
-      "probability": 0.74,
+      "probability": 0.935,
       "option_text": "Hugh Jackman as Wolverine",
       "tags": [
         "movies",
@@ -273,44 +241,21 @@
       ],
       "volume": 37098.284959000004,
       "liquidity": 13281.3487,
-      "current_prob": 0.74,
+      "current_prob": 0.935,
       "added_at": "2026-05-09T00:06:36.502824",
       "first_seen": "2026-05-09T00:06:36.502824",
-      "peak_prob": 0.74,
-      "last_checked_prob": 0.74,
+      "peak_prob": 0.935,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "00:06",
           "prob": 0.71,
           "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "459302": {
-      "id": "459302",
-      "title": "Billboard Hot 100 #1 Song Week of May 16",
-      "slug": "billboard-hot-100-1-song-week-of-may-16",
-      "url": "https://polymarket.com/event/billboard-hot-100-1-song-week-of-may-16",
-      "probability": 0.99,
-      "option_text": "Choosin' Texas - Ella Langley",
-      "tags": [
-        "music",
-        "billboard",
-        "celebrities",
-        "pop-culture"
-      ],
-      "volume": 10121.808965,
-      "liquidity": 62212.48611,
-      "current_prob": 0.99,
-      "added_at": "2026-05-09T00:06:36.502824",
-      "first_seen": "2026-05-09T00:06:36.502824",
-      "peak_prob": 0.99,
-      "last_checked_prob": 0.99,
-      "history": [
+        },
         {
-          "time": "00:06",
-          "prob": 0.987,
-          "reason": "Added to Long-Term (daily update)"
+          "time": "00:05",
+          "prob": 0.935,
+          "reason": "Update: 74.0% → 93.5%"
         }
       ]
     },
@@ -319,7 +264,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.9415,
+      "probability": 0.9025,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -327,11 +272,11 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.9415,
+      "current_prob": 0.9025,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
       "peak_prob": 0.9415,
-      "last_checked_prob": 0.9415,
+      "last_checked_prob": 0.9025,
       "history": [
         {
           "time": "00:05",
@@ -345,7 +290,7 @@
       "title": "What will be the top US Netflix movie this week?",
       "slug": "what-will-be-the-top-us-netflix-movie-this-week-563",
       "url": "https://polymarket.com/event/what-will-be-the-top-us-netflix-movie-this-week-563",
-      "probability": 0.958,
+      "probability": 0.9875,
       "option_text": "Swapped",
       "tags": [
         "netflix",
@@ -355,11 +300,11 @@
       ],
       "volume": 15200.013793,
       "liquidity": 25765.82959,
-      "current_prob": 0.958,
+      "current_prob": 0.9875,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
-      "peak_prob": 0.958,
-      "last_checked_prob": 0.958,
+      "peak_prob": 0.9875,
+      "last_checked_prob": 0.9875,
       "history": [
         {
           "time": "00:05",
@@ -367,8 +312,117 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "79103": {
+      "id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "url": "https://polymarket.com/event/which-artists-will-release-a-new-song-in-2026",
+      "probability": 0.985,
+      "option_text": "Drake",
+      "tags": [
+        "music",
+        "pop-culture"
+      ],
+      "volume": 108283.265174,
+      "liquidity": 1940.87479,
+      "current_prob": 0.985,
+      "added_at": "2026-05-11T00:05:33.909317",
+      "first_seen": "2026-05-11T00:05:33.909317",
+      "peak_prob": 0.985,
+      "last_checked_prob": 0.985,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.985,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "106016": {
+      "id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "probability": 0.76,
+      "option_text": "Danielle Haim",
+      "tags": [
+        "pop-culture",
+        "taylor-swift",
+        "nfl",
+        "music"
+      ],
+      "volume": 253422.69134100006,
+      "liquidity": 5035.42344,
+      "current_prob": 0.76,
+      "added_at": "2026-05-11T00:05:33.909317",
+      "first_seen": "2026-05-11T00:05:33.909317",
+      "peak_prob": 0.76,
+      "last_checked_prob": 0.76,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.76,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "166704": {
+      "id": "166704",
+      "title": "Eurovision 2026: Second Semi-Final",
+      "slug": "eurovision-2026-second-semi-final",
+      "url": "https://polymarket.com/event/eurovision-2026-second-semi-final",
+      "probability": 0.9805,
+      "option_text": "Australia",
+      "tags": [
+        "eurovision",
+        "music",
+        "pop-culture"
+      ],
+      "volume": 334070.91492799995,
+      "liquidity": 91070.66595,
+      "current_prob": 0.9805,
+      "added_at": "2026-05-11T00:05:33.909317",
+      "first_seen": "2026-05-11T00:05:33.909317",
+      "peak_prob": 0.9805,
+      "last_checked_prob": 0.9805,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.9805,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "452602": {
+      "id": "452602",
+      "title": "What will be the top global Netflix movie this week?",
+      "slug": "what-will-be-the-top-global-netflix-movie-this-week-899",
+      "url": "https://polymarket.com/event/what-will-be-the-top-global-netflix-movie-this-week-899",
+      "probability": 0.99,
+      "option_text": "Swapped",
+      "tags": [
+        "pop-culture",
+        "top-netflix",
+        "netflix",
+        "movies"
+      ],
+      "volume": 10896.687984999999,
+      "liquidity": 21342.78101,
+      "current_prob": 0.99,
+      "added_at": "2026-05-11T00:05:33.909317",
+      "first_seen": "2026-05-11T00:05:33.909317",
+      "peak_prob": 0.99,
+      "last_checked_prob": 0.99,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.99,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-10T00:05:52.504429",
-  "event_count": 12
+  "updated_at": "2026-05-11T00:05:33.909482",
+  "event_count": 14
 }
