@@ -232,8 +232,19 @@
       "direction": "up",
       "time": "15:00",
       "timestamp": "2026-05-10T15:00:28.209411"
+    },
+    {
+      "event_id": "458775",
+      "title": "Highest grossing movie this weekend (May 8)",
+      "slug": "highest-grossing-movie-this-weekend-may-8",
+      "prev_prob": 0.78,
+      "curr_prob": 0.865,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:01",
+      "timestamp": "2026-05-10T16:01:00.103634"
     }
   ],
-  "crossing_count": 21,
-  "last_updated": "2026-05-10T15:00:28.209751"
+  "crossing_count": 22,
+  "last_updated": "2026-05-10T16:01:00.104011"
 }
