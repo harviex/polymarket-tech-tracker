@@ -100,8 +100,30 @@
       "direction": "up",
       "time": "10:01",
       "timestamp": "2026-05-10T10:01:03.462328"
+    },
+    {
+      "event_id": "287166",
+      "title": "Bank of England decision in June?",
+      "slug": "bank-of-england-decision-in-june-221",
+      "prev_prob": 0.895,
+      "curr_prob": 0.93,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-10T17:00:41.776726"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.755,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "17:00",
+      "timestamp": "2026-05-10T17:00:41.776764"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-05-10T10:01:03.462687"
+  "crossing_count": 11,
+  "last_updated": "2026-05-10T17:00:41.777018"
 }
