@@ -41,7 +41,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.72,
+      "probability": 0.73,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -56,11 +56,11 @@
       ],
       "volume": 1485247.6510110004,
       "liquidity": 8560.2097,
-      "current_prob": 0.72,
+      "current_prob": 0.73,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
       "peak_prob": 0.75,
-      "last_checked_prob": 0.72,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "15:48",
@@ -74,7 +74,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.8885,
+      "probability": 0.905,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -85,11 +85,11 @@
       ],
       "volume": 1494181.3773530002,
       "liquidity": 703026.70483,
-      "current_prob": 0.8885,
+      "current_prob": 0.905,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.8885,
-      "last_checked_prob": 0.8885,
+      "peak_prob": 0.905,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "15:48",
@@ -118,7 +118,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.78,
+      "probability": 0.825,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -131,11 +131,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.78,
+      "current_prob": 0.825,
       "added_at": "2026-05-08T00:06:02.118479",
       "first_seen": "2026-05-08T00:06:02.118479",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "00:06",
@@ -183,7 +183,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.785,
+      "probability": 0.845,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -196,11 +196,11 @@
       ],
       "volume": 25122.571947,
       "liquidity": 10434.4375,
-      "current_prob": 0.785,
+      "current_prob": 0.845,
       "added_at": "2026-05-09T00:07:29.465947",
       "first_seen": "2026-05-09T00:07:29.465947",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.785,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "00:07",
@@ -211,6 +211,11 @@
           "time": "00:05",
           "prob": 0.785,
           "reason": "Update: 84.5% → 78.5%"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.845,
+          "reason": "Update: 78.5% → 84.5%"
         }
       ]
     },
@@ -219,7 +224,7 @@
       "title": "Anthropic next funding round closed by...?",
       "slug": "anthropic-next-funding-round-closed-by",
       "url": "https://polymarket.com/event/anthropic-next-funding-round-closed-by",
-      "probability": 0.845,
+      "probability": 0.85,
       "option_text": "June 30",
       "tags": [
         "tech",
@@ -231,11 +236,11 @@
       ],
       "volume": 10284.497245999997,
       "liquidity": 12342.5243,
-      "current_prob": 0.845,
+      "current_prob": 0.85,
       "added_at": "2026-05-09T00:07:29.465947",
       "first_seen": "2026-05-09T00:07:29.465947",
-      "peak_prob": 0.845,
-      "last_checked_prob": 0.845,
+      "peak_prob": 0.85,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "00:07",
@@ -249,7 +254,7 @@
       "title": "How high will inflation get in 2026?",
       "slug": "how-high-will-inflation-get-in-2026",
       "url": "https://polymarket.com/event/how-high-will-inflation-get-in-2026",
-      "probability": 0.755,
+      "probability": 0.79,
       "option_text": "Above 4%",
       "tags": [
         "inflation",
@@ -259,11 +264,11 @@
       ],
       "volume": 832032.2898539985,
       "liquidity": 80012.18615,
-      "current_prob": 0.755,
+      "current_prob": 0.79,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.755,
-      "last_checked_prob": 0.755,
+      "peak_prob": 0.79,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "00:05",
@@ -308,7 +313,7 @@
       "title": "Bank of England decision in June?",
       "slug": "bank-of-england-decision-in-june-221",
       "url": "https://polymarket.com/event/bank-of-england-decision-in-june-221",
-      "probability": 0.845,
+      "probability": 0.93,
       "option_text": "No change",
       "tags": [
         "economy",
@@ -319,16 +324,21 @@
       ],
       "volume": 78504.60796100003,
       "liquidity": 21825.68808,
-      "current_prob": 0.845,
+      "current_prob": 0.93,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.845,
-      "last_checked_prob": 0.845,
+      "peak_prob": 0.93,
+      "last_checked_prob": 0.93,
       "history": [
         {
           "time": "00:05",
           "prob": 0.845,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.93,
+          "reason": "Update: 84.5% → 93.0%"
         }
       ]
     },
@@ -337,7 +347,7 @@
       "title": "Bank of Russia decision in June?",
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
-      "probability": 0.825,
+      "probability": 0.84,
       "option_text": "Decrease",
       "tags": [
         "economy",
@@ -349,11 +359,11 @@
       ],
       "volume": 47290.08493000002,
       "liquidity": 6863.72615,
-      "current_prob": 0.825,
+      "current_prob": 0.84,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.825,
-      "last_checked_prob": 0.825,
+      "peak_prob": 0.84,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "00:05",
@@ -398,7 +408,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.7,
+      "probability": 0.76,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -408,16 +418,21 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.7,
+      "current_prob": 0.76,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.7,
-      "last_checked_prob": 0.7,
+      "peak_prob": 0.76,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "00:05",
           "prob": 0.7,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.76,
+          "reason": "Update: 70.0% → 76.0%"
         }
       ]
     },
@@ -426,7 +441,7 @@
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
-      "probability": 0.88,
+      "probability": 0.885,
       "option_text": "Yes",
       "tags": [
         "finance",
@@ -440,11 +455,11 @@
       ],
       "volume": 49104.444498999976,
       "liquidity": 10112.1275,
-      "current_prob": 0.88,
+      "current_prob": 0.885,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.88,
-      "last_checked_prob": 0.88,
+      "peak_prob": 0.885,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "00:05",
@@ -454,6 +469,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-10T00:05:54.763213",
+  "updated_at": "2026-05-11T00:05:33.650874",
   "event_count": 14
 }
