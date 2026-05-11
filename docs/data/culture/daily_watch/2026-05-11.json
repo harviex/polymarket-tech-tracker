@@ -232,8 +232,19 @@
       "direction": "up",
       "time": "18:01",
       "timestamp": "2026-05-11T18:01:02.877209"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.795,
+      "curr_prob": 0.685,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-05-11T19:00:47.956372"
     }
   ],
-  "crossing_count": 21,
-  "last_updated": "2026-05-11T18:01:02.877533"
+  "crossing_count": 22,
+  "last_updated": "2026-05-11T19:00:47.956626"
 }
