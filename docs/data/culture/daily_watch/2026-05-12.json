@@ -34,8 +34,52 @@
       "direction": "down",
       "time": "03:00",
       "timestamp": "2026-05-12T03:00:29.916101"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.79,
+      "curr_prob": 0.82,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-12T04:00:52.103866"
+    },
+    {
+      "event_id": "401113",
+      "title": "Who will be featured on ICEMAN?",
+      "slug": "who-will-be-featured-on-iceman",
+      "prev_prob": 0.8,
+      "curr_prob": 0.765,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "04:00",
+      "timestamp": "2026-05-12T04:00:52.103921"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.775,
+      "curr_prob": 0.565,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-12T05:00:41.285259"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.82,
+      "curr_prob": 0.74,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-12T05:00:41.285321"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-12T03:00:29.916300"
+  "crossing_count": 7,
+  "last_updated": "2026-05-12T05:00:41.285568"
 }
