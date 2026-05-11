@@ -111,8 +111,41 @@
       "direction": "down",
       "time": "21:00",
       "timestamp": "2026-05-11T21:00:28.535824"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.79,
+      "curr_prob": 0.87,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:01",
+      "timestamp": "2026-05-11T22:01:14.526142"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.7105,
+      "curr_prob": 0.615,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:01",
+      "timestamp": "2026-05-11T22:01:14.526199"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.79,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:01",
+      "timestamp": "2026-05-11T22:01:14.526229"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-05-11T21:00:28.536102"
+  "crossing_count": 13,
+  "last_updated": "2026-05-11T22:01:14.526536"
 }
