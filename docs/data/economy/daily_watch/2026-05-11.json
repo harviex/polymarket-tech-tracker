@@ -67,8 +67,19 @@
       "direction": "up",
       "time": "15:00",
       "timestamp": "2026-05-11T15:00:40.837514"
+    },
+    {
+      "event_id": "287166",
+      "title": "Bank of England decision in June?",
+      "slug": "bank-of-england-decision-in-june-221",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "16:00",
+      "timestamp": "2026-05-11T16:00:42.493343"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-11T15:00:40.837873"
+  "crossing_count": 7,
+  "last_updated": "2026-05-11T16:00:42.493590"
 }
