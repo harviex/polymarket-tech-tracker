@@ -265,8 +265,19 @@
       "direction": "up",
       "time": "20:00",
       "timestamp": "2026-05-11T20:00:56.990261"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.71,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:01",
+      "timestamp": "2026-05-11T22:01:16.020525"
     }
   ],
-  "crossing_count": 24,
-  "last_updated": "2026-05-11T20:00:56.990508"
+  "crossing_count": 25,
+  "last_updated": "2026-05-11T22:01:16.020782"
 }
