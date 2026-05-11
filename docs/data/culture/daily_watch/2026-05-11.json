@@ -210,8 +210,19 @@
       "direction": "up",
       "time": "15:00",
       "timestamp": "2026-05-11T15:00:55.045054"
+    },
+    {
+      "event_id": "458897",
+      "title": "Elon Musk # tweets May 9 - May 11, 2026?",
+      "slug": "elon-musk-of-tweets-may-9-may-11",
+      "prev_prob": 0.865,
+      "curr_prob": 0.915,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-11T16:00:40.770553"
     }
   ],
-  "crossing_count": 19,
-  "last_updated": "2026-05-11T15:00:55.045278"
+  "crossing_count": 20,
+  "last_updated": "2026-05-11T16:00:40.770800"
 }
