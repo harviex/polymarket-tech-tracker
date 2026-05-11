@@ -243,8 +243,30 @@
       "direction": "down",
       "time": "19:00",
       "timestamp": "2026-05-11T19:00:47.956372"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.755,
+      "curr_prob": 0.61,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-11T20:00:56.990151"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.685,
+      "curr_prob": 0.785,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "20:00",
+      "timestamp": "2026-05-11T20:00:56.990261"
     }
   ],
-  "crossing_count": 22,
-  "last_updated": "2026-05-11T19:00:47.956626"
+  "crossing_count": 24,
+  "last_updated": "2026-05-11T20:00:56.990508"
 }
