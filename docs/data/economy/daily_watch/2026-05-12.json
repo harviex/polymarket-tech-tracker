@@ -1,6 +1,19 @@
 {
   "date": "2026-05-12",
   "created_at": "2026-05-12T00:01:07.353517",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "287380",
+      "title": "Bank of Russia decision in June?",
+      "slug": "bank-of-russia-decision-in-june",
+      "prev_prob": 0.78,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-12T03:00:30.851518"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-12T03:00:30.851702"
 }
