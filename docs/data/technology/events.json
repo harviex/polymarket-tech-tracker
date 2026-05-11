@@ -1,11 +1,11 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-11T21:08:23.870326",
+  "updated_at": "2026-05-11T22:44:22.689181",
   "daily_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 1,
+      "event_count": 2,
       "events": [
         {
           "id": "190776",
@@ -27,12 +27,26 @@
             }
           ],
           "current_prob": 0.7345
+        },
+        {
+          "id": "192788",
+          "title": "OpenAI $1T+ valuation in 2026?",
+          "tags": [],
+          "first_seen": "2026-05-11T22:44:22.688926",
+          "history": [
+            {
+              "time": "22:44",
+              "prob": 0.73,
+              "reason": "Removed from Long-Term (prob < 70%)"
+            }
+          ],
+          "current_prob": 0.73
         }
       ]
     }
   ],
   "long_term_data": {
-    "event_count": 20,
+    "event_count": 19,
     "events": [
       {
         "id": "102007",
@@ -163,7 +177,7 @@
         "id": "192790",
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
-        "url": "https://polymarket.com/event/192790",
+        "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
         "probability": 0.9755,
         "option_text": "Yes",
         "tags": [
@@ -262,7 +276,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.79,
+        "probability": 0.835,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -275,11 +289,11 @@
         ],
         "volume": 25090.081947,
         "liquidity": 198.462,
-        "current_prob": 0.79,
+        "current_prob": 0.835,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9,
-        "last_checked_prob": 0.79,
+        "last_checked_prob": 0.835,
         "history": [
           {
             "time": "15:48",
@@ -318,7 +332,7 @@
         "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
         "slug": "will-any-ai-model-reach-overall-arena-score-by-september-30",
         "url": "https://polymarket.com/event/336406",
-        "probability": 0.76,
+        "probability": 0.755,
         "option_text": "1510",
         "tags": [
           "ai",
@@ -327,11 +341,11 @@
         ],
         "volume": 29375.669266,
         "liquidity": 8544.416,
-        "current_prob": 0.76,
+        "current_prob": 0.755,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.785,
-        "last_checked_prob": 0.76,
+        "last_checked_prob": 0.755,
         "history": [
           {
             "time": "15:48",
@@ -344,7 +358,7 @@
         "id": "376512",
         "title": "Which company has the second best AI model end of May?",
         "slug": "which-company-has-the-second-best-ai-model-end-of-may",
-        "url": "https://polymarket.com/event/376512",
+        "url": "https://polymarket.com/event/which-company-has-the-second-best-ai-model-end-of-may",
         "probability": 0.85,
         "option_text": "Anthropic",
         "tags": [
@@ -377,7 +391,7 @@
         "id": "379514",
         "title": "Anthropic valued higher than OpenAI in 2026?",
         "slug": "anthropic-valued-higher-than-openai-in-2026",
-        "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
+        "url": "https://polymarket.com/event/379514",
         "probability": 0.87,
         "option_text": "Yes",
         "tags": [
@@ -409,8 +423,8 @@
         "id": "414034",
         "title": "Which company has the best Coding AI model end of May?",
         "slug": "which-company-has-the-best-coding-ai-model-end-of-may",
-        "url": "https://polymarket.com/event/414034",
-        "probability": 0.9495,
+        "url": "https://polymarket.com/event/which-company-has-the-best-coding-ai-model-end-of-may",
+        "probability": 0.9505,
         "option_text": "Anthropic",
         "tags": [
           "tech",
@@ -420,11 +434,11 @@
         ],
         "volume": 10167.486776,
         "liquidity": 48514.58287,
-        "current_prob": 0.9495,
+        "current_prob": 0.9505,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9615,
-        "last_checked_prob": 0.9495,
+        "last_checked_prob": 0.9505,
         "history": [
           {
             "time": "15:48",
@@ -437,8 +451,8 @@
         "id": "425315",
         "title": "Gemini 3.2 released by...?",
         "slug": "gemini-3pt2-released-by",
-        "url": "https://polymarket.com/event/gemini-3pt2-released-by",
-        "probability": 0.9405,
+        "url": "https://polymarket.com/event/425315",
+        "probability": 0.945,
         "option_text": "Gemini 3.2 released by June 30, 2026?",
         "tags": [
           "ai",
@@ -968,11 +982,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9405,
+        "current_prob": 0.945,
         "added_at": "2026-05-05T11:07:54.787246",
         "first_seen": "2026-05-05T11:07:54.787246",
         "peak_prob": 0.968,
-        "last_checked_prob": 0.9405,
+        "last_checked_prob": 0.945,
         "history": [
           {
             "time": "11:07",
@@ -991,7 +1005,7 @@
         "title": "Largest Company end of May?",
         "slug": "largest-company-end-of-may-167",
         "url": "https://polymarket.com/event/385557",
-        "probability": 0.927,
+        "probability": 0.9265,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -3870,11 +3884,11 @@
         "endDate": "2026-05-31T06:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.927,
+        "current_prob": 0.9265,
         "added_at": "2026-05-06T19:15:56.099704",
         "first_seen": "2026-05-06T19:15:56.099704",
         "peak_prob": 0.927,
-        "last_checked_prob": 0.927,
+        "last_checked_prob": 0.9265,
         "history": [
           {
             "time": "19:15",
@@ -3887,8 +3901,8 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-        "probability": 0.745,
+        "url": "https://polymarket.com/event/98133",
+        "probability": 0.75,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -3999,11 +4013,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.745,
+        "current_prob": 0.75,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.805,
-        "last_checked_prob": 0.745,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "05:18",
@@ -4031,7 +4045,7 @@
         "id": "385367",
         "title": "Anthropic next funding round closed by...?",
         "slug": "anthropic-next-funding-round-closed-by",
-        "url": "https://polymarket.com/event/385367",
+        "url": "https://polymarket.com/event/anthropic-next-funding-round-closed-by",
         "probability": 0.85,
         "option_text": "Anthropic",
         "tags": [
@@ -4259,8 +4273,8 @@
         "id": "428664",
         "title": "New Gemini reasoning flagship released by...?",
         "slug": "new-gemini-reasoning-flagship-released-by",
-        "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
-        "probability": 0.875,
+        "url": "https://polymarket.com/event/428664",
+        "probability": 0.935,
         "option_text": "a new Gemini flagship",
         "tags": [
           "ai",
@@ -4783,11 +4797,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.935,
         "added_at": "2026-05-08T18:02:57.791807",
         "first_seen": "2026-05-08T18:02:57.791807",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.935,
         "history": [
           {
             "time": "18:02",
@@ -4798,6 +4812,11 @@
             "time": "16:39",
             "prob": 0.94,
             "reason": "Update: 88.0% → 94.0%"
+          },
+          {
+            "time": "22:44",
+            "prob": 0.935,
+            "reason": "Update: 87.5% → 93.5%"
           }
         ]
       },
@@ -4805,7 +4824,7 @@
         "id": "404632",
         "title": "Will SpaceX acquire Cursor?",
         "slug": "will-spacex-acquire-cursor",
-        "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
+        "url": "https://polymarket.com/event/404632",
         "probability": 0.76,
         "option_text": "Yes",
         "tags": [
@@ -4933,147 +4952,11 @@
         ]
       },
       {
-        "id": "192788",
-        "title": "OpenAI $1T+ valuation in 2026?",
-        "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-        "probability": 0.73,
-        "option_text": "Yes",
-        "tags": [
-          "tech",
-          "openai",
-          "big-tech",
-          "gpt",
-          "ai",
-          "gpt-5"
-        ],
-        "markets": [
-          {
-            "id": "1294378",
-            "question": "OpenAI $1T+ valuation in 2026?",
-            "conditionId": "0x3d597cce587930a248a0f0d06f7ad020b80cbdeb6067edb32048f99bbf981ecc",
-            "slug": "openai-1t-valuation-in-2026",
-            "resolutionSource": "",
-            "endDate": "2026-12-31T00:00:00Z",
-            "liquidity": "2357.5302",
-            "startDate": "2026-01-29T20:36:47.947379Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-openai-be-valued-at-1t-or-more-in-2025-PF_6ilH5Tqnt.jpg",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-openai-be-valued-at-1t-or-more-in-2025-PF_6ilH5Tqnt.jpg",
-            "description": "This market will resolve to \"Yes\" if OpenAI achieves a public valuation of $1 trillion USD or more, or raises a private funding round that values the company at $1 trillion or more between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nTo qualify, the valuation must be explicitly confirmed by OpenAI or an overwhelming consensus of credible reporting. \n\nThe resolution source will be OpenAI’s official communications, however a consensus of credible reporting may also be used.",
-            "outcomes": "[\"Yes\", \"No\"]",
-            "outcomePrices": "[\"0.705\", \"0.295\"]",
-            "volume": "22276.669416999866",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2026-01-29T18:12:38.30168Z",
-            "updatedAt": "2026-05-09T11:34:56.061277Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0xea8197f12d4e4892885fa134851dfd3c9fcfe792bf4a798c59314c6847e81978",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.01,
-            "orderMinSize": 5,
-            "volumeNum": 22276.669416999866,
-            "liquidityNum": 2357.5302,
-            "endDateIso": "2026-12-31",
-            "startDateIso": "2026-01-29",
-            "hasReviewedDates": true,
-            "volume24hr": 55,
-            "volume1wk": 149.88,
-            "volume1mo": 7112.916238999988,
-            "volume1yr": 22276.66941700007,
-            "clobTokenIds": "[\"64331993849372828574205433970128694273870271382825385630135274078215785897027\", \"93402956654734516716757907375178651782907676636459551880332659217845807712519\"]",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volume24hrClob": 55,
-            "volume1wkClob": 149.88,
-            "volume1moClob": 7112.916238999988,
-            "volume1yrClob": 22276.66941700007,
-            "volumeClob": 22276.669416999866,
-            "liquidityClob": 2357.5302,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2026-01-29T20:35:42Z",
-            "cyom": false,
-            "competitive": 0.9596698735634942,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "rewardsMinSize": 0,
-            "rewardsMaxSpread": 0,
-            "spread": 0.07,
-            "oneDayPriceChange": 0.045,
-            "oneHourPriceChange": 0.025,
-            "oneWeekPriceChange": 0.05,
-            "oneMonthPriceChange": 0.035,
-            "lastTradePrice": 0.72,
-            "bestBid": 0.67,
-            "bestAsk": 0.74,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2026-01-29T20:34:28.745216Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "tech_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.04,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            }
-          }
-        ],
-        "resolutionSource": "",
-        "description": "This market will resolve to \"Yes\" if OpenAI achieves a public valuation of $1 trillion USD or more, or raises a private funding round that values the company at $1 trillion or more between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nTo qualify, the valuation must be explicitly confirmed by OpenAI or an overwhelming consensus of credible reporting. \n\nThe resolution source will be OpenAI’s official communications, however a consensus of credible reporting may also be used.",
-        "volume": 22276.669416999866,
-        "liquidity": 2357.5302,
-        "startDate": "2026-01-29T20:37:50.049718Z",
-        "endDate": "2026-12-31T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.73,
-        "added_at": "2026-05-09T11:39:02.103528",
-        "first_seen": "2026-05-09T11:39:02.103528",
-        "peak_prob": 0.795,
-        "last_checked_prob": 0.73,
-        "history": [
-          {
-            "time": "11:39",
-            "prob": 0.705,
-            "reason": "Added to Long-Term (high probability)"
-          },
-          {
-            "time": "19:23",
-            "prob": 0.73,
-            "reason": "Update: 78.0% → 73.0%"
-          }
-        ]
-      },
-      {
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.835,
+        "probability": 0.815,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -7906,11 +7789,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.835,
+        "current_prob": 0.815,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.835,
+        "last_checked_prob": 0.815,
         "history": [
           {
             "time": "23:38",
@@ -7925,6 +7808,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-11T21:08:23.861391"
+    "updated_at": "2026-05-11T22:44:22.679844"
   }
 }
