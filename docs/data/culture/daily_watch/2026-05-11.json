@@ -188,8 +188,30 @@
       "direction": "down",
       "time": "13:00",
       "timestamp": "2026-05-11T13:00:42.755442"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.855,
+      "curr_prob": 0.76,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "15:00",
+      "timestamp": "2026-05-11T15:00:55.045015"
+    },
+    {
+      "event_id": "458897",
+      "title": "Elon Musk # tweets May 9 - May 11, 2026?",
+      "slug": "elon-musk-of-tweets-may-9-may-11",
+      "prev_prob": 0.765,
+      "curr_prob": 0.865,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-11T15:00:55.045054"
     }
   ],
-  "crossing_count": 17,
-  "last_updated": "2026-05-11T13:00:42.755754"
+  "crossing_count": 19,
+  "last_updated": "2026-05-11T15:00:55.045278"
 }
