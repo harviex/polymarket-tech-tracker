@@ -463,8 +463,30 @@
       "direction": "up",
       "time": "19:00",
       "timestamp": "2026-05-12T19:00:32.799434"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.505,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-12T21:00:37.955321"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.675,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-05-12T21:00:37.955423"
     }
   ],
-  "crossing_count": 42,
-  "last_updated": "2026-05-12T19:00:32.799785"
+  "crossing_count": 44,
+  "last_updated": "2026-05-12T21:00:37.955757"
 }
