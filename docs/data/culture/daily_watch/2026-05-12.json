@@ -287,8 +287,52 @@
       "direction": "up",
       "time": "13:01",
       "timestamp": "2026-05-12T13:01:09.540411"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.61,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "14:00",
+      "timestamp": "2026-05-12T14:00:34.888204"
+    },
+    {
+      "event_id": "213341",
+      "title": "Eurovision 2026: Top 10",
+      "slug": "eurovision-2026-top-10",
+      "prev_prob": 0.775,
+      "curr_prob": 0.315,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-05-12T14:00:34.888255"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.735,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-05-12T14:00:34.888304"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.7,
+      "curr_prob": 0.685,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-05-12T14:00:34.888317"
     }
   ],
-  "crossing_count": 26,
-  "last_updated": "2026-05-12T13:01:09.540650"
+  "crossing_count": 30,
+  "last_updated": "2026-05-12T14:00:34.888558"
 }
