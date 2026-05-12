@@ -144,8 +144,41 @@
       "direction": "up",
       "time": "21:00",
       "timestamp": "2026-05-12T21:00:39.109956"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.8,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-12T22:00:33.746349"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.725,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-12T22:00:33.746377"
+    },
+    {
+      "event_id": "80773",
+      "title": "How high will inflation get in 2026?",
+      "slug": "how-high-will-inflation-get-in-2026",
+      "prev_prob": 0.89,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-12T22:00:33.746412"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-05-12T21:00:39.110330"
+  "crossing_count": 16,
+  "last_updated": "2026-05-12T22:00:33.746710"
 }
