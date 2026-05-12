@@ -1,6 +1,41 @@
 {
   "date": "2026-05-13",
   "created_at": "2026-05-13T00:00:30.619988",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.755,
+      "curr_prob": 0.61,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:00",
+      "timestamp": "2026-05-13T01:00:48.795133"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.89,
+      "curr_prob": 0.0005,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "01:00",
+      "timestamp": "2026-05-13T01:00:48.795168"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.89,
+      "curr_prob": 0.0005,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:00",
+      "timestamp": "2026-05-13T01:00:48.795179"
+    }
+  ],
+  "crossing_count": 3,
+  "last_updated": "2026-05-13T01:00:48.795396"
 }
