@@ -331,8 +331,52 @@
       "direction": "down",
       "time": "14:00",
       "timestamp": "2026-05-12T14:00:34.888317"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.75,
+      "curr_prob": 0.51,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "15:00",
+      "timestamp": "2026-05-12T15:00:31.106195"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.695,
+      "curr_prob": 0.735,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-12T15:00:31.106349"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.685,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-12T15:00:31.106376"
+    },
+    {
+      "event_id": "467401",
+      "title": "Elon Musk # tweets May 11 - May 13, 2026?",
+      "slug": "elon-musk-of-tweets-may-11-may-13",
+      "prev_prob": 0.665,
+      "curr_prob": 0.725,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-12T15:00:31.106409"
     }
   ],
-  "crossing_count": 30,
-  "last_updated": "2026-05-12T14:00:34.888558"
+  "crossing_count": 34,
+  "last_updated": "2026-05-12T15:00:31.106780"
 }
