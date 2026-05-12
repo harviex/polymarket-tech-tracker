@@ -155,8 +155,52 @@
       "direction": "down",
       "time": "10:01",
       "timestamp": "2026-05-12T10:01:05.341238"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.605,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-05-12T11:00:29.548024"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.605,
+      "curr_prob": 0.8,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-05-12T11:00:29.548047"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.785,
+      "curr_prob": 0.82,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-05-12T11:00:29.548109"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.69,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-05-12T11:00:29.548144"
     }
   ],
-  "crossing_count": 14,
-  "last_updated": "2026-05-12T10:01:05.341472"
+  "crossing_count": 18,
+  "last_updated": "2026-05-12T11:00:29.548371"
 }
