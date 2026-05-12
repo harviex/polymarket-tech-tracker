@@ -199,8 +199,63 @@
       "direction": "up",
       "time": "11:00",
       "timestamp": "2026-05-12T11:00:29.548144"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.8,
+      "curr_prob": 0.56,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "12:00",
+      "timestamp": "2026-05-12T12:00:16.397655"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.8,
+      "curr_prob": 0.56,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "12:00",
+      "timestamp": "2026-05-12T12:00:16.397686"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.82,
+      "curr_prob": 0.78,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "12:00",
+      "timestamp": "2026-05-12T12:00:16.397749"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.65,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "12:00",
+      "timestamp": "2026-05-12T12:00:16.397782"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.7,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "12:00",
+      "timestamp": "2026-05-12T12:00:16.397796"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-05-12T11:00:29.548371"
+  "crossing_count": 23,
+  "last_updated": "2026-05-12T12:00:16.398061"
 }
