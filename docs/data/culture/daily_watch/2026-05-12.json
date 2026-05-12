@@ -485,8 +485,30 @@
       "direction": "up",
       "time": "21:00",
       "timestamp": "2026-05-12T21:00:37.955423"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.75,
+      "curr_prob": 0.585,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-12T22:00:30.582434"
+    },
+    {
+      "event_id": "467401",
+      "title": "Elon Musk # tweets May 11 - May 13, 2026?",
+      "slug": "elon-musk-of-tweets-may-11-may-13",
+      "prev_prob": 0.855,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-12T22:00:30.582541"
     }
   ],
-  "crossing_count": 44,
-  "last_updated": "2026-05-12T21:00:37.955757"
+  "crossing_count": 46,
+  "last_updated": "2026-05-12T22:00:30.582853"
 }
