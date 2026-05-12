@@ -5,7 +5,7 @@
       "title": "Will SpaceX or OpenAI IPO first?",
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-      "probability": 0.9755,
+      "probability": 0.9775,
       "option_text": "SpaceX",
       "tags": [
         "tech",
@@ -23,11 +23,11 @@
       ],
       "volume": 72894.46307400003,
       "liquidity": 5844.62165,
-      "current_prob": 0.9755,
+      "current_prob": 0.9775,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
       "peak_prob": 0.9785,
-      "last_checked_prob": 0.9755,
+      "last_checked_prob": 0.9775,
       "history": [
         {
           "time": "15:48",
@@ -41,7 +41,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.73,
+      "probability": 0.72,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -56,11 +56,11 @@
       ],
       "volume": 1485247.6510110004,
       "liquidity": 8560.2097,
-      "current_prob": 0.73,
+      "current_prob": 0.72,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
       "peak_prob": 0.75,
-      "last_checked_prob": 0.73,
+      "last_checked_prob": 0.72,
       "history": [
         {
           "time": "15:48",
@@ -74,7 +74,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.925,
+      "probability": 0.942,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -85,11 +85,11 @@
       ],
       "volume": 1494181.3773530002,
       "liquidity": 703026.70483,
-      "current_prob": 0.925,
+      "current_prob": 0.942,
       "added_at": "2026-05-05T15:48:42.895397",
       "first_seen": "2026-05-05T15:48:42.895397",
-      "peak_prob": 0.925,
-      "last_checked_prob": 0.925,
+      "peak_prob": 0.942,
+      "last_checked_prob": 0.942,
       "history": [
         {
           "time": "15:48",
@@ -118,7 +118,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.865,
+      "probability": 0.825,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -131,11 +131,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.865,
+      "current_prob": 0.825,
       "added_at": "2026-05-08T00:06:02.118479",
       "first_seen": "2026-05-08T00:06:02.118479",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "00:06",
@@ -154,7 +154,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.75,
+      "probability": 0.8,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -165,16 +165,21 @@
       ],
       "volume": 454045.38372900005,
       "liquidity": 11772.1638,
-      "current_prob": 0.75,
+      "current_prob": 0.8,
       "added_at": "2026-05-08T00:06:02.118479",
       "first_seen": "2026-05-08T00:06:02.118479",
-      "peak_prob": 0.77,
-      "last_checked_prob": 0.75,
+      "peak_prob": 0.8,
+      "last_checked_prob": 0.8,
       "history": [
         {
           "time": "00:06",
           "prob": 0.72,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.8,
+          "reason": "Update: 75.0% → 80.0%"
         }
       ]
     },
@@ -183,7 +188,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.835,
+      "probability": 0.78,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -196,11 +201,11 @@
       ],
       "volume": 25122.571947,
       "liquidity": 10434.4375,
-      "current_prob": 0.835,
+      "current_prob": 0.78,
       "added_at": "2026-05-09T00:07:29.465947",
       "first_seen": "2026-05-09T00:07:29.465947",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "00:07",
@@ -216,6 +221,11 @@
           "time": "00:05",
           "prob": 0.845,
           "reason": "Update: 78.5% → 84.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.78,
+          "reason": "Update: 83.5% → 78.0%"
         }
       ]
     },
@@ -224,7 +234,7 @@
       "title": "Anthropic next funding round closed by...?",
       "slug": "anthropic-next-funding-round-closed-by",
       "url": "https://polymarket.com/event/anthropic-next-funding-round-closed-by",
-      "probability": 0.85,
+      "probability": 0.82,
       "option_text": "June 30",
       "tags": [
         "tech",
@@ -236,11 +246,11 @@
       ],
       "volume": 10284.497245999997,
       "liquidity": 12342.5243,
-      "current_prob": 0.85,
+      "current_prob": 0.82,
       "added_at": "2026-05-09T00:07:29.465947",
       "first_seen": "2026-05-09T00:07:29.465947",
       "peak_prob": 0.85,
-      "last_checked_prob": 0.85,
+      "last_checked_prob": 0.82,
       "history": [
         {
           "time": "00:07",
@@ -254,7 +264,7 @@
       "title": "How high will inflation get in 2026?",
       "slug": "how-high-will-inflation-get-in-2026",
       "url": "https://polymarket.com/event/how-high-will-inflation-get-in-2026",
-      "probability": 0.815,
+      "probability": 0.905,
       "option_text": "Above 4%",
       "tags": [
         "inflation",
@@ -264,16 +274,21 @@
       ],
       "volume": 832032.2898539985,
       "liquidity": 80012.18615,
-      "current_prob": 0.815,
+      "current_prob": 0.905,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.815,
-      "last_checked_prob": 0.815,
+      "peak_prob": 0.905,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "00:05",
           "prob": 0.755,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.905,
+          "reason": "Update: 81.5% → 90.5%"
         }
       ]
     },
@@ -313,7 +328,7 @@
       "title": "Bank of England decision in June?",
       "slug": "bank-of-england-decision-in-june-221",
       "url": "https://polymarket.com/event/bank-of-england-decision-in-june-221",
-      "probability": 0.865,
+      "probability": 0.815,
       "option_text": "No change",
       "tags": [
         "economy",
@@ -324,11 +339,11 @@
       ],
       "volume": 78504.60796100003,
       "liquidity": 21825.68808,
-      "current_prob": 0.865,
+      "current_prob": 0.815,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.93,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "00:05",
@@ -344,6 +359,11 @@
           "time": "00:05",
           "prob": 0.865,
           "reason": "Update: 93.0% → 86.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.815,
+          "reason": "Update: 86.5% → 81.5%"
         }
       ]
     },
@@ -352,7 +372,7 @@
       "title": "Bank of Russia decision in June?",
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
-      "probability": 0.78,
+      "probability": 0.815,
       "option_text": "Decrease",
       "tags": [
         "economy",
@@ -364,11 +384,11 @@
       ],
       "volume": 47290.08493000002,
       "liquidity": 6863.72615,
-      "current_prob": 0.78,
+      "current_prob": 0.815,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.84,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "00:05",
@@ -387,7 +407,7 @@
       "title": "Fed Decision in July?",
       "slug": "fed-decision-in-july-181",
       "url": "https://polymarket.com/event/fed-decision-in-july-181",
-      "probability": 0.905,
+      "probability": 0.915,
       "option_text": "No change",
       "tags": [
         "fomc",
@@ -400,11 +420,11 @@
       ],
       "volume": 4808824.680928059,
       "liquidity": 441285.33042,
-      "current_prob": 0.905,
+      "current_prob": 0.915,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.905,
-      "last_checked_prob": 0.905,
+      "peak_prob": 0.915,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "00:05",
@@ -418,7 +438,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.76,
+      "probability": 0.765,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -428,11 +448,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.76,
+      "current_prob": 0.765,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.76,
-      "last_checked_prob": 0.76,
+      "peak_prob": 0.765,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "00:05",
@@ -451,7 +471,7 @@
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/anthropic-valued-higher-than-openai-in-2026",
-      "probability": 0.88,
+      "probability": 0.85,
       "option_text": "Yes",
       "tags": [
         "finance",
@@ -465,11 +485,11 @@
       ],
       "volume": 49104.444498999976,
       "liquidity": 10112.1275,
-      "current_prob": 0.88,
+      "current_prob": 0.85,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "00:05",
@@ -477,8 +497,99 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "probability": 0.754,
+      "option_text": "40%+",
+      "tags": [
+        "tech",
+        "big-tech",
+        "gemini-3",
+        "business",
+        "gemini",
+        "ai"
+      ],
+      "volume": 135845.06588299997,
+      "liquidity": 1923.67678,
+      "current_prob": 0.754,
+      "added_at": "2026-05-13T00:06:45.164887",
+      "first_seen": "2026-05-13T00:06:45.164887",
+      "peak_prob": 0.754,
+      "last_checked_prob": 0.754,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.754,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "333286": {
+      "id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "url": "https://polymarket.com/event/which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "probability": 0.795,
+      "option_text": "Railbird",
+      "tags": [
+        "business",
+        "prediction-markets",
+        "cftc"
+      ],
+      "volume": 100768.045546,
+      "liquidity": 6045.72481,
+      "current_prob": 0.795,
+      "added_at": "2026-05-13T00:06:45.164887",
+      "first_seen": "2026-05-13T00:06:45.164887",
+      "peak_prob": 0.795,
+      "last_checked_prob": 0.795,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.795,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "455875": {
+      "id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "probability": 0.82,
+      "option_text": "Yes",
+      "tags": [
+        "ships",
+        "economy",
+        "diplomacy-ceasefire",
+        "transit",
+        "iran",
+        "politics",
+        "hormuz",
+        "geopolitics",
+        "trump-iran",
+        "strait-of-hormuz"
+      ],
+      "volume": 21331.507568,
+      "liquidity": 141550.7162,
+      "current_prob": 0.82,
+      "added_at": "2026-05-13T00:06:45.164887",
+      "first_seen": "2026-05-13T00:06:45.164887",
+      "peak_prob": 0.82,
+      "last_checked_prob": 0.82,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.82,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-12T00:05:42.316722",
-  "event_count": 14
+  "updated_at": "2026-05-13T00:06:45.165074",
+  "event_count": 17
 }
