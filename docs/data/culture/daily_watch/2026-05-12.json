@@ -78,8 +78,41 @@
       "direction": "down",
       "time": "05:00",
       "timestamp": "2026-05-12T05:00:41.285321"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.54,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:00",
+      "timestamp": "2026-05-12T07:00:54.009516"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.54,
+      "curr_prob": 0.805,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "07:00",
+      "timestamp": "2026-05-12T07:00:54.009539"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.91,
+      "curr_prob": 0.85,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "07:00",
+      "timestamp": "2026-05-12T07:00:54.009599"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-12T05:00:41.285568"
+  "crossing_count": 10,
+  "last_updated": "2026-05-12T07:00:54.009887"
 }
