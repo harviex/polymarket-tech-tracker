@@ -507,8 +507,41 @@
       "direction": "down",
       "time": "22:00",
       "timestamp": "2026-05-12T22:00:30.582541"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.9075,
+      "curr_prob": 0.8985,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "23:01",
+      "timestamp": "2026-05-12T23:01:10.671963"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.755,
+      "curr_prob": 0.495,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "23:01",
+      "timestamp": "2026-05-12T23:01:10.672048"
+    },
+    {
+      "event_id": "467401",
+      "title": "Elon Musk # tweets May 11 - May 13, 2026?",
+      "slug": "elon-musk-of-tweets-may-11-may-13",
+      "prev_prob": 0.79,
+      "curr_prob": 0.83,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:01",
+      "timestamp": "2026-05-12T23:01:10.672071"
     }
   ],
-  "crossing_count": 46,
-  "last_updated": "2026-05-12T22:00:30.582853"
+  "crossing_count": 49,
+  "last_updated": "2026-05-12T23:01:10.672404"
 }
