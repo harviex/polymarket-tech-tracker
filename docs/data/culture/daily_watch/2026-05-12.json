@@ -254,8 +254,41 @@
       "direction": "down",
       "time": "12:00",
       "timestamp": "2026-05-12T12:00:16.397796"
+    },
+    {
+      "event_id": "213341",
+      "title": "Eurovision 2026: Top 10",
+      "slug": "eurovision-2026-top-10",
+      "prev_prob": 0.315,
+      "curr_prob": 0.775,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-12T13:01:09.540330"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.78,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-12T13:01:09.540374"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-12T13:01:09.540411"
     }
   ],
-  "crossing_count": 23,
-  "last_updated": "2026-05-12T12:00:16.398061"
+  "crossing_count": 26,
+  "last_updated": "2026-05-12T13:01:09.540650"
 }
