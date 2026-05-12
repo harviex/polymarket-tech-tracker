@@ -25,3 +25,6 @@ Thumbs.db
 # Temp files
 *.tmp
 *~
+
+# Internal snapshots
+docs/data/culture/previous_snapshot.json
