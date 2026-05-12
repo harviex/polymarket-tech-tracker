@@ -375,8 +375,52 @@
       "direction": "up",
       "time": "15:00",
       "timestamp": "2026-05-12T15:00:31.106409"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.9005,
+      "curr_prob": 0.8985,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "17:01",
+      "timestamp": "2026-05-12T17:01:05.594869"
+    },
+    {
+      "event_id": "448029",
+      "title": "Confirmed case of Hantavirus in US by May 15?",
+      "slug": "confirmed-case-of-hantavirus-in-us-by-may-15",
+      "prev_prob": 0.735,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "17:01",
+      "timestamp": "2026-05-12T17:01:05.594949"
+    },
+    {
+      "event_id": "452546",
+      "title": "Another GTA VI trailer released by May 31?",
+      "slug": "another-gta-vi-trailer-released-by-may-31",
+      "prev_prob": 0.73,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "17:01",
+      "timestamp": "2026-05-12T17:01:05.594965"
+    },
+    {
+      "event_id": "467401",
+      "title": "Elon Musk # tweets May 11 - May 13, 2026?",
+      "slug": "elon-musk-of-tweets-may-11-may-13",
+      "prev_prob": 0.725,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "17:01",
+      "timestamp": "2026-05-12T17:01:05.594984"
     }
   ],
-  "crossing_count": 34,
-  "last_updated": "2026-05-12T15:00:31.106780"
+  "crossing_count": 38,
+  "last_updated": "2026-05-12T17:01:05.595250"
 }
