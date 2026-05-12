@@ -34,8 +34,19 @@
       "direction": "up",
       "time": "07:00",
       "timestamp": "2026-05-12T07:00:55.233520"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.655,
+      "curr_prob": 0.76,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-05-12T11:00:32.024536"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-12T07:00:55.233808"
+  "crossing_count": 4,
+  "last_updated": "2026-05-12T11:00:32.024843"
 }
