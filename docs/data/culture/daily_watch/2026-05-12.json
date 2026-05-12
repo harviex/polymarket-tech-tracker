@@ -441,8 +441,30 @@
       "direction": "up",
       "time": "18:01",
       "timestamp": "2026-05-12T18:01:21.554624"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.755,
+      "curr_prob": 0.605,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-05-12T19:00:32.799389"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.8985,
+      "curr_prob": 0.9035,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-05-12T19:00:32.799434"
     }
   ],
-  "crossing_count": 40,
-  "last_updated": "2026-05-12T18:01:21.554938"
+  "crossing_count": 42,
+  "last_updated": "2026-05-12T19:00:32.799785"
 }
