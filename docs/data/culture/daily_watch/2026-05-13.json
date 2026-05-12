@@ -78,8 +78,30 @@
       "direction": "down",
       "time": "04:01",
       "timestamp": "2026-05-13T04:01:07.092327"
+    },
+    {
+      "event_id": "467401",
+      "title": "Elon Musk # tweets May 11 - May 13, 2026?",
+      "slug": "elon-musk-of-tweets-may-11-may-13",
+      "prev_prob": 0.875,
+      "curr_prob": 0.625,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-13T05:00:40.215681"
+    },
+    {
+      "event_id": "467401",
+      "title": "Elon Musk # tweets May 11 - May 13, 2026?",
+      "slug": "elon-musk-of-tweets-may-11-may-13",
+      "prev_prob": 0.875,
+      "curr_prob": 0.625,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-13T05:00:40.215703"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-13T04:01:07.092598"
+  "crossing_count": 9,
+  "last_updated": "2026-05-13T05:00:40.215909"
 }
