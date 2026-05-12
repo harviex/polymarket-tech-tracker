@@ -23,8 +23,30 @@
       "direction": "down",
       "time": "04:01",
       "timestamp": "2026-05-13T04:01:07.072122"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.79,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-13T05:00:40.003732"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.785,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-13T05:00:40.003802"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-13T04:01:07.072369"
+  "crossing_count": 4,
+  "last_updated": "2026-05-13T05:00:40.004030"
 }
