@@ -23,8 +23,30 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-05-14T04:00:46.810839"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.84,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-14T05:00:46.109482"
+    },
+    {
+      "event_id": "314452",
+      "title": "Bank of Mexico Decision in June",
+      "slug": "bank-of-mexico-decision-in-june",
+      "prev_prob": 0.901,
+      "curr_prob": 0.898,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-05-14T05:00:46.109577"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-14T04:00:46.811140"
+  "crossing_count": 4,
+  "last_updated": "2026-05-14T05:00:46.109796"
 }
