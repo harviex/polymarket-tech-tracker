@@ -122,8 +122,19 @@
       "direction": "up",
       "time": "10:01",
       "timestamp": "2026-05-13T10:01:17.241153"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:01",
+      "timestamp": "2026-05-13T11:01:01.940786"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-13T10:01:17.241393"
+  "crossing_count": 12,
+  "last_updated": "2026-05-13T11:01:01.941114"
 }
