@@ -188,8 +188,41 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-05-13T17:00:23.716948"
+    },
+    {
+      "event_id": "166460",
+      "title": "Survivor 50 Winner",
+      "slug": "survivor-50-winner",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-05-13T19:00:56.929902"
+    },
+    {
+      "event_id": "166704",
+      "title": "Eurovision 2026: Second Semi-Final",
+      "slug": "eurovision-2026-second-semi-final",
+      "prev_prob": 0.9935,
+      "curr_prob": 0.805,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-05-13T19:00:56.929925"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.9,
+      "curr_prob": 0.8965,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-05-13T19:00:56.929944"
     }
   ],
-  "crossing_count": 17,
-  "last_updated": "2026-05-13T17:00:23.717245"
+  "crossing_count": 20,
+  "last_updated": "2026-05-13T19:00:56.930206"
 }
