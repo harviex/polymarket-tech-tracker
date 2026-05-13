@@ -23,8 +23,19 @@
       "direction": "down",
       "time": "01:01",
       "timestamp": "2026-05-14T01:01:05.632067"
+    },
+    {
+      "event_id": "376503",
+      "title": "Which company has the third best AI model end of May?",
+      "slug": "which-company-has-the-third-best-ai-model-end-of-may",
+      "prev_prob": 0.69,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "02:02",
+      "timestamp": "2026-05-14T02:02:21.519658"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-14T01:01:05.632247"
+  "crossing_count": 3,
+  "last_updated": "2026-05-14T02:02:21.519870"
 }
