@@ -56,8 +56,41 @@
       "direction": "down",
       "time": "04:00",
       "timestamp": "2026-05-14T04:00:45.311794"
+    },
+    {
+      "event_id": "472142",
+      "title": "What will be said on the first Joe Rogan Experience episode of the week? (May 11)",
+      "slug": "what-will-be-said-on-the-first-joe-rogan-experience-episode-of-the-week-may-11",
+      "prev_prob": 0.006,
+      "curr_prob": 0.995,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-14T05:00:45.605589"
+    },
+    {
+      "event_id": "472142",
+      "title": "What will be said on the first Joe Rogan Experience episode of the week? (May 11)",
+      "slug": "what-will-be-said-on-the-first-joe-rogan-experience-episode-of-the-week-may-11",
+      "prev_prob": 0.006,
+      "curr_prob": 0.995,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-14T05:00:45.605612"
+    },
+    {
+      "event_id": "472142",
+      "title": "What will be said on the first Joe Rogan Experience episode of the week? (May 11)",
+      "slug": "what-will-be-said-on-the-first-joe-rogan-experience-episode-of-the-week-may-11",
+      "prev_prob": 0.006,
+      "curr_prob": 0.995,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-05-14T05:00:45.605621"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-14T04:00:45.312001"
+  "crossing_count": 8,
+  "last_updated": "2026-05-14T05:00:45.605786"
 }
