@@ -60,6 +60,13 @@
           "time": "13:58",
           "prob": 0.71,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "23:46",
+          "prob": 0.785,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.8
@@ -114,6 +121,22 @@
         }
       ],
       "current_prob": 0.745
+    },
+    "376503": {
+      "id": "376503",
+      "title": "Which company has the third best AI model end of May?",
+      "tags": [],
+      "first_seen": "2026-05-13T23:46:06.154325",
+      "history": [
+        {
+          "time": "23:46",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.71
     }
   }
 }
