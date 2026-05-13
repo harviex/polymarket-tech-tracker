@@ -56,8 +56,41 @@
       "direction": "up",
       "time": "07:00",
       "timestamp": "2026-05-13T07:00:44.788706"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.8,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-13T08:00:56.260921"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.708,
+      "curr_prob": 0.658,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-13T08:00:56.260968"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.83,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-13T08:00:56.261003"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-13T07:00:44.788958"
+  "crossing_count": 8,
+  "last_updated": "2026-05-13T08:00:56.261244"
 }
