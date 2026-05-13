@@ -243,8 +243,52 @@
       "direction": "down",
       "time": "16:00",
       "timestamp": "2026-05-13T16:00:30.714273"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.689,
+      "curr_prob": 0.7065,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-13T17:00:26.435007"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.79,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-13T17:00:26.435064"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.785,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-13T17:00:26.435107"
+    },
+    {
+      "event_id": "431398",
+      "title": "Will USD hit ___ Iranian rials by May 31?",
+      "slug": "will-usd-hit-iranian-rials-by-may-31",
+      "prev_prob": 0.59,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-13T17:00:26.435203"
     }
   ],
-  "crossing_count": 22,
-  "last_updated": "2026-05-13T16:00:30.714638"
+  "crossing_count": 26,
+  "last_updated": "2026-05-13T17:00:26.435502"
 }
