@@ -177,8 +177,52 @@
       "direction": "down",
       "time": "12:01",
       "timestamp": "2026-05-13T12:01:18.129662"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:31.991436"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6445,
+      "curr_prob": 0.9155,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:31.991473"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6445,
+      "curr_prob": 0.9155,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:31.991487"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6445,
+      "curr_prob": 0.9155,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:31.991497"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-05-13T12:01:18.130057"
+  "crossing_count": 20,
+  "last_updated": "2026-05-13T15:00:31.991898"
 }
