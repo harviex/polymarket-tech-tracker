@@ -364,8 +364,19 @@
       "direction": "down",
       "time": "18:01",
       "timestamp": "2026-05-13T18:01:01.305856"
+    },
+    {
+      "event_id": "414059",
+      "title": "Which company has the best Math AI model end of May?",
+      "slug": "which-company-has-the-best-math-ai-model-end-of-may",
+      "prev_prob": 0.75,
+      "curr_prob": 0.64,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-13T22:00:34.869143"
     }
   ],
-  "crossing_count": 33,
-  "last_updated": "2026-05-13T18:01:01.306215"
+  "crossing_count": 34,
+  "last_updated": "2026-05-13T22:00:34.869514"
 }
