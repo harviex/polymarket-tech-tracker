@@ -243,8 +243,52 @@
       "direction": "up",
       "time": "20:00",
       "timestamp": "2026-05-13T20:00:35.053433"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.984,
+      "curr_prob": 0.25,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "21:02",
+      "timestamp": "2026-05-13T21:02:56.129062"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.984,
+      "curr_prob": 0.25,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "21:02",
+      "timestamp": "2026-05-13T21:02:56.129084"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.984,
+      "curr_prob": 0.25,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:02",
+      "timestamp": "2026-05-13T21:02:56.129093"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.765,
+      "curr_prob": 0.83,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "21:02",
+      "timestamp": "2026-05-13T21:02:56.129152"
     }
   ],
-  "crossing_count": 22,
-  "last_updated": "2026-05-13T20:00:35.053723"
+  "crossing_count": 26,
+  "last_updated": "2026-05-13T21:02:56.129415"
 }
