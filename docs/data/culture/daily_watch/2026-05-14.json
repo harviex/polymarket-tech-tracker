@@ -1,6 +1,19 @@
 {
   "date": "2026-05-14",
   "created_at": "2026-05-14T00:00:43.182336",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.904,
+      "curr_prob": 0.897,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-14T01:01:06.639470"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-14T01:01:06.639683"
 }
