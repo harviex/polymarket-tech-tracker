@@ -100,8 +100,41 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-05-13T08:00:56.412016"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-13T09:00:42.064655"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.795,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-13T09:00:42.064707"
+    },
+    {
+      "event_id": "118455",
+      "title": "ECB rate hike in 2026?",
+      "slug": "ecb-rate-hike-in-2026",
+      "prev_prob": 0.885,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-13T09:00:42.064744"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-05-13T08:00:56.412307"
+  "crossing_count": 12,
+  "last_updated": "2026-05-13T09:00:42.065002"
 }
