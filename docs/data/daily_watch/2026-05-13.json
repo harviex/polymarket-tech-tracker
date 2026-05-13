@@ -93,6 +93,22 @@
         }
       ],
       "current_prob": 0.945
+    },
+    "333286": {
+      "id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "tags": [],
+      "first_seen": "2026-05-13T16:15:32.779184",
+      "history": [
+        {
+          "time": "16:15",
+          "prob": 0.745,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.745
     }
   }
 }
