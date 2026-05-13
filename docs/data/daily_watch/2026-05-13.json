@@ -11,9 +11,83 @@
           "time": "00:00",
           "prob": 0.708,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "09:33",
+          "prob": 0.9155,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "09:33",
+          "prob": 0.9155,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "09:33",
+          "prob": 0.9155,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.708
+    },
+    "414059": {
+      "id": "414059",
+      "title": "Which company has the best Math AI model end of May?",
+      "tags": [],
+      "first_seen": "2026-05-13T09:33:22.765915",
+      "history": [
+        {
+          "time": "09:33",
+          "prob": 0.8,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "09:33",
+          "prob": 0.8,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.8
+    },
+    "465031": {
+      "id": "465031",
+      "title": "GMR Solutions IPO Closing Market Cap",
+      "tags": [],
+      "first_seen": "2026-05-13T09:33:22.765922",
+      "history": [
+        {
+          "time": "09:33",
+          "prob": 0.945,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "09:33",
+          "prob": 0.945,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "09:33",
+          "prob": 0.945,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.945
     }
   }
 }
