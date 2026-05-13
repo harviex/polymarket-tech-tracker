@@ -4,8 +4,8 @@
       "id": "102007",
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-      "probability": 0.9495,
+      "url": "https://polymarket.com/event/102007",
+      "probability": 0.9485,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.9495,
+      "current_prob": 0.9485,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9495,
-      "last_checked_prob": 0.9495,
+      "last_checked_prob": 0.9485,
       "history": [
         {
           "time": "15:48",
@@ -36,7 +36,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.875,
+      "probability": 0.88,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -45,11 +45,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.875,
+      "current_prob": 0.88,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.88,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "15:48",
@@ -73,7 +73,7 @@
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-      "probability": 0.967,
+      "probability": 0.9695,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -82,11 +82,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.967,
+      "current_prob": 0.9695,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.967,
+      "last_checked_prob": 0.9695,
       "history": [
         {
           "time": "15:48",
@@ -129,8 +129,8 @@
       "id": "192790",
       "title": "Anthropic $500B+ valuation in 2026?",
       "slug": "anthropic-500b-valuation-in-2026",
-      "url": "https://polymarket.com/event/192790",
-      "probability": 0.9815,
+      "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
+      "probability": 0.981,
       "option_text": "Yes",
       "tags": [
         "claude-5",
@@ -141,11 +141,11 @@
       ],
       "volume": 21764.31394299998,
       "liquidity": 10446.18675,
-      "current_prob": 0.9815,
+      "current_prob": 0.981,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9865,
-      "last_checked_prob": 0.9815,
+      "last_checked_prob": 0.981,
       "history": [
         {
           "time": "15:48",
@@ -159,7 +159,7 @@
       "title": "Will SpaceX or OpenAI IPO first?",
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-      "probability": 0.9815,
+      "probability": 0.981,
       "option_text": "SpaceX",
       "tags": [
         "tech",
@@ -177,11 +177,11 @@
       ],
       "volume": 72894.46307400003,
       "liquidity": 5844.62165,
-      "current_prob": 0.9815,
+      "current_prob": 0.981,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9815,
-      "last_checked_prob": 0.9815,
+      "last_checked_prob": 0.981,
       "history": [
         {
           "time": "15:48",
@@ -194,7 +194,7 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/193337",
+      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.72,
       "option_text": "$800B",
       "tags": [
@@ -227,8 +227,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
-      "probability": 0.795,
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "probability": 0.83,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -241,11 +241,11 @@
       ],
       "volume": 25090.081947,
       "liquidity": 198.462,
-      "current_prob": 0.795,
+      "current_prob": 0.83,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9,
-      "last_checked_prob": 0.795,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "15:48",
@@ -344,7 +344,7 @@
       "title": "Anthropic valued higher than OpenAI in 2026?",
       "slug": "anthropic-valued-higher-than-openai-in-2026",
       "url": "https://polymarket.com/event/379514",
-      "probability": 0.855,
+      "probability": 0.865,
       "option_text": "Yes",
       "tags": [
         "finance",
@@ -358,11 +358,11 @@
       ],
       "volume": 44787.27473799998,
       "liquidity": 7686.6026,
-      "current_prob": 0.855,
+      "current_prob": 0.865,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "15:48",
@@ -403,7 +403,7 @@
       "id": "425315",
       "title": "Gemini 3.2 released by...?",
       "slug": "gemini-3pt2-released-by",
-      "url": "https://polymarket.com/event/gemini-3pt2-released-by",
+      "url": "https://polymarket.com/event/425315",
       "probability": 0.9755,
       "option_text": "Gemini 3.2 released by May 31, 2026?",
       "tags": [
@@ -957,7 +957,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.9385,
+      "probability": 0.9395,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -3836,11 +3836,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9385,
+      "current_prob": 0.9395,
       "added_at": "2026-05-06T19:15:56.099704",
       "first_seen": "2026-05-06T19:15:56.099704",
       "peak_prob": 0.942,
-      "last_checked_prob": 0.9385,
+      "last_checked_prob": 0.9395,
       "history": [
         {
           "time": "19:15",
@@ -3854,7 +3854,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.795,
+      "probability": 0.8,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -3965,11 +3965,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.795,
+      "current_prob": 0.8,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.805,
-      "last_checked_prob": 0.795,
+      "last_checked_prob": 0.8,
       "history": [
         {
           "time": "05:18",
@@ -3998,7 +3998,7 @@
       "title": "Anthropic next funding round closed by...?",
       "slug": "anthropic-next-funding-round-closed-by",
       "url": "https://polymarket.com/event/385367",
-      "probability": 0.815,
+      "probability": 0.82,
       "option_text": "Anthropic",
       "tags": [
         "tech",
@@ -4208,11 +4208,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.815,
+      "current_prob": 0.82,
       "added_at": "2026-05-08T12:01:59.664272",
       "first_seen": "2026-05-08T12:01:59.664272",
       "peak_prob": 0.855,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.82,
       "history": [
         {
           "time": "12:01",
@@ -4225,7 +4225,7 @@
       "id": "428664",
       "title": "New Gemini reasoning flagship released by...?",
       "slug": "new-gemini-reasoning-flagship-released-by",
-      "url": "https://polymarket.com/event/new-gemini-reasoning-flagship-released-by",
+      "url": "https://polymarket.com/event/428664",
       "probability": 0.925,
       "option_text": "a new Gemini flagship",
       "tags": [
@@ -4776,8 +4776,8 @@
       "id": "404632",
       "title": "Will SpaceX acquire Cursor?",
       "slug": "will-spacex-acquire-cursor",
-      "url": "https://polymarket.com/event/will-spacex-acquire-cursor",
-      "probability": 0.755,
+      "url": "https://polymarket.com/event/404632",
+      "probability": 0.76,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -4890,11 +4890,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.755,
+      "current_prob": 0.76,
       "added_at": "2026-05-09T04:57:19.592499",
       "first_seen": "2026-05-09T04:57:19.592499",
       "peak_prob": 0.78,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "04:57",
@@ -7760,6 +7760,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-13T00:00:04.566632",
+  "updated_at": "2026-05-13T02:58:14.937158",
   "event_count": 17
 }
