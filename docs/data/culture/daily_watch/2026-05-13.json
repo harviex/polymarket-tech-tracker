@@ -287,8 +287,41 @@
       "direction": "up",
       "time": "21:02",
       "timestamp": "2026-05-13T21:02:56.129152"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.25,
+      "curr_prob": 0.984,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-13T22:00:36.324073"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.25,
+      "curr_prob": 0.984,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-13T22:00:36.324095"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.25,
+      "curr_prob": 0.984,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-13T22:00:36.324104"
     }
   ],
-  "crossing_count": 26,
-  "last_updated": "2026-05-13T21:02:56.129415"
+  "crossing_count": 29,
+  "last_updated": "2026-05-13T22:00:36.324422"
 }
