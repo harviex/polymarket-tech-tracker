@@ -287,8 +287,41 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-05-13T17:00:26.435203"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.7065,
+      "curr_prob": 0.6955,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:01",
+      "timestamp": "2026-05-13T18:01:04.895013"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.815,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "18:01",
+      "timestamp": "2026-05-13T18:01:04.895080"
+    },
+    {
+      "event_id": "431398",
+      "title": "Will USD hit ___ Iranian rials by May 31?",
+      "slug": "will-usd-hit-iranian-rials-by-may-31",
+      "prev_prob": 0.7,
+      "curr_prob": 0.685,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:01",
+      "timestamp": "2026-05-13T18:01:04.895152"
     }
   ],
-  "crossing_count": 26,
-  "last_updated": "2026-05-13T17:00:26.435502"
+  "crossing_count": 29,
+  "last_updated": "2026-05-13T18:01:04.895403"
 }
