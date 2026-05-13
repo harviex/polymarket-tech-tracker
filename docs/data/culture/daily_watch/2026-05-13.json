@@ -221,8 +221,30 @@
       "direction": "down",
       "time": "19:00",
       "timestamp": "2026-05-13T19:00:56.929944"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.76,
+      "curr_prob": 0.53,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-13T20:00:35.053396"
+    },
+    {
+      "event_id": "166704",
+      "title": "Eurovision 2026: Second Semi-Final",
+      "slug": "eurovision-2026-second-semi-final",
+      "prev_prob": 0.805,
+      "curr_prob": 0.994,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "20:00",
+      "timestamp": "2026-05-13T20:00:35.053433"
     }
   ],
-  "crossing_count": 20,
-  "last_updated": "2026-05-13T19:00:56.930206"
+  "crossing_count": 22,
+  "last_updated": "2026-05-13T20:00:35.053723"
 }
