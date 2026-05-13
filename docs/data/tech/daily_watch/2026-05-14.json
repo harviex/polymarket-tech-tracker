@@ -1,6 +1,30 @@
 {
   "date": "2026-05-14",
   "created_at": "2026-05-14T00:00:40.998355",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.83,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-14T01:01:05.632031"
+    },
+    {
+      "event_id": "376503",
+      "title": "Which company has the third best AI model end of May?",
+      "slug": "which-company-has-the-third-best-ai-model-end-of-may",
+      "prev_prob": 0.705,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-14T01:01:05.632067"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-14T01:01:05.632247"
 }
