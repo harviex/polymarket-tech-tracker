@@ -177,8 +177,19 @@
       "direction": "up",
       "time": "16:00",
       "timestamp": "2026-05-13T16:00:30.124635"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.8955,
+      "curr_prob": 0.9005,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-05-13T17:00:23.716948"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-05-13T16:00:30.125163"
+  "crossing_count": 17,
+  "last_updated": "2026-05-13T17:00:23.717245"
 }
