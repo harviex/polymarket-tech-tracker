@@ -1,6 +1,19 @@
 {
   "date": "2026-05-14",
   "created_at": "2026-05-14T00:00:45.179434",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.83,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-05-14T01:01:09.475383"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-14T01:01:09.475662"
 }
