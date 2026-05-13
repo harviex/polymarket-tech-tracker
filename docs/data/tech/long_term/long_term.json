@@ -1423,7 +1423,7 @@
       "title": "Anthropic $500B+ valuation in 2026?",
       "slug": "anthropic-500b-valuation-in-2026",
       "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-      "probability": 0.9855,
+      "probability": 0.986,
       "option_text": "Yes",
       "tags": [
         "claude-5",
@@ -1534,11 +1534,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9855,
+      "current_prob": 0.986,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.9865,
-      "last_checked_prob": 0.9855,
+      "last_checked_prob": 0.986,
       "history": [
         {
           "time": "23:25",
@@ -5786,7 +5786,7 @@
       "title": "Largest Company end of May?",
       "slug": "largest-company-end-of-may-167",
       "url": "https://polymarket.com/event/largest-company-end-of-may-167",
-      "probability": 0.951,
+      "probability": 0.9515,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -8668,11 +8668,11 @@
       "endDate": "2026-05-31T06:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.951,
+      "current_prob": 0.9515,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
-      "peak_prob": 0.951,
-      "last_checked_prob": 0.951,
+      "peak_prob": 0.9515,
+      "last_checked_prob": 0.9515,
       "history": [
         {
           "time": "23:25",
@@ -11791,7 +11791,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.86,
+      "probability": 0.855,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -11804,11 +11804,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.86,
+      "current_prob": 0.855,
       "added_at": "2026-05-08T00:06:00.948889",
       "first_seen": "2026-05-08T00:06:00.948889",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.86,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "00:06",
@@ -11966,7 +11966,7 @@
       "title": "Which DCMs self-certify sports event contracts by June 30?",
       "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
       "url": "https://polymarket.com/event/which-dcms-self-certify-sports-event-contracts-by-june-30",
-      "probability": 0.745,
+      "probability": 0.74,
       "option_text": "Railbird",
       "tags": [
         "business",
@@ -11976,11 +11976,11 @@
       ],
       "volume": 101012.19554599999,
       "liquidity": 10459.97551,
-      "current_prob": 0.745,
+      "current_prob": 0.74,
       "added_at": "2026-05-14T00:05:35.866337",
       "first_seen": "2026-05-14T00:05:35.866337",
       "peak_prob": 0.745,
-      "last_checked_prob": 0.745,
+      "last_checked_prob": 0.74,
       "history": [
         {
           "time": "00:05",
@@ -11988,36 +11988,8 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
-    },
-    "376503": {
-      "id": "376503",
-      "title": "Which company has the third best AI model end of May?",
-      "slug": "which-company-has-the-third-best-ai-model-end-of-may",
-      "url": "https://polymarket.com/event/which-company-has-the-third-best-ai-model-end-of-may",
-      "probability": 0.705,
-      "option_text": "Anthropic",
-      "tags": [
-        "tech",
-        "big-tech",
-        "ai",
-        "rewards-20-4pt5-50"
-      ],
-      "volume": 86079.84472900002,
-      "liquidity": 48936.39497,
-      "current_prob": 0.705,
-      "added_at": "2026-05-14T00:05:35.866337",
-      "first_seen": "2026-05-14T00:05:35.866337",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.705,
-      "history": [
-        {
-          "time": "00:05",
-          "prob": 0.705,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
     }
   },
-  "updated_at": "2026-05-14T00:05:35.866544",
-  "event_count": 22
+  "updated_at": "2026-05-14T00:06:33.960004",
+  "event_count": 21
 }
