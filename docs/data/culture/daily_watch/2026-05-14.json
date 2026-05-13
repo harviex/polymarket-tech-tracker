@@ -23,8 +23,19 @@
       "direction": "down",
       "time": "02:02",
       "timestamp": "2026-05-14T02:02:20.773615"
+    },
+    {
+      "event_id": "407521",
+      "title": "What will be said on ICEMAN?",
+      "slug": "what-will-be-said-on-iceman",
+      "prev_prob": 0.68,
+      "curr_prob": 0.745,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-05-14T03:00:49.970247"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-14T02:02:20.773936"
+  "crossing_count": 3,
+  "last_updated": "2026-05-14T03:00:49.970433"
 }
