@@ -144,8 +144,74 @@
       "direction": "down",
       "time": "12:00",
       "timestamp": "2026-05-13T12:00:43.803023"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:30.671883"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6445,
+      "curr_prob": 0.9155,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:30.671928"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6445,
+      "curr_prob": 0.9155,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:30.671941"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6445,
+      "curr_prob": 0.9155,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:30.671950"
+    },
+    {
+      "event_id": "376512",
+      "title": "Which company has the second best AI model end of May?",
+      "slug": "which-company-has-the-second-best-ai-model-end-of-may",
+      "prev_prob": 0.85,
+      "curr_prob": 0.13,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:30.671992"
+    },
+    {
+      "event_id": "376512",
+      "title": "Which company has the second best AI model end of May?",
+      "slug": "which-company-has-the-second-best-ai-model-end-of-may",
+      "prev_prob": 0.85,
+      "curr_prob": 0.13,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "15:00",
+      "timestamp": "2026-05-13T15:00:30.672001"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-05-13T12:00:43.803661"
+  "crossing_count": 19,
+  "last_updated": "2026-05-13T15:00:30.672280"
 }
