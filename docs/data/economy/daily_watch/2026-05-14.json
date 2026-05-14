@@ -78,8 +78,30 @@
       "direction": "up",
       "time": "09:00",
       "timestamp": "2026-05-14T09:00:51.005753"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.8,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-14T10:00:40.247741"
+    },
+    {
+      "event_id": "287380",
+      "title": "Bank of Russia decision in June?",
+      "slug": "bank-of-russia-decision-in-june",
+      "prev_prob": 0.835,
+      "curr_prob": 0.78,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-14T10:00:40.247838"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-14T09:00:51.006084"
+  "crossing_count": 9,
+  "last_updated": "2026-05-14T10:00:40.248076"
 }
