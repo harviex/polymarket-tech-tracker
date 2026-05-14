@@ -34,6 +34,11 @@
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
+        },
+        {
+          "time": "11:06",
+          "prob": 0.825,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.825
@@ -65,6 +70,146 @@
         }
       ],
       "current_prob": 0.82
+    },
+    "336406": {
+      "id": "336406",
+      "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584902",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.76,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.76
+    },
+    "379514": {
+      "id": "379514",
+      "title": "Anthropic valued higher than OpenAI in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584913",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.86,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.86
+    },
+    "414034": {
+      "id": "414034",
+      "title": "Which company has the best Coding AI model end of May?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584918",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.949,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.949
+    },
+    "425315": {
+      "id": "425315",
+      "title": "Gemini 3.2 released by...?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584922",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.9815,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9815
+    },
+    "385557": {
+      "id": "385557",
+      "title": "Largest Company end of May?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584926",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.9585,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9585
+    },
+    "385367": {
+      "id": "385367",
+      "title": "Anthropic next funding round closed by...?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584930",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.85,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.85
+    },
+    "428664": {
+      "id": "428664",
+      "title": "New Gemini reasoning flagship released by...?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584933",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.81,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.81
+    },
+    "404632": {
+      "id": "404632",
+      "title": "Will SpaceX acquire Cursor?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584940",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.75,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.75
+    },
+    "333286": {
+      "id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584945",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.785,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.785
+    },
+    "414059": {
+      "id": "414059",
+      "title": "Which company has the best Math AI model end of May?",
+      "tags": [],
+      "first_seen": "2026-05-14T11:06:16.584949",
+      "history": [
+        {
+          "time": "11:06",
+          "prob": 0.775,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.775
     }
   }
 }
