@@ -111,8 +111,41 @@
       "direction": "up",
       "time": "07:00",
       "timestamp": "2026-05-14T07:00:41.349139"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.981,
+      "curr_prob": 0.73,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-14T08:00:41.849335"
+    },
+    {
+      "event_id": "79103",
+      "title": "Which artists will release a new song in 2026?",
+      "slug": "which-artists-will-release-a-new-song-in-2026",
+      "prev_prob": 0.981,
+      "curr_prob": 0.73,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-14T08:00:41.849357"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.77,
+      "curr_prob": 0.55,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-14T08:00:41.849378"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-05-14T07:00:41.349404"
+  "crossing_count": 13,
+  "last_updated": "2026-05-14T08:00:41.849636"
 }
