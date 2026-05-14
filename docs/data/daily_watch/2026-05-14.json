@@ -14,6 +14,57 @@
         }
       ],
       "current_prob": 0.71
+    },
+    "482819": {
+      "id": "482819",
+      "title": "# of Packages Pushed by Figure's F.03 Robots by May 21, 10 PM ET?",
+      "tags": [],
+      "first_seen": "2026-05-14T08:22:31.302305",
+      "history": [
+        {
+          "time": "08:22",
+          "prob": 0.825,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "08:22",
+          "prob": 0.825,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.825
+    },
+    "290152": {
+      "id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "tags": [],
+      "first_seen": "2026-05-14T08:22:31.302314",
+      "history": [
+        {
+          "time": "08:22",
+          "prob": 0.835,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.835
+    },
+    "376512": {
+      "id": "376512",
+      "title": "Which company has the second best AI model end of May?",
+      "tags": [],
+      "first_seen": "2026-05-14T08:22:31.302322",
+      "history": [
+        {
+          "time": "08:22",
+          "prob": 0.82,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.82
     }
   }
 }
