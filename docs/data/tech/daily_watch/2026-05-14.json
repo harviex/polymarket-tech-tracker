@@ -122,8 +122,30 @@
       "direction": "up",
       "time": "09:00",
       "timestamp": "2026-05-14T09:00:50.257409"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.8,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-14T10:00:41.435967"
+    },
+    {
+      "event_id": "414059",
+      "title": "Which company has the best Math AI model end of May?",
+      "slug": "which-company-has-the-best-math-ai-model-end-of-may",
+      "prev_prob": 0.8,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-14T10:00:41.436008"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-14T09:00:50.257624"
+  "crossing_count": 13,
+  "last_updated": "2026-05-14T10:00:41.436233"
 }
