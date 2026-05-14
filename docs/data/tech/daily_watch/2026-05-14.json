@@ -100,8 +100,30 @@
       "direction": "up",
       "time": "08:00",
       "timestamp": "2026-05-14T08:00:45.665592"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.78,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-14T09:00:50.257370"
+    },
+    {
+      "event_id": "414059",
+      "title": "Which company has the best Math AI model end of May?",
+      "slug": "which-company-has-the-best-math-ai-model-end-of-may",
+      "prev_prob": 0.785,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-14T09:00:50.257409"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-05-14T08:00:45.665842"
+  "crossing_count": 11,
+  "last_updated": "2026-05-14T09:00:50.257624"
 }
