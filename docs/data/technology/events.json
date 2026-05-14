@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-14T11:06:16.585465",
+  "updated_at": "2026-05-14T13:22:12.179710",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -228,7 +228,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.895,
+        "probability": 0.9495,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -241,11 +241,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.895,
+        "current_prob": 0.9495,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9495,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.9495,
         "history": [
           {
             "time": "15:48",
@@ -256,6 +256,11 @@
             "time": "11:06",
             "prob": 0.895,
             "reason": "Update: 94.9% → 89.5%"
+          },
+          {
+            "time": "13:22",
+            "prob": 0.9495,
+            "reason": "Update: 89.5% → 95.0%"
           }
         ]
       },
@@ -264,7 +269,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.845,
+        "probability": 0.85,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -273,11 +278,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.845,
+        "current_prob": 0.85,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.88,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "15:48",
@@ -300,8 +305,8 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
-        "probability": 0.9695,
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "probability": 0.954,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -310,11 +315,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.9695,
+        "current_prob": 0.954,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.9695,
+        "last_checked_prob": 0.954,
         "history": [
           {
             "time": "15:48",
@@ -327,8 +332,8 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-        "probability": 0.9255,
+        "url": "https://polymarket.com/event/108522",
+        "probability": 0.9185,
         "option_text": "Yes",
         "tags": [
           "pop-culture",
@@ -340,11 +345,11 @@
         ],
         "volume": 47755.81452399998,
         "liquidity": 10999.1322,
-        "current_prob": 0.9255,
+        "current_prob": 0.9185,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.951,
-        "last_checked_prob": 0.9255,
+        "last_checked_prob": 0.9185,
         "history": [
           {
             "time": "15:48",
@@ -358,7 +363,7 @@
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
         "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-        "probability": 0.9875,
+        "probability": 0.9815,
         "option_text": "Yes",
         "tags": [
           "claude-5",
@@ -369,11 +374,11 @@
         ],
         "volume": 21764.31394299998,
         "liquidity": 10446.18675,
-        "current_prob": 0.9875,
+        "current_prob": 0.9815,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9875,
-        "last_checked_prob": 0.9875,
+        "last_checked_prob": 0.9815,
         "history": [
           {
             "time": "15:48",
@@ -599,8 +604,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
-        "probability": 0.865,
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "probability": 0.875,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3433,11 +3438,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.865,
+        "current_prob": 0.875,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
-        "peak_prob": 0.87,
-        "last_checked_prob": 0.865,
+        "peak_prob": 0.875,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "23:38",
@@ -3455,8 +3460,8 @@
         "id": "190776",
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-        "url": "https://polymarket.com/event/190776",
-        "probability": 0.9225,
+        "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
+        "probability": 0.865,
         "option_text": "40%",
         "tags": [
           "tech",
@@ -3844,20 +3849,25 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9225,
+        "current_prob": 0.865,
         "added_at": "2026-05-13T09:33:22.752072",
         "first_seen": "2026-05-13T09:33:22.752072",
         "peak_prob": 0.9225,
-        "last_checked_prob": 0.9225,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "09:33",
             "prob": 0.9155,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "13:22",
+            "prob": 0.865,
+            "reason": "Update: 92.2% → 86.5%"
           }
         ]
       }
     ],
-    "updated_at": "2026-05-14T11:06:16.580710"
+    "updated_at": "2026-05-14T13:22:12.175260"
   }
 }
