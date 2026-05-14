@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-14",
+  "events": {
+    "376503": {
+      "id": "376503",
+      "title": "Which company has the third best AI model end of May?",
+      "tags": [],
+      "first_seen": "2026-05-14T01:52:32.054098",
+      "history": [
+        {
+          "time": "01:52",
+          "prob": 0.71,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.71
+    }
+  }
+}
