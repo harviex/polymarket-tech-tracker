@@ -226,6 +226,22 @@
         }
       ],
       "current_prob": 0.7555
+    },
+    "57708": {
+      "id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "tags": [],
+      "first_seen": "2026-05-14T18:26:31.445552",
+      "history": [
+        {
+          "time": "18:26",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7
     }
   }
 }
