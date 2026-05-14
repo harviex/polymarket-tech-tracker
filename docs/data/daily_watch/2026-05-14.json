@@ -254,6 +254,20 @@
         }
       ],
       "current_prob": 0.7
+    },
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "tags": [],
+      "first_seen": "2026-05-14T23:43:10.736448",
+      "history": [
+        {
+          "time": "23:43",
+          "prob": 0.8625,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.8625
     }
   }
 }
