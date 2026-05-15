@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-15T22:41:29.244714",
+  "updated_at": "2026-05-15T23:42:27.469930",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -134,8 +134,8 @@
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/102007",
-        "probability": 0.948,
+        "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
+        "probability": 0.9465,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -148,11 +148,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.948,
+        "current_prob": 0.9465,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9495,
-        "last_checked_prob": 0.948,
+        "last_checked_prob": 0.9465,
         "history": [
           {
             "time": "15:48",
@@ -212,8 +212,8 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.949,
+        "url": "https://polymarket.com/event/103636",
+        "probability": 0.9345,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -222,11 +222,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.949,
+        "current_prob": 0.9345,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.949,
+        "last_checked_prob": 0.9345,
         "history": [
           {
             "time": "15:48",
@@ -452,7 +452,7 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "url": "https://polymarket.com/event/57711",
         "probability": 0.875,
         "option_text": "NVIDIA",
         "tags": [
@@ -3309,7 +3309,7 @@
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
         "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
-        "probability": 0.901,
+        "probability": 0.9005,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3806,11 +3806,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.901,
+        "current_prob": 0.9005,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.901,
+        "last_checked_prob": 0.9005,
         "history": [
           {
             "time": "21:57",
@@ -3843,7 +3843,7 @@
         "id": "190776",
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-        "url": "https://polymarket.com/event/190776",
+        "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
         "probability": 0.8625,
         "option_text": "40%",
         "tags": [
@@ -6127,6 +6127,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-15T22:41:29.238073"
+    "updated_at": "2026-05-15T23:42:27.462911"
   }
 }
