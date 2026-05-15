@@ -4,8 +4,8 @@
       "id": "102007",
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-      "probability": 0.9475,
+      "url": "https://polymarket.com/event/102007",
+      "probability": 0.948,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.9475,
+      "current_prob": 0.948,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9495,
-      "last_checked_prob": 0.9475,
+      "last_checked_prob": 0.948,
       "history": [
         {
           "time": "15:48",
@@ -45,7 +45,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.845,
       "option_text": "Yes",
       "tags": [
@@ -168,7 +168,7 @@
       "id": "98133",
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
-      "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+      "url": "https://polymarket.com/event/98133",
       "probability": 0.87,
       "option_text": "Yes",
       "tags": [
@@ -322,7 +322,7 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/57711",
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
       "probability": 0.875,
       "option_text": "NVIDIA",
       "tags": [
@@ -3178,9 +3178,9 @@
       "id": "198615",
       "title": "Gemini 3.5 released by...?",
       "slug": "gemini-3pt5-released-by-june-30",
-      "url": "https://polymarket.com/event/198615",
-      "probability": 0.9175,
-      "option_text": "Gemini 3.5 released by June 30?",
+      "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
+      "probability": 0.901,
+      "option_text": "Gemini 3.5 released by July 31?",
       "tags": [
         "tech",
         "ai",
@@ -3676,11 +3676,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9175,
+      "current_prob": 0.901,
       "added_at": "2026-05-14T21:57:32.775892",
       "first_seen": "2026-05-14T21:57:32.775892",
       "peak_prob": 0.9245,
-      "last_checked_prob": 0.9175,
+      "last_checked_prob": 0.901,
       "history": [
         {
           "time": "21:57",
@@ -5997,6 +5997,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-15T21:45:05.391185",
+  "updated_at": "2026-05-15T22:41:29.238073",
   "event_count": 17
 }
