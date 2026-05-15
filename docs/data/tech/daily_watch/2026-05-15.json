@@ -23,8 +23,41 @@
       "direction": "up",
       "time": "19:01",
       "timestamp": "2026-05-15T19:01:15.197551"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.705,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-05-15T21:01:26.490468"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.9,
+      "curr_prob": 0.885,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-05-15T21:01:26.490494"
+    },
+    {
+      "event_id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "slug": "gemini-3pt5-released-by-june-30",
+      "prev_prob": 0.8385,
+      "curr_prob": 0.9235,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-05-15T21:01:26.490563"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-05-15T19:01:15.197808"
+  "crossing_count": 5,
+  "last_updated": "2026-05-15T21:01:26.490748"
 }
