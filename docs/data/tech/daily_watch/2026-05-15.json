@@ -56,8 +56,30 @@
       "direction": "up",
       "time": "21:01",
       "timestamp": "2026-05-15T21:01:26.490563"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.815,
+      "curr_prob": 0.775,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "23:01",
+      "timestamp": "2026-05-15T23:01:28.464151"
+    },
+    {
+      "event_id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "slug": "gemini-3pt5-released-by-june-30",
+      "prev_prob": 0.9235,
+      "curr_prob": 0.8915,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "23:01",
+      "timestamp": "2026-05-15T23:01:28.464219"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-15T21:01:26.490748"
+  "crossing_count": 7,
+  "last_updated": "2026-05-15T23:01:28.464450"
 }
