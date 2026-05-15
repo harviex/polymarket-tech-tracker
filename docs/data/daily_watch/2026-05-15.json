@@ -56,6 +56,13 @@
           "time": "15:52",
           "prob": 0.705,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "19:10",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.7
@@ -96,6 +103,20 @@
         }
       ],
       "current_prob": 0.982
+    },
+    "193337": {
+      "id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-05-15T19:10:53.937391",
+      "history": [
+        {
+          "time": "19:10",
+          "prob": 0.7,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7
     }
   }
 }
