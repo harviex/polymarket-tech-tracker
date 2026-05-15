@@ -34,8 +34,30 @@
       "direction": "down",
       "time": "19:01",
       "timestamp": "2026-05-15T19:01:17.311714"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.9,
+      "curr_prob": 0.885,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-05-15T21:01:57.278745"
+    },
+    {
+      "event_id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "slug": "gemini-3pt5-released-by-june-30",
+      "prev_prob": 0.8385,
+      "curr_prob": 0.9235,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-05-15T21:01:57.278837"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-15T19:01:17.312081"
+  "crossing_count": 5,
+  "last_updated": "2026-05-15T21:01:57.279157"
 }
