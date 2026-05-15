@@ -13,6 +13,11 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "05:43",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.705
@@ -27,9 +32,39 @@
           "time": "01:49",
           "prob": 0.7,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "05:43",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.7
+    },
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "tags": [],
+      "first_seen": "2026-05-15T05:43:08.907500",
+      "history": [
+        {
+          "time": "05:43",
+          "prob": 0.8625,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "05:43",
+          "prob": 0.8625,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.8625
     }
   }
 }
