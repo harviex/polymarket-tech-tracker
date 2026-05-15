@@ -12,8 +12,19 @@
       "direction": "up",
       "time": "18:00",
       "timestamp": "2026-05-15T18:00:11.851081"
+    },
+    {
+      "event_id": "149775",
+      "title": "Which artists will have a Billboard #1 song this year?",
+      "slug": "which-artists-will-have-a-billboard-1-song-this-year",
+      "prev_prob": 0.165,
+      "curr_prob": 0.775,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:03",
+      "timestamp": "2026-05-15T21:03:22.733823"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-15T18:00:11.851270"
+  "crossing_count": 2,
+  "last_updated": "2026-05-15T21:03:22.734020"
 }
