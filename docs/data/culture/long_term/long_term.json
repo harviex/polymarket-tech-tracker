@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-2026-fifa-world-cup",
-      "probability": 0.93,
+      "probability": 0.925,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.93,
+      "current_prob": 0.925,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.93,
+      "last_checked_prob": 0.925,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.9255,
+      "probability": 0.9185,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9255,
+      "current_prob": 0.9185,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.9255,
+      "last_checked_prob": 0.9185,
       "history": [
         {
           "time": "15:48",
@@ -65,7 +65,7 @@
       "title": "Survivor 50 Winner",
       "slug": "survivor-50-winner",
       "url": "https://polymarket.com/event/survivor-50-winner",
-      "probability": 0.925,
+      "probability": 0.945,
       "option_text": "Aubry Bracco",
       "tags": [
         "pop-culture",
@@ -73,11 +73,11 @@
       ],
       "volume": 1423844.0927259997,
       "liquidity": 258724.06441,
-      "current_prob": 0.925,
+      "current_prob": 0.945,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.925,
-      "last_checked_prob": 0.925,
+      "peak_prob": 0.945,
+      "last_checked_prob": 0.945,
       "history": [
         {
           "time": "15:48",
@@ -86,108 +86,12 @@
         }
       ]
     },
-    "401113": {
-      "id": "401113",
-      "title": "Who will be featured on ICEMAN?",
-      "slug": "who-will-be-featured-on-iceman",
-      "url": "https://polymarket.com/event/who-will-be-featured-on-iceman",
-      "probability": 0.775,
-      "option_text": "21 Savage",
-      "tags": [
-        "drake",
-        "album",
-        "celebrities",
-        "pop-culture",
-        "iceman",
-        "song"
-      ],
-      "volume": 78347.410386,
-      "liquidity": 31291.17072,
-      "current_prob": 0.775,
-      "added_at": "2026-05-05T15:48:24.558565",
-      "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.85,
-      "last_checked_prob": 0.775,
-      "history": [
-        {
-          "time": "15:48",
-          "prob": 0.805,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.71,
-          "reason": "Update: 85.0% → 71.0%"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.805,
-          "reason": "Update: 71.0% → 80.5%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.705,
-          "reason": "Update: 80.5% → 70.5%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.835,
-          "reason": "Update: 71.0% → 83.5%"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.74,
-          "reason": "Update: 83.5% → 74.0%"
-        }
-      ]
-    },
-    "333162": {
-      "id": "333162",
-      "title": "Which characters will appear in Avengers: Doomsday?",
-      "slug": "which-characters-will-appear-in-avengers-doomsday",
-      "url": "https://polymarket.com/event/which-characters-will-appear-in-avengers-doomsday",
-      "probability": 0.915,
-      "option_text": "Hugh Jackman as Wolverine",
-      "tags": [
-        "movies",
-        "pop-culture"
-      ],
-      "volume": 37098.284959000004,
-      "liquidity": 13281.3487,
-      "current_prob": 0.915,
-      "added_at": "2026-05-09T00:06:36.502824",
-      "first_seen": "2026-05-09T00:06:36.502824",
-      "peak_prob": 0.935,
-      "last_checked_prob": 0.915,
-      "history": [
-        {
-          "time": "00:06",
-          "prob": 0.71,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.935,
-          "reason": "Update: 74.0% → 93.5%"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.84,
-          "reason": "Update: 91.5% → 84.0%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.915,
-          "reason": "Update: 84.0% → 91.5%"
-        }
-      ]
-    },
     "198746": {
       "id": "198746",
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.904,
+      "probability": 0.8995,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -195,75 +99,16 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.904,
+      "current_prob": 0.8995,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
       "peak_prob": 0.9415,
-      "last_checked_prob": 0.904,
+      "last_checked_prob": 0.8995,
       "history": [
         {
           "time": "00:05",
           "prob": 0.9415,
           "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "79103": {
-      "id": "79103",
-      "title": "Which artists will release a new song in 2026?",
-      "slug": "which-artists-will-release-a-new-song-in-2026",
-      "url": "https://polymarket.com/event/which-artists-will-release-a-new-song-in-2026",
-      "probability": 0.984,
-      "option_text": "Drake",
-      "tags": [
-        "music",
-        "pop-culture"
-      ],
-      "volume": 108283.265174,
-      "liquidity": 1940.87479,
-      "current_prob": 0.984,
-      "added_at": "2026-05-11T00:05:33.909317",
-      "first_seen": "2026-05-11T00:05:33.909317",
-      "peak_prob": 0.985,
-      "last_checked_prob": 0.984,
-      "history": [
-        {
-          "time": "00:05",
-          "prob": 0.985,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "106016": {
-      "id": "106016",
-      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
-      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.775,
-      "option_text": "Danielle Haim",
-      "tags": [
-        "pop-culture",
-        "taylor-swift",
-        "nfl",
-        "music"
-      ],
-      "volume": 253422.69134100006,
-      "liquidity": 5035.42344,
-      "current_prob": 0.775,
-      "added_at": "2026-05-11T00:05:33.909317",
-      "first_seen": "2026-05-11T00:05:33.909317",
-      "peak_prob": 0.805,
-      "last_checked_prob": 0.775,
-      "history": [
-        {
-          "time": "00:05",
-          "prob": 0.76,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.75,
-          "reason": "Update: 80.5% → 75.0%"
         }
       ]
     },
@@ -300,7 +145,7 @@
       "title": "Who will die in The Boys: Season 5?",
       "slug": "who-will-die-in-the-boys-season-5",
       "url": "https://polymarket.com/event/who-will-die-in-the-boys-season-5",
-      "probability": 0.81,
+      "probability": 0.845,
       "option_text": "Homelander",
       "tags": [
         "movies",
@@ -309,11 +154,11 @@
       ],
       "volume": 340636.425287,
       "liquidity": 31260.18167,
-      "current_prob": 0.81,
+      "current_prob": 0.845,
       "added_at": "2026-05-12T00:05:44.175477",
       "first_seen": "2026-05-12T00:05:44.175477",
-      "peak_prob": 0.81,
-      "last_checked_prob": 0.81,
+      "peak_prob": 0.845,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "00:05",
@@ -321,40 +166,8 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
-    },
-    "407020": {
-      "id": "407020",
-      "title": "Will ICEMAN debut No.1 on Billboard 200?",
-      "slug": "will-iceman-debut-no1-on-billboard-200",
-      "url": "https://polymarket.com/event/will-iceman-debut-no1-on-billboard-200",
-      "probability": 0.9735,
-      "option_text": "Yes",
-      "tags": [
-        "music",
-        "pop-culture",
-        "celebrities",
-        "drake",
-        "song",
-        "album",
-        "iceman",
-        "rewards-50-4pt5-100"
-      ],
-      "volume": 11777.815185000003,
-      "liquidity": 4549.82455,
-      "current_prob": 0.9735,
-      "added_at": "2026-05-12T00:05:44.175477",
-      "first_seen": "2026-05-12T00:05:44.175477",
-      "peak_prob": 0.98,
-      "last_checked_prob": 0.9735,
-      "history": [
-        {
-          "time": "00:05",
-          "prob": 0.98,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
     }
   },
-  "updated_at": "2026-05-14T00:05:35.559408",
-  "event_count": 11
+  "updated_at": "2026-05-15T15:33:42.373118",
+  "event_count": 6
 }
