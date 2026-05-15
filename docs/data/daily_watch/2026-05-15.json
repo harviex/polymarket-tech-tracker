@@ -51,6 +51,11 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "15:52",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.7
@@ -77,6 +82,20 @@
         }
       ],
       "current_prob": 0.8625
+    },
+    "193319": {
+      "id": "193319",
+      "title": "Will SpaceX or OpenAI IPO first?",
+      "tags": [],
+      "first_seen": "2026-05-15T15:52:52.135886",
+      "history": [
+        {
+          "time": "15:52",
+          "prob": 0.982,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.982
     }
   }
 }
