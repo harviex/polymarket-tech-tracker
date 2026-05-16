@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-16T01:29:12.161973",
+  "updated_at": "2026-05-16T05:15:25.958010",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -46,7 +46,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.948,
+        "probability": 0.949,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -59,11 +59,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.948,
+        "current_prob": 0.949,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9495,
-        "last_checked_prob": 0.948,
+        "last_checked_prob": 0.949,
         "history": [
           {
             "time": "15:48",
@@ -124,7 +124,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.934,
+        "probability": 0.884,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -133,16 +133,21 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.934,
+        "current_prob": 0.884,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.934,
+        "last_checked_prob": 0.884,
         "history": [
           {
             "time": "15:48",
             "prob": 0.935,
             "reason": "Added to Long-Term (daily update)"
+          },
+          {
+            "time": "05:15",
+            "prob": 0.884,
+            "reason": "Update: 93.4% → 88.4%"
           }
         ]
       },
@@ -3220,7 +3225,7 @@
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
         "url": "https://polymarket.com/event/198615",
-        "probability": 0.9035,
+        "probability": 0.9175,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3717,11 +3722,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9035,
+        "current_prob": 0.9175,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.9035,
+        "last_checked_prob": 0.9175,
         "history": [
           {
             "time": "21:57",
@@ -6038,6 +6043,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-16T01:29:12.154129"
+    "updated_at": "2026-05-16T05:15:25.951130"
   }
 }
