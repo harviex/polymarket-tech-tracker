@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-16T18:44:02.827831",
+  "updated_at": "2026-05-16T19:53:45.487747",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -87,7 +87,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.845,
+        "probability": 0.84,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -96,11 +96,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.845,
+        "current_prob": 0.84,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.88,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.84,
         "history": [
           {
             "time": "15:48",
@@ -124,7 +124,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/103636",
-        "probability": 0.9445,
+        "probability": 0.945,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -133,11 +133,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.9445,
+        "current_prob": 0.945,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.9445,
+        "last_checked_prob": 0.945,
         "history": [
           {
             "time": "15:48",
@@ -161,7 +161,7 @@
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
         "url": "https://polymarket.com/event/108522",
-        "probability": 0.9255,
+        "probability": 0.9235,
         "option_text": "Yes",
         "tags": [
           "pop-culture",
@@ -173,11 +173,11 @@
         ],
         "volume": 47755.81452399998,
         "liquidity": 10999.1322,
-        "current_prob": 0.9255,
+        "current_prob": 0.9235,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.951,
-        "last_checked_prob": 0.9255,
+        "last_checked_prob": 0.9235,
         "history": [
           {
             "time": "15:48",
@@ -220,7 +220,7 @@
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
         "url": "https://polymarket.com/event/98133",
-        "probability": 0.87,
+        "probability": 0.865,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -331,11 +331,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.865,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "05:18",
@@ -374,7 +374,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.885,
+        "probability": 0.895,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3207,11 +3207,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.895,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "23:38",
@@ -3230,7 +3230,7 @@
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
         "url": "https://polymarket.com/event/198615",
-        "probability": 0.9005,
+        "probability": 0.901,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3727,11 +3727,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9005,
+        "current_prob": 0.901,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.9005,
+        "last_checked_prob": 0.901,
         "history": [
           {
             "time": "21:57",
@@ -6048,6 +6048,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-16T18:44:02.820483"
+    "updated_at": "2026-05-16T19:53:45.480417"
   }
 }
