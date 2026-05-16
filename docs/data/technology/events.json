@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-16T17:43:26.609890",
+  "updated_at": "2026-05-16T18:44:02.827831",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -46,7 +46,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.959,
+        "probability": 0.9595,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -59,11 +59,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.959,
+        "current_prob": 0.9595,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.959,
-        "last_checked_prob": 0.959,
+        "peak_prob": 0.9595,
+        "last_checked_prob": 0.9595,
         "history": [
           {
             "time": "15:48",
@@ -86,7 +86,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
+        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
         "probability": 0.845,
         "option_text": "Yes",
         "tags": [
@@ -124,7 +124,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/103636",
-        "probability": 0.921,
+        "probability": 0.9445,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -133,11 +133,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.921,
+        "current_prob": 0.9445,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.921,
+        "last_checked_prob": 0.9445,
         "history": [
           {
             "time": "15:48",
@@ -160,7 +160,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+        "url": "https://polymarket.com/event/108522",
         "probability": 0.9255,
         "option_text": "Yes",
         "tags": [
@@ -374,7 +374,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.895,
+        "probability": 0.885,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3207,11 +3207,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.895,
+        "current_prob": 0.885,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "23:38",
@@ -6048,6 +6048,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-16T17:43:26.603206"
+    "updated_at": "2026-05-16T18:44:02.820483"
   }
 }
