@@ -1,6 +1,41 @@
 {
   "date": "2026-05-17",
   "created_at": "2026-05-17T00:00:31.146416",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.625,
+      "curr_prob": 0.765,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:00",
+      "timestamp": "2026-05-17T01:00:27.610749"
+    },
+    {
+      "event_id": "192883",
+      "title": "Nara Smith confirmed pregnant in 2026?",
+      "slug": "nara-smith-confirmed-pregnant-in-2026",
+      "prev_prob": 0.645,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:00",
+      "timestamp": "2026-05-17T01:00:27.610790"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.945,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "01:00",
+      "timestamp": "2026-05-17T01:00:27.610830"
+    }
+  ],
+  "crossing_count": 3,
+  "last_updated": "2026-05-17T01:00:27.610997"
 }
