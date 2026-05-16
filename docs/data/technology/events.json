@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-16T21:36:52.836823",
+  "updated_at": "2026-05-16T22:33:04.852342",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -220,7 +220,7 @@
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
         "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-        "probability": 0.87,
+        "probability": 0.865,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -331,11 +331,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.865,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "05:18",
@@ -374,7 +374,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.885,
+        "probability": 0.895,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3207,11 +3207,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.895,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "23:38",
@@ -3230,7 +3230,7 @@
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
         "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
-        "probability": 0.786,
+        "probability": 0.791,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3727,11 +3727,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.786,
+        "current_prob": 0.791,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.786,
+        "last_checked_prob": 0.791,
         "history": [
           {
             "time": "21:57",
@@ -4175,7 +4175,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-        "probability": 0.74,
+        "probability": 0.745,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -6039,11 +6039,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.74,
+        "current_prob": 0.745,
         "added_at": "2026-05-15T19:10:53.930203",
         "first_seen": "2026-05-15T19:10:53.930203",
-        "peak_prob": 0.74,
-        "last_checked_prob": 0.74,
+        "peak_prob": 0.745,
+        "last_checked_prob": 0.745,
         "history": [
           {
             "time": "19:10",
@@ -6053,6 +6053,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-16T21:36:52.829146"
+    "updated_at": "2026-05-16T22:33:04.845161"
   }
 }
