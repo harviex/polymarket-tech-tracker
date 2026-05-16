@@ -56,8 +56,19 @@
       "direction": "up",
       "time": "03:01",
       "timestamp": "2026-05-17T03:01:02.093500"
+    },
+    {
+      "event_id": "192883",
+      "title": "Nara Smith confirmed pregnant in 2026?",
+      "slug": "nara-smith-confirmed-pregnant-in-2026",
+      "prev_prob": 0.68,
+      "curr_prob": 0.71,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-05-17T04:00:31.317158"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-17T03:01:02.093680"
+  "crossing_count": 6,
+  "last_updated": "2026-05-17T04:00:31.317370"
 }
