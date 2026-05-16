@@ -78,8 +78,52 @@
       "direction": "down",
       "time": "04:00",
       "timestamp": "2026-05-17T04:00:29.801230"
+    },
+    {
+      "event_id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "slug": "gemini-3pt5-released-by-june-30",
+      "prev_prob": 0.901,
+      "curr_prob": 0.8505,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "05:01",
+      "timestamp": "2026-05-17T05:01:10.938389"
+    },
+    {
+      "event_id": "404253",
+      "title": "GPU rental prices (H200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-h200-hit-by-may-31",
+      "prev_prob": 0.195,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-05-17T05:01:10.938437"
+    },
+    {
+      "event_id": "404253",
+      "title": "GPU rental prices (H200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-h200-hit-by-may-31",
+      "prev_prob": 0.195,
+      "curr_prob": 0.9,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-05-17T05:01:10.938450"
+    },
+    {
+      "event_id": "404253",
+      "title": "GPU rental prices (H200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-h200-hit-by-may-31",
+      "prev_prob": 0.195,
+      "curr_prob": 0.9,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-05-17T05:01:10.938459"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-17T04:00:29.801501"
+  "crossing_count": 11,
+  "last_updated": "2026-05-17T05:01:10.938750"
 }
