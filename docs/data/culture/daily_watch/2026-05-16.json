@@ -78,8 +78,19 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-05-16T17:00:53.878103"
+    },
+    {
+      "event_id": "280375",
+      "title": "Will Neymar play in the 2026 FIFA World Cup?",
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "prev_prob": 0.805,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-16T20:00:41.419832"
     }
   ],
-  "last_updated": "2026-05-16T17:00:53.878295",
-  "crossing_count": 7
+  "last_updated": "2026-05-16T20:00:41.420029",
+  "crossing_count": 8
 }
