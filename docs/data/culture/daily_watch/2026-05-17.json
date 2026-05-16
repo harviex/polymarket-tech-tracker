@@ -34,8 +34,30 @@
       "direction": "down",
       "time": "01:00",
       "timestamp": "2026-05-17T01:00:27.610830"
+    },
+    {
+      "event_id": "192883",
+      "title": "Nara Smith confirmed pregnant in 2026?",
+      "slug": "nara-smith-confirmed-pregnant-in-2026",
+      "prev_prob": 0.725,
+      "curr_prob": 0.68,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "03:01",
+      "timestamp": "2026-05-17T03:01:02.093459"
+    },
+    {
+      "event_id": "248295",
+      "title": "Who will die in The Boys: Season 5?",
+      "slug": "who-will-die-in-the-boys-season-5",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "03:01",
+      "timestamp": "2026-05-17T03:01:02.093500"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-17T01:00:27.610997"
+  "crossing_count": 5,
+  "last_updated": "2026-05-17T03:01:02.093680"
 }
