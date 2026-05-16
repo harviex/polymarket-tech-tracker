@@ -45,8 +45,19 @@
       "direction": "down",
       "time": "20:00",
       "timestamp": "2026-05-16T20:00:32.126728"
+    },
+    {
+      "event_id": "103636",
+      "title": "Will Apple release iPhone 18 in 2026?",
+      "slug": "will-apple-release-iphone-18-in-2026",
+      "prev_prob": 0.87,
+      "curr_prob": 0.9245,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "22:01",
+      "timestamp": "2026-05-16T22:01:14.904777"
     }
   ],
-  "last_updated": "2026-05-16T20:00:32.126995",
-  "crossing_count": 4
+  "last_updated": "2026-05-16T22:01:14.905021",
+  "crossing_count": 5
 }
