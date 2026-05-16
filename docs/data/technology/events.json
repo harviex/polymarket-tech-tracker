@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-16T16:41:14.704956",
+  "updated_at": "2026-05-16T17:43:26.609890",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -46,7 +46,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.958,
+        "probability": 0.959,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -59,11 +59,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.958,
+        "current_prob": 0.959,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.958,
-        "last_checked_prob": 0.958,
+        "peak_prob": 0.959,
+        "last_checked_prob": 0.959,
         "history": [
           {
             "time": "15:48",
@@ -220,7 +220,7 @@
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
         "url": "https://polymarket.com/event/98133",
-        "probability": 0.865,
+        "probability": 0.87,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -331,11 +331,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.865,
+        "current_prob": 0.87,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.865,
+        "last_checked_prob": 0.87,
         "history": [
           {
             "time": "05:18",
@@ -3230,7 +3230,7 @@
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
         "url": "https://polymarket.com/event/198615",
-        "probability": 0.89,
+        "probability": 0.9005,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3727,11 +3727,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.89,
+        "current_prob": 0.9005,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.9005,
         "history": [
           {
             "time": "21:57",
@@ -4170,7 +4170,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/57708",
-        "probability": 0.72,
+        "probability": 0.74,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -6034,11 +6034,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.72,
+        "current_prob": 0.74,
         "added_at": "2026-05-15T19:10:53.930203",
         "first_seen": "2026-05-15T19:10:53.930203",
-        "peak_prob": 0.72,
-        "last_checked_prob": 0.72,
+        "peak_prob": 0.74,
+        "last_checked_prob": 0.74,
         "history": [
           {
             "time": "19:10",
@@ -6048,6 +6048,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-16T16:41:14.697498"
+    "updated_at": "2026-05-16T17:43:26.603206"
   }
 }
