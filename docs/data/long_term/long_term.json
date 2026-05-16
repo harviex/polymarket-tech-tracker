@@ -82,8 +82,8 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-      "probability": 0.884,
+      "url": "https://polymarket.com/event/103636",
+      "probability": 0.862,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -92,11 +92,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.884,
+      "current_prob": 0.862,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.884,
+      "last_checked_prob": 0.862,
       "history": [
         {
           "time": "15:48",
@@ -114,7 +114,7 @@
       "id": "108522",
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
-      "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+      "url": "https://polymarket.com/event/108522",
       "probability": 0.9255,
       "option_text": "Yes",
       "tags": [
@@ -174,7 +174,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.875,
+      "probability": 0.89,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -285,11 +285,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.89,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
-      "peak_prob": 0.875,
-      "last_checked_prob": 0.875,
+      "peak_prob": 0.89,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "05:18",
@@ -3183,8 +3183,8 @@
       "id": "198615",
       "title": "Gemini 3.5 released by...?",
       "slug": "gemini-3pt5-released-by-june-30",
-      "url": "https://polymarket.com/event/198615",
-      "probability": 0.9175,
+      "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
+      "probability": 0.913,
       "option_text": "Gemini 3.5 released by July 31?",
       "tags": [
         "tech",
@@ -3681,11 +3681,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9175,
+      "current_prob": 0.913,
       "added_at": "2026-05-14T21:57:32.775892",
       "first_seen": "2026-05-14T21:57:32.775892",
       "peak_prob": 0.9245,
-      "last_checked_prob": 0.9175,
+      "last_checked_prob": 0.913,
       "history": [
         {
           "time": "21:57",
@@ -3718,7 +3718,7 @@
       "id": "190776",
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "url": "https://polymarket.com/event/190776",
       "probability": 0.8625,
       "option_text": "40%",
       "tags": [
@@ -6002,6 +6002,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-16T05:15:25.951130",
+  "updated_at": "2026-05-16T07:44:08.659005",
   "event_count": 17
 }
