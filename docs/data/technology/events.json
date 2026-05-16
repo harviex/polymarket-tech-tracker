@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-16T15:44:17.370248",
+  "updated_at": "2026-05-16T16:41:14.704956",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -45,9 +45,9 @@
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-        "probability": 0.9545,
-        "option_text": "$1.2T",
+        "url": "https://polymarket.com/event/102007",
+        "probability": 0.958,
+        "option_text": "$1T",
         "tags": [
           "tech",
           "big-tech",
@@ -59,11 +59,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.9545,
+        "current_prob": 0.958,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9545,
-        "last_checked_prob": 0.9545,
+        "peak_prob": 0.958,
+        "last_checked_prob": 0.958,
         "history": [
           {
             "time": "15:48",
@@ -123,7 +123,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.921,
         "option_text": "Yes",
         "tags": [
@@ -160,7 +160,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/108522",
+        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
         "probability": 0.9255,
         "option_text": "Yes",
         "tags": [
@@ -190,7 +190,7 @@
         "id": "192790",
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
-        "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
+        "url": "https://polymarket.com/event/192790",
         "probability": 0.975,
         "option_text": "Yes",
         "tags": [
@@ -219,7 +219,7 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+        "url": "https://polymarket.com/event/98133",
         "probability": 0.865,
         "option_text": "Yes",
         "tags": [
@@ -373,7 +373,7 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
         "probability": 0.895,
         "option_text": "NVIDIA",
         "tags": [
@@ -3230,7 +3230,7 @@
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
         "url": "https://polymarket.com/event/198615",
-        "probability": 0.893,
+        "probability": 0.89,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3727,11 +3727,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.893,
+        "current_prob": 0.89,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.893,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "21:57",
@@ -3764,7 +3764,7 @@
         "id": "190776",
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-        "url": "https://polymarket.com/event/190776",
+        "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
         "probability": 0.8625,
         "option_text": "40%",
         "tags": [
@@ -6048,6 +6048,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-16T15:44:17.362956"
+    "updated_at": "2026-05-16T16:41:14.697498"
   }
 }
