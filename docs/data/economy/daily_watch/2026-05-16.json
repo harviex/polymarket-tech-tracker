@@ -23,8 +23,41 @@
       "direction": "down",
       "time": "16:00",
       "timestamp": "2026-05-16T16:00:57.915184"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.6915,
+      "curr_prob": 0.7015,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "18:00",
+      "timestamp": "2026-05-16T18:00:22.035379"
+    },
+    {
+      "event_id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "slug": "gemini-3pt5-released-by-june-30",
+      "prev_prob": 0.914,
+      "curr_prob": 0.894,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-05-16T18:00:22.035457"
+    },
+    {
+      "event_id": "385367",
+      "title": "Anthropic next funding round closed by...?",
+      "slug": "anthropic-next-funding-round-closed-by",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-05-16T18:00:22.035482"
     }
   ],
-  "last_updated": "2026-05-16T16:00:57.915470",
-  "crossing_count": 2
+  "last_updated": "2026-05-16T18:00:22.035755",
+  "crossing_count": 5
 }
