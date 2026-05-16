@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-2026-fifa-world-cup",
-      "probability": 0.925,
+      "probability": 0.93,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.925,
+      "current_prob": 0.93,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.925,
+      "last_checked_prob": 0.93,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.9185,
+      "probability": 0.9255,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9185,
+      "current_prob": 0.9255,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.9185,
+      "last_checked_prob": 0.9255,
       "history": [
         {
           "time": "15:48",
@@ -65,7 +65,7 @@
       "title": "Survivor 50 Winner",
       "slug": "survivor-50-winner",
       "url": "https://polymarket.com/event/survivor-50-winner",
-      "probability": 0.945,
+      "probability": 0.935,
       "option_text": "Aubry Bracco",
       "tags": [
         "pop-culture",
@@ -73,11 +73,11 @@
       ],
       "volume": 1423844.0927259997,
       "liquidity": 258724.06441,
-      "current_prob": 0.945,
+      "current_prob": 0.935,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.945,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "15:48",
@@ -91,7 +91,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.8995,
+      "probability": 0.8925,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -99,11 +99,11 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.8995,
+      "current_prob": 0.8925,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
       "peak_prob": 0.9415,
-      "last_checked_prob": 0.8995,
+      "last_checked_prob": 0.8925,
       "history": [
         {
           "time": "00:05",
@@ -145,7 +145,7 @@
       "title": "Who will die in The Boys: Season 5?",
       "slug": "who-will-die-in-the-boys-season-5",
       "url": "https://polymarket.com/event/who-will-die-in-the-boys-season-5",
-      "probability": 0.845,
+      "probability": 0.94,
       "option_text": "Homelander",
       "tags": [
         "movies",
@@ -154,20 +154,57 @@
       ],
       "volume": 340636.425287,
       "liquidity": 31260.18167,
-      "current_prob": 0.845,
+      "current_prob": 0.94,
       "added_at": "2026-05-12T00:05:44.175477",
       "first_seen": "2026-05-12T00:05:44.175477",
-      "peak_prob": 0.845,
-      "last_checked_prob": 0.845,
+      "peak_prob": 0.94,
+      "last_checked_prob": 0.94,
       "history": [
         {
           "time": "00:05",
           "prob": 0.805,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.94,
+          "reason": "Update: 84.5% → 94.0%"
+        }
+      ]
+    },
+    "280375": {
+      "id": "280375",
+      "title": "Will Neymar play in the 2026 FIFA World Cup?",
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "url": "https://polymarket.com/event/will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "probability": 0.82,
+      "option_text": "Yes",
+      "tags": [
+        "neymar",
+        "soccer",
+        "celebrities",
+        "sports",
+        "world",
+        "fifa-world-cup",
+        "pop-culture",
+        "brazil"
+      ],
+      "volume": 998243.5092209923,
+      "liquidity": 56414.111,
+      "current_prob": 0.82,
+      "added_at": "2026-05-17T00:06:09.997977",
+      "first_seen": "2026-05-17T00:06:09.997977",
+      "peak_prob": 0.82,
+      "last_checked_prob": 0.82,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.82,
+          "reason": "Added to Long-Term (daily update)"
         }
       ]
     }
   },
-  "updated_at": "2026-05-15T15:33:42.373118",
-  "event_count": 6
+  "updated_at": "2026-05-17T00:06:09.998085",
+  "event_count": 7
 }
