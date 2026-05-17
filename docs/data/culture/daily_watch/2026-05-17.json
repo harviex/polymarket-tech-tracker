@@ -122,8 +122,30 @@
       "direction": "down",
       "time": "17:00",
       "timestamp": "2026-05-17T17:00:59.243112"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.765,
+      "curr_prob": 0.555,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-05-17T18:00:40.862794"
+    },
+    {
+      "event_id": "192883",
+      "title": "Nara Smith confirmed pregnant in 2026?",
+      "slug": "nara-smith-confirmed-pregnant-in-2026",
+      "prev_prob": 0.69,
+      "curr_prob": 0.755,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "18:00",
+      "timestamp": "2026-05-17T18:00:40.862845"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-17T17:00:59.243343"
+  "crossing_count": 13,
+  "last_updated": "2026-05-17T18:00:40.863066"
 }
