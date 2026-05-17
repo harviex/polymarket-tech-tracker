@@ -1,6 +1,30 @@
 {
   "date": "2026-05-18",
   "created_at": "2026-05-18T00:01:06.352545",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.775,
+      "curr_prob": 0.55,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:04",
+      "timestamp": "2026-05-18T02:04:08.632704"
+    },
+    {
+      "event_id": "280375",
+      "title": "Will Neymar play in the 2026 FIFA World Cup?",
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "prev_prob": 0.725,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "02:04",
+      "timestamp": "2026-05-18T02:04:08.632766"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-18T02:04:08.632943"
 }
