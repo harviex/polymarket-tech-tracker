@@ -4,8 +4,8 @@
       "id": "102007",
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/102007",
-      "probability": 0.9595,
+      "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
+      "probability": 0.959,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.9595,
+      "current_prob": 0.959,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9595,
-      "last_checked_prob": 0.9595,
+      "last_checked_prob": 0.959,
       "history": [
         {
           "time": "15:48",
@@ -45,7 +45,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.855,
       "option_text": "Yes",
       "tags": [
@@ -83,7 +83,7 @@
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-      "probability": 0.9395,
+      "probability": 0.944,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -92,11 +92,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.9395,
+      "current_prob": 0.944,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.9395,
+      "last_checked_prob": 0.944,
       "history": [
         {
           "time": "15:48",
@@ -120,7 +120,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/108522",
-      "probability": 0.9195,
+      "probability": 0.92,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -132,11 +132,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9195,
+      "current_prob": 0.92,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.9195,
+      "last_checked_prob": 0.92,
       "history": [
         {
           "time": "15:48",
@@ -332,7 +332,7 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/57711",
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
       "probability": 0.885,
       "option_text": "NVIDIA",
       "tags": [
@@ -3189,7 +3189,7 @@
       "title": "Gemini 3.5 released by...?",
       "slug": "gemini-3pt5-released-by-june-30",
       "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
-      "probability": 0.7615,
+      "probability": 0.7655,
       "option_text": "Gemini 3.5 released by July 31?",
       "tags": [
         "tech",
@@ -3686,11 +3686,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7615,
+      "current_prob": 0.7655,
       "added_at": "2026-05-14T21:57:32.775892",
       "first_seen": "2026-05-14T21:57:32.775892",
       "peak_prob": 0.9245,
-      "last_checked_prob": 0.7615,
+      "last_checked_prob": 0.7655,
       "history": [
         {
           "time": "21:57",
@@ -4133,8 +4133,8 @@
       "id": "57708",
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-      "probability": 0.75,
+      "url": "https://polymarket.com/event/57708",
+      "probability": 0.77,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5998,11 +5998,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.77,
       "added_at": "2026-05-15T19:10:53.930203",
       "first_seen": "2026-05-15T19:10:53.930203",
-      "peak_prob": 0.75,
-      "last_checked_prob": 0.75,
+      "peak_prob": 0.77,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "19:10",
@@ -6012,6 +6012,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-17T01:46:01.574226",
+  "updated_at": "2026-05-17T05:37:06.512273",
   "event_count": 17
 }
