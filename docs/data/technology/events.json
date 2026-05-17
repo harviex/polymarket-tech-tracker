@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-17T21:41:48.538136",
+  "updated_at": "2026-05-17T22:40:36.293946",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -165,7 +165,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+        "url": "https://polymarket.com/event/108522",
         "probability": 0.919,
         "option_text": "Yes",
         "tags": [
@@ -379,7 +379,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.875,
+        "probability": 0.86,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3212,11 +3212,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.86,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.86,
         "history": [
           {
             "time": "23:38",
@@ -3234,8 +3234,8 @@
         "id": "198615",
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
-        "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
-        "probability": 0.843,
+        "url": "https://polymarket.com/event/198615",
+        "probability": 0.8425,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3732,11 +3732,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.843,
+        "current_prob": 0.8425,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.843,
+        "last_checked_prob": 0.8425,
         "history": [
           {
             "time": "21:57",
@@ -3774,7 +3774,7 @@
         "id": "190776",
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-        "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
+        "url": "https://polymarket.com/event/190776",
         "probability": 0.864,
         "option_text": "40%",
         "tags": [
@@ -6063,6 +6063,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-17T21:41:48.530693"
+    "updated_at": "2026-05-17T22:40:36.286924"
   }
 }
