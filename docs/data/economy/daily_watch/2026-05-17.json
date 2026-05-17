@@ -199,8 +199,19 @@
       "direction": "up",
       "time": "17:01",
       "timestamp": "2026-05-17T17:01:00.860636"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.575,
+      "curr_prob": 0.785,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-05-17T19:00:25.127810"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-05-17T17:01:00.861017"
+  "crossing_count": 19,
+  "last_updated": "2026-05-17T19:00:25.128204"
 }
