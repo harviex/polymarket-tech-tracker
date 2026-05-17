@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-17T10:14:56.214365",
+  "updated_at": "2026-05-17T11:50:58.512725",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -10,7 +10,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.9645,
+        "probability": 0.967,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -23,11 +23,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.9645,
+        "current_prob": 0.967,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9645,
-        "last_checked_prob": 0.9645,
+        "peak_prob": 0.967,
+        "last_checked_prob": 0.967,
         "history": [
           {
             "time": "15:48",
@@ -50,7 +50,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.855,
         "option_text": "Yes",
         "tags": [
@@ -87,7 +87,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.944,
         "option_text": "Yes",
         "tags": [
@@ -154,7 +154,7 @@
         "id": "192790",
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
-        "url": "https://polymarket.com/event/192790",
+        "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
         "probability": 0.975,
         "option_text": "Yes",
         "tags": [
@@ -337,8 +337,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.875,
+        "url": "https://polymarket.com/event/57711",
+        "probability": 0.865,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3171,11 +3171,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.865,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "23:38",
@@ -3193,8 +3193,8 @@
         "id": "198615",
         "title": "Gemini 3.5 released by...?",
         "slug": "gemini-3pt5-released-by-june-30",
-        "url": "https://polymarket.com/event/gemini-3pt5-released-by-june-30",
-        "probability": 0.816,
+        "url": "https://polymarket.com/event/198615",
+        "probability": 0.811,
         "option_text": "Gemini 3.5 released by July 31?",
         "tags": [
           "tech",
@@ -3691,11 +3691,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.816,
+        "current_prob": 0.811,
         "added_at": "2026-05-14T21:57:32.775892",
         "first_seen": "2026-05-14T21:57:32.775892",
         "peak_prob": 0.9245,
-        "last_checked_prob": 0.816,
+        "last_checked_prob": 0.811,
         "history": [
           {
             "time": "21:57",
@@ -4138,7 +4138,7 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/57708",
+        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
         "probability": 0.765,
         "option_text": "Anthropic",
         "tags": [
@@ -6017,6 +6017,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-17T10:14:56.207757"
+    "updated_at": "2026-05-17T11:50:58.505914"
   }
 }
