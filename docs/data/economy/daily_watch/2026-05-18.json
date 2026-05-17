@@ -34,8 +34,30 @@
       "direction": "up",
       "time": "06:01",
       "timestamp": "2026-05-18T06:01:19.230934"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.71,
+      "curr_prob": 0.65,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "07:00",
+      "timestamp": "2026-05-18T07:00:42.080397"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.78,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:00",
+      "timestamp": "2026-05-18T07:00:42.080467"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-18T06:01:19.231427"
+  "crossing_count": 5,
+  "last_updated": "2026-05-18T07:00:42.080652"
 }
