@@ -122,8 +122,19 @@
       "direction": "up",
       "time": "21:01",
       "timestamp": "2026-05-18T21:01:04.092018"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.863,
+      "curr_prob": 0.7575,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:01",
+      "timestamp": "2026-05-18T22:01:24.125106"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-18T21:01:04.092269"
+  "crossing_count": 12,
+  "last_updated": "2026-05-18T22:01:24.125459"
 }
