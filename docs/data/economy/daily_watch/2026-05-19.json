@@ -34,8 +34,30 @@
       "direction": "up",
       "time": "05:01",
       "timestamp": "2026-05-19T05:01:01.807514"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-05-19T06:01:04.655741"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.68,
+      "curr_prob": 0.745,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "06:01",
+      "timestamp": "2026-05-19T06:01:04.655800"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-19T05:01:01.807736"
+  "crossing_count": 5,
+  "last_updated": "2026-05-19T06:01:04.656101"
 }
