@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-18",
+  "events": {
+    "193319": {
+      "id": "193319",
+      "title": "Will SpaceX or OpenAI IPO first?",
+      "tags": [],
+      "first_seen": "2026-05-18T10:52:13.659439",
+      "history": [
+        {
+          "time": "10:52",
+          "prob": 0.9825,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "10:52",
+          "prob": 0.9825,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "10:52",
+          "prob": 0.9825,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9825
+    }
+  }
+}
