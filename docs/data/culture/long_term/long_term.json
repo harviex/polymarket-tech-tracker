@@ -91,7 +91,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.8665,
+      "probability": 0.8905,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -99,11 +99,11 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.8665,
+      "current_prob": 0.8905,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
       "peak_prob": 0.9415,
-      "last_checked_prob": 0.8665,
+      "last_checked_prob": 0.8905,
       "history": [
         {
           "time": "00:05",
@@ -117,7 +117,7 @@
       "title": "Who will die in The Boys: Season 5?",
       "slug": "who-will-die-in-the-boys-season-5",
       "url": "https://polymarket.com/event/who-will-die-in-the-boys-season-5",
-      "probability": 0.895,
+      "probability": 0.88,
       "option_text": "Homelander",
       "tags": [
         "movies",
@@ -126,11 +126,11 @@
       ],
       "volume": 340636.425287,
       "liquidity": 31260.18167,
-      "current_prob": 0.895,
+      "current_prob": 0.88,
       "added_at": "2026-05-12T00:05:44.175477",
       "first_seen": "2026-05-12T00:05:44.175477",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.895,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "00:05",
@@ -149,7 +149,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.775,
+      "probability": 0.77,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -159,11 +159,11 @@
       ],
       "volume": 253810.85334000006,
       "liquidity": 5496.70495,
-      "current_prob": 0.775,
+      "current_prob": 0.77,
       "added_at": "2026-05-18T00:06:39.284776",
       "first_seen": "2026-05-18T00:06:39.284776",
       "peak_prob": 0.775,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "00:06",
@@ -171,8 +171,40 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "280375": {
+      "id": "280375",
+      "title": "Will Neymar play in the 2026 FIFA World Cup?",
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "url": "https://polymarket.com/event/will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "probability": 0.825,
+      "option_text": "Yes",
+      "tags": [
+        "neymar",
+        "soccer",
+        "celebrities",
+        "sports",
+        "world",
+        "fifa-world-cup",
+        "pop-culture",
+        "brazil"
+      ],
+      "volume": 1144354.9592139928,
+      "liquidity": 20303.8894,
+      "current_prob": 0.825,
+      "added_at": "2026-05-19T00:06:18.280031",
+      "first_seen": "2026-05-19T00:06:18.280031",
+      "peak_prob": 0.825,
+      "last_checked_prob": 0.825,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.825,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-18T00:06:39.284893",
-  "event_count": 6
+  "updated_at": "2026-05-19T00:06:18.280137",
+  "event_count": 7
 }
