@@ -122,8 +122,30 @@
       "direction": "up",
       "time": "10:00",
       "timestamp": "2026-05-18T10:00:34.971537"
+    },
+    {
+      "event_id": "198746",
+      "title": "Who will win Top Chef Season 23?",
+      "slug": "who-will-win-top-chef-season-23",
+      "prev_prob": 0.899,
+      "curr_prob": 0.904,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "12:01",
+      "timestamp": "2026-05-18T12:01:09.167652"
+    },
+    {
+      "event_id": "280375",
+      "title": "Will Neymar play in the 2026 FIFA World Cup?",
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "prev_prob": 0.81,
+      "curr_prob": 0.77,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-05-18T12:01:09.167693"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-18T10:00:34.971757"
+  "crossing_count": 13,
+  "last_updated": "2026-05-18T12:01:09.167920"
 }
