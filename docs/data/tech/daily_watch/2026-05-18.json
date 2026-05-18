@@ -56,8 +56,19 @@
       "direction": "down",
       "time": "12:01",
       "timestamp": "2026-05-18T12:01:01.200736"
+    },
+    {
+      "event_id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "slug": "gemini-3pt5-released-by-june-30",
+      "prev_prob": 0.857,
+      "curr_prob": 0.9155,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "20:01",
+      "timestamp": "2026-05-18T20:01:04.301839"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-18T12:01:01.200987"
+  "crossing_count": 6,
+  "last_updated": "2026-05-18T20:01:04.302042"
 }
