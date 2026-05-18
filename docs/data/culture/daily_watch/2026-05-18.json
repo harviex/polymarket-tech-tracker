@@ -166,8 +166,30 @@
       "direction": "down",
       "time": "21:01",
       "timestamp": "2026-05-18T21:01:07.826152"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.61,
+      "curr_prob": 0.775,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "22:01",
+      "timestamp": "2026-05-18T22:01:21.924207"
+    },
+    {
+      "event_id": "280375",
+      "title": "Will Neymar play in the 2026 FIFA World Cup?",
+      "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
+      "prev_prob": 0.775,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:01",
+      "timestamp": "2026-05-18T22:01:21.924269"
     }
   ],
-  "crossing_count": 15,
-  "last_updated": "2026-05-18T21:01:07.826417"
+  "crossing_count": 17,
+  "last_updated": "2026-05-18T22:01:21.924497"
 }
