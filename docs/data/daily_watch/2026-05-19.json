@@ -44,6 +44,20 @@
         }
       ],
       "current_prob": 0.72
+    },
+    "198615": {
+      "id": "198615",
+      "title": "Gemini 3.5 released by...?",
+      "tags": [],
+      "first_seen": "2026-05-19T17:32:09.765219",
+      "history": [
+        {
+          "time": "17:32",
+          "prob": 0.989,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.989
     }
   }
 }
