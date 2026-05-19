@@ -89,8 +89,19 @@
       "direction": "up",
       "time": "14:00",
       "timestamp": "2026-05-19T14:00:29.367354"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.75,
+      "curr_prob": 0.82,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "20:01",
+      "timestamp": "2026-05-19T20:01:14.786185"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-05-19T14:00:29.367712"
+  "crossing_count": 9,
+  "last_updated": "2026-05-19T20:01:14.786591"
 }
