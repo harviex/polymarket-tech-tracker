@@ -28,6 +28,22 @@
         }
       ],
       "current_prob": 0.7015
+    },
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-19T11:51:47.860107",
+      "history": [
+        {
+          "time": "11:51",
+          "prob": 0.72,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.72
     }
   }
 }
