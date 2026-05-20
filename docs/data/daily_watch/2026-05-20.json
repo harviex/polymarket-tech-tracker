@@ -11,9 +11,67 @@
           "time": "08:48",
           "prob": 0.984,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "17:48",
+          "prob": 0.9845,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "17:48",
+          "prob": 0.9845,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "17:48",
+          "prob": 0.9845,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.984
+    },
+    "193337": {
+      "id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-05-20T17:48:04.983513",
+      "history": [
+        {
+          "time": "17:48",
+          "prob": 0.865,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "17:48",
+          "prob": 0.865,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.865
+    },
+    "192790": {
+      "id": "192790",
+      "title": "Anthropic $500B+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-20T17:48:04.983520",
+      "history": [
+        {
+          "time": "17:48",
+          "prob": 0.9885,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9885
     }
   }
 }
