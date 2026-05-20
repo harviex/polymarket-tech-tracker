@@ -4,7 +4,7 @@
       "id": "102007",
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
+      "url": "https://polymarket.com/event/102007",
       "probability": 0.9785,
       "option_text": "$1T",
       "tags": [
@@ -45,7 +45,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.855,
       "option_text": "Yes",
       "tags": [
@@ -119,7 +119,7 @@
       "id": "108522",
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
-      "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+      "url": "https://polymarket.com/event/108522",
       "probability": 0.933,
       "option_text": "Yes",
       "tags": [
@@ -179,7 +179,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.905,
+      "probability": 0.91,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -290,11 +290,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.91,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.91,
       "history": [
         {
           "time": "05:18",
@@ -337,8 +337,8 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/57711",
-      "probability": 0.845,
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+      "probability": 0.835,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3171,11 +3171,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.845,
+      "current_prob": 0.835,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "23:38",
@@ -3193,8 +3193,8 @@
       "id": "190776",
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "probability": 0.898,
+      "url": "https://polymarket.com/event/190776",
+      "probability": 0.8915,
       "option_text": "40%",
       "tags": [
         "tech",
@@ -3581,11 +3581,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.898,
+      "current_prob": 0.8915,
       "added_at": "2026-05-15T05:43:08.899914",
       "first_seen": "2026-05-15T05:43:08.899914",
       "peak_prob": 0.9265,
-      "last_checked_prob": 0.898,
+      "last_checked_prob": 0.8915,
       "history": [
         {
           "time": "05:43",
@@ -5638,7 +5638,7 @@
       "title": "Ledger IPO closing market cap above ___ ?",
       "slug": "ledger-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/183159",
-      "probability": 0.707,
+      "probability": 0.708,
       "option_text": "$1B",
       "tags": [
         "ipos",
@@ -6297,11 +6297,11 @@
       "endDate": "2028-01-01T05:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.707,
+      "current_prob": 0.708,
       "added_at": "2026-05-19T08:54:33.176589",
       "first_seen": "2026-05-19T08:54:33.176589",
-      "peak_prob": 0.707,
-      "last_checked_prob": 0.707,
+      "peak_prob": 0.708,
+      "last_checked_prob": 0.708,
       "history": [
         {
           "time": "08:54",
@@ -6311,6 +6311,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-19T23:51:19.315296",
+  "updated_at": "2026-05-20T01:55:00.673224",
   "event_count": 17
 }
