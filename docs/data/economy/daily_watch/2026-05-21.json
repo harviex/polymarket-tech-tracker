@@ -67,8 +67,30 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-05-21T04:00:46.434083"
+    },
+    {
+      "event_id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "slug": "openai-1t-ipo-before-2027",
+      "prev_prob": 0.81,
+      "curr_prob": 0.77,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:01",
+      "timestamp": "2026-05-21T05:01:14.676350"
+    },
+    {
+      "event_id": "385367",
+      "title": "Anthropic next funding round closed by...?",
+      "slug": "anthropic-next-funding-round-closed-by",
+      "prev_prob": 0.845,
+      "curr_prob": 0.93,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-05-21T05:01:14.676452"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-21T04:00:46.434484"
+  "crossing_count": 8,
+  "last_updated": "2026-05-21T05:01:14.676832"
 }
