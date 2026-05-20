@@ -12,8 +12,41 @@
       "direction": "up",
       "time": "01:00",
       "timestamp": "2026-05-21T01:00:46.340741"
+    },
+    {
+      "event_id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "slug": "openai-ipo-closing-market-cap-above",
+      "prev_prob": 0.75,
+      "curr_prob": 0.865,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "02:02",
+      "timestamp": "2026-05-21T02:02:54.674357"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.83,
+      "curr_prob": 0.655,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "02:02",
+      "timestamp": "2026-05-21T02:02:54.674429"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.83,
+      "curr_prob": 0.655,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:02",
+      "timestamp": "2026-05-21T02:02:54.674444"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-05-21T01:00:46.341107"
+  "crossing_count": 4,
+  "last_updated": "2026-05-21T02:02:54.674826"
 }
