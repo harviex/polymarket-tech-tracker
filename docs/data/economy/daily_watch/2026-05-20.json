@@ -122,8 +122,30 @@
       "direction": "up",
       "time": "21:00",
       "timestamp": "2026-05-20T21:00:48.839834"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.71,
+      "curr_prob": 0.65,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-20T22:00:43.803611"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.835,
+      "curr_prob": 0.765,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-20T22:00:43.803720"
     }
   ],
-  "crossing_count": 11,
-  "last_updated": "2026-05-20T21:00:48.840219"
+  "crossing_count": 13,
+  "last_updated": "2026-05-20T22:00:43.804073"
 }
