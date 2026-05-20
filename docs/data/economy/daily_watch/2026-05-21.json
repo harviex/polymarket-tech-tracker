@@ -89,8 +89,30 @@
       "direction": "up",
       "time": "05:01",
       "timestamp": "2026-05-21T05:01:14.676452"
+    },
+    {
+      "event_id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "slug": "openai-1t-ipo-before-2027",
+      "prev_prob": 0.77,
+      "curr_prob": 0.665,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "06:00",
+      "timestamp": "2026-05-21T06:00:15.379947"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.685,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-05-21T06:00:15.380079"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-05-21T05:01:14.676832"
+  "crossing_count": 10,
+  "last_updated": "2026-05-21T06:00:15.380509"
 }
