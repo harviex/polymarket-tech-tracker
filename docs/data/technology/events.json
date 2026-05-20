@@ -1,16 +1,38 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-20T05:55:12.366070",
-  "daily_watch_summaries": [],
+  "updated_at": "2026-05-20T08:48:23.583624",
+  "daily_watch_summaries": [
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 1,
+      "events": [
+        {
+          "id": "193319",
+          "title": "Will SpaceX or OpenAI IPO first?",
+          "tags": [],
+          "first_seen": "2026-05-20T08:48:23.583418",
+          "history": [
+            {
+              "time": "08:48",
+              "prob": 0.984,
+              "reason": "Removed from Long-Term (prob < 70%)"
+            }
+          ],
+          "current_prob": 0.984
+        }
+      ]
+    }
+  ],
   "long_term_data": {
-    "event_count": 11,
+    "event_count": 10,
     "events": [
       {
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.9785,
+        "probability": 0.979,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -23,11 +45,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.9785,
+        "current_prob": 0.979,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9785,
-        "last_checked_prob": 0.9785,
+        "peak_prob": 0.979,
+        "last_checked_prob": 0.979,
         "history": [
           {
             "time": "15:48",
@@ -88,7 +110,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/103636",
-        "probability": 0.95,
+        "probability": 0.9495,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -97,11 +119,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.95,
+        "current_prob": 0.9495,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.95,
+        "last_checked_prob": 0.9495,
         "history": [
           {
             "time": "15:48",
@@ -155,7 +177,7 @@
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
         "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-        "probability": 0.9845,
+        "probability": 0.9885,
         "option_text": "Yes",
         "tags": [
           "claude-5",
@@ -166,11 +188,11 @@
         ],
         "volume": 21764.31394299998,
         "liquidity": 10446.18675,
-        "current_prob": 0.9845,
+        "current_prob": 0.9885,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9875,
-        "last_checked_prob": 0.9845,
+        "peak_prob": 0.9885,
+        "last_checked_prob": 0.9885,
         "history": [
           {
             "time": "15:48",
@@ -343,7 +365,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.845,
+        "probability": 0.84,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3176,11 +3198,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.845,
+        "current_prob": 0.84,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.84,
         "history": [
           {
             "time": "23:38",
@@ -3199,7 +3221,7 @@
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
         "url": "https://polymarket.com/event/190776",
-        "probability": 0.898,
+        "probability": 0.884,
         "option_text": "40%",
         "tags": [
           "tech",
@@ -3586,11 +3608,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.898,
+        "current_prob": 0.884,
         "added_at": "2026-05-15T05:43:08.899914",
         "first_seen": "2026-05-15T05:43:08.899914",
         "peak_prob": 0.9265,
-        "last_checked_prob": 0.898,
+        "last_checked_prob": 0.884,
         "history": [
           {
             "time": "05:43",
@@ -5502,148 +5524,11 @@
         ]
       },
       {
-        "id": "193319",
-        "title": "Will SpaceX or OpenAI IPO first?",
-        "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-        "probability": 0.984,
-        "option_text": "SpaceX",
-        "tags": [
-          "tech",
-          "business",
-          "ipos",
-          "elon-musk",
-          "big-tech",
-          "ipo",
-          "sam-altman",
-          "science",
-          "spacex",
-          "finance",
-          "ai",
-          "space"
-        ],
-        "markets": [
-          {
-            "id": "1298547",
-            "question": "Will SpaceX or OpenAI IPO first?",
-            "conditionId": "0xafacd019af8894c0a0dd2581bd6b4b2572ece03bb8a98fdde905e68825b4d07f",
-            "slug": "will-spacex-or-openai-first-ipo-before-2028",
-            "resolutionSource": "",
-            "endDate": "2027-12-31T00:00:00Z",
-            "liquidity": "3785.01",
-            "startDate": "2026-01-30T20:09:02.549Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ps-912c1bf808.png",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/ps-912c1bf808.png",
-            "description": "This market will resolve to \"SpaceX\" if SpaceX (Space Exploration Technologies Corp.) completes an Initial Public Offering (IPO) before OpenAI completes an IPO by December 31, 2027, 11:59 PM ET, as confirmed by official company announcements and credible news sources. \n\nThis market will resolve to \"OpenAI\" if OpenAI completes an Initial Public Offering (IPO) before SpaceX completes an IPO by December 31, 2027, 11:59 PM ET, as confirmed by official company announcements and credible news sources. \n\nThis market will resolve 50-50 if:\n- Neither SpaceX nor OpenAI completes an Initial Public Offering (IPO) by December 31, 2027, 11:59 PM ET;\n- Both SpaceX and OpenAI complete an IPO on the same calendar date (ET); or\n- By December 31, 2027, 11:59 PM ET, both companies become unable to complete an IPO, including due to acquisition, merger, or absorption by an entity that is already publicly traded.\n\nThe IPO refers to the first sale of stock by the listed company to the public on any recognized stock exchange.\n\nThe resolution source for this market is a consensus of credible reporting.",
-            "outcomes": "[\"SpaceX\", \"OpenAI\"]",
-            "outcomePrices": "[\"0.9825\", \"0.0175\"]",
-            "volume": "73424.413074",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2026-01-30T12:04:17.106295Z",
-            "updatedAt": "2026-05-18T10:49:55.493574Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0x7a7125262cd8638426e8567d565463fd3d79b0a1c7f65f533ca9c3e1ea2414c0",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.001,
-            "orderMinSize": 5,
-            "volumeNum": 73424.413074,
-            "liquidityNum": 3785.01,
-            "endDateIso": "2027-12-31",
-            "startDateIso": "2026-01-30",
-            "hasReviewedDates": true,
-            "volume24hr": 21.76,
-            "volume1wk": 365.03,
-            "volume1mo": 3755.228972,
-            "volume1yr": 73424.41307399998,
-            "clobTokenIds": "[\"69085469081672263028347574867592114266594419617470094899040639566947020868496\", \"33849860619130856573063182416770898818270666466719859197326605099870750425517\"]",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volume24hrClob": 21.76,
-            "volume1wkClob": 365.03,
-            "volume1moClob": 3755.228972,
-            "volume1yrClob": 73424.41307399998,
-            "volumeClob": 73424.413074,
-            "liquidityClob": 3785.01,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2026-01-30T20:07:56Z",
-            "cyom": false,
-            "competitive": 0.8111574710137947,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "rewardsMinSize": 0,
-            "rewardsMaxSpread": 0,
-            "spread": 0.019,
-            "oneDayPriceChange": -0.0095,
-            "oneHourPriceChange": -0.0005,
-            "oneWeekPriceChange": 0.0075,
-            "oneMonthPriceChange": 0.044,
-            "lastTradePrice": 0.972,
-            "bestBid": 0.973,
-            "bestAsk": 0.992,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2026-01-30T20:06:44.596615Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "tech_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.04,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            }
-          }
-        ],
-        "resolutionSource": "",
-        "description": "This market will resolve to \"SpaceX\" if SpaceX (Space Exploration Technologies Corp.) completes an Initial Public Offering (IPO) before OpenAI completes an IPO by December 31, 2027, 11:59 PM ET, as confirmed by official company announcements and credible news sources. \n\nThis market will resolve to \"OpenAI\" if OpenAI completes an Initial Public Offering (IPO) before SpaceX completes an IPO by December 31, 2027, 11:59 PM ET, as confirmed by official company announcements and credible news sources. \n\nThis market will resolve 50-50 if:\n- Neither SpaceX nor OpenAI completes an Initial Public Offering (IPO) by December 31, 2027, 11:59 PM ET;\n- Both SpaceX and OpenAI complete an IPO on the same calendar date (ET); or\n- By December 31, 2027, 11:59 PM ET, both companies become unable to complete an IPO, including due to acquisition, merger, or absorption by an entity that is already publicly traded.\n\nThe IPO refers to the first sale of stock by the listed company to the public on any recognized stock exchange.\n\nThe resolution source for this market is a consensus of credible reporting.",
-        "volume": 73424.413074,
-        "liquidity": 3785.21994,
-        "startDate": "2026-01-30T20:11:22.75402Z",
-        "endDate": "2027-12-31T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.984,
-        "added_at": "2026-05-18T10:52:13.652269",
-        "first_seen": "2026-05-18T10:52:13.652269",
-        "peak_prob": 0.9845,
-        "last_checked_prob": 0.984,
-        "history": [
-          {
-            "time": "10:52",
-            "prob": 0.9825,
-            "reason": "Added to Long-Term (high probability)"
-          }
-        ]
-      },
-      {
         "id": "183159",
         "title": "Ledger IPO closing market cap above ___ ?",
         "slug": "ledger-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/ledger-ipo-closing-market-cap-above",
-        "probability": 0.705,
+        "probability": 0.7015,
         "option_text": "$1B",
         "tags": [
           "ipos",
@@ -6302,11 +6187,11 @@
         "endDate": "2028-01-01T05:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.705,
+        "current_prob": 0.7015,
         "added_at": "2026-05-19T08:54:33.176589",
         "first_seen": "2026-05-19T08:54:33.176589",
         "peak_prob": 0.708,
-        "last_checked_prob": 0.705,
+        "last_checked_prob": 0.7015,
         "history": [
           {
             "time": "08:54",
@@ -6316,6 +6201,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-20T05:55:12.358209"
+    "updated_at": "2026-05-20T08:48:23.575801"
   }
 }
