@@ -72,6 +72,29 @@
         }
       ],
       "current_prob": 0.9885
+    },
+    "68544": {
+      "id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "tags": [],
+      "first_seen": "2026-05-20T19:58:19.576206",
+      "history": [
+        {
+          "time": "19:58",
+          "prob": 0.81,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "19:58",
+          "prob": 0.81,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.81
     }
   }
 }
