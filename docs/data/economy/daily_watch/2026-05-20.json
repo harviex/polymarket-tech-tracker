@@ -56,8 +56,30 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-05-20T08:00:47.387974"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.635,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "10:00",
+      "timestamp": "2026-05-20T10:00:46.088675"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.79,
+      "curr_prob": 0.515,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "10:00",
+      "timestamp": "2026-05-20T10:00:46.088710"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-20T08:00:47.388388"
+  "crossing_count": 7,
+  "last_updated": "2026-05-20T10:00:46.089070"
 }
