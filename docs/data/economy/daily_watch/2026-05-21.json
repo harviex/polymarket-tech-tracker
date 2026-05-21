@@ -199,8 +199,63 @@
       "direction": "down",
       "time": "14:00",
       "timestamp": "2026-05-21T14:00:21.491597"
+    },
+    {
+      "event_id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "slug": "openai-1t-ipo-before-2027",
+      "prev_prob": 0.785,
+      "curr_prob": 0.655,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "15:01",
+      "timestamp": "2026-05-21T15:01:15.851592"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.79,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "15:01",
+      "timestamp": "2026-05-21T15:01:15.851776"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.64,
+      "curr_prob": 0.735,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "17:01",
+      "timestamp": "2026-05-21T17:01:56.774659"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.805,
+      "curr_prob": 0.71,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "17:01",
+      "timestamp": "2026-05-21T17:01:56.774805"
+    },
+    {
+      "event_id": "379514",
+      "title": "Anthropic valued higher than OpenAI in 2026?",
+      "slug": "anthropic-valued-higher-than-openai-in-2026",
+      "prev_prob": 0.921,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "17:01",
+      "timestamp": "2026-05-21T17:01:56.774887"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-05-21T14:00:21.491947"
+  "crossing_count": 23,
+  "last_updated": "2026-05-21T17:01:56.775895"
 }
