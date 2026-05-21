@@ -67,8 +67,30 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-05-21T06:00:14.411208"
+    },
+    {
+      "event_id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "slug": "openai-1t-ipo-before-2027",
+      "prev_prob": 0.68,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "08:01",
+      "timestamp": "2026-05-21T08:01:01.702649"
+    },
+    {
+      "event_id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "slug": "elon-musk-trillionaire-before-2027",
+      "prev_prob": 0.915,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "08:01",
+      "timestamp": "2026-05-21T08:01:01.702706"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-05-21T06:00:14.411580"
+  "crossing_count": 8,
+  "last_updated": "2026-05-21T08:01:01.703030"
 }
