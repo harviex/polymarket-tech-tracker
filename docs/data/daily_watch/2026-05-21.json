@@ -18,9 +18,62 @@
           "time": "09:31",
           "prob": 0.785,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "12:37",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.735
+    },
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-21T12:37:44.587150",
+      "history": [
+        {
+          "time": "12:37",
+          "prob": 0.705,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.705
+    },
+    "192790": {
+      "id": "192790",
+      "title": "Anthropic $500B+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-21T12:37:44.587167",
+      "history": [
+        {
+          "time": "12:37",
+          "prob": 0.9835,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "12:37",
+          "prob": 0.9835,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "12:37",
+          "prob": 0.9835,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9835
     }
   }
 }
