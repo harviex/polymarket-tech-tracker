@@ -5,7 +5,7 @@
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/102007",
-      "probability": 0.984,
+      "probability": 0.9845,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.984,
+      "current_prob": 0.9845,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.987,
-      "last_checked_prob": 0.984,
+      "last_checked_prob": 0.9845,
       "history": [
         {
           "time": "15:48",
@@ -83,7 +83,7 @@
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/103636",
-      "probability": 0.9525,
+      "probability": 0.955,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -92,11 +92,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.9525,
+      "current_prob": 0.955,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.9525,
+      "last_checked_prob": 0.955,
       "history": [
         {
           "time": "15:48",
@@ -119,8 +119,8 @@
       "id": "108522",
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
-      "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.932,
+      "url": "https://polymarket.com/event/108522",
+      "probability": 0.9355,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -132,11 +132,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.932,
+      "current_prob": 0.9355,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.932,
+      "last_checked_prob": 0.9355,
       "history": [
         {
           "time": "15:48",
@@ -149,8 +149,8 @@
       "id": "98133",
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
-      "url": "https://polymarket.com/event/98133",
-      "probability": 0.905,
+      "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+      "probability": 0.915,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -261,11 +261,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.915,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "05:18",
@@ -309,7 +309,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.87,
+      "probability": 0.89,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3142,11 +3142,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.87,
+      "current_prob": 0.89,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.87,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "23:38",
@@ -3165,7 +3165,7 @@
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
       "url": "https://polymarket.com/event/190776",
-      "probability": 0.888,
+      "probability": 0.885,
       "option_text": "40%",
       "tags": [
         "tech",
@@ -3552,11 +3552,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.888,
+      "current_prob": 0.885,
       "added_at": "2026-05-15T05:43:08.899914",
       "first_seen": "2026-05-15T05:43:08.899914",
       "peak_prob": 0.9265,
-      "last_checked_prob": 0.888,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "05:43",
@@ -3585,7 +3585,7 @@
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
       "url": "https://polymarket.com/event/57708",
-      "probability": 0.75,
+      "probability": 0.73,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5449,11 +5449,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.73,
       "added_at": "2026-05-15T19:10:53.930203",
       "first_seen": "2026-05-15T19:10:53.930203",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "19:10",
@@ -5471,7 +5471,7 @@
       "id": "183159",
       "title": "Ledger IPO closing market cap above ___ ?",
       "slug": "ledger-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/183159",
+      "url": "https://polymarket.com/event/ledger-ipo-closing-market-cap-above",
       "probability": 0.7,
       "option_text": "$1B",
       "tags": [
@@ -6149,7 +6149,7 @@
       "title": "Will SpaceX or OpenAI IPO first?",
       "slug": "will-spacex-or-openai-first-ipo-before-2028",
       "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-      "probability": 0.9875,
+      "probability": 0.9855,
       "option_text": "SpaceX",
       "tags": [
         "tech",
@@ -6266,11 +6266,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9875,
+      "current_prob": 0.9855,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.9875,
-      "last_checked_prob": 0.9875,
+      "last_checked_prob": 0.9855,
       "history": [
         {
           "time": "17:48",
@@ -6843,8 +6843,8 @@
       "id": "68544",
       "title": "OpenAI $1t+ IPO before 2027?",
       "slug": "openai-1t-ipo-before-2027",
-      "url": "https://polymarket.com/event/68544",
-      "probability": 0.735,
+      "url": "https://polymarket.com/event/openai-1t-ipo-before-2027",
+      "probability": 0.785,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -6969,20 +6969,25 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.735,
+      "current_prob": 0.785,
       "added_at": "2026-05-21T01:54:08.419493",
       "first_seen": "2026-05-21T01:54:08.419493",
-      "peak_prob": 0.735,
-      "last_checked_prob": 0.735,
+      "peak_prob": 0.785,
+      "last_checked_prob": 0.785,
       "history": [
         {
           "time": "01:54",
           "prob": 0.735,
           "reason": "Added to Long-Term (high probability)"
+        },
+        {
+          "time": "05:58",
+          "prob": 0.785,
+          "reason": "Update: 73.5% → 78.5%"
         }
       ]
     }
   },
-  "updated_at": "2026-05-21T01:54:08.419602",
+  "updated_at": "2026-05-21T05:58:31.999272",
   "event_count": 17
 }
