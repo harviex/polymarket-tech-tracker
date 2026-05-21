@@ -254,8 +254,19 @@
       "direction": "down",
       "time": "17:01",
       "timestamp": "2026-05-21T17:01:56.774887"
+    },
+    {
+      "event_id": "68544",
+      "title": "OpenAI $1t+ IPO before 2027?",
+      "slug": "openai-1t-ipo-before-2027",
+      "prev_prob": 0.57,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "19:01",
+      "timestamp": "2026-05-21T19:01:49.654821"
     }
   ],
-  "crossing_count": 23,
-  "last_updated": "2026-05-21T17:01:56.775895"
+  "crossing_count": 24,
+  "last_updated": "2026-05-21T19:01:49.655224"
 }
