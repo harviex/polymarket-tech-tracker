@@ -111,8 +111,74 @@
       "direction": "down",
       "time": "11:00",
       "timestamp": "2026-05-22T11:00:26.250223"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.675,
+      "curr_prob": 0.725,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "12:00",
+      "timestamp": "2026-05-22T12:00:51.591144"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-22T13:01:36.884409"
+    },
+    {
+      "event_id": "428400",
+      "title": "Which companies will have a #1 AI model by December 31?",
+      "slug": "which-companies-will-have-a-1-ai-model-by-december-31",
+      "prev_prob": 0.755,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "13:01",
+      "timestamp": "2026-05-22T13:01:36.884440"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.725,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-05-22T14:00:57.688973"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.7,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-05-22T14:00:57.689016"
+    },
+    {
+      "event_id": "379514",
+      "title": "Anthropic valued higher than OpenAI in 2026?",
+      "slug": "anthropic-valued-higher-than-openai-in-2026",
+      "prev_prob": 0.899,
+      "curr_prob": 0.9005,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "14:00",
+      "timestamp": "2026-05-22T14:00:57.689096"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-05-22T11:00:26.250596"
+  "crossing_count": 16,
+  "last_updated": "2026-05-22T14:00:57.689339"
 }
