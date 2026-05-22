@@ -34,8 +34,19 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-05-23T04:00:21.290879"
+    },
+    {
+      "event_id": "379514",
+      "title": "Anthropic valued higher than OpenAI in 2026?",
+      "slug": "anthropic-valued-higher-than-openai-in-2026",
+      "prev_prob": 0.896,
+      "curr_prob": 0.931,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-05-23T05:01:07.519749"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-23T04:00:21.291130"
+  "crossing_count": 4,
+  "last_updated": "2026-05-23T05:01:07.519971"
 }
