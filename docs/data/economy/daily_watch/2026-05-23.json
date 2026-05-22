@@ -56,8 +56,19 @@
       "direction": "up",
       "time": "06:00",
       "timestamp": "2026-05-23T06:00:59.758871"
+    },
+    {
+      "event_id": "385367",
+      "title": "Anthropic next funding round closed by...?",
+      "slug": "anthropic-next-funding-round-closed-by",
+      "prev_prob": 0.84,
+      "curr_prob": 0.74,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "07:00",
+      "timestamp": "2026-05-23T07:00:57.959046"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-23T06:00:59.759162"
+  "crossing_count": 6,
+  "last_updated": "2026-05-23T07:00:57.959330"
 }
