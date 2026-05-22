@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-22T19:19:13.804192",
+  "updated_at": "2026-05-22T21:01:59.347715",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 14,
@@ -9,7 +9,7 @@
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/102007",
+        "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
         "probability": 0.985,
         "option_text": "$1T",
         "tags": [
@@ -124,7 +124,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+        "url": "https://polymarket.com/event/108522",
         "probability": 0.9215,
         "option_text": "Yes",
         "tags": [
@@ -154,7 +154,7 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+        "url": "https://polymarket.com/event/98133",
         "probability": 0.915,
         "option_text": "Yes",
         "tags": [
@@ -314,7 +314,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.875,
+        "probability": 0.88,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3147,11 +3147,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.88,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.88,
         "history": [
           {
             "time": "23:38",
@@ -3170,7 +3170,7 @@
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
         "url": "https://polymarket.com/event/190776",
-        "probability": 0.93,
+        "probability": 0.938,
         "option_text": "40%",
         "tags": [
           "tech",
@@ -3557,11 +3557,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.93,
+        "current_prob": 0.938,
         "added_at": "2026-05-15T05:43:08.899914",
         "first_seen": "2026-05-15T05:43:08.899914",
         "peak_prob": 0.9795,
-        "last_checked_prob": 0.93,
+        "last_checked_prob": 0.938,
         "history": [
           {
             "time": "05:43",
@@ -5097,8 +5097,8 @@
         "id": "192790",
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
-        "url": "https://polymarket.com/event/192790",
-        "probability": 0.9825,
+        "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
+        "probability": 0.985,
         "option_text": "Yes",
         "tags": [
           "claude-5",
@@ -5209,11 +5209,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9825,
+        "current_prob": 0.985,
         "added_at": "2026-05-21T12:37:44.578371",
         "first_seen": "2026-05-21T12:37:44.578371",
         "peak_prob": 0.9855,
-        "last_checked_prob": 0.9825,
+        "last_checked_prob": 0.985,
         "history": [
           {
             "time": "12:37",
@@ -7019,7 +7019,7 @@
         "id": "100079",
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/100079",
+        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "probability": 0.724,
         "option_text": "Yes",
         "tags": [
@@ -7147,6 +7147,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-22T19:19:13.795490"
+    "updated_at": "2026-05-22T21:01:59.339566"
   }
 }
