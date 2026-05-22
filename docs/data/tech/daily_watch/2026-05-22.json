@@ -78,8 +78,41 @@
       "direction": "up",
       "time": "06:00",
       "timestamp": "2026-05-22T06:00:35.543264"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.7,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-22T08:00:34.260741"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-05-22T08:00:34.260766"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "10:01",
+      "timestamp": "2026-05-22T10:01:20.252725"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-22T06:00:35.543477"
+  "crossing_count": 10,
+  "last_updated": "2026-05-22T10:01:20.253022"
 }
