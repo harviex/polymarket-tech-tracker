@@ -1,6 +1,30 @@
 {
   "date": "2026-05-24",
   "created_at": "2026-05-24T00:01:06.203438",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.7045,
+      "curr_prob": 0.6995,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "06:00",
+      "timestamp": "2026-05-24T06:00:54.221649"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.595,
+      "curr_prob": 0.72,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-05-24T06:00:54.221827"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-24T06:00:54.222008"
 }
