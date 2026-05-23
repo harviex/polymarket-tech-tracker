@@ -1,0 +1,19 @@
+{
+  "date": "2026-05-24",
+  "created_at": "2026-05-24T01:01:08.773995",
+  "crossings": [
+    {
+      "event_id": "117784",
+      "title": "Top Spotify Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.695,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:01",
+      "timestamp": "2026-05-24T01:01:08.773795"
+    }
+  ],
+  "last_updated": "2026-05-24T01:01:08.774003",
+  "crossing_count": 1
+}
