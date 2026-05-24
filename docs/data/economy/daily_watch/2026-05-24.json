@@ -56,8 +56,41 @@
       "direction": "down",
       "time": "12:00",
       "timestamp": "2026-05-24T12:00:24.224970"
+    },
+    {
+      "event_id": "428400",
+      "title": "Which companies will have a #1 AI model by December 31?",
+      "slug": "which-companies-will-have-a-1-ai-model-by-december-31",
+      "prev_prob": 0.81,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "16:00",
+      "timestamp": "2026-05-24T16:00:53.523703"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.68,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-24T16:00:53.523815"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.68,
+      "curr_prob": 0.81,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-24T16:00:53.523828"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-24T12:00:24.225180"
+  "crossing_count": 8,
+  "last_updated": "2026-05-24T16:00:53.524014"
 }
