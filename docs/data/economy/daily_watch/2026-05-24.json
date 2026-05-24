@@ -144,8 +144,30 @@
       "direction": "up",
       "time": "21:01",
       "timestamp": "2026-05-24T21:01:11.647772"
+    },
+    {
+      "event_id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "prev_prob": 0.72,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-05-24T22:00:45.563854"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.72,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "22:00",
+      "timestamp": "2026-05-24T22:00:45.563976"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-05-24T21:01:11.648108"
+  "crossing_count": 15,
+  "last_updated": "2026-05-24T22:00:45.564212"
 }
