@@ -1,6 +1,30 @@
 {
   "date": "2026-05-25",
   "created_at": "2026-05-25T00:00:39.332095",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "01:00",
+      "timestamp": "2026-05-25T01:00:52.824678"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.695,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:00",
+      "timestamp": "2026-05-25T01:00:52.824819"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-05-25T01:00:52.824964"
 }
