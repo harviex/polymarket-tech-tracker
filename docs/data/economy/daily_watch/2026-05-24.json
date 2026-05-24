@@ -166,8 +166,19 @@
       "direction": "up",
       "time": "22:00",
       "timestamp": "2026-05-24T22:00:45.563976"
+    },
+    {
+      "event_id": "432180",
+      "title": "Will __ ships transit the Strait of Hormuz on any day by May 31?",
+      "slug": "will-ships-transit-the-strait-of-hormuz-on-any-day-by-may-31",
+      "prev_prob": 0.8,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "23:00",
+      "timestamp": "2026-05-24T23:00:39.471875"
     }
   ],
-  "crossing_count": 15,
-  "last_updated": "2026-05-24T22:00:45.564212"
+  "crossing_count": 16,
+  "last_updated": "2026-05-24T23:00:39.472142"
 }
