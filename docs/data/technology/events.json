@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-24T19:59:04.026239",
+  "updated_at": "2026-05-24T20:53:31.123779",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 14,
@@ -9,7 +9,7 @@
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/102007",
+        "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
         "probability": 0.9845,
         "option_text": "$1T",
         "tags": [
@@ -159,7 +159,7 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+        "url": "https://polymarket.com/event/98133",
         "probability": 0.9515,
         "option_text": "Yes",
         "tags": [
@@ -318,7 +318,7 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
         "probability": 0.905,
         "option_text": "NVIDIA",
         "tags": [
@@ -3599,7 +3599,7 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
+        "url": "https://polymarket.com/event/193319",
         "probability": 0.973,
         "option_text": "SpaceX",
         "tags": [
@@ -3734,7 +3734,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "url": "https://polymarket.com/event/193337",
         "probability": 0.85,
         "option_text": "$800B",
         "tags": [
@@ -4294,7 +4294,7 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/192788",
+        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
         "probability": 0.775,
         "option_text": "Yes",
         "tags": [
@@ -4559,8 +4559,8 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/57708",
-        "probability": 0.755,
+        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+        "probability": 0.74,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -6335,11 +6335,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.755,
+        "current_prob": 0.74,
         "added_at": "2026-05-21T20:28:15.193331",
         "first_seen": "2026-05-21T20:28:15.193331",
         "peak_prob": 0.755,
-        "last_checked_prob": 0.755,
+        "last_checked_prob": 0.74,
         "history": [
           {
             "time": "20:28",
@@ -6484,7 +6484,7 @@
         "title": "Ledger IPO closing market cap above ___ ?",
         "slug": "ledger-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/183159",
-        "probability": 0.7,
+        "probability": 0.707,
         "option_text": "$1B",
         "tags": [
           "ipos",
@@ -7139,11 +7139,11 @@
         "endDate": "2028-01-01T05:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7,
+        "current_prob": 0.707,
         "added_at": "2026-05-23T15:52:13.746798",
         "first_seen": "2026-05-23T15:52:13.746798",
         "peak_prob": 0.741,
-        "last_checked_prob": 0.7,
+        "last_checked_prob": 0.707,
         "history": [
           {
             "time": "15:52",
@@ -7153,6 +7153,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-24T19:59:04.017277"
+    "updated_at": "2026-05-24T20:53:31.115497"
   }
 }
