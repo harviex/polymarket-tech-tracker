@@ -100,8 +100,41 @@
       "direction": "down",
       "time": "17:00",
       "timestamp": "2026-05-24T17:00:26.042639"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.915,
+      "curr_prob": 0.69,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-24T20:00:44.373205"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.915,
+      "curr_prob": 0.69,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-24T20:00:44.373231"
+    },
+    {
+      "event_id": "404244",
+      "title": "GPU rental prices (B200) hit___ by May 31?",
+      "slug": "gpu-rental-prices-b200-hit-by-may-31",
+      "prev_prob": 0.915,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-05-24T20:00:44.373241"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-05-24T17:00:26.042893"
+  "crossing_count": 12,
+  "last_updated": "2026-05-24T20:00:44.373523"
 }
