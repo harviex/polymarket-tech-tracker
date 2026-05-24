@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-24T18:56:06.541165",
+  "updated_at": "2026-05-24T19:59:04.026239",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 14,
@@ -3175,7 +3175,7 @@
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
         "url": "https://polymarket.com/event/190776",
-        "probability": 0.9295,
+        "probability": 0.935,
         "option_text": "40%",
         "tags": [
           "tech",
@@ -3562,11 +3562,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9295,
+        "current_prob": 0.935,
         "added_at": "2026-05-15T05:43:08.899914",
         "first_seen": "2026-05-15T05:43:08.899914",
         "peak_prob": 0.9795,
-        "last_checked_prob": 0.9295,
+        "last_checked_prob": 0.935,
         "history": [
           {
             "time": "05:43",
@@ -3735,7 +3735,7 @@
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-        "probability": 0.855,
+        "probability": 0.85,
         "option_text": "$800B",
         "tags": [
           "finance",
@@ -4277,11 +4277,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.855,
+        "current_prob": 0.85,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "17:48",
@@ -4431,7 +4431,7 @@
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
         "url": "https://polymarket.com/event/192790",
-        "probability": 0.986,
+        "probability": 0.9855,
         "option_text": "Yes",
         "tags": [
           "claude-5",
@@ -4542,11 +4542,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.986,
+        "current_prob": 0.9855,
         "added_at": "2026-05-21T12:37:44.578371",
         "first_seen": "2026-05-21T12:37:44.578371",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.986,
+        "last_checked_prob": 0.9855,
         "history": [
           {
             "time": "12:37",
@@ -6484,7 +6484,7 @@
         "title": "Ledger IPO closing market cap above ___ ?",
         "slug": "ledger-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/183159",
-        "probability": 0.7085,
+        "probability": 0.7,
         "option_text": "$1B",
         "tags": [
           "ipos",
@@ -7139,11 +7139,11 @@
         "endDate": "2028-01-01T05:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7085,
+        "current_prob": 0.7,
         "added_at": "2026-05-23T15:52:13.746798",
         "first_seen": "2026-05-23T15:52:13.746798",
         "peak_prob": 0.741,
-        "last_checked_prob": 0.7085,
+        "last_checked_prob": 0.7,
         "history": [
           {
             "time": "15:52",
@@ -7153,6 +7153,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-24T18:56:06.532529"
+    "updated_at": "2026-05-24T19:59:04.017277"
   }
 }
