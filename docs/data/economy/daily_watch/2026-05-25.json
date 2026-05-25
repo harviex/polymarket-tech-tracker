@@ -111,8 +111,30 @@
       "direction": "up",
       "time": "14:01",
       "timestamp": "2026-05-25T14:01:16.738564"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.785,
+      "curr_prob": 0.85,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:07",
+      "timestamp": "2026-05-25T16:07:24.902866"
+    },
+    {
+      "event_id": "118455",
+      "title": "ECB rate hike in 2026?",
+      "slug": "ecb-rate-hike-in-2026",
+      "prev_prob": 0.905,
+      "curr_prob": 0.875,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "16:07",
+      "timestamp": "2026-05-25T16:07:24.902934"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-05-25T14:01:16.738816"
+  "crossing_count": 12,
+  "last_updated": "2026-05-25T16:07:24.903238"
 }
