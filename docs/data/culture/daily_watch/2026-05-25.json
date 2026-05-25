@@ -56,8 +56,19 @@
       "direction": "down",
       "time": "09:00",
       "timestamp": "2026-05-25T09:00:39.132088"
+    },
+    {
+      "event_id": "75515",
+      "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
+      "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
+      "prev_prob": 0.958,
+      "curr_prob": 0.8745,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "10:01",
+      "timestamp": "2026-05-25T10:01:04.144727"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-25T09:00:39.132314"
+  "crossing_count": 6,
+  "last_updated": "2026-05-25T10:01:04.144988"
 }
