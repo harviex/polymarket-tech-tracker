@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-25T22:54:55.168026",
+  "updated_at": "2026-05-25T23:53:34.218667",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 13,
@@ -92,7 +92,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9535,
         "option_text": "Yes",
         "tags": [
@@ -318,7 +318,7 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
         "probability": 0.905,
         "option_text": "NVIDIA",
         "tags": [
@@ -4294,8 +4294,8 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/192788",
-        "probability": 0.775,
+        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+        "probability": 0.78,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -4408,11 +4408,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.78,
         "added_at": "2026-05-21T12:37:44.578371",
         "first_seen": "2026-05-21T12:37:44.578371",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "12:37",
@@ -4431,7 +4431,7 @@
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
         "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-        "probability": 0.9875,
+        "probability": 0.987,
         "option_text": "Yes",
         "tags": [
           "claude-5",
@@ -4542,11 +4542,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9875,
+        "current_prob": 0.987,
         "added_at": "2026-05-21T12:37:44.578371",
         "first_seen": "2026-05-21T12:37:44.578371",
         "peak_prob": 0.9875,
-        "last_checked_prob": 0.9875,
+        "last_checked_prob": 0.987,
         "history": [
           {
             "time": "12:37",
@@ -6352,7 +6352,7 @@
         "id": "100079",
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/100079",
+        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "probability": 0.7235,
         "option_text": "Yes",
         "tags": [
@@ -6480,6 +6480,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-25T22:54:55.160421"
+    "updated_at": "2026-05-25T23:53:34.210665"
   }
 }
