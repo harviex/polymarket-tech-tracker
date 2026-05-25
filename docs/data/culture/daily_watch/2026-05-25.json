@@ -45,8 +45,19 @@
       "direction": "up",
       "time": "08:00",
       "timestamp": "2026-05-25T08:00:38.099840"
+    },
+    {
+      "event_id": "117784",
+      "title": "Top Spotify Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.7,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "09:00",
+      "timestamp": "2026-05-25T09:00:39.132088"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-25T08:00:38.100054"
+  "crossing_count": 5,
+  "last_updated": "2026-05-25T09:00:39.132314"
 }
