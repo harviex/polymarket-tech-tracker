@@ -45,8 +45,19 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-05-25T08:00:47.744583"
+    },
+    {
+      "event_id": "118455",
+      "title": "ECB rate hike in 2026?",
+      "slug": "ecb-rate-hike-in-2026",
+      "prev_prob": 0.94,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-05-25T11:00:52.556622"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-25T08:00:47.744826"
+  "crossing_count": 5,
+  "last_updated": "2026-05-25T11:00:52.556912"
 }
