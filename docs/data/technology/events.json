@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-25T18:20:45.574145",
+  "updated_at": "2026-05-25T20:17:04.770819",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 13,
@@ -10,7 +10,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/102007",
-        "probability": 0.9855,
+        "probability": 0.986,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -23,11 +23,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.9855,
+        "current_prob": 0.986,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.988,
-        "last_checked_prob": 0.9855,
+        "last_checked_prob": 0.986,
         "history": [
           {
             "time": "15:48",
@@ -92,7 +92,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9535,
         "option_text": "Yes",
         "tags": [
@@ -129,7 +129,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/108522",
+        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
         "probability": 0.933,
         "option_text": "Yes",
         "tags": [
@@ -159,7 +159,7 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/98133",
+        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
         "probability": 0.9525,
         "option_text": "Yes",
         "tags": [
@@ -3599,8 +3599,8 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/193319",
-        "probability": 0.978,
+        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
+        "probability": 0.9775,
         "option_text": "SpaceX",
         "tags": [
           "tech",
@@ -3717,11 +3717,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.978,
+        "current_prob": 0.9775,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.989,
-        "last_checked_prob": 0.978,
+        "last_checked_prob": 0.9775,
         "history": [
           {
             "time": "17:48",
@@ -4295,7 +4295,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/192788",
-        "probability": 0.775,
+        "probability": 0.765,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -4408,11 +4408,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.765,
         "added_at": "2026-05-21T12:37:44.578371",
         "first_seen": "2026-05-21T12:37:44.578371",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "12:37",
@@ -4430,7 +4430,7 @@
         "id": "192790",
         "title": "Anthropic $500B+ valuation in 2026?",
         "slug": "anthropic-500b-valuation-in-2026",
-        "url": "https://polymarket.com/event/192790",
+        "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
         "probability": 0.987,
         "option_text": "Yes",
         "tags": [
@@ -6480,6 +6480,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-25T18:20:45.566691"
+    "updated_at": "2026-05-25T20:17:04.763223"
   }
 }
