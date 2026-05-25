@@ -45,8 +45,19 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-05-25T08:00:56.151256"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.785,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "12:00",
+      "timestamp": "2026-05-25T12:00:59.952876"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-25T08:00:56.151465"
+  "crossing_count": 5,
+  "last_updated": "2026-05-25T12:00:59.957838"
 }
