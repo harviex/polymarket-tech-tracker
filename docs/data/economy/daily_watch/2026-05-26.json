@@ -34,8 +34,30 @@
       "direction": "down",
       "time": "12:00",
       "timestamp": "2026-05-26T12:00:46.028962"
+    },
+    {
+      "event_id": "333286",
+      "title": "Which DCMs self-certify sports event contracts by June 30?",
+      "slug": "which-dcms-self-certify-sports-event-contracts-by-june-30",
+      "prev_prob": 0.885,
+      "curr_prob": 0.91,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "16:01",
+      "timestamp": "2026-05-26T16:01:11.054871"
+    },
+    {
+      "event_id": "428400",
+      "title": "Which companies will have a #1 AI model by December 31?",
+      "slug": "which-companies-will-have-a-1-ai-model-by-december-31",
+      "prev_prob": 0.785,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:01",
+      "timestamp": "2026-05-26T16:01:11.054913"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-05-26T12:00:46.029277"
+  "crossing_count": 5,
+  "last_updated": "2026-05-26T16:01:11.055171"
 }
