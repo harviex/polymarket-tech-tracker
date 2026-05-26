@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-26T16:34:46.697551",
+  "updated_at": "2026-05-26T19:11:24.605613",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -32,7 +32,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-        "probability": 0.9725,
+        "probability": 0.972,
         "option_text": "$1.2T",
         "tags": [
           "tech",
@@ -45,11 +45,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.9725,
+        "current_prob": 0.972,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.988,
-        "last_checked_prob": 0.9725,
+        "last_checked_prob": 0.972,
         "history": [
           {
             "time": "15:48",
@@ -114,8 +114,8 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.953,
+        "url": "https://polymarket.com/event/103636",
+        "probability": 0.947,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -124,11 +124,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.953,
+        "current_prob": 0.947,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.953,
+        "last_checked_prob": 0.947,
         "history": [
           {
             "time": "15:48",
@@ -151,7 +151,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+        "url": "https://polymarket.com/event/108522",
         "probability": 0.9315,
         "option_text": "Yes",
         "tags": [
@@ -181,8 +181,8 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/98133",
-        "probability": 0.934,
+        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+        "probability": 0.922,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -293,11 +293,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.934,
+        "current_prob": 0.922,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.969,
-        "last_checked_prob": 0.934,
+        "last_checked_prob": 0.922,
         "history": [
           {
             "time": "05:18",
@@ -3196,7 +3196,7 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
+        "url": "https://polymarket.com/event/193319",
         "probability": 0.977,
         "option_text": "SpaceX",
         "tags": [
@@ -3331,7 +3331,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/193337",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
         "probability": 0.85,
         "option_text": "$800B",
         "tags": [
@@ -3892,7 +3892,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/192788",
-        "probability": 0.785,
+        "probability": 0.76,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -4005,11 +4005,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.76,
         "added_at": "2026-05-21T12:37:44.578371",
         "first_seen": "2026-05-21T12:37:44.578371",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.76,
         "history": [
           {
             "time": "12:37",
@@ -4157,7 +4157,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/57708",
-        "probability": 0.815,
+        "probability": 0.82,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -5932,11 +5932,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.815,
+        "current_prob": 0.82,
         "added_at": "2026-05-21T20:28:15.193331",
         "first_seen": "2026-05-21T20:28:15.193331",
         "peak_prob": 0.82,
-        "last_checked_prob": 0.815,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "20:28",
@@ -6077,6 +6077,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-26T16:34:46.690770"
+    "updated_at": "2026-05-26T19:11:24.598139"
   }
 }
