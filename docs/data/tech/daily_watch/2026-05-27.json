@@ -78,8 +78,30 @@
       "direction": "up",
       "time": "14:01",
       "timestamp": "2026-05-27T14:01:08.779222"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.83,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-05-27T21:01:16.413510"
+    },
+    {
+      "event_id": "183159",
+      "title": "Ledger IPO closing market cap above ___ ?",
+      "slug": "ledger-ipo-closing-market-cap-above",
+      "prev_prob": 0.6865,
+      "curr_prob": 0.703,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-05-27T21:01:16.413578"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-05-27T14:01:08.779417"
+  "crossing_count": 9,
+  "last_updated": "2026-05-27T21:01:16.413812"
 }
