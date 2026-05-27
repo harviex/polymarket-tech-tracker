@@ -1,6 +1,19 @@
 {
   "date": "2026-05-28",
   "created_at": "2026-05-28T00:01:12.620868",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "108522",
+      "title": "AI data center moratorium passed before 2027?",
+      "slug": "ai-data-center-moratorium-passed-before-2027",
+      "prev_prob": 0.918,
+      "curr_prob": 0.8205,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "02:00",
+      "timestamp": "2026-05-28T02:00:40.220994"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-28T02:00:40.221206"
 }
