@@ -16,6 +16,20 @@
         }
       ],
       "current_prob": 0.7295
+    },
+    "192790": {
+      "id": "192790",
+      "title": "Anthropic $500B+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-05-28T19:31:18.330401",
+      "history": [
+        {
+          "time": "19:31",
+          "prob": 0.985,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.985
     }
   }
 }

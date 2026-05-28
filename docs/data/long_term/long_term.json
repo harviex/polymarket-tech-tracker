@@ -4,8 +4,8 @@
       "id": "102007",
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/102007",
-      "probability": 0.9895,
+      "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
+      "probability": 0.9835,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.9895,
+      "current_prob": 0.9835,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9895,
+      "last_checked_prob": 0.9835,
       "history": [
         {
           "time": "15:48",
@@ -87,7 +87,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -124,8 +124,8 @@
       "id": "108522",
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
-      "url": "https://polymarket.com/event/108522",
-      "probability": 0.8285,
+      "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
+      "probability": 0.829,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -137,11 +137,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.8285,
+      "current_prob": 0.829,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.8285,
+      "last_checked_prob": 0.829,
       "history": [
         {
           "time": "15:48",
@@ -160,7 +160,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.9295,
+      "probability": 0.934,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -271,11 +271,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9295,
+      "current_prob": 0.934,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.969,
-      "last_checked_prob": 0.9295,
+      "last_checked_prob": 0.934,
       "history": [
         {
           "time": "05:18",
@@ -318,8 +318,8 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.865,
+      "url": "https://polymarket.com/event/57711",
+      "probability": 0.875,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3152,11 +3152,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.865,
+      "current_prob": 0.875,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "23:38",
@@ -3314,7 +3314,7 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/193337",
+      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.855,
       "option_text": "$800B",
       "tags": [
@@ -3875,7 +3875,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-      "probability": 0.805,
+      "probability": 0.815,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3988,11 +3988,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.805,
+      "current_prob": 0.815,
       "added_at": "2026-05-21T12:37:44.578371",
       "first_seen": "2026-05-21T12:37:44.578371",
       "peak_prob": 0.855,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "12:37",
@@ -4006,141 +4006,12 @@
         }
       ]
     },
-    "192790": {
-      "id": "192790",
-      "title": "Anthropic $500B+ valuation in 2026?",
-      "slug": "anthropic-500b-valuation-in-2026",
-      "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
-      "probability": 0.985,
-      "option_text": "Yes",
-      "tags": [
-        "claude-5",
-        "ai",
-        "tech",
-        "big-tech",
-        "anthropic"
-      ],
-      "markets": [
-        {
-          "id": "1294391",
-          "question": "Anthropic $500B+ valuation in 2026?",
-          "conditionId": "0x99d6a3a8470ef464a5be2afe6872b97a22f5935f60c0303e0365d6a7e96e5605",
-          "slug": "anthropic-500b-valuation-in-2026",
-          "resolutionSource": "",
-          "endDate": "2026-12-31T00:00:00Z",
-          "liquidity": "13647.21045",
-          "startDate": "2026-01-29T20:37:08.179203Z",
-          "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
-          "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/anthropic-ipo-closing-market-cap-jdfele1g0krx.png",
-          "description": "This market will resolve to \"Yes\" if Anthropic achieves a public valuation of $500 billion USD or more, or raises a private funding round that values the company at $500 billion or more between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nTo qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. \n\nThe resolution source will be Anthropic's official communications, however a consensus of credible reporting may also be used.",
-          "outcomes": "[\"Yes\", \"No\"]",
-          "outcomePrices": "[\"0.9835\", \"0.0165\"]",
-          "volume": "29402.193461999977",
-          "active": true,
-          "closed": false,
-          "marketMakerAddress": "",
-          "createdAt": "2026-01-29T18:18:36.755843Z",
-          "updatedAt": "2026-05-21T12:35:34.436899Z",
-          "new": false,
-          "featured": false,
-          "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-          "archived": false,
-          "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-          "restricted": true,
-          "groupItemTitle": "",
-          "groupItemThreshold": "0",
-          "questionID": "0x70fd9dea6f3205e234cc2eb50ae963de32deb3ec6c2ae30b13a8dae2fb2de607",
-          "enableOrderBook": true,
-          "orderPriceMinTickSize": 0.001,
-          "orderMinSize": 5,
-          "volumeNum": 29402.193461999977,
-          "liquidityNum": 13647.21045,
-          "endDateIso": "2026-12-31",
-          "startDateIso": "2026-01-29",
-          "hasReviewedDates": true,
-          "volume24hr": 1606,
-          "volume1wk": 3471.063859,
-          "volume1mo": 15326.814890999998,
-          "volume1yr": 29402.193462000003,
-          "clobTokenIds": "[\"25168552976283310912525972874511113773856625915244891078917895931067106659854\", \"18451853872596288009380325430737821674293883873458354513887021731566080507233\"]",
-          "umaBond": "500",
-          "umaReward": "5",
-          "volume24hrClob": 1606,
-          "volume1wkClob": 3471.063859,
-          "volume1moClob": 15326.814890999998,
-          "volume1yrClob": 29402.193462000003,
-          "volumeClob": 29402.193461999977,
-          "liquidityClob": 13647.21045,
-          "makerBaseFee": 1000,
-          "takerBaseFee": 1000,
-          "customLiveness": 0,
-          "acceptingOrders": true,
-          "negRisk": false,
-          "negRiskRequestID": "",
-          "ready": false,
-          "funded": false,
-          "acceptingOrdersTimestamp": "2026-01-29T20:36:02Z",
-          "cyom": false,
-          "competitive": 0.8105223634264752,
-          "pagerDutyNotificationEnabled": false,
-          "approved": true,
-          "rewardsMinSize": 0,
-          "rewardsMaxSpread": 0,
-          "spread": 0.005,
-          "oneDayPriceChange": -0.005,
-          "oneWeekPriceChange": 0.002,
-          "oneMonthPriceChange": 0.041,
-          "lastTradePrice": 0.988,
-          "bestBid": 0.981,
-          "bestAsk": 0.986,
-          "automaticallyActive": true,
-          "clearBookOnStart": true,
-          "manualActivation": false,
-          "negRiskOther": false,
-          "umaResolutionStatuses": "[]",
-          "pendingDeployment": false,
-          "deploying": false,
-          "deployingTimestamp": "2026-01-29T20:34:47.866733Z",
-          "rfqEnabled": false,
-          "holdingRewardsEnabled": false,
-          "feesEnabled": true,
-          "requiresTranslation": false,
-          "feeType": "tech_fees",
-          "feeSchedule": {
-            "exponent": 1,
-            "rate": 0.04,
-            "takerOnly": true,
-            "rebateRate": 0.25
-          }
-        }
-      ],
-      "resolutionSource": "",
-      "description": "This market will resolve to \"Yes\" if Anthropic achieves a public valuation of $500 billion USD or more, or raises a private funding round that values the company at $500 billion or more between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nTo qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. \n\nThe resolution source will be Anthropic's official communications, however a consensus of credible reporting may also be used.",
-      "volume": 29402.193461999977,
-      "liquidity": 13650.46063,
-      "startDate": "2026-01-29T20:37:54.021689Z",
-      "endDate": "2026-12-31T00:00:00Z",
-      "active": true,
-      "closed": false,
-      "current_prob": 0.985,
-      "added_at": "2026-05-21T12:37:44.578371",
-      "first_seen": "2026-05-21T12:37:44.578371",
-      "peak_prob": 0.9875,
-      "last_checked_prob": 0.985,
-      "history": [
-        {
-          "time": "12:37",
-          "prob": 0.9835,
-          "reason": "Added to Long-Term (high probability)"
-        }
-      ]
-    },
     "57708": {
       "id": "57708",
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "url": "https://polymarket.com/event/57708",
-      "probability": 0.815,
+      "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+      "probability": 0.82,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5915,11 +5786,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.815,
+      "current_prob": 0.82,
       "added_at": "2026-05-21T20:28:15.193331",
       "first_seen": "2026-05-21T20:28:15.193331",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.82,
       "history": [
         {
           "time": "20:28",
@@ -5933,7 +5804,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/100079",
-      "probability": 0.8,
+      "probability": 0.879,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -6046,11 +5917,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.879,
       "added_at": "2026-05-27T08:54:56.607033",
       "first_seen": "2026-05-27T08:54:56.607033",
-      "peak_prob": 0.871,
-      "last_checked_prob": 0.8,
+      "peak_prob": 0.879,
+      "last_checked_prob": 0.879,
       "history": [
         {
           "time": "08:54",
@@ -6066,6 +5937,11 @@
           "time": "05:57",
           "prob": 0.757,
           "reason": "Update: 82.3% → 75.7%"
+        },
+        {
+          "time": "19:31",
+          "prob": 0.879,
+          "reason": "Update: 80.0% → 87.9%"
         }
       ]
     },
@@ -6074,7 +5950,7 @@
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
       "url": "https://polymarket.com/event/190776",
-      "probability": 0.7295,
+      "probability": 0.7325,
       "option_text": "40%",
       "tags": [
         "tech",
@@ -6452,11 +6328,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7295,
+      "current_prob": 0.7325,
       "added_at": "2026-05-28T09:48:43.416223",
       "first_seen": "2026-05-28T09:48:43.416223",
       "peak_prob": 0.7335,
-      "last_checked_prob": 0.7295,
+      "last_checked_prob": 0.7325,
       "history": [
         {
           "time": "09:48",
@@ -6466,6 +6342,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-28T16:50:40.605222",
+  "updated_at": "2026-05-28T19:31:18.322531",
   "event_count": 17
 }
