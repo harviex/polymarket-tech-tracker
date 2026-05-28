@@ -5,7 +5,7 @@
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/102007",
-      "probability": 0.981,
+      "probability": 0.9895,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -18,11 +18,11 @@
       ],
       "volume": 1535158.713991,
       "liquidity": 66418.25348,
-      "current_prob": 0.981,
+      "current_prob": 0.9895,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.988,
-      "last_checked_prob": 0.981,
+      "peak_prob": 0.9895,
+      "last_checked_prob": 0.9895,
       "history": [
         {
           "time": "15:48",
@@ -87,8 +87,8 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-      "probability": 0.96,
+      "url": "https://polymarket.com/event/103636",
+      "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -97,11 +97,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.96,
+      "current_prob": 0.9605,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.96,
+      "last_checked_prob": 0.9605,
       "history": [
         {
           "time": "15:48",
@@ -125,7 +125,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/108522",
-      "probability": 0.8285,
+      "probability": 0.829,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -137,11 +137,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.8285,
+      "current_prob": 0.829,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.8285,
+      "last_checked_prob": 0.829,
       "history": [
         {
           "time": "15:48",
@@ -160,7 +160,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.9365,
+      "probability": 0.937,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -271,11 +271,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9365,
+      "current_prob": 0.937,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.969,
-      "last_checked_prob": 0.9365,
+      "last_checked_prob": 0.937,
       "history": [
         {
           "time": "05:18",
@@ -3315,7 +3315,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/193337",
-      "probability": 0.86,
+      "probability": 0.855,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -3857,11 +3857,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.86,
+      "current_prob": 0.855,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.86,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "17:48",
@@ -4010,7 +4010,7 @@
       "id": "192790",
       "title": "Anthropic $500B+ valuation in 2026?",
       "slug": "anthropic-500b-valuation-in-2026",
-      "url": "https://polymarket.com/event/anthropic-500b-valuation-in-2026",
+      "url": "https://polymarket.com/event/192790",
       "probability": 0.985,
       "option_text": "Yes",
       "tags": [
@@ -5932,8 +5932,8 @@
       "id": "100079",
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.724,
+      "url": "https://polymarket.com/event/100079",
+      "probability": 0.7505,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -6046,11 +6046,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.724,
+      "current_prob": 0.7505,
       "added_at": "2026-05-27T08:54:56.607033",
       "first_seen": "2026-05-27T08:54:56.607033",
       "peak_prob": 0.871,
-      "last_checked_prob": 0.724,
+      "last_checked_prob": 0.7505,
       "history": [
         {
           "time": "08:54",
@@ -6074,7 +6074,7 @@
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
       "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "probability": 0.7295,
+      "probability": 0.7335,
       "option_text": "40%",
       "tags": [
         "tech",
@@ -6452,11 +6452,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7295,
+      "current_prob": 0.7335,
       "added_at": "2026-05-28T09:48:43.416223",
       "first_seen": "2026-05-28T09:48:43.416223",
-      "peak_prob": 0.7295,
-      "last_checked_prob": 0.7295,
+      "peak_prob": 0.7335,
+      "last_checked_prob": 0.7335,
       "history": [
         {
           "time": "09:48",
@@ -6466,6 +6466,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-28T09:48:43.416326",
+  "updated_at": "2026-05-28T12:58:24.183547",
   "event_count": 17
 }
