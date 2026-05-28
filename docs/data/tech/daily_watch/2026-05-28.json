@@ -45,8 +45,30 @@
       "direction": "down",
       "time": "14:00",
       "timestamp": "2026-05-28T14:00:53.452826"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.78,
+      "curr_prob": 0.82,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-28T16:00:53.418580"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.6805,
+      "curr_prob": 0.751,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-05-28T16:00:53.418647"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-28T14:00:53.453038"
+  "crossing_count": 6,
+  "last_updated": "2026-05-28T16:00:53.418867"
 }
