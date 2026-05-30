@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-30T09:07:09.954450",
+  "updated_at": "2026-05-30T11:08:30.350269",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 12,
@@ -9,8 +9,8 @@
         "id": "102007",
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/102007",
-        "probability": 0.985,
+        "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
+        "probability": 0.9865,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -23,11 +23,11 @@
         ],
         "volume": 1535158.713991,
         "liquidity": 66418.25348,
-        "current_prob": 0.985,
+        "current_prob": 0.9865,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.985,
+        "last_checked_prob": 0.9865,
         "history": [
           {
             "time": "15:48",
@@ -164,8 +164,8 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/98133",
-        "probability": 0.929,
+        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+        "probability": 0.9295,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -276,11 +276,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.929,
+        "current_prob": 0.9295,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.969,
-        "last_checked_prob": 0.929,
+        "last_checked_prob": 0.9295,
         "history": [
           {
             "time": "05:18",
@@ -323,7 +323,7 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "url": "https://polymarket.com/event/57711",
         "probability": 0.89,
         "option_text": "NVIDIA",
         "tags": [
@@ -3185,7 +3185,7 @@
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
         "url": "https://polymarket.com/event/193319",
-        "probability": 0.9755,
+        "probability": 0.975,
         "option_text": "SpaceX",
         "tags": [
           "tech",
@@ -3302,11 +3302,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9755,
+        "current_prob": 0.975,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.989,
-        "last_checked_prob": 0.9755,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "17:48",
@@ -3879,7 +3879,7 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/192788",
+        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
         "probability": 0.805,
         "option_text": "Yes",
         "tags": [
@@ -6362,6 +6362,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-30T09:07:09.948368"
+    "updated_at": "2026-05-30T11:08:30.343402"
   }
 }
