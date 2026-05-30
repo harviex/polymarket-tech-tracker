@@ -56,8 +56,19 @@
       "direction": "up",
       "time": "10:01",
       "timestamp": "2026-05-30T10:01:09.814076"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.8095,
+      "curr_prob": 0.794,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-05-30T11:00:59.950273"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-05-30T10:01:09.814314"
+  "crossing_count": 6,
+  "last_updated": "2026-05-30T11:00:59.950518"
 }
