@@ -1,6 +1,19 @@
 {
   "date": "2026-05-30",
   "created_at": "2026-05-30T00:00:19.520026",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "280375",
+      "title": "Will Neymar play in the World Cup?",
+      "slug": "will-neymar-play-in-the-world-cup",
+      "prev_prob": 0.895,
+      "curr_prob": 0.925,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "23:00",
+      "timestamp": "2026-05-30T23:00:52.745294"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-05-30T23:00:52.745474"
 }
