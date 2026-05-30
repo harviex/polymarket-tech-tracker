@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-30T16:50:24.602668",
+  "updated_at": "2026-05-30T17:53:44.725263",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 12,
@@ -92,7 +92,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9605,
         "option_text": "Yes",
         "tags": [
@@ -324,7 +324,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.915,
+        "probability": 0.905,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3157,11 +3157,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.915,
+        "current_prob": 0.905,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.915,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "23:38",
@@ -3319,7 +3319,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "url": "https://polymarket.com/event/193337",
         "probability": 0.825,
         "option_text": "$800B",
         "tags": [
@@ -4015,8 +4015,8 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-        "probability": 0.805,
+        "url": "https://polymarket.com/event/57708",
+        "probability": 0.8,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -5791,11 +5791,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.805,
+        "current_prob": 0.8,
         "added_at": "2026-05-21T20:28:15.193331",
         "first_seen": "2026-05-21T20:28:15.193331",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.805,
+        "last_checked_prob": 0.8,
         "history": [
           {
             "time": "20:28",
@@ -5964,7 +5964,7 @@
         "id": "190776",
         "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
         "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
-        "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
+        "url": "https://polymarket.com/event/190776",
         "probability": 0.8345,
         "option_text": "40%",
         "tags": [
@@ -6362,6 +6362,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-30T16:50:24.594560"
+    "updated_at": "2026-05-30T17:53:44.717886"
   }
 }
