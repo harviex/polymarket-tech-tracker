@@ -160,7 +160,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/98133",
-      "probability": 0.9515,
+      "probability": 0.951,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -271,11 +271,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9515,
+      "current_prob": 0.951,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.969,
-      "last_checked_prob": 0.9515,
+      "last_checked_prob": 0.951,
       "history": [
         {
           "time": "05:18",
@@ -319,7 +319,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.89,
+      "probability": 0.885,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3152,11 +3152,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.89,
+      "current_prob": 0.885,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.89,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "23:38",
@@ -5803,7 +5803,7 @@
       "id": "100079",
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "url": "https://polymarket.com/event/100079",
+      "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "probability": 0.788,
       "option_text": "Yes",
       "tags": [
@@ -5960,7 +5960,7 @@
       "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
       "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
       "url": "https://polymarket.com/event/gemini-3-score-on-frontiermath-benchmark-by-june-30",
-      "probability": 0.84,
+      "probability": 0.8345,
       "option_text": "40%",
       "tags": [
         "tech",
@@ -6338,11 +6338,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.8345,
       "added_at": "2026-05-28T09:48:43.416223",
       "first_seen": "2026-05-28T09:48:43.416223",
       "peak_prob": 0.8755,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.8345,
       "history": [
         {
           "time": "09:48",
@@ -6357,6 +6357,6 @@
       ]
     }
   },
-  "updated_at": "2026-05-30T21:56:08.598772",
+  "updated_at": "2026-05-30T22:45:22.623215",
   "event_count": 17
 }
