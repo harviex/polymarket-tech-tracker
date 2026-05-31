@@ -45,8 +45,19 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-05-31T06:00:32.705359"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-05-31T09:00:35.136657"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-05-31T06:00:32.705603"
+  "crossing_count": 5,
+  "last_updated": "2026-05-31T09:00:35.136920"
 }
