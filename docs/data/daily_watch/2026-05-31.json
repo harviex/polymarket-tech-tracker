@@ -21,6 +21,20 @@
         }
       ],
       "current_prob": 0.7325
+    },
+    "102007": {
+      "id": "102007",
+      "title": "SpaceX IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-05-31T22:44:41.423544",
+      "history": [
+        {
+          "time": "22:44",
+          "prob": 0.989,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.989
     }
   }
 }
