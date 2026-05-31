@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
-      "probability": 0.9705,
+      "probability": 0.9715,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.9705,
+      "current_prob": 0.9715,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9705,
-      "last_checked_prob": 0.9705,
+      "peak_prob": 0.9715,
+      "last_checked_prob": 0.9715,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.8525,
+      "probability": 0.859,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.8525,
+      "current_prob": 0.859,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.8525,
+      "last_checked_prob": 0.859,
       "history": [
         {
           "time": "15:48",
@@ -70,7 +70,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.9475,
+      "probability": 0.95,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -78,11 +78,11 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.9475,
+      "current_prob": 0.95,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
       "peak_prob": 0.9775,
-      "last_checked_prob": 0.9475,
+      "last_checked_prob": 0.95,
       "history": [
         {
           "time": "00:05",
@@ -96,7 +96,7 @@
       "title": "Will Neymar play in the 2026 FIFA World Cup?",
       "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
       "url": "https://polymarket.com/event/will-neymar-play-in-the-world-cup",
-      "probability": 0.905,
+      "probability": 0.885,
       "option_text": "Yes",
       "tags": [
         "neymar",
@@ -110,11 +110,11 @@
       ],
       "volume": 1144354.9592139928,
       "liquidity": 20303.8894,
-      "current_prob": 0.905,
+      "current_prob": 0.885,
       "added_at": "2026-05-19T00:06:18.280031",
       "first_seen": "2026-05-19T00:06:18.280031",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "00:06",
@@ -148,7 +148,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.74,
+      "probability": 0.735,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -158,11 +158,11 @@
       ],
       "volume": 254492.61997600005,
       "liquidity": 14470.15993,
-      "current_prob": 0.74,
+      "current_prob": 0.735,
       "added_at": "2026-05-22T00:08:11.870713",
       "first_seen": "2026-05-22T00:08:11.870713",
       "peak_prob": 0.81,
-      "last_checked_prob": 0.74,
+      "last_checked_prob": 0.735,
       "history": [
         {
           "time": "00:08",
@@ -175,8 +175,34 @@
           "reason": "Update: 80.5% → 75.0%"
         }
       ]
+    },
+    "333162": {
+      "id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "url": "https://polymarket.com/event/which-characters-will-appear-in-avengers-doomsday",
+      "probability": 0.815,
+      "option_text": "Hugh Jackman as Wolverine",
+      "tags": [
+        "movies",
+        "pop-culture"
+      ],
+      "volume": 42194.038787000005,
+      "liquidity": 16591.73895,
+      "current_prob": 0.815,
+      "added_at": "2026-06-01T00:06:09.678147",
+      "first_seen": "2026-06-01T00:06:09.678147",
+      "peak_prob": 0.815,
+      "last_checked_prob": 0.815,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.815,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-05-31T00:06:09.491343",
-  "event_count": 5
+  "updated_at": "2026-06-01T00:06:09.678298",
+  "event_count": 6
 }
