@@ -67,8 +67,19 @@
       "direction": "up",
       "time": "20:00",
       "timestamp": "2026-06-01T20:00:29.179680"
+    },
+    {
+      "event_id": "183159",
+      "title": "Ledger IPO closing market cap above ___ ?",
+      "slug": "ledger-ipo-closing-market-cap-above",
+      "prev_prob": 0.7075,
+      "curr_prob": 0.6995,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-06-01T21:01:04.482839"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-01T20:00:29.179911"
+  "crossing_count": 7,
+  "last_updated": "2026-06-01T21:01:04.483068"
 }
