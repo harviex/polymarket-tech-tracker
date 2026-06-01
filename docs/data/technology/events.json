@@ -1,50 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-05-31T23:52:55.143559",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "183159",
-          "title": "Ledger IPO closing market cap above ___ ?",
-          "tags": [],
-          "first_seen": "2026-05-31T02:00:06.005587",
-          "history": [
-            {
-              "time": "02:00",
-              "prob": 0.7325,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "09:38",
-              "prob": 0.712,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7325
-        },
-        {
-          "id": "102007",
-          "title": "SpaceX IPO closing market cap above ___ ?",
-          "tags": [],
-          "first_seen": "2026-05-31T22:44:41.423544",
-          "history": [
-            {
-              "time": "22:44",
-              "prob": 0.989,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.989
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-01T02:08:18.703558",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 11,
     "events": [
@@ -167,7 +124,7 @@
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
         "url": "https://polymarket.com/event/98133",
-        "probability": 0.9245,
+        "probability": 0.9205,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -278,11 +235,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9245,
+        "current_prob": 0.9205,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.969,
-        "last_checked_prob": 0.9245,
+        "last_checked_prob": 0.9205,
         "history": [
           {
             "time": "05:18",
@@ -326,7 +283,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.885,
+        "probability": 0.89,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3159,11 +3116,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.89,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "23:38",
@@ -3186,8 +3143,8 @@
         "id": "193319",
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
-        "url": "https://polymarket.com/event/will-spacex-or-openai-first-ipo-before-2028",
-        "probability": 0.977,
+        "url": "https://polymarket.com/event/193319",
+        "probability": 0.9765,
         "option_text": "SpaceX",
         "tags": [
           "tech",
@@ -3304,11 +3261,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.977,
+        "current_prob": 0.9765,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.989,
-        "last_checked_prob": 0.977,
+        "last_checked_prob": 0.9765,
         "history": [
           {
             "time": "17:48",
@@ -3321,8 +3278,8 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-        "probability": 0.825,
+        "url": "https://polymarket.com/event/193337",
+        "probability": 0.83,
         "option_text": "$800B",
         "tags": [
           "finance",
@@ -3864,11 +3821,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.83,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.83,
         "history": [
           {
             "time": "17:48",
@@ -3881,7 +3838,7 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+        "url": "https://polymarket.com/event/192788",
         "probability": 0.835,
         "option_text": "Yes",
         "tags": [
@@ -4017,8 +3974,8 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/57708",
-        "probability": 0.82,
+        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+        "probability": 0.815,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -5793,11 +5750,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.82,
+        "current_prob": 0.815,
         "added_at": "2026-05-21T20:28:15.193331",
         "first_seen": "2026-05-21T20:28:15.193331",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.82,
+        "last_checked_prob": 0.815,
         "history": [
           {
             "time": "20:28",
@@ -5811,7 +5768,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/100079",
-        "probability": 0.778,
+        "probability": 0.787,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5924,11 +5881,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.778,
+        "current_prob": 0.787,
         "added_at": "2026-05-27T08:54:56.607033",
         "first_seen": "2026-05-27T08:54:56.607033",
         "peak_prob": 0.879,
-        "last_checked_prob": 0.778,
+        "last_checked_prob": 0.787,
         "history": [
           {
             "time": "08:54",
@@ -6364,6 +6321,6 @@
         ]
       }
     ],
-    "updated_at": "2026-05-31T23:52:55.136134"
+    "updated_at": "2026-06-01T02:08:18.696077"
   }
 }
