@@ -1,6 +1,19 @@
 {
   "date": "2026-06-03",
   "created_at": "2026-06-03T00:00:29.587630",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.74,
+      "curr_prob": 0.465,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "03:00",
+      "timestamp": "2026-06-03T03:00:56.780280"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-03T03:00:56.780499"
 }
