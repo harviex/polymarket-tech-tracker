@@ -56,8 +56,30 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-06-02T17:00:59.537052"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.8205,
+      "curr_prob": 0.5515,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-06-02T22:00:40.730157"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.8205,
+      "curr_prob": 0.5515,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "22:00",
+      "timestamp": "2026-06-02T22:00:40.730184"
     }
   ],
-  "last_updated": "2026-06-02T17:00:59.537263",
-  "crossing_count": 5
+  "last_updated": "2026-06-02T22:00:40.730391",
+  "crossing_count": 7
 }
