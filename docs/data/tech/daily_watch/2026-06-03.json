@@ -34,8 +34,41 @@
       "direction": "down",
       "time": "10:00",
       "timestamp": "2026-06-03T10:00:26.183493"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.943,
+      "curr_prob": 0.634,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-06-03T18:00:33.502887"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.943,
+      "curr_prob": 0.634,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-06-03T18:00:33.502916"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.943,
+      "curr_prob": 0.634,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-06-03T18:00:33.502926"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-06-03T10:00:26.183705"
+  "crossing_count": 6,
+  "last_updated": "2026-06-03T18:00:33.503172"
 }
