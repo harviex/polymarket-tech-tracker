@@ -1,6 +1,19 @@
 {
   "date": "2026-06-03",
   "created_at": "2026-06-03T00:00:34.510587",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "183159",
+      "title": "Ledger IPO closing market cap above ___ ?",
+      "slug": "ledger-ipo-closing-market-cap-above",
+      "prev_prob": 0.7105,
+      "curr_prob": 0.6805,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-06-03T08:00:54.218101"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-03T08:00:54.218302"
 }
