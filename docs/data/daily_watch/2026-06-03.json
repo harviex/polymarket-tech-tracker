@@ -1,0 +1,19 @@
+{
+  "date": "2026-06-03",
+  "events": {
+    "183159": {
+      "id": "183159",
+      "title": "Ledger IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-06-03T00:21:15.971878",
+      "history": [
+        {
+          "time": "00:21",
+          "prob": 0.7105,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7105
+    }
+  }
+}
