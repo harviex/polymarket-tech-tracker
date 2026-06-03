@@ -23,8 +23,30 @@
       "direction": "up",
       "time": "22:01",
       "timestamp": "2026-06-03T22:01:15.193721"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.945,
+      "curr_prob": 0.87,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "23:01",
+      "timestamp": "2026-06-03T23:01:28.187277"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.705,
+      "curr_prob": 0.655,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "23:01",
+      "timestamp": "2026-06-03T23:01:28.187400"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-03T22:01:15.194059"
+  "crossing_count": 4,
+  "last_updated": "2026-06-03T23:01:28.187622"
 }
