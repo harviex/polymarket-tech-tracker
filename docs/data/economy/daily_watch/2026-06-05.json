@@ -23,8 +23,30 @@
       "direction": "up",
       "time": "03:01",
       "timestamp": "2026-06-05T03:01:13.824328"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-06-05T04:01:15.734974"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.73,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-06-05T04:01:15.735043"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-05T03:01:13.824525"
+  "crossing_count": 4,
+  "last_updated": "2026-06-05T04:01:15.735268"
 }
