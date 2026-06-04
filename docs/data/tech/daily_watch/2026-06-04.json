@@ -45,8 +45,30 @@
       "direction": "down",
       "time": "18:00",
       "timestamp": "2026-06-04T18:00:59.321209"
+    },
+    {
+      "event_id": "108522",
+      "title": "AI data center moratorium passed before 2027?",
+      "slug": "ai-data-center-moratorium-passed-before-2027",
+      "prev_prob": 0.899,
+      "curr_prob": 0.9035,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-06-04T19:00:14.718245"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.6875,
+      "curr_prob": 0.706,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-06-04T19:00:14.718286"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-06-04T18:00:59.321454"
+  "crossing_count": 6,
+  "last_updated": "2026-06-04T19:00:14.718467"
 }
