@@ -89,8 +89,19 @@
       "direction": "down",
       "time": "15:00",
       "timestamp": "2026-06-04T15:00:42.598520"
+    },
+    {
+      "event_id": "108522",
+      "title": "AI data center moratorium passed before 2027?",
+      "slug": "ai-data-center-moratorium-passed-before-2027",
+      "prev_prob": 0.8995,
+      "curr_prob": 0.9005,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "16:02",
+      "timestamp": "2026-06-04T16:02:51.237614"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-06-04T15:00:42.598764"
+  "crossing_count": 9,
+  "last_updated": "2026-06-04T16:02:51.237889"
 }
