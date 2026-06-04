@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-04",
+  "events": {
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-04T09:38:23.326349",
+      "history": [
+        {
+          "time": "09:38",
+          "prob": 0.701,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.701
+    }
+  }
+}
