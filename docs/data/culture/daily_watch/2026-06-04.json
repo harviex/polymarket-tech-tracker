@@ -23,8 +23,30 @@
       "direction": "down",
       "time": "05:00",
       "timestamp": "2026-06-04T05:00:46.631484"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.485,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "08:00",
+      "timestamp": "2026-06-04T08:00:39.448568"
+    },
+    {
+      "event_id": "108522",
+      "title": "AI data center moratorium passed before 2027?",
+      "slug": "ai-data-center-moratorium-passed-before-2027",
+      "prev_prob": 0.8755,
+      "curr_prob": 0.903,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "08:00",
+      "timestamp": "2026-06-04T08:00:39.448604"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-04T05:00:46.631690"
+  "crossing_count": 4,
+  "last_updated": "2026-06-04T08:00:39.448958"
 }
