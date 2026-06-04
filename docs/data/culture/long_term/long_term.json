@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
-      "probability": 0.964,
+      "probability": 0.9805,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.964,
+      "current_prob": 0.9805,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9765,
-      "last_checked_prob": 0.964,
+      "peak_prob": 0.9805,
+      "last_checked_prob": 0.9805,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.875,
+      "probability": 0.903,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.875,
+      "current_prob": 0.903,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.903,
       "history": [
         {
           "time": "15:48",
@@ -96,7 +96,7 @@
       "title": "Will Neymar play in the 2026 FIFA World Cup?",
       "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
       "url": "https://polymarket.com/event/will-neymar-play-in-the-world-cup",
-      "probability": 0.895,
+      "probability": 0.885,
       "option_text": "Yes",
       "tags": [
         "neymar",
@@ -110,11 +110,11 @@
       ],
       "volume": 1144354.9592139928,
       "liquidity": 20303.8894,
-      "current_prob": 0.895,
+      "current_prob": 0.885,
       "added_at": "2026-05-19T00:06:18.280031",
       "first_seen": "2026-05-19T00:06:18.280031",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.895,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "00:06",
@@ -170,6 +170,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-04T00:12:22.638450",
+  "updated_at": "2026-06-05T00:05:24.924639",
   "event_count": 5
 }
