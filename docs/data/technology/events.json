@@ -1,71 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-04T22:58:46.165600",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "192788",
-          "title": "OpenAI $1T+ valuation in 2026?",
-          "tags": [],
-          "first_seen": "2026-06-04T09:38:23.326349",
-          "history": [
-            {
-              "time": "09:38",
-              "prob": 0.701,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "12:34",
-              "prob": 0.701,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.701
-        },
-        {
-          "id": "102007",
-          "title": "SpaceX IPO closing market cap above ___ ?",
-          "tags": [],
-          "first_seen": "2026-06-04T19:09:57.878202",
-          "history": [
-            {
-              "time": "19:09",
-              "prob": 0.99,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "21:20",
-              "prob": 0.9895,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "21:20",
-              "prob": 0.9895,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "21:20",
-              "prob": 0.9895,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            }
-          ],
-          "current_prob": 0.99
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-05T00:02:40.724432",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
     "events": [
@@ -3208,7 +3144,7 @@
         "title": "Will SpaceX or OpenAI IPO first?",
         "slug": "will-spacex-or-openai-first-ipo-before-2028",
         "url": "https://polymarket.com/event/193319",
-        "probability": 0.9865,
+        "probability": 0.9885,
         "option_text": "SpaceX",
         "tags": [
           "tech",
@@ -3325,11 +3261,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9865,
+        "current_prob": 0.9885,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9865,
+        "last_checked_prob": 0.9885,
         "history": [
           {
             "time": "17:48",
@@ -5695,8 +5631,8 @@
         "id": "100079",
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/100079",
-        "probability": 0.8155,
+        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+        "probability": 0.8075,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5809,11 +5745,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8155,
+        "current_prob": 0.8075,
         "added_at": "2026-05-27T08:54:56.607033",
         "first_seen": "2026-05-27T08:54:56.607033",
         "peak_prob": 0.879,
-        "last_checked_prob": 0.8155,
+        "last_checked_prob": 0.8075,
         "history": [
           {
             "time": "08:54",
@@ -5857,7 +5793,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-        "probability": 0.9895,
+        "probability": 0.99,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -7561,11 +7497,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9895,
+        "current_prob": 0.99,
         "added_at": "2026-06-04T21:20:04.712224",
         "first_seen": "2026-06-04T21:20:04.712224",
-        "peak_prob": 0.9895,
-        "last_checked_prob": 0.9895,
+        "peak_prob": 0.99,
+        "last_checked_prob": 0.99,
         "history": [
           {
             "time": "21:20",
@@ -7575,6 +7511,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-04T22:58:46.156347"
+    "updated_at": "2026-06-05T00:02:40.715515"
   }
 }
