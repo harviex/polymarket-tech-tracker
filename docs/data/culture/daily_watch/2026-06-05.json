@@ -34,8 +34,19 @@
       "direction": "up",
       "time": "08:01",
       "timestamp": "2026-06-05T08:01:09.527171"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.765,
+      "curr_prob": 0.485,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-06-05T12:01:14.984345"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-06-05T08:01:09.527407"
+  "crossing_count": 4,
+  "last_updated": "2026-06-05T12:01:14.984581"
 }
