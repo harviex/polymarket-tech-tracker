@@ -49,6 +49,36 @@
         }
       ],
       "current_prob": 0.7445
+    },
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-05T15:44:50.114513",
+      "history": [
+        {
+          "time": "15:44",
+          "prob": 0.724,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.724
+    },
+    "193319": {
+      "id": "193319",
+      "title": "Will SpaceX or OpenAI IPO first?",
+      "tags": [],
+      "first_seen": "2026-06-05T15:44:50.114526",
+      "history": [
+        {
+          "time": "15:44",
+          "prob": 0.9895,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9895
     }
   }
 }
