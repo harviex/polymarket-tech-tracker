@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.914,
+      "probability": 0.909,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.914,
+      "current_prob": 0.909,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.914,
+      "last_checked_prob": 0.909,
       "history": [
         {
           "time": "15:48",
@@ -198,6 +198,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-06T06:14:58.876219",
+  "updated_at": "2026-06-06T06:22:50.485017",
   "event_count": 6
 }
