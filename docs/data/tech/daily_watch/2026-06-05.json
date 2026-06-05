@@ -23,8 +23,30 @@
       "direction": "up",
       "time": "12:01",
       "timestamp": "2026-06-05T12:01:15.131375"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.8105,
+      "curr_prob": 0.786,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "13:00",
+      "timestamp": "2026-06-05T13:00:36.631922"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.734,
+      "curr_prob": 0.6765,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "13:00",
+      "timestamp": "2026-06-05T13:00:36.631971"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-05T12:01:15.131553"
+  "crossing_count": 4,
+  "last_updated": "2026-06-05T13:00:36.632157"
 }
