@@ -12,8 +12,19 @@
       "direction": "down",
       "time": "11:00",
       "timestamp": "2026-06-06T11:00:43.857178"
+    },
+    {
+      "event_id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "slug": "openai-ipo-closing-market-cap-above",
+      "prev_prob": 0.775,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-06-06T13:00:45.129659"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-06-06T11:00:43.857453"
+  "crossing_count": 2,
+  "last_updated": "2026-06-06T13:00:45.129920"
 }
