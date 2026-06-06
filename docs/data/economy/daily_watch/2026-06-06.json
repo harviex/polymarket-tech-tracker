@@ -67,8 +67,30 @@
       "direction": "down",
       "time": "16:00",
       "timestamp": "2026-06-06T16:00:51.401682"
+    },
+    {
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-06-06T17:00:57.807457"
+    },
+    {
+      "event_id": "314452",
+      "title": "Bank of Mexico Decision in June",
+      "slug": "bank-of-mexico-decision-in-june",
+      "prev_prob": 0.889,
+      "curr_prob": 0.9285,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-06-06T17:00:57.807587"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-06T16:00:51.401920"
+  "crossing_count": 8,
+  "last_updated": "2026-06-06T17:00:57.807822"
 }
