@@ -3139,7 +3139,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.84,
+      "probability": 0.845,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -3681,11 +3681,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.845,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "17:48",
@@ -3700,6 +3700,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-06T17:14:34.610034",
+  "updated_at": "2026-06-06T18:59:38.552210",
   "event_count": 17
 }
