@@ -89,8 +89,30 @@
       "direction": "up",
       "time": "17:00",
       "timestamp": "2026-06-06T17:00:57.807587"
+    },
+    {
+      "event_id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "slug": "openai-ipo-closing-market-cap-above",
+      "prev_prob": 0.8,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-06-06T21:01:28.902600"
+    },
+    {
+      "event_id": "314452",
+      "title": "Bank of Mexico Decision in June",
+      "slug": "bank-of-mexico-decision-in-june",
+      "prev_prob": 0.9295,
+      "curr_prob": 0.887,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-06-06T21:01:28.902698"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-06-06T17:00:57.807822"
+  "crossing_count": 10,
+  "last_updated": "2026-06-06T21:01:28.902947"
 }
