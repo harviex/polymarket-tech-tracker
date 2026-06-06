@@ -67,8 +67,30 @@
       "direction": "up",
       "time": "13:00",
       "timestamp": "2026-06-06T13:00:44.104437"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.62,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "14:00",
+      "timestamp": "2026-06-06T14:00:48.776465"
+    },
+    {
+      "event_id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "slug": "openai-ipo-closing-market-cap-above",
+      "prev_prob": 0.8,
+      "curr_prob": 0.775,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-06-06T14:00:48.776543"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-06T13:00:44.104651"
+  "crossing_count": 8,
+  "last_updated": "2026-06-06T14:00:48.776750"
 }
