@@ -5,7 +5,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.885,
+      "probability": 0.905,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -18,11 +18,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.885,
+      "current_prob": 0.905,
       "added_at": "2026-05-08T00:06:02.118479",
       "first_seen": "2026-05-08T00:06:02.118479",
       "peak_prob": 0.95,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "00:06",
@@ -66,7 +66,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.925,
+      "probability": 0.9215,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -77,11 +77,11 @@
       ],
       "volume": 454045.38372900005,
       "liquidity": 11772.1638,
-      "current_prob": 0.925,
+      "current_prob": 0.9215,
       "added_at": "2026-05-08T00:06:02.118479",
       "first_seen": "2026-05-08T00:06:02.118479",
       "peak_prob": 0.96,
-      "last_checked_prob": 0.925,
+      "last_checked_prob": 0.9215,
       "history": [
         {
           "time": "00:06",
@@ -143,7 +143,7 @@
       "title": "Bank of England decision in June?",
       "slug": "bank-of-england-decision-in-june-221",
       "url": "https://polymarket.com/event/bank-of-england-decision-in-june-221",
-      "probability": 0.986,
+      "probability": 0.9775,
       "option_text": "No change",
       "tags": [
         "economy",
@@ -154,11 +154,11 @@
       ],
       "volume": 78504.60796100003,
       "liquidity": 21825.68808,
-      "current_prob": 0.986,
+      "current_prob": 0.9775,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.986,
+      "last_checked_prob": 0.9775,
       "history": [
         {
           "time": "00:05",
@@ -197,7 +197,7 @@
       "title": "Bank of Russia decision in June?",
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
-      "probability": 0.935,
+      "probability": 0.92,
       "option_text": "Decrease",
       "tags": [
         "economy",
@@ -209,11 +209,11 @@
       ],
       "volume": 47290.08493000002,
       "liquidity": 6863.72615,
-      "current_prob": 0.935,
+      "current_prob": 0.92,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.935,
+      "last_checked_prob": 0.92,
       "history": [
         {
           "time": "00:05",
@@ -247,7 +247,7 @@
       "title": "Fed Decision in July?",
       "slug": "fed-decision-in-july-181",
       "url": "https://polymarket.com/event/fed-decision-in-july-181",
-      "probability": 0.935,
+      "probability": 0.945,
       "option_text": "No change",
       "tags": [
         "fomc",
@@ -260,11 +260,11 @@
       ],
       "volume": 4808824.680928059,
       "liquidity": 441285.33042,
-      "current_prob": 0.935,
+      "current_prob": 0.945,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.935,
-      "last_checked_prob": 0.935,
+      "peak_prob": 0.945,
+      "last_checked_prob": 0.945,
       "history": [
         {
           "time": "00:05",
@@ -311,7 +311,7 @@
       "title": "Bank of Mexico Decision in June",
       "slug": "bank-of-mexico-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-mexico-decision-in-june",
-      "probability": 0.9295,
+      "probability": 0.938,
       "option_text": "No change",
       "tags": [
         "Global-Rates",
@@ -322,11 +322,11 @@
       ],
       "volume": 10475.326836999999,
       "liquidity": 4968.02014,
-      "current_prob": 0.9295,
+      "current_prob": 0.938,
       "added_at": "2026-05-14T00:05:36.342034",
       "first_seen": "2026-05-14T00:05:36.342034",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.9295,
+      "last_checked_prob": 0.938,
       "history": [
         {
           "time": "00:05",
@@ -371,7 +371,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.845,
+      "probability": 0.84,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -387,11 +387,11 @@
       ],
       "volume": 1494411.8879680005,
       "liquidity": 18949.3209,
-      "current_prob": 0.845,
+      "current_prob": 0.84,
       "added_at": "2026-05-22T00:08:23.791104",
       "first_seen": "2026-05-22T00:08:23.791104",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "00:08",
@@ -444,7 +444,7 @@
       "title": "Will Anthropic or OpenAI IPO first?",
       "slug": "will-anthropic-or-openai-ipo-first",
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
-      "probability": 0.76,
+      "probability": 0.755,
       "option_text": "Anthropic",
       "tags": [
         "openai",
@@ -460,11 +460,11 @@
       ],
       "volume": 91038.09824600001,
       "liquidity": 9090.7681,
-      "current_prob": 0.76,
+      "current_prob": 0.755,
       "added_at": "2026-06-03T00:06:24.783814",
       "first_seen": "2026-06-03T00:06:24.783814",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.76,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "00:06",
@@ -483,7 +483,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.714,
+      "probability": 0.8135,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -497,16 +497,21 @@
       ],
       "volume": 32243311.557980057,
       "liquidity": 1739639.03091,
-      "current_prob": 0.714,
+      "current_prob": 0.8135,
       "added_at": "2026-06-06T06:15:13.990601",
       "first_seen": "2026-06-06T06:15:13.990601",
-      "peak_prob": 0.7145,
-      "last_checked_prob": 0.714,
+      "peak_prob": 0.8135,
+      "last_checked_prob": 0.8135,
       "history": [
         {
           "time": "06:15",
           "prob": 0.7145,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.8135,
+          "reason": "Update: 71.4% → 81.3%"
         }
       ]
     },
@@ -542,6 +547,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-06T06:23:28.782298",
+  "updated_at": "2026-06-07T00:06:00.814537",
   "event_count": 14
 }
