@@ -1,173 +1,41 @@
 {
   "date": "2026-06-06",
-  "created_at": "2026-06-06T06:23:46.304450",
+  "created_at": "2026-06-06T03:05:52.886712",
   "crossings": [
     {
-      "event_id": "192788",
-      "title": "OpenAI $1T+ valuation in 2026?",
-      "slug": "openai-1t-valuation-in-2026",
-      "prev_prob": 0.629,
-      "curr_prob": 0.706,
-      "threshold": 0.7,
-      "direction": "up",
-      "time": "08:00",
-      "timestamp": "2026-06-06T08:00:42.978714"
-    },
-    {
-      "event_id": "57708",
-      "title": "Which company has second best AI model end of June?",
-      "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "prev_prob": 0.88,
-      "curr_prob": 0.645,
-      "threshold": 0.8,
+      "event_id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "prev_prob": 0.905,
+      "curr_prob": 0.89,
+      "threshold": 0.9,
       "direction": "down",
-      "time": "11:00",
-      "timestamp": "2026-06-06T11:00:40.314283"
-    },
-    {
-      "event_id": "57708",
-      "title": "Which company has second best AI model end of June?",
-      "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "prev_prob": 0.88,
-      "curr_prob": 0.645,
-      "threshold": 0.7,
-      "direction": "down",
-      "time": "11:00",
-      "timestamp": "2026-06-06T11:00:40.314309"
-    },
-    {
-      "event_id": "192788",
-      "title": "OpenAI $1T+ valuation in 2026?",
-      "slug": "openai-1t-valuation-in-2026",
-      "prev_prob": 0.706,
-      "curr_prob": 0.6865,
-      "threshold": 0.7,
-      "direction": "down",
-      "time": "11:00",
-      "timestamp": "2026-06-06T11:00:40.314373"
-    },
-    {
-      "event_id": "193337",
-      "title": "OpenAI IPO closing market cap above ___ ?",
-      "slug": "openai-ipo-closing-market-cap-above",
-      "prev_prob": 0.84,
-      "curr_prob": 0.77,
-      "threshold": 0.8,
-      "direction": "down",
-      "time": "11:00",
-      "timestamp": "2026-06-06T11:00:40.314392"
-    },
-    {
-      "event_id": "193337",
-      "title": "OpenAI IPO closing market cap above ___ ?",
-      "slug": "openai-ipo-closing-market-cap-above",
-      "prev_prob": 0.775,
-      "curr_prob": 0.8,
-      "threshold": 0.8,
-      "direction": "up",
-      "time": "13:00",
-      "timestamp": "2026-06-06T13:00:44.104437"
-    },
-    {
-      "event_id": "57708",
-      "title": "Which company has second best AI model end of June?",
-      "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "prev_prob": 0.62,
-      "curr_prob": 0.73,
-      "threshold": 0.7,
-      "direction": "up",
-      "time": "14:00",
-      "timestamp": "2026-06-06T14:00:48.776465"
-    },
-    {
-      "event_id": "193337",
-      "title": "OpenAI IPO closing market cap above ___ ?",
-      "slug": "openai-ipo-closing-market-cap-above",
-      "prev_prob": 0.8,
-      "curr_prob": 0.775,
-      "threshold": 0.8,
-      "direction": "down",
-      "time": "14:00",
-      "timestamp": "2026-06-06T14:00:48.776543"
-    },
-    {
-      "event_id": "192788",
-      "title": "OpenAI $1T+ valuation in 2026?",
-      "slug": "openai-1t-valuation-in-2026",
-      "prev_prob": 0.638,
-      "curr_prob": 0.72,
-      "threshold": 0.7,
-      "direction": "up",
-      "time": "16:00",
-      "timestamp": "2026-06-06T16:00:49.790185"
-    },
-    {
-      "event_id": "193337",
-      "title": "OpenAI IPO closing market cap above ___ ?",
-      "slug": "openai-ipo-closing-market-cap-above",
-      "prev_prob": 0.78,
-      "curr_prob": 0.805,
-      "threshold": 0.8,
-      "direction": "up",
-      "time": "16:00",
-      "timestamp": "2026-06-06T16:00:49.790215"
+      "time": "03:05",
+      "timestamp": "2026-06-06T03:05:52.886521"
     },
     {
       "event_id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "prev_prob": 0.895,
+      "prev_prob": 0.89,
       "curr_prob": 0.905,
       "threshold": 0.9,
       "direction": "up",
-      "time": "17:00",
-      "timestamp": "2026-06-06T17:00:52.338680"
+      "time": "04:04",
+      "timestamp": "2026-06-06T04:04:05.799501"
     },
     {
       "event_id": "192788",
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
-      "prev_prob": 0.722,
-      "curr_prob": 0.656,
+      "prev_prob": 0.7615,
+      "curr_prob": 0.6715,
       "threshold": 0.7,
       "direction": "down",
-      "time": "18:00",
-      "timestamp": "2026-06-06T18:00:49.473872"
-    },
-    {
-      "event_id": "193337",
-      "title": "OpenAI IPO closing market cap above ___ ?",
-      "slug": "openai-ipo-closing-market-cap-above",
-      "prev_prob": 0.8,
-      "curr_prob": 0.795,
-      "threshold": 0.8,
-      "direction": "down",
-      "time": "21:00",
-      "timestamp": "2026-06-06T21:00:58.989822"
-    },
-    {
-      "event_id": "57708",
-      "title": "Which company has second best AI model end of June?",
-      "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "prev_prob": 0.745,
-      "curr_prob": 0.685,
-      "threshold": 0.7,
-      "direction": "down",
-      "time": "22:01",
-      "timestamp": "2026-06-06T22:01:01.945274"
-    },
-    {
-      "event_id": "193337",
-      "title": "OpenAI IPO closing market cap above ___ ?",
-      "slug": "openai-ipo-closing-market-cap-above",
-      "prev_prob": 0.795,
-      "curr_prob": 0.8,
-      "threshold": 0.8,
-      "direction": "up",
-      "time": "22:01",
-      "timestamp": "2026-06-06T22:01:01.945352"
+      "time": "04:04",
+      "timestamp": "2026-06-06T04:04:05.799573"
     }
   ],
-  "crossing_count": 15,
-  "last_updated": "2026-06-06T22:01:01.945577"
+  "last_updated": "2026-06-06T04:04:05.799764",
+  "crossing_count": 3
 }
