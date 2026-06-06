@@ -89,8 +89,30 @@
       "direction": "down",
       "time": "14:00",
       "timestamp": "2026-06-06T14:00:48.776543"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.638,
+      "curr_prob": 0.72,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-06-06T16:00:49.790185"
+    },
+    {
+      "event_id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "slug": "openai-ipo-closing-market-cap-above",
+      "prev_prob": 0.78,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "16:00",
+      "timestamp": "2026-06-06T16:00:49.790215"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-06-06T14:00:48.776750"
+  "crossing_count": 10,
+  "last_updated": "2026-06-06T16:00:49.790425"
 }
