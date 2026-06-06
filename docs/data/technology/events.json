@@ -1,111 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-05T23:55:55.847628",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 4,
-      "events": [
-        {
-          "id": "102007",
-          "title": "SpaceX IPO closing market cap above ___ ?",
-          "tags": [],
-          "first_seen": "2026-06-05T05:05:39.730589",
-          "history": [
-            {
-              "time": "05:05",
-              "prob": 0.99,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "08:59",
-              "prob": 0.9845,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "08:59",
-              "prob": 0.9845,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "08:59",
-              "prob": 0.9845,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            },
-            {
-              "time": "19:26",
-              "prob": 0.9885,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.99
-        },
-        {
-          "id": "100079",
-          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "tags": [],
-          "first_seen": "2026-06-05T12:06:56.958663",
-          "history": [
-            {
-              "time": "12:06",
-              "prob": 0.7445,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7445
-        },
-        {
-          "id": "192788",
-          "title": "OpenAI $1T+ valuation in 2026?",
-          "tags": [],
-          "first_seen": "2026-06-05T15:44:50.114513",
-          "history": [
-            {
-              "time": "15:44",
-              "prob": 0.724,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "19:26",
-              "prob": 0.762,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "23:55",
-              "prob": 0.706,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.724
-        },
-        {
-          "id": "193319",
-          "title": "Will SpaceX or OpenAI IPO first?",
-          "tags": [],
-          "first_seen": "2026-06-05T15:44:50.114526",
-          "history": [
-            {
-              "time": "15:44",
-              "prob": 0.9895,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.9895
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-06T02:02:09.618760",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -227,7 +123,7 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
+        "url": "https://polymarket.com/event/98133",
         "probability": 0.925,
         "option_text": "Yes",
         "tags": [
@@ -5600,7 +5496,7 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/192788",
+        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
         "probability": 0.706,
         "option_text": "Yes",
         "tags": [
@@ -5728,6 +5624,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-05T23:55:55.840641"
+    "updated_at": "2026-06-06T02:02:09.612111"
   }
 }
