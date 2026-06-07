@@ -32,9 +32,46 @@
           "time": "17:00",
           "prob": 0.99,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "21:58",
+          "prob": 0.99,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "21:58",
+          "prob": 0.99,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "21:58",
+          "prob": 0.99,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.989
+    },
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-07T21:58:34.584829",
+      "history": [
+        {
+          "time": "21:58",
+          "prob": 0.74,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.74
     }
   }
 }
