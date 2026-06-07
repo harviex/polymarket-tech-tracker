@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
-      "probability": 0.98,
+      "probability": 0.976,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.98,
+      "current_prob": 0.976,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.9805,
-      "last_checked_prob": 0.98,
+      "last_checked_prob": 0.976,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.915,
+      "probability": 0.9135,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.915,
+      "current_prob": 0.9135,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.915,
+      "last_checked_prob": 0.9135,
       "history": [
         {
           "time": "15:48",
@@ -70,7 +70,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.9825,
+      "probability": 0.973,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -78,11 +78,11 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.9825,
+      "current_prob": 0.973,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
       "peak_prob": 0.9825,
-      "last_checked_prob": 0.9825,
+      "last_checked_prob": 0.973,
       "history": [
         {
           "time": "00:05",
@@ -170,6 +170,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-07T00:05:58.112888",
+  "updated_at": "2026-06-08T00:05:49.367400",
   "event_count": 5
 }
