@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-07T02:04:16.863826",
+  "updated_at": "2026-06-07T06:54:22.653401",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -52,7 +52,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/103636",
-        "probability": 0.962,
+        "probability": 0.9615,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -61,11 +61,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.962,
+        "current_prob": 0.9615,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.962,
+        "last_checked_prob": 0.9615,
         "history": [
           {
             "time": "15:48",
@@ -89,7 +89,7 @@
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
         "url": "https://polymarket.com/event/108522",
-        "probability": 0.916,
+        "probability": 0.9155,
         "option_text": "Yes",
         "tags": [
           "pop-culture",
@@ -101,11 +101,11 @@
         ],
         "volume": 47755.81452399998,
         "liquidity": 10999.1322,
-        "current_prob": 0.916,
+        "current_prob": 0.9155,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.951,
-        "last_checked_prob": 0.916,
+        "last_checked_prob": 0.9155,
         "history": [
           {
             "time": "15:48",
@@ -283,7 +283,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.91,
+        "probability": 0.935,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3116,11 +3116,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.91,
+        "current_prob": 0.935,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.91,
+        "last_checked_prob": 0.935,
         "history": [
           {
             "time": "23:38",
@@ -3705,6 +3705,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-07T02:04:16.859353"
+    "updated_at": "2026-06-07T06:54:22.649174"
   }
 }
