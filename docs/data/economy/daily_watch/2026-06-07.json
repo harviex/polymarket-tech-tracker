@@ -100,8 +100,19 @@
       "direction": "up",
       "time": "20:00",
       "timestamp": "2026-06-07T20:00:18.370423"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.685,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-06-07T21:00:24.479857"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-06-07T20:00:18.370818"
+  "crossing_count": 10,
+  "last_updated": "2026-06-07T21:00:24.480132"
 }
