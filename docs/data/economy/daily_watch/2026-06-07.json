@@ -12,8 +12,19 @@
       "direction": "up",
       "time": "08:01",
       "timestamp": "2026-06-07T08:01:10.421750"
+    },
+    {
+      "event_id": "428400",
+      "title": "Which companies will have a #1 AI model by December 31?",
+      "slug": "which-companies-will-have-a-1-ai-model-by-december-31",
+      "prev_prob": 0.705,
+      "curr_prob": 0.65,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "09:01",
+      "timestamp": "2026-06-07T09:01:03.331793"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-06-07T08:01:10.422050"
+  "crossing_count": 2,
+  "last_updated": "2026-06-07T09:01:03.332077"
 }
