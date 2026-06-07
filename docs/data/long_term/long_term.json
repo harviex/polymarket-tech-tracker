@@ -46,7 +46,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9615,
       "option_text": "Yes",
       "tags": [
@@ -83,8 +83,8 @@
       "id": "108522",
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
-      "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.914,
+      "url": "https://polymarket.com/event/108522",
+      "probability": 0.9135,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -96,11 +96,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.914,
+      "current_prob": 0.9135,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.914,
+      "last_checked_prob": 0.9135,
       "history": [
         {
           "time": "15:48",
@@ -118,8 +118,8 @@
       "id": "98133",
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
-      "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.9275,
+      "url": "https://polymarket.com/event/98133",
+      "probability": 0.9285,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -230,11 +230,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9275,
+      "current_prob": 0.9285,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.969,
-      "last_checked_prob": 0.9275,
+      "last_checked_prob": 0.9285,
       "history": [
         {
           "time": "05:18",
@@ -277,8 +277,8 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/57711",
-      "probability": 0.915,
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+      "probability": 0.905,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3111,11 +3111,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.915,
+      "current_prob": 0.905,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.915,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "23:38",
@@ -3138,7 +3138,7 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/193337",
+      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.835,
       "option_text": "$800B",
       "tags": [
@@ -3704,7 +3704,7 @@
       "title": "SpaceX IPO closing market cap above ___ ?",
       "slug": "spacex-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-      "probability": 0.989,
+      "probability": 0.99,
       "option_text": "$1T",
       "tags": [
         "tech",
@@ -5403,11 +5403,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.989,
+      "current_prob": 0.99,
       "added_at": "2026-06-07T13:12:21.691428",
       "first_seen": "2026-06-07T13:12:21.691428",
-      "peak_prob": 0.989,
-      "last_checked_prob": 0.989,
+      "peak_prob": 0.99,
+      "last_checked_prob": 0.99,
       "history": [
         {
           "time": "13:12",
@@ -5417,6 +5417,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-07T13:12:21.691558",
+  "updated_at": "2026-06-07T15:15:18.070352",
   "event_count": 17
 }
