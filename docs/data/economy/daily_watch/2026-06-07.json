@@ -56,8 +56,30 @@
       "direction": "down",
       "time": "16:01",
       "timestamp": "2026-06-07T16:01:12.279763"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.7965,
+      "curr_prob": 0.808,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "18:00",
+      "timestamp": "2026-06-07T18:00:22.146871"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.71,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:00",
+      "timestamp": "2026-06-07T18:00:22.147004"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-06-07T16:01:12.280075"
+  "crossing_count": 7,
+  "last_updated": "2026-06-07T18:00:22.147258"
 }
