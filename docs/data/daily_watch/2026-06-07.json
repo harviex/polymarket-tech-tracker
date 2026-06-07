@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-07",
+  "events": {
+    "102007": {
+      "id": "102007",
+      "title": "SpaceX IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-06-07T13:12:21.698031",
+      "history": [
+        {
+          "time": "13:12",
+          "prob": 0.989,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "13:12",
+          "prob": 0.989,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "13:12",
+          "prob": 0.989,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.989
+    }
+  }
+}
