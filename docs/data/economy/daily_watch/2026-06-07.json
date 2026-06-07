@@ -1,6 +1,19 @@
 {
   "date": "2026-06-07",
   "created_at": "2026-06-07T00:00:55.378188",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "428400",
+      "title": "Which companies will have a #1 AI model by December 31?",
+      "slug": "which-companies-will-have-a-1-ai-model-by-december-31",
+      "prev_prob": 0.655,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "08:01",
+      "timestamp": "2026-06-07T08:01:10.421750"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-07T08:01:10.422050"
 }
