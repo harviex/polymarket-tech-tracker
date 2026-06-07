@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-07T06:54:22.653401",
+  "updated_at": "2026-06-07T09:53:13.673959",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -88,7 +88,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/108522",
+        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
         "probability": 0.9155,
         "option_text": "Yes",
         "tags": [
@@ -123,8 +123,8 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-        "probability": 0.9225,
+        "url": "https://polymarket.com/event/98133",
+        "probability": 0.927,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -235,11 +235,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9225,
+        "current_prob": 0.927,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
         "peak_prob": 0.969,
-        "last_checked_prob": 0.9225,
+        "last_checked_prob": 0.927,
         "history": [
           {
             "time": "05:18",
@@ -282,8 +282,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
-        "probability": 0.935,
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "probability": 0.91,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3116,11 +3116,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.935,
+        "current_prob": 0.91,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.935,
+        "last_checked_prob": 0.91,
         "history": [
           {
             "time": "23:38",
@@ -3143,7 +3143,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/193337",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
         "probability": 0.835,
         "option_text": "$800B",
         "tags": [
@@ -3705,6 +3705,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-07T06:54:22.649174"
+    "updated_at": "2026-06-07T09:53:13.669655"
   }
 }
