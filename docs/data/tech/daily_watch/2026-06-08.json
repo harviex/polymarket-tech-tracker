@@ -1,6 +1,19 @@
 {
   "date": "2026-06-08",
   "created_at": "2026-06-08T00:00:26.516557",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.6825,
+      "curr_prob": 0.742,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-06-08T06:00:25.951734"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-08T06:00:25.951973"
 }
