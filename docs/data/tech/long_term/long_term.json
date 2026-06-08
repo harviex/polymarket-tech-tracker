@@ -5,7 +5,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.9265,
+      "probability": 0.9385,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -116,11 +116,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9265,
+      "current_prob": 0.9385,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.96,
-      "last_checked_prob": 0.9265,
+      "last_checked_prob": 0.9385,
       "history": [
         {
           "time": "23:25",
@@ -149,7 +149,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.865,
+      "probability": 0.87,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -258,11 +258,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.865,
+      "current_prob": 0.87,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.875,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "23:25",
@@ -409,7 +409,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.9135,
+      "probability": 0.935,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -521,11 +521,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9135,
+      "current_prob": 0.935,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.9455,
-      "last_checked_prob": 0.9135,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "23:25",
@@ -544,7 +544,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.905,
+      "probability": 0.91,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -557,11 +557,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.905,
+      "current_prob": 0.91,
       "added_at": "2026-05-08T00:06:00.948889",
       "first_seen": "2026-05-08T00:06:00.948889",
       "peak_prob": 0.95,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.91,
       "history": [
         {
           "time": "00:06",
@@ -595,7 +595,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.835,
+      "probability": 0.83,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -611,11 +611,11 @@
       ],
       "volume": 1494411.8879680005,
       "liquidity": 18949.3209,
-      "current_prob": 0.835,
+      "current_prob": 0.83,
       "added_at": "2026-05-22T00:08:14.873568",
       "first_seen": "2026-05-22T00:08:14.873568",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "00:08",
@@ -623,8 +623,38 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+      "probability": 0.726,
+      "option_text": "Yes",
+      "tags": [
+        "tech",
+        "openai",
+        "big-tech",
+        "gpt",
+        "ai",
+        "gpt-5"
+      ],
+      "volume": 25523.92330699988,
+      "liquidity": 1019.73248,
+      "current_prob": 0.726,
+      "added_at": "2026-06-09T00:05:40.483158",
+      "first_seen": "2026-06-09T00:05:40.483158",
+      "peak_prob": 0.726,
+      "last_checked_prob": 0.726,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.726,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-06-08T00:05:22.545528",
-  "event_count": 6
+  "updated_at": "2026-06-09T00:05:40.483285",
+  "event_count": 7
 }
