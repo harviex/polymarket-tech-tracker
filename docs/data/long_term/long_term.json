@@ -84,7 +84,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/108522",
-      "probability": 0.9185,
+      "probability": 0.921,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -96,11 +96,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9185,
+      "current_prob": 0.921,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.9185,
+      "last_checked_prob": 0.921,
       "history": [
         {
           "time": "15:48",
@@ -119,7 +119,7 @@
       "title": "Elon Musk trillionaire before 2027?",
       "slug": "elon-musk-trillionaire-before-2027",
       "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-      "probability": 0.928,
+      "probability": 0.95,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -230,11 +230,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.928,
+      "current_prob": 0.95,
       "added_at": "2026-05-07T05:18:47.281501",
       "first_seen": "2026-05-07T05:18:47.281501",
       "peak_prob": 0.969,
-      "last_checked_prob": 0.928,
+      "last_checked_prob": 0.95,
       "history": [
         {
           "time": "05:18",
@@ -3704,7 +3704,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-      "probability": 0.7445,
+      "probability": 0.721,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3817,11 +3817,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7445,
+      "current_prob": 0.721,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.7465,
-      "last_checked_prob": 0.7445,
+      "last_checked_prob": 0.721,
       "history": [
         {
           "time": "21:58",
@@ -3831,6 +3831,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-08T02:09:30.020981",
+  "updated_at": "2026-06-08T07:18:22.597493",
   "event_count": 17
 }
