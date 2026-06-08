@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
-      "probability": 0.976,
+      "probability": 0.9835,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.976,
+      "current_prob": 0.9835,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9805,
-      "last_checked_prob": 0.976,
+      "peak_prob": 0.9835,
+      "last_checked_prob": 0.9835,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.9135,
+      "probability": 0.935,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9135,
+      "current_prob": 0.935,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.9135,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "15:48",
@@ -70,7 +70,7 @@
       "title": "Who will win Top Chef Season 23?",
       "slug": "who-will-win-top-chef-season-23",
       "url": "https://polymarket.com/event/who-will-win-top-chef-season-23",
-      "probability": 0.973,
+      "probability": 0.984,
       "option_text": "Rhoda Magbitang",
       "tags": [
         "pop-culture",
@@ -78,11 +78,11 @@
       ],
       "volume": 80453.74964200001,
       "liquidity": 26338.26158,
-      "current_prob": 0.973,
+      "current_prob": 0.984,
       "added_at": "2026-05-10T00:05:52.504234",
       "first_seen": "2026-05-10T00:05:52.504234",
-      "peak_prob": 0.9825,
-      "last_checked_prob": 0.973,
+      "peak_prob": 0.984,
+      "last_checked_prob": 0.984,
       "history": [
         {
           "time": "00:05",
@@ -168,8 +168,36 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "106016": {
+      "id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "probability": 0.76,
+      "option_text": "Danielle Haim",
+      "tags": [
+        "pop-culture",
+        "taylor-swift",
+        "nfl",
+        "music"
+      ],
+      "volume": 304685.987565,
+      "liquidity": 8250.29777,
+      "current_prob": 0.76,
+      "added_at": "2026-06-09T00:05:40.516954",
+      "first_seen": "2026-06-09T00:05:40.516954",
+      "peak_prob": 0.76,
+      "last_checked_prob": 0.76,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.76,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-06-08T00:05:49.367400",
-  "event_count": 5
+  "updated_at": "2026-06-09T00:05:40.517070",
+  "event_count": 6
 }
