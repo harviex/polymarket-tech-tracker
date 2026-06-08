@@ -1,6 +1,30 @@
 {
   "date": "2026-06-09",
   "created_at": "2026-06-09T00:00:42.205110",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "431320",
+      "title": "Another critical Cloudflare incident by...?",
+      "slug": "another-critical-cloudflare-incident-by-995",
+      "prev_prob": 0.175,
+      "curr_prob": 0.795,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "02:00",
+      "timestamp": "2026-06-09T02:00:43.772308"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.76,
+      "curr_prob": 0.68,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "02:00",
+      "timestamp": "2026-06-09T02:00:43.772396"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-06-09T02:00:43.772622"
 }
