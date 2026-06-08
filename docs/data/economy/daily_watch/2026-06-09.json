@@ -23,8 +23,30 @@
       "direction": "down",
       "time": "02:00",
       "timestamp": "2026-06-09T02:00:43.772396"
+    },
+    {
+      "event_id": "431320",
+      "title": "Another critical Cloudflare incident by...?",
+      "slug": "another-critical-cloudflare-incident-by-995",
+      "prev_prob": 0.795,
+      "curr_prob": 0.91,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-06-09T03:00:45.354559"
+    },
+    {
+      "event_id": "431320",
+      "title": "Another critical Cloudflare incident by...?",
+      "slug": "another-critical-cloudflare-incident-by-995",
+      "prev_prob": 0.795,
+      "curr_prob": 0.91,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "03:00",
+      "timestamp": "2026-06-09T03:00:45.354587"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-09T02:00:43.772622"
+  "crossing_count": 4,
+  "last_updated": "2026-06-09T03:00:45.354878"
 }
