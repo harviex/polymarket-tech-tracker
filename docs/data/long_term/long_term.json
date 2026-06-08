@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.865,
       "option_text": "Yes",
       "tags": [
@@ -46,7 +46,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9615,
       "option_text": "Yes",
       "tags": [
@@ -278,7 +278,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/57711",
-      "probability": 0.91,
+      "probability": 0.915,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3111,11 +3111,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.91,
+      "current_prob": 0.915,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.91,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "23:38",
@@ -3139,7 +3139,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.825,
+      "probability": 0.83,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -3681,11 +3681,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.825,
+      "current_prob": 0.83,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "17:48",
@@ -3703,8 +3703,8 @@
       "id": "192788",
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
-      "url": "https://polymarket.com/event/192788",
-      "probability": 0.7465,
+      "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+      "probability": 0.7445,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3817,11 +3817,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7465,
+      "current_prob": 0.7445,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.7465,
-      "last_checked_prob": 0.7465,
+      "last_checked_prob": 0.7445,
       "history": [
         {
           "time": "21:58",
@@ -3831,6 +3831,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-07T23:00:16.941352",
+  "updated_at": "2026-06-08T02:09:30.020981",
   "event_count": 17
 }
