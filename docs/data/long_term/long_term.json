@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
-      "probability": 0.895,
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "probability": 0.905,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.895,
+      "current_prob": 0.905,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
-      "peak_prob": 0.895,
-      "last_checked_prob": 0.895,
+      "peak_prob": 0.905,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "15:48",
@@ -84,7 +84,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.924,
+      "probability": 0.9245,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -96,11 +96,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.924,
+      "current_prob": 0.9245,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.924,
+      "last_checked_prob": 0.9245,
       "history": [
         {
           "time": "15:48",
@@ -277,7 +277,7 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+      "url": "https://polymarket.com/event/57711",
       "probability": 0.935,
       "option_text": "NVIDIA",
       "tags": [
@@ -3139,7 +3139,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/193337",
-      "probability": 0.85,
+      "probability": 0.855,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -3681,11 +3681,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.85,
+      "current_prob": 0.855,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.85,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "17:48",
@@ -3703,8 +3703,8 @@
       "id": "192788",
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
-      "url": "https://polymarket.com/event/192788",
-      "probability": 0.7335,
+      "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+      "probability": 0.7435,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3817,11 +3817,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7335,
+      "current_prob": 0.7435,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.7465,
-      "last_checked_prob": 0.7335,
+      "last_checked_prob": 0.7435,
       "history": [
         {
           "time": "21:58",
@@ -3835,7 +3835,7 @@
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
       "url": "https://polymarket.com/event/57708",
-      "probability": 0.705,
+      "probability": 0.74,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5652,11 +5652,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.74,
       "added_at": "2026-06-09T01:47:24.734854",
       "first_seen": "2026-06-09T01:47:24.734854",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.705,
+      "peak_prob": 0.74,
+      "last_checked_prob": 0.74,
       "history": [
         {
           "time": "01:47",
@@ -5666,6 +5666,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-09T01:47:24.734957",
+  "updated_at": "2026-06-09T05:56:22.676060",
   "event_count": 17
 }
