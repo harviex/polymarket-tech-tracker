@@ -78,8 +78,19 @@
       "direction": "up",
       "time": "09:00",
       "timestamp": "2026-06-09T09:00:47.607740"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.8005,
+      "curr_prob": 0.7995,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-06-09T11:00:52.038734"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-06-09T09:00:47.608129"
+  "crossing_count": 8,
+  "last_updated": "2026-06-09T11:00:52.039112"
 }
