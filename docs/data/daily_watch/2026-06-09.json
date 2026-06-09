@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-09",
+  "events": {
+    "57708": {
+      "id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "tags": [],
+      "first_seen": "2026-06-09T01:47:24.742262",
+      "history": [
+        {
+          "time": "01:47",
+          "prob": 0.705,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.705
+    }
+  }
+}
