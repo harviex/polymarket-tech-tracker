@@ -89,8 +89,19 @@
       "direction": "down",
       "time": "11:00",
       "timestamp": "2026-06-09T11:00:52.038734"
+    },
+    {
+      "event_id": "314452",
+      "title": "Bank of Mexico Decision in June",
+      "slug": "bank-of-mexico-decision-in-june",
+      "prev_prob": 0.901,
+      "curr_prob": 0.8875,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "22:01",
+      "timestamp": "2026-06-09T22:01:13.214655"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-06-09T11:00:52.039112"
+  "crossing_count": 9,
+  "last_updated": "2026-06-09T22:01:13.214927"
 }
