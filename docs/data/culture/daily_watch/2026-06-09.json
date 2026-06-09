@@ -67,8 +67,30 @@
       "direction": "down",
       "time": "13:00",
       "timestamp": "2026-06-09T13:00:50.608866"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.47,
+      "curr_prob": 0.78,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-06-09T15:00:53.007021"
+    },
+    {
+      "event_id": "117784",
+      "title": "Top Spotify Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.68,
+      "curr_prob": 0.7,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:00",
+      "timestamp": "2026-06-09T15:00:53.007047"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-09T13:00:50.609201"
+  "crossing_count": 8,
+  "last_updated": "2026-06-09T15:00:53.007269"
 }
