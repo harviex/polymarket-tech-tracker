@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-09T11:58:24.161364",
+  "updated_at": "2026-06-09T14:39:07.327572",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -64,7 +64,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.91,
+        "probability": 0.895,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -73,11 +73,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.91,
+        "current_prob": 0.895,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.91,
-        "last_checked_prob": 0.91,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "15:48",
@@ -178,7 +178,7 @@
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
         "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
-        "probability": 0.9715,
+        "probability": 0.9785,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -289,11 +289,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9715,
+        "current_prob": 0.9785,
         "added_at": "2026-05-07T05:18:47.281501",
         "first_seen": "2026-05-07T05:18:47.281501",
-        "peak_prob": 0.9715,
-        "last_checked_prob": 0.9715,
+        "peak_prob": 0.9785,
+        "last_checked_prob": 0.9785,
         "history": [
           {
             "time": "05:18",
@@ -337,7 +337,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.955,
+        "probability": 0.935,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3170,11 +3170,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.955,
+        "current_prob": 0.935,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.955,
+        "last_checked_prob": 0.935,
         "history": [
           {
             "time": "23:38",
@@ -3763,7 +3763,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-        "probability": 0.8315,
+        "probability": 0.833,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -3876,11 +3876,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8315,
+        "current_prob": 0.833,
         "added_at": "2026-06-07T21:58:34.577998",
         "first_seen": "2026-06-07T21:58:34.577998",
-        "peak_prob": 0.8315,
-        "last_checked_prob": 0.8315,
+        "peak_prob": 0.833,
+        "last_checked_prob": 0.833,
         "history": [
           {
             "time": "21:58",
@@ -5739,7 +5739,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-        "probability": 0.9865,
+        "probability": 0.9875,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -7434,11 +7434,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9865,
+        "current_prob": 0.9875,
         "added_at": "2026-06-09T11:58:24.151476",
         "first_seen": "2026-06-09T11:58:24.151476",
-        "peak_prob": 0.9865,
-        "last_checked_prob": 0.9865,
+        "peak_prob": 0.9875,
+        "last_checked_prob": 0.9875,
         "history": [
           {
             "time": "11:58",
@@ -7448,6 +7448,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-09T11:58:24.151593"
+    "updated_at": "2026-06-09T14:39:07.317801"
   }
 }
