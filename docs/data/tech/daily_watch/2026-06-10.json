@@ -1,6 +1,41 @@
 {
   "date": "2026-06-10",
   "created_at": "2026-06-10T00:01:11.540783",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.815,
+      "curr_prob": 0.755,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "13:00",
+      "timestamp": "2026-06-10T13:00:20.586051"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.755,
+      "curr_prob": 0.86,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "14:00",
+      "timestamp": "2026-06-10T14:00:18.867213"
+    },
+    {
+      "event_id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027",
+      "prev_prob": 0.89,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "14:00",
+      "timestamp": "2026-06-10T14:00:18.867269"
+    }
+  ],
+  "crossing_count": 3,
+  "last_updated": "2026-06-10T14:00:18.867487"
 }
