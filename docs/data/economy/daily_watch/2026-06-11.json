@@ -1,6 +1,19 @@
 {
   "date": "2026-06-11",
   "created_at": "2026-06-11T00:00:54.135338",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "193867",
+      "title": "Will Anthropic or OpenAI IPO first?",
+      "slug": "will-anthropic-or-openai-ipo-first",
+      "prev_prob": 0.735,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "01:01",
+      "timestamp": "2026-06-11T01:01:45.731539"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-11T01:01:45.731866"
 }
