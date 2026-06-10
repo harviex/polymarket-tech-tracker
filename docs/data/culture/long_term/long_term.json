@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
-      "probability": 0.978,
+      "probability": 0.9875,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.978,
+      "current_prob": 0.9875,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9835,
-      "last_checked_prob": 0.978,
+      "peak_prob": 0.9875,
+      "last_checked_prob": 0.9875,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.925,
+      "probability": 0.9245,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.925,
+      "current_prob": 0.9245,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.951,
-      "last_checked_prob": 0.925,
+      "last_checked_prob": 0.9245,
       "history": [
         {
           "time": "15:48",
@@ -70,7 +70,7 @@
       "title": "Will Neymar play in the 2026 FIFA World Cup?",
       "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
       "url": "https://polymarket.com/event/will-neymar-play-in-the-world-cup",
-      "probability": 0.93,
+      "probability": 0.935,
       "option_text": "Yes",
       "tags": [
         "neymar",
@@ -84,11 +84,11 @@
       ],
       "volume": 1144354.9592139928,
       "liquidity": 20303.8894,
-      "current_prob": 0.93,
+      "current_prob": 0.935,
       "added_at": "2026-05-19T00:06:18.280031",
       "first_seen": "2026-05-19T00:06:18.280031",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.93,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "00:06",
@@ -148,7 +148,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.75,
+      "probability": 0.745,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -158,11 +158,11 @@
       ],
       "volume": 304685.987565,
       "liquidity": 8250.29777,
-      "current_prob": 0.75,
+      "current_prob": 0.745,
       "added_at": "2026-06-09T00:05:40.516954",
       "first_seen": "2026-06-09T00:05:40.516954",
       "peak_prob": 0.76,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.745,
       "history": [
         {
           "time": "00:05",
@@ -176,7 +176,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.715,
+      "probability": 0.725,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -185,11 +185,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.715,
+      "current_prob": 0.725,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
-      "peak_prob": 0.715,
-      "last_checked_prob": 0.715,
+      "peak_prob": 0.725,
+      "last_checked_prob": 0.725,
       "history": [
         {
           "time": "00:06",
@@ -199,6 +199,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-10T00:06:03.299202",
+  "updated_at": "2026-06-11T00:06:08.978126",
   "event_count": 6
 }
