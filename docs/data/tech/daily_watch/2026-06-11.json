@@ -1,6 +1,19 @@
 {
   "date": "2026-06-11",
   "created_at": "2026-06-11T00:00:53.935432",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.87,
+      "curr_prob": 0.91,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-06-11T17:00:37.499286"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-11T17:00:37.499528"
 }
