@@ -1,50 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-10T22:45:03.287101",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "102007",
-          "title": "SpaceX IPO closing market cap above ___ ?",
-          "tags": [],
-          "first_seen": "2026-06-10T01:58:05.414024",
-          "history": [
-            {
-              "time": "01:58",
-              "prob": 0.9875,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "14:12",
-              "prob": 0.989,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "14:12",
-              "prob": 0.989,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "14:12",
-              "prob": 0.989,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            }
-          ],
-          "current_prob": 0.9875
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-11T00:05:49.189536",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -52,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
+        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
         "probability": 0.91,
         "option_text": "Yes",
         "tags": [
@@ -94,7 +51,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9625,
         "option_text": "Yes",
         "tags": [
@@ -131,7 +88,7 @@
         "id": "108522",
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
-        "url": "https://polymarket.com/event/108522",
+        "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
         "probability": 0.9355,
         "option_text": "Yes",
         "tags": [
@@ -166,7 +123,7 @@
         "id": "98133",
         "title": "Elon Musk trillionaire before 2027?",
         "slug": "elon-musk-trillionaire-before-2027",
-        "url": "https://polymarket.com/event/98133",
+        "url": "https://polymarket.com/event/elon-musk-trillionaire-before-2027",
         "probability": 0.9555,
         "option_text": "Yes",
         "tags": [
@@ -3187,7 +3144,7 @@
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-        "probability": 0.85,
+        "probability": 0.845,
         "option_text": "$800B",
         "tags": [
           "finance",
@@ -3729,11 +3686,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.85,
+        "current_prob": 0.845,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.85,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "17:48",
@@ -3751,8 +3708,8 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-        "probability": 0.8395,
+        "url": "https://polymarket.com/event/192788",
+        "probability": 0.834,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -3865,11 +3822,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8395,
+        "current_prob": 0.834,
         "added_at": "2026-06-07T21:58:34.577998",
         "first_seen": "2026-06-07T21:58:34.577998",
         "peak_prob": 0.848,
-        "last_checked_prob": 0.8395,
+        "last_checked_prob": 0.834,
         "history": [
           {
             "time": "21:58",
@@ -3888,7 +3845,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-        "probability": 0.85,
+        "probability": 0.855,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -5705,11 +5662,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.85,
+        "current_prob": 0.855,
         "added_at": "2026-06-09T01:47:24.734854",
         "first_seen": "2026-06-09T01:47:24.734854",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.85,
+        "last_checked_prob": 0.855,
         "history": [
           {
             "time": "01:47",
@@ -5733,7 +5690,7 @@
         "title": "SpaceX IPO closing market cap above ___ ?",
         "slug": "spacex-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/spacex-ipo-closing-market-cap-above",
-        "probability": 0.9895,
+        "probability": 0.984,
         "option_text": "$1T",
         "tags": [
           "tech",
@@ -7419,11 +7376,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9895,
+        "current_prob": 0.984,
         "added_at": "2026-06-10T14:12:55.435729",
         "first_seen": "2026-06-10T14:12:55.435729",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9895,
+        "last_checked_prob": 0.984,
         "history": [
           {
             "time": "14:12",
@@ -7433,6 +7390,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-10T22:45:03.278282"
+    "updated_at": "2026-06-11T00:05:49.181457"
   }
 }
