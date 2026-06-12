@@ -67,8 +67,41 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-06-13T04:00:55.795073"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "05:01",
+      "timestamp": "2026-06-13T05:01:00.934694"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.7145,
+      "curr_prob": 0.8635,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-06-13T05:01:00.934737"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.9,
+      "curr_prob": 0.88,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "05:01",
+      "timestamp": "2026-06-13T05:01:00.934765"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-13T04:00:55.795343"
+  "crossing_count": 9,
+  "last_updated": "2026-06-13T05:01:00.935054"
 }
