@@ -1,6 +1,30 @@
 {
   "date": "2026-06-13",
   "created_at": "2026-06-13T00:01:07.711897",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.47,
+      "curr_prob": 0.78,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "01:01",
+      "timestamp": "2026-06-13T01:01:28.634146"
+    },
+    {
+      "event_id": "147360",
+      "title": "Who will win the 2026 Fields Medal?",
+      "slug": "who-will-win-the-2026-fields-medal",
+      "prev_prob": 0.72,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "01:01",
+      "timestamp": "2026-06-13T01:01:28.634178"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-06-13T01:01:28.634363"
 }
