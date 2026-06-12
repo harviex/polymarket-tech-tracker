@@ -166,8 +166,19 @@
       "direction": "up",
       "time": "20:01",
       "timestamp": "2026-06-12T20:01:06.779340"
+    },
+    {
+      "event_id": "147360",
+      "title": "Who will win the 2026 Fields Medal?",
+      "slug": "who-will-win-the-2026-fields-medal",
+      "prev_prob": 0.605,
+      "curr_prob": 0.71,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-06-12T21:01:01.939215"
     }
   ],
-  "crossing_count": 15,
-  "last_updated": "2026-06-12T20:01:06.779635"
+  "crossing_count": 16,
+  "last_updated": "2026-06-12T21:01:01.939548"
 }
