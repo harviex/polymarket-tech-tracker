@@ -45,8 +45,41 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-06-13T04:00:54.075176"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-06-13T05:00:54.719702"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.5655,
+      "curr_prob": 0.7615,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-06-13T05:00:54.719736"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.7145,
+      "curr_prob": 0.8635,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:00",
+      "timestamp": "2026-06-13T05:00:54.719768"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-06-13T04:00:54.075391"
+  "crossing_count": 7,
+  "last_updated": "2026-06-13T05:00:54.720034"
 }
