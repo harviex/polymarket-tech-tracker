@@ -14,6 +14,36 @@
         }
       ],
       "current_prob": 0.9895
+    },
+    "190776": {
+      "id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "tags": [],
+      "first_seen": "2026-06-12T18:55:06.829574",
+      "history": [
+        {
+          "time": "18:55",
+          "prob": 0.7805,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7805
+    },
+    "98133": {
+      "id": "98133",
+      "title": "Elon Musk trillionaire before 2027?",
+      "tags": [],
+      "first_seen": "2026-06-12T18:55:06.829582",
+      "history": [
+        {
+          "time": "18:55",
+          "prob": 0.974,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.974
     }
   }
 }
