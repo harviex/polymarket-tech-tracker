@@ -34,8 +34,41 @@
       "direction": "up",
       "time": "03:00",
       "timestamp": "2026-06-13T03:00:55.576903"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.7,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-06-13T04:00:55.795005"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.7,
+      "curr_prob": 0.9,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-06-13T04:00:55.795031"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.885,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "04:00",
+      "timestamp": "2026-06-13T04:00:55.795073"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-06-13T03:00:55.577200"
+  "crossing_count": 6,
+  "last_updated": "2026-06-13T04:00:55.795343"
 }
