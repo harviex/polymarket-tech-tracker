@@ -89,8 +89,19 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-06-13T08:00:59.345857"
+    },
+    {
+      "event_id": "280375",
+      "title": "Will Neymar play in the World Cup?",
+      "slug": "will-neymar-play-in-the-world-cup",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "09:00",
+      "timestamp": "2026-06-13T09:00:56.363863"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-06-13T08:00:59.346106"
+  "crossing_count": 9,
+  "last_updated": "2026-06-13T09:00:56.364131"
 }
