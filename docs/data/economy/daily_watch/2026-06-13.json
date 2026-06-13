@@ -100,8 +100,30 @@
       "direction": "down",
       "time": "05:01",
       "timestamp": "2026-06-13T05:01:00.934765"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.8885,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "08:01",
+      "timestamp": "2026-06-13T08:01:01.017496"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.89,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "08:01",
+      "timestamp": "2026-06-13T08:01:01.017543"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-06-13T05:01:00.935054"
+  "crossing_count": 11,
+  "last_updated": "2026-06-13T08:01:01.017859"
 }
