@@ -155,8 +155,19 @@
       "direction": "down",
       "time": "21:01",
       "timestamp": "2026-06-13T21:01:19.291669"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.88,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "23:00",
+      "timestamp": "2026-06-13T23:00:18.726352"
     }
   ],
-  "crossing_count": 14,
-  "last_updated": "2026-06-13T21:01:19.292076"
+  "crossing_count": 15,
+  "last_updated": "2026-06-13T23:00:18.726719"
 }
