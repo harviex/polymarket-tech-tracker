@@ -144,8 +144,30 @@
       "direction": "down",
       "time": "19:01",
       "timestamp": "2026-06-13T19:01:12.442155"
+    },
+    {
+      "event_id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "slug": "which-company-has-second-best-ai-model-end-of-june",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "22:01",
+      "timestamp": "2026-06-13T22:01:22.538184"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.905,
+      "curr_prob": 0.85,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "22:01",
+      "timestamp": "2026-06-13T22:01:22.538228"
     }
   ],
-  "crossing_count": 13,
-  "last_updated": "2026-06-13T19:01:12.442437"
+  "crossing_count": 15,
+  "last_updated": "2026-06-13T22:01:22.538529"
 }
