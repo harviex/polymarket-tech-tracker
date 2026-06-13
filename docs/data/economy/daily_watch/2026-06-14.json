@@ -1,6 +1,19 @@
 {
   "date": "2026-06-14",
   "created_at": "2026-06-14T00:00:10.509663",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "314452",
+      "title": "Bank of Mexico Decision in June",
+      "slug": "bank-of-mexico-decision-in-june",
+      "prev_prob": 0.9075,
+      "curr_prob": 0.8905,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "06:00",
+      "timestamp": "2026-06-14T06:00:18.316699"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-14T06:00:18.316928"
 }
