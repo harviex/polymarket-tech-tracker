@@ -5,7 +5,7 @@
       "title": "Will Lionel Messi play in the 2026 FIFA World Cup?",
       "slug": "will-lionel-messi-play-in-the-2026-fifa-world-cup",
       "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
-      "probability": 0.9895,
+      "probability": 0.989,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -17,11 +17,11 @@
       ],
       "volume": 86211.12717900009,
       "liquidity": 2634.5838,
-      "current_prob": 0.9895,
+      "current_prob": 0.989,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9895,
+      "last_checked_prob": 0.989,
       "history": [
         {
           "time": "15:48",
@@ -35,7 +35,7 @@
       "title": "AI data center moratorium passed before 2027?",
       "slug": "ai-data-center-moratorium-passed-before-2027",
       "url": "https://polymarket.com/event/ai-data-center-moratorium-passed-before-2027",
-      "probability": 0.9755,
+      "probability": 0.9815,
       "option_text": "Yes",
       "tags": [
         "pop-culture",
@@ -47,11 +47,11 @@
       ],
       "volume": 47755.81452399998,
       "liquidity": 10999.1322,
-      "current_prob": 0.9755,
+      "current_prob": 0.9815,
       "added_at": "2026-05-05T15:48:24.558565",
       "first_seen": "2026-05-05T15:48:24.558565",
-      "peak_prob": 0.9755,
-      "last_checked_prob": 0.9755,
+      "peak_prob": 0.9815,
+      "last_checked_prob": 0.9815,
       "history": [
         {
           "time": "15:48",
@@ -153,7 +153,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.775,
+      "probability": 0.785,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -162,11 +162,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.775,
+      "current_prob": 0.785,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
-      "peak_prob": 0.775,
-      "last_checked_prob": 0.775,
+      "peak_prob": 0.785,
+      "last_checked_prob": 0.785,
       "history": [
         {
           "time": "00:06",
@@ -175,34 +175,35 @@
         }
       ]
     },
-    "147360": {
-      "id": "147360",
-      "title": "Who will win the 2026 Fields Medal?",
-      "slug": "who-will-win-the-2026-fields-medal",
-      "url": "https://polymarket.com/event/who-will-win-the-2026-fields-medal",
-      "probability": 0.72,
-      "option_text": "Yu Deng",
+    "106016": {
+      "id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "probability": 0.77,
+      "option_text": "Danielle Haim",
       "tags": [
-        "awards",
-        "science",
-        "pop-culture"
+        "pop-culture",
+        "taylor-swift",
+        "nfl",
+        "music"
       ],
-      "volume": 534087.327919,
-      "liquidity": 4286.7858,
-      "current_prob": 0.72,
-      "added_at": "2026-06-13T00:05:52.744395",
-      "first_seen": "2026-06-13T00:05:52.744395",
-      "peak_prob": 0.72,
-      "last_checked_prob": 0.72,
+      "volume": 306217.23004200007,
+      "liquidity": 8104.13417,
+      "current_prob": 0.77,
+      "added_at": "2026-06-14T00:05:13.245644",
+      "first_seen": "2026-06-14T00:05:13.245644",
+      "peak_prob": 0.77,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "00:05",
-          "prob": 0.72,
+          "prob": 0.77,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
     }
   },
-  "updated_at": "2026-06-13T00:05:52.744519",
+  "updated_at": "2026-06-14T00:05:13.245786",
   "event_count": 6
 }
