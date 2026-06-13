@@ -78,8 +78,30 @@
       "direction": "up",
       "time": "05:00",
       "timestamp": "2026-06-13T05:00:54.719768"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.7985,
+      "curr_prob": 0.8125,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "08:01",
+      "timestamp": "2026-06-13T08:01:00.573325"
+    },
+    {
+      "event_id": "190776",
+      "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
+      "slug": "gemini-3-score-on-frontiermath-benchmark-by-june-30",
+      "prev_prob": 0.8885,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "08:01",
+      "timestamp": "2026-06-13T08:01:00.573371"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-06-13T05:00:54.720034"
+  "crossing_count": 9,
+  "last_updated": "2026-06-13T08:01:00.573605"
 }
