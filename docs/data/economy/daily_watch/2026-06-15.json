@@ -1,6 +1,30 @@
 {
   "date": "2026-06-15",
   "created_at": "2026-06-15T00:00:55.251044",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.81,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:00",
+      "timestamp": "2026-06-15T06:00:39.264216"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-06-15T06:00:39.264285"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-06-15T06:00:39.264584"
 }
