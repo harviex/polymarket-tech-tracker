@@ -14,6 +14,20 @@
         }
       ],
       "current_prob": 0.7695
+    },
+    "108522": {
+      "id": "108522",
+      "title": "AI data center moratorium passed before 2027?",
+      "tags": [],
+      "first_seen": "2026-06-14T10:41:02.185880",
+      "history": [
+        {
+          "time": "10:41",
+          "prob": 0.98,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.98
     }
   }
 }
