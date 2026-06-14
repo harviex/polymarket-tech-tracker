@@ -1,6 +1,30 @@
 {
   "date": "2026-06-15",
   "created_at": "2026-06-15T00:01:02.153015",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.46,
+      "curr_prob": 0.77,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "02:00",
+      "timestamp": "2026-06-15T02:00:35.149730"
+    },
+    {
+      "event_id": "117784",
+      "title": "Top Spotify Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.795,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "02:00",
+      "timestamp": "2026-06-15T02:00:35.149756"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-06-15T02:00:35.149970"
 }
