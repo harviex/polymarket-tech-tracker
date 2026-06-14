@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-14T10:41:02.186140",
+  "updated_at": "2026-06-14T12:30:12.612939",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -87,7 +87,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.965,
         "option_text": "Yes",
         "tags": [
@@ -124,8 +124,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
-        "probability": 0.9665,
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "probability": 0.968,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2958,11 +2958,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9665,
+        "current_prob": 0.968,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
-        "peak_prob": 0.9665,
-        "last_checked_prob": 0.9665,
+        "peak_prob": 0.968,
+        "last_checked_prob": 0.968,
         "history": [
           {
             "time": "23:38",
@@ -3550,8 +3550,8 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-        "probability": 0.829,
+        "url": "https://polymarket.com/event/192788",
+        "probability": 0.8215,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -3664,11 +3664,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.829,
+        "current_prob": 0.8215,
         "added_at": "2026-06-07T21:58:34.577998",
         "first_seen": "2026-06-07T21:58:34.577998",
         "peak_prob": 0.848,
-        "last_checked_prob": 0.829,
+        "last_checked_prob": 0.8215,
         "history": [
           {
             "time": "21:58",
@@ -5673,6 +5673,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-14T10:41:02.178858"
+    "updated_at": "2026-06-14T12:30:12.606076"
   }
 }
