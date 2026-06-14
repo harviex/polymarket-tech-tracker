@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-14T17:04:30.806200",
+  "updated_at": "2026-06-14T19:02:24.864980",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -125,7 +125,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.974,
+        "probability": 0.943,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2958,11 +2958,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.974,
+        "current_prob": 0.943,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.974,
-        "last_checked_prob": 0.974,
+        "last_checked_prob": 0.943,
         "history": [
           {
             "time": "23:38",
@@ -2985,8 +2985,8 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-        "probability": 0.855,
+        "url": "https://polymarket.com/event/193337",
+        "probability": 0.86,
         "option_text": "$800B",
         "tags": [
           "finance",
@@ -3528,11 +3528,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.855,
+        "current_prob": 0.86,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.86,
         "history": [
           {
             "time": "17:48",
@@ -3550,7 +3550,7 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+        "url": "https://polymarket.com/event/192788",
         "probability": 0.8235,
         "option_text": "Yes",
         "tags": [
@@ -5673,6 +5673,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-14T17:04:30.798142"
+    "updated_at": "2026-06-14T19:02:24.858056"
   }
 }
