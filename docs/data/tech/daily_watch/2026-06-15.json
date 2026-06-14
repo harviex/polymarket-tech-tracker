@@ -1,6 +1,19 @@
 {
   "date": "2026-06-15",
   "created_at": "2026-06-15T00:01:07.559835",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.81,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:00",
+      "timestamp": "2026-06-15T06:00:45.004995"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-06-15T06:00:45.005194"
 }
