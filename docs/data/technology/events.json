@@ -1,29 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-13T21:58:25.415471",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "190776",
-          "title": "Google Gemini score on FrontierMath Benchmark by June 30?",
-          "tags": [],
-          "first_seen": "2026-06-13T05:11:43.781510",
-          "history": [
-            {
-              "time": "05:11",
-              "prob": 0.9,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.9
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-14T02:08:20.297252",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -111,7 +89,7 @@
         "title": "AI data center moratorium passed before 2027?",
         "slug": "ai-data-center-moratorium-passed-before-2027",
         "url": "https://polymarket.com/event/108522",
-        "probability": 0.9815,
+        "probability": 0.975,
         "option_text": "Yes",
         "tags": [
           "pop-culture",
@@ -123,11 +101,11 @@
         ],
         "volume": 47755.81452399998,
         "liquidity": 10999.1322,
-        "current_prob": 0.9815,
+        "current_prob": 0.975,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9825,
-        "last_checked_prob": 0.9815,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "15:48",
@@ -146,7 +124,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.9605,
+        "probability": 0.9635,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2979,11 +2957,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9605,
+        "current_prob": 0.9635,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
-        "peak_prob": 0.9605,
-        "last_checked_prob": 0.9605,
+        "peak_prob": 0.9635,
+        "last_checked_prob": 0.9635,
         "history": [
           {
             "time": "23:38",
@@ -3007,7 +2985,7 @@
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
         "url": "https://polymarket.com/event/193337",
-        "probability": 0.855,
+        "probability": 0.85,
         "option_text": "$800B",
         "tags": [
           "finance",
@@ -3549,11 +3527,11 @@
         "endDate": "2027-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.855,
+        "current_prob": 0.85,
         "added_at": "2026-05-20T17:48:04.975455",
         "first_seen": "2026-05-20T17:48:04.975455",
         "peak_prob": 0.895,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "17:48",
@@ -3572,7 +3550,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/192788",
-        "probability": 0.8325,
+        "probability": 0.8315,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -3685,11 +3663,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8325,
+        "current_prob": 0.8315,
         "added_at": "2026-06-07T21:58:34.577998",
         "first_seen": "2026-06-07T21:58:34.577998",
         "peak_prob": 0.848,
-        "last_checked_prob": 0.8325,
+        "last_checked_prob": 0.8315,
         "history": [
           {
             "time": "21:58",
@@ -3708,7 +3686,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/57708",
-        "probability": 0.905,
+        "probability": 0.9,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -5525,11 +5503,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.9,
         "added_at": "2026-06-09T01:47:24.734854",
         "first_seen": "2026-06-09T01:47:24.734854",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.905,
+        "last_checked_prob": 0.9,
         "history": [
           {
             "time": "01:47",
@@ -5557,7 +5535,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.835,
         "option_text": "Yes",
         "tags": [
@@ -5698,7 +5676,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.7215,
+        "probability": 0.7695,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5811,11 +5789,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7215,
+        "current_prob": 0.7695,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.8265,
-        "last_checked_prob": 0.7215,
+        "last_checked_prob": 0.7695,
         "history": [
           {
             "time": "20:57",
@@ -5835,6 +5813,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-13T21:58:25.409871"
+    "updated_at": "2026-06-14T02:08:20.291910"
   }
 }
