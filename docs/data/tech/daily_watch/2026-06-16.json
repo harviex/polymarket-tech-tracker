@@ -23,8 +23,30 @@
       "direction": "down",
       "time": "04:01",
       "timestamp": "2026-06-16T04:01:25.898072"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.687,
+      "curr_prob": 0.7115,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "06:01",
+      "timestamp": "2026-06-16T06:01:20.662786"
+    },
+    {
+      "event_id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027",
+      "prev_prob": 0.925,
+      "curr_prob": 0.885,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-06-16T06:01:20.662831"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-16T04:01:25.898265"
+  "crossing_count": 4,
+  "last_updated": "2026-06-16T06:01:20.663085"
 }
