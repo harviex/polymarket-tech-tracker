@@ -5,7 +5,7 @@
       "title": "Will Neymar play in the 2026 FIFA World Cup?",
       "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
       "url": "https://polymarket.com/event/will-neymar-play-in-the-world-cup",
-      "probability": 0.9,
+      "probability": 0.865,
       "option_text": "Yes",
       "tags": [
         "neymar",
@@ -19,11 +19,11 @@
       ],
       "volume": 1144354.9592139928,
       "liquidity": 20303.8894,
-      "current_prob": 0.9,
+      "current_prob": 0.865,
       "added_at": "2026-05-19T00:06:18.280031",
       "first_seen": "2026-05-19T00:06:18.280031",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "00:06",
@@ -62,7 +62,7 @@
       "title": "Which characters will appear in Avengers: Doomsday?",
       "slug": "which-characters-will-appear-in-avengers-doomsday",
       "url": "https://polymarket.com/event/which-characters-will-appear-in-avengers-doomsday",
-      "probability": 0.815,
+      "probability": 0.885,
       "option_text": "Hugh Jackman as Wolverine",
       "tags": [
         "movies",
@@ -70,16 +70,21 @@
       ],
       "volume": 42194.038787000005,
       "liquidity": 16591.73895,
-      "current_prob": 0.815,
+      "current_prob": 0.885,
       "added_at": "2026-06-01T00:06:09.678147",
       "first_seen": "2026-06-01T00:06:09.678147",
-      "peak_prob": 0.815,
-      "last_checked_prob": 0.815,
+      "peak_prob": 0.885,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "00:06",
           "prob": 0.815,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.885,
+          "reason": "Update: 81.5% → 88.5%"
         }
       ]
     },
@@ -88,7 +93,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.795,
+      "probability": 0.83,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -97,11 +102,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.795,
+      "current_prob": 0.83,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
-      "peak_prob": 0.795,
-      "last_checked_prob": 0.795,
+      "peak_prob": 0.83,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "00:06",
@@ -109,8 +114,40 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "75515": {
+      "id": "75515",
+      "title": "Will Lionel Messi play in the World Cup?",
+      "slug": "will-lionel-messi-play-in-the-world-cup",
+      "url": "https://polymarket.com/event/will-lionel-messi-play-in-the-world-cup",
+      "probability": 0.9825,
+      "option_text": "Yes",
+      "tags": [
+        "pop-culture",
+        "soccer",
+        "world",
+        "celebrities",
+        "sports",
+        "fifa-world-cup",
+        "wc-player-futures",
+        "2026-fifa-world-cup"
+      ],
+      "volume": 273694.18186699937,
+      "liquidity": 5125.44637,
+      "current_prob": 0.9825,
+      "added_at": "2026-06-16T00:06:20.563678",
+      "first_seen": "2026-06-16T00:06:20.563678",
+      "peak_prob": 0.9825,
+      "last_checked_prob": 0.9825,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.9825,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-06-15T00:05:47.916526",
-  "event_count": 3
+  "updated_at": "2026-06-16T00:06:20.563814",
+  "event_count": 4
 }
