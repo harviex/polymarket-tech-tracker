@@ -1,6 +1,30 @@
 {
   "date": "2026-06-16",
   "created_at": "2026-06-16T00:01:12.454335",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.77,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:01",
+      "timestamp": "2026-06-16T04:01:25.898042"
+    },
+    {
+      "event_id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+      "prev_prob": 0.7055,
+      "curr_prob": 0.692,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-06-16T04:01:25.898072"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-06-16T04:01:25.898265"
 }
