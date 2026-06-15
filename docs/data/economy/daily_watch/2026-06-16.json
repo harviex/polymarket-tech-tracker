@@ -23,8 +23,41 @@
       "direction": "up",
       "time": "03:01",
       "timestamp": "2026-06-16T03:01:07.034292"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.77,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "04:01",
+      "timestamp": "2026-06-16T04:01:14.757603"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "04:01",
+      "timestamp": "2026-06-16T04:01:14.757650"
+    },
+    {
+      "event_id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-06-16T04:01:14.757712"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-16T03:01:07.034479"
+  "crossing_count": 5,
+  "last_updated": "2026-06-16T04:01:14.757883"
 }
