@@ -5,7 +5,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.958,
+      "probability": 0.9305,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -18,11 +18,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.958,
+      "current_prob": 0.9305,
       "added_at": "2026-05-08T00:06:02.118479",
       "first_seen": "2026-05-08T00:06:02.118479",
       "peak_prob": 0.9655,
-      "last_checked_prob": 0.958,
+      "last_checked_prob": 0.9305,
       "history": [
         {
           "time": "00:06",
@@ -66,7 +66,7 @@
       "title": "Bank of Russia decision in June?",
       "slug": "bank-of-russia-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-russia-decision-in-june",
-      "probability": 0.95,
+      "probability": 0.94,
       "option_text": "Decrease",
       "tags": [
         "economy",
@@ -78,11 +78,11 @@
       ],
       "volume": 47290.08493000002,
       "liquidity": 6863.72615,
-      "current_prob": 0.95,
+      "current_prob": 0.94,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.95,
-      "last_checked_prob": 0.95,
+      "last_checked_prob": 0.94,
       "history": [
         {
           "time": "00:05",
@@ -147,7 +147,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.765,
+      "probability": 0.79,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -157,11 +157,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.765,
+      "current_prob": 0.79,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
-      "peak_prob": 0.785,
-      "last_checked_prob": 0.765,
+      "peak_prob": 0.79,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "00:05",
@@ -180,7 +180,7 @@
       "title": "Bank of Mexico Decision in June",
       "slug": "bank-of-mexico-decision-in-june",
       "url": "https://polymarket.com/event/bank-of-mexico-decision-in-june",
-      "probability": 0.934,
+      "probability": 0.933,
       "option_text": "No change",
       "tags": [
         "Global-Rates",
@@ -191,11 +191,11 @@
       ],
       "volume": 10475.326836999999,
       "liquidity": 4968.02014,
-      "current_prob": 0.934,
+      "current_prob": 0.933,
       "added_at": "2026-05-14T00:05:36.342034",
       "first_seen": "2026-05-14T00:05:36.342034",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.934,
+      "last_checked_prob": 0.933,
       "history": [
         {
           "time": "00:05",
@@ -240,7 +240,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.885,
+      "probability": 0.835,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -256,16 +256,21 @@
       ],
       "volume": 1494411.8879680005,
       "liquidity": 18949.3209,
-      "current_prob": 0.885,
+      "current_prob": 0.835,
       "added_at": "2026-05-22T00:08:23.791104",
       "first_seen": "2026-05-22T00:08:23.791104",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:08",
           "prob": 0.885,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.835,
+          "reason": "Update: 88.5% → 83.5%"
         }
       ]
     },
@@ -274,7 +279,7 @@
       "title": "Strait of Hormuz traffic returns to normal by December 31?",
       "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
       "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-      "probability": 0.875,
+      "probability": 0.89,
       "option_text": "Yes",
       "tags": [
         "ships",
@@ -290,11 +295,11 @@
       ],
       "volume": 410226.36447499954,
       "liquidity": 137619.2248,
-      "current_prob": 0.875,
+      "current_prob": 0.89,
       "added_at": "2026-05-30T00:05:27.222945",
       "first_seen": "2026-05-30T00:05:27.222945",
-      "peak_prob": 0.875,
-      "last_checked_prob": 0.875,
+      "peak_prob": 0.89,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "00:05",
@@ -323,7 +328,7 @@
       "title": "Will Anthropic or OpenAI IPO first?",
       "slug": "will-anthropic-or-openai-ipo-first",
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
-      "probability": 0.755,
+      "probability": 0.705,
       "option_text": "Anthropic",
       "tags": [
         "openai",
@@ -339,11 +344,11 @@
       ],
       "volume": 91038.09824600001,
       "liquidity": 9090.7681,
-      "current_prob": 0.755,
+      "current_prob": 0.705,
       "added_at": "2026-06-03T00:06:24.783814",
       "first_seen": "2026-06-03T00:06:24.783814",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.705,
       "history": [
         {
           "time": "00:06",
@@ -374,48 +379,11 @@
           "time": "00:06",
           "prob": 0.755,
           "reason": "Update: 82.5% → 75.5%"
-        }
-      ]
-    },
-    "51456": {
-      "id": "51456",
-      "title": "How many Fed rate cuts in 2026?",
-      "slug": "how-many-fed-rate-cuts-in-2026",
-      "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.706,
-      "option_text": "0 (0 bps)",
-      "tags": [
-        "business",
-        "fed-rates",
-        "jerome-powell",
-        "economic-policy",
-        "fed",
-        "economy",
-        "finance",
-        "rewards-200-4pt5-50"
-      ],
-      "volume": 32243311.557980057,
-      "liquidity": 1739639.03091,
-      "current_prob": 0.706,
-      "added_at": "2026-06-06T06:15:13.990601",
-      "first_seen": "2026-06-06T06:15:13.990601",
-      "peak_prob": 0.8145,
-      "last_checked_prob": 0.706,
-      "history": [
-        {
-          "time": "06:15",
-          "prob": 0.7145,
-          "reason": "Added to Long-Term (daily update)"
         },
         {
-          "time": "00:06",
-          "prob": 0.8135,
-          "reason": "Update: 71.4% → 81.3%"
-        },
-        {
-          "time": "00:07",
-          "prob": 0.706,
-          "reason": "Update: 78.5% → 70.6%"
+          "time": "00:05",
+          "prob": 0.705,
+          "reason": "Update: 75.5% → 70.5%"
         }
       ]
     },
@@ -424,7 +392,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.77,
+      "probability": 0.81,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -434,11 +402,11 @@
       ],
       "volume": 85578.29659499993,
       "liquidity": 4339.0704,
-      "current_prob": 0.77,
+      "current_prob": 0.81,
       "added_at": "2026-06-14T00:05:26.917355",
       "first_seen": "2026-06-14T00:05:26.917355",
       "peak_prob": 0.85,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "00:05",
@@ -448,6 +416,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-16T00:07:20.557030",
-  "event_count": 11
+  "updated_at": "2026-06-17T00:05:24.211247",
+  "event_count": 10
 }
