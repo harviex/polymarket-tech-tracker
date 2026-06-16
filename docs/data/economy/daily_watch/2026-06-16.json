@@ -111,8 +111,41 @@
       "direction": "down",
       "time": "09:01",
       "timestamp": "2026-06-16T09:01:21.811396"
+    },
+    {
+      "event_id": "193867",
+      "title": "Will Anthropic or OpenAI IPO first?",
+      "slug": "will-anthropic-or-openai-ipo-first",
+      "prev_prob": 0.755,
+      "curr_prob": 0.245,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-06-16T12:01:18.870091"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-06-16T12:01:18.870139"
+    },
+    {
+      "event_id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "12:01",
+      "timestamp": "2026-06-16T12:01:18.870259"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-06-16T09:01:21.811657"
+  "crossing_count": 13,
+  "last_updated": "2026-06-16T12:01:18.870579"
 }
