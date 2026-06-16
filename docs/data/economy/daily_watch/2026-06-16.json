@@ -199,8 +199,19 @@
       "direction": "up",
       "time": "16:00",
       "timestamp": "2026-06-16T16:00:24.812771"
+    },
+    {
+      "event_id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "17:00",
+      "timestamp": "2026-06-16T17:00:25.824440"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-06-16T16:00:24.813136"
+  "crossing_count": 19,
+  "last_updated": "2026-06-16T17:00:25.824707"
 }
