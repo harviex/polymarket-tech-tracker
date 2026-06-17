@@ -45,8 +45,41 @@
       "direction": "down",
       "time": "04:01",
       "timestamp": "2026-06-18T04:01:06.449362"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.797,
+      "curr_prob": 0.811,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "05:01",
+      "timestamp": "2026-06-18T05:01:01.227835"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.8,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:01",
+      "timestamp": "2026-06-18T05:01:01.227883"
+    },
+    {
+      "event_id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "prev_prob": 0.905,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "05:01",
+      "timestamp": "2026-06-18T05:01:01.227993"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-06-18T04:01:06.449606"
+  "crossing_count": 7,
+  "last_updated": "2026-06-18T05:01:01.228200"
 }
