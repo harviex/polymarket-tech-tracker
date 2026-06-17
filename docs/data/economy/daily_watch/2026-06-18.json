@@ -78,8 +78,30 @@
       "direction": "down",
       "time": "05:01",
       "timestamp": "2026-06-18T05:01:01.227993"
+    },
+    {
+      "event_id": "287395",
+      "title": "Fed Decision in July?",
+      "slug": "fed-decision-in-july-181",
+      "prev_prob": 0.745,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-06-18T06:00:54.933366"
+    },
+    {
+      "event_id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "prev_prob": 0.895,
+      "curr_prob": 0.9,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "06:00",
+      "timestamp": "2026-06-18T06:00:54.933408"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-06-18T05:01:01.228200"
+  "crossing_count": 9,
+  "last_updated": "2026-06-18T06:00:54.933683"
 }
