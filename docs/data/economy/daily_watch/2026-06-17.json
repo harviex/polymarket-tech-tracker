@@ -155,8 +155,41 @@
       "direction": "down",
       "time": "16:01",
       "timestamp": "2026-06-17T16:01:48.823532"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.755,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "17:00",
+      "timestamp": "2026-06-17T17:00:47.050638"
+    },
+    {
+      "event_id": "357856",
+      "title": "Reserve Bank of New Zealand decision in July?",
+      "slug": "reserve-bank-of-new-zealand-decision-in-july",
+      "prev_prob": 0.79,
+      "curr_prob": 0.47,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "17:00",
+      "timestamp": "2026-06-17T17:00:47.050668"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.69,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "18:00",
+      "timestamp": "2026-06-17T18:00:43.095010"
     }
   ],
-  "crossing_count": 14,
-  "last_updated": "2026-06-17T16:01:48.823897"
+  "crossing_count": 17,
+  "last_updated": "2026-06-17T18:00:43.095332"
 }
