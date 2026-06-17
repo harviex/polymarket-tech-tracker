@@ -1,36 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-16T22:08:53.705244",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "100079",
-          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "tags": [],
-          "first_seen": "2026-06-16T00:19:10.746958",
-          "history": [
-            {
-              "time": "00:19",
-              "prob": 0.7115,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "11:58",
-              "prob": 0.7095,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.7115
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-17T00:06:15.804751",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -38,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.865,
         "option_text": "Yes",
         "tags": [
@@ -80,7 +51,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -118,7 +89,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.946,
+        "probability": 0.9405,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2951,11 +2922,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.946,
+        "current_prob": 0.9405,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.974,
-        "last_checked_prob": 0.946,
+        "last_checked_prob": 0.9405,
         "history": [
           {
             "time": "23:38",
@@ -2978,7 +2949,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "url": "https://polymarket.com/event/193337",
         "probability": 0.835,
         "option_text": "$800B",
         "tags": [
@@ -3679,7 +3650,7 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+        "url": "https://polymarket.com/event/57708",
         "probability": 0.91,
         "option_text": "Anthropic",
         "tags": [
@@ -5675,7 +5646,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.751,
+        "probability": 0.7515,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5780,11 +5751,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.751,
+        "current_prob": 0.7515,
         "added_at": "2026-06-16T11:58:20.858464",
         "first_seen": "2026-06-16T11:58:20.858464",
-        "peak_prob": 0.751,
-        "last_checked_prob": 0.751,
+        "peak_prob": 0.7515,
+        "last_checked_prob": 0.7515,
         "history": [
           {
             "time": "11:58",
@@ -5794,6 +5765,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-16T22:08:53.698536"
+    "updated_at": "2026-06-17T00:06:15.798417"
   }
 }
