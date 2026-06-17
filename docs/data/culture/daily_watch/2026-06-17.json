@@ -45,8 +45,19 @@
       "direction": "down",
       "time": "21:00",
       "timestamp": "2026-06-17T21:00:51.993546"
+    },
+    {
+      "event_id": "175155",
+      "title": "Will Zendaya and Tom Holland get married by December 31?",
+      "slug": "will-zendaya-and-tom-holland-get-married-by-december-31",
+      "prev_prob": 0.6995,
+      "curr_prob": 0.7385,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "22:01",
+      "timestamp": "2026-06-17T22:01:13.419403"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-06-17T21:00:51.993774"
+  "crossing_count": 5,
+  "last_updated": "2026-06-17T22:01:13.419639"
 }
