@@ -89,8 +89,30 @@
       "direction": "down",
       "time": "09:00",
       "timestamp": "2026-06-17T09:00:36.832294"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-06-17T11:00:34.287181"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.715,
+      "curr_prob": 0.67,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-06-17T11:00:34.287263"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-06-17T09:00:36.832536"
+  "crossing_count": 10,
+  "last_updated": "2026-06-17T11:00:34.287506"
 }
