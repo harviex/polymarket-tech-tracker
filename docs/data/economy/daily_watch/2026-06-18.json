@@ -133,8 +133,30 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-06-18T08:00:59.137872"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.7995,
+      "curr_prob": 0.826,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:01",
+      "timestamp": "2026-06-18T11:01:05.379071"
+    },
+    {
+      "event_id": "455875",
+      "title": "Strait of Hormuz traffic returns to normal by December 31?",
+      "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
+      "prev_prob": 0.895,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "11:01",
+      "timestamp": "2026-06-18T11:01:05.379315"
     }
   ],
-  "crossing_count": 12,
-  "last_updated": "2026-06-18T08:00:59.138219"
+  "crossing_count": 14,
+  "last_updated": "2026-06-18T11:01:05.379686"
 }
