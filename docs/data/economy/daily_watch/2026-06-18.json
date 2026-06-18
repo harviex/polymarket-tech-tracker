@@ -177,8 +177,30 @@
       "direction": "down",
       "time": "13:01",
       "timestamp": "2026-06-18T13:01:33.786762"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.8095,
+      "curr_prob": 0.7955,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "15:02",
+      "timestamp": "2026-06-18T15:02:14.653427"
+    },
+    {
+      "event_id": "357856",
+      "title": "Reserve Bank of New Zealand decision in July?",
+      "slug": "reserve-bank-of-new-zealand-decision-in-july",
+      "prev_prob": 0.535,
+      "curr_prob": 0.705,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "15:02",
+      "timestamp": "2026-06-18T15:02:14.653561"
     }
   ],
-  "crossing_count": 16,
-  "last_updated": "2026-06-18T13:01:33.787141"
+  "crossing_count": 18,
+  "last_updated": "2026-06-18T15:02:14.653878"
 }
