@@ -67,8 +67,30 @@
       "direction": "up",
       "time": "12:00",
       "timestamp": "2026-06-18T12:00:59.504141"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.8,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "13:01",
+      "timestamp": "2026-06-18T13:01:27.871389"
+    },
+    {
+      "event_id": "183159",
+      "title": "Ledger IPO closing market cap above ___ ?",
+      "slug": "ledger-ipo-closing-market-cap-above",
+      "prev_prob": 0.7,
+      "curr_prob": 0.688,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "13:01",
+      "timestamp": "2026-06-18T13:01:27.871435"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-18T12:00:59.504382"
+  "crossing_count": 8,
+  "last_updated": "2026-06-18T13:01:27.871657"
 }
