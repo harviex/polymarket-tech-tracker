@@ -199,8 +199,19 @@
       "direction": "up",
       "time": "15:02",
       "timestamp": "2026-06-18T15:02:14.653561"
+    },
+    {
+      "event_id": "287395",
+      "title": "Fed Decision in July?",
+      "slug": "fed-decision-in-july-181",
+      "prev_prob": 0.795,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "17:01",
+      "timestamp": "2026-06-18T17:01:07.582933"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-06-18T15:02:14.653878"
+  "crossing_count": 19,
+  "last_updated": "2026-06-18T17:01:07.583246"
 }
