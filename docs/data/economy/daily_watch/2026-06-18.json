@@ -232,8 +232,41 @@
       "direction": "up",
       "time": "20:01",
       "timestamp": "2026-06-18T20:01:14.093143"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-06-18T21:01:31.267000"
+    },
+    {
+      "event_id": "231170",
+      "title": "Bank of England rate hike in 2026?",
+      "slug": "bank-of-england-rate-hike-in-2026",
+      "prev_prob": 0.72,
+      "curr_prob": 0.67,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-06-18T21:01:31.267100"
+    },
+    {
+      "event_id": "287395",
+      "title": "Fed Decision in July?",
+      "slug": "fed-decision-in-july-181",
+      "prev_prob": 0.815,
+      "curr_prob": 0.775,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "21:01",
+      "timestamp": "2026-06-18T21:01:31.267119"
     }
   ],
-  "crossing_count": 21,
-  "last_updated": "2026-06-18T20:01:14.093492"
+  "crossing_count": 24,
+  "last_updated": "2026-06-18T21:01:31.267425"
 }
