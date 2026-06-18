@@ -111,8 +111,19 @@
       "direction": "up",
       "time": "18:01",
       "timestamp": "2026-06-18T18:01:10.792728"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "21:01",
+      "timestamp": "2026-06-18T21:01:44.942312"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-06-18T18:01:10.793003"
+  "crossing_count": 11,
+  "last_updated": "2026-06-18T21:01:44.942595"
 }
