@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-19",
+  "events": {
+    "191774": {
+      "id": "191774",
+      "title": "xAI Grok score on FrontierMath Benchmark by June 30?",
+      "tags": [],
+      "first_seen": "2026-06-19T17:07:40.054083",
+      "history": [
+        {
+          "time": "17:07",
+          "prob": 0.88,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "17:07",
+          "prob": 0.88,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.88
+    }
+  }
+}
