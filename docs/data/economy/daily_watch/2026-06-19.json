@@ -23,8 +23,41 @@
       "direction": "up",
       "time": "08:01",
       "timestamp": "2026-06-19T08:01:32.338508"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.805,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "09:01",
+      "timestamp": "2026-06-19T09:01:42.229952"
+    },
+    {
+      "event_id": "287395",
+      "title": "Fed Decision in July?",
+      "slug": "fed-decision-in-july-181",
+      "prev_prob": 0.745,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "09:01",
+      "timestamp": "2026-06-19T09:01:42.230057"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.805,
+      "curr_prob": 0.765,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "09:01",
+      "timestamp": "2026-06-19T09:01:42.230073"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-19T08:01:32.338727"
+  "crossing_count": 5,
+  "last_updated": "2026-06-19T09:01:42.230306"
 }
