@@ -5,7 +5,7 @@
       "title": "Will Neymar play in the 2026 FIFA World Cup?",
       "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
       "url": "https://polymarket.com/event/will-neymar-play-in-the-world-cup",
-      "probability": 0.875,
+      "probability": 0.855,
       "option_text": "Yes",
       "tags": [
         "neymar",
@@ -19,11 +19,11 @@
       ],
       "volume": 1144354.9592139928,
       "liquidity": 20303.8894,
-      "current_prob": 0.875,
+      "current_prob": 0.855,
       "added_at": "2026-05-19T00:06:18.280031",
       "first_seen": "2026-05-19T00:06:18.280031",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "00:06",
@@ -93,7 +93,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.815,
+      "probability": 0.81,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -102,11 +102,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.815,
+      "current_prob": 0.81,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "00:06",
@@ -120,7 +120,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.79,
+      "probability": 0.78,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -130,11 +130,11 @@
       ],
       "volume": 306419.36804100004,
       "liquidity": 7680.8827,
-      "current_prob": 0.79,
+      "current_prob": 0.78,
       "added_at": "2026-06-19T00:06:43.424122",
       "first_seen": "2026-06-19T00:06:43.424122",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "00:06",
@@ -144,6 +144,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-19T00:06:43.424240",
+  "updated_at": "2026-06-20T00:06:20.646360",
   "event_count": 4
 }
