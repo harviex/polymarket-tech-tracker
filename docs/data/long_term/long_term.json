@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.805,
+      "probability": 0.88,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.805,
+      "current_prob": 0.88,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "15:48",
@@ -39,6 +39,11 @@
           "time": "19:58",
           "prob": 0.855,
           "reason": "Update: 79.0% → 85.5%"
+        },
+        {
+          "time": "11:09",
+          "prob": 0.88,
+          "reason": "Update: 80.5% → 88.0%"
         }
       ]
     },
@@ -46,7 +51,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -84,7 +89,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.9705,
+      "probability": 0.978,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2917,11 +2922,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9705,
+      "current_prob": 0.978,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.981,
-      "last_checked_prob": 0.9705,
+      "last_checked_prob": 0.978,
       "history": [
         {
           "time": "23:38",
@@ -2944,8 +2949,8 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.85,
+      "url": "https://polymarket.com/event/193337",
+      "probability": 0.855,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -3487,11 +3492,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.85,
+      "current_prob": 0.855,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.85,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "17:48",
@@ -3646,7 +3651,7 @@
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
       "url": "https://polymarket.com/event/57708",
-      "probability": 0.91,
+      "probability": 0.915,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5463,11 +5468,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.91,
+      "current_prob": 0.915,
       "added_at": "2026-06-09T01:47:24.734854",
       "first_seen": "2026-06-09T01:47:24.734854",
       "peak_prob": 0.925,
-      "last_checked_prob": 0.91,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "01:47",
@@ -5495,7 +5500,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -5641,7 +5646,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.7375,
+      "probability": 0.719,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -5754,11 +5759,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7375,
+      "current_prob": 0.719,
       "added_at": "2026-06-18T07:21:29.172005",
       "first_seen": "2026-06-18T07:21:29.172005",
       "peak_prob": 0.7385,
-      "last_checked_prob": 0.7375,
+      "last_checked_prob": 0.719,
       "history": [
         {
           "time": "07:21",
@@ -5768,6 +5773,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-19T06:03:37.353648",
+  "updated_at": "2026-06-19T11:09:37.000476",
   "event_count": 17
 }
