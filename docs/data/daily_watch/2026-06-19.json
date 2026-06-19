@@ -28,6 +28,22 @@
         }
       ],
       "current_prob": 0.88
+    },
+    "183159": {
+      "id": "183159",
+      "title": "Ledger IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-06-19T20:58:28.576656",
+      "history": [
+        {
+          "time": "20:58",
+          "prob": 0.7035,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7035
     }
   }
 }
