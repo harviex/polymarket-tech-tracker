@@ -67,8 +67,19 @@
       "direction": "down",
       "time": "15:00",
       "timestamp": "2026-06-19T15:00:15.042104"
+    },
+    {
+      "event_id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.83,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-06-19T17:00:15.646501"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-19T15:00:15.042339"
+  "crossing_count": 7,
+  "last_updated": "2026-06-19T17:00:15.646756"
 }
