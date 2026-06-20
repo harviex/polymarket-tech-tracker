@@ -89,7 +89,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.977,
+      "probability": 0.9765,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2922,11 +2922,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.977,
+      "current_prob": 0.9765,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.981,
-      "last_checked_prob": 0.977,
+      "last_checked_prob": 0.9765,
       "history": [
         {
           "time": "23:38",
@@ -3515,7 +3515,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/192788",
-      "probability": 0.774,
+      "probability": 0.773,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3628,11 +3628,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.774,
+      "current_prob": 0.773,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.8525,
-      "last_checked_prob": 0.774,
+      "last_checked_prob": 0.773,
       "history": [
         {
           "time": "21:58",
@@ -5645,8 +5645,8 @@
       "id": "100079",
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.7135,
+      "url": "https://polymarket.com/event/100079",
+      "probability": 0.717,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -5759,11 +5759,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7135,
+      "current_prob": 0.717,
       "added_at": "2026-06-18T07:21:29.172005",
       "first_seen": "2026-06-18T07:21:29.172005",
       "peak_prob": 0.7385,
-      "last_checked_prob": 0.7135,
+      "last_checked_prob": 0.717,
       "history": [
         {
           "time": "07:21",
@@ -5773,6 +5773,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-20T11:48:05.282379",
+  "updated_at": "2026-06-20T13:18:33.713192",
   "event_count": 17
 }
