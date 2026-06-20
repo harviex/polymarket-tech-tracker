@@ -89,7 +89,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.983,
+      "probability": 0.987,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2922,11 +2922,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.983,
+      "current_prob": 0.987,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
-      "peak_prob": 0.983,
-      "last_checked_prob": 0.983,
+      "peak_prob": 0.987,
+      "last_checked_prob": 0.987,
       "history": [
         {
           "time": "23:38",
@@ -5501,7 +5501,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/79080",
-      "probability": 0.805,
+      "probability": 0.815,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -5623,11 +5623,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.805,
+      "current_prob": 0.815,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.91,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "20:57",
@@ -5642,6 +5642,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-20T19:04:25.253390",
+  "updated_at": "2026-06-20T20:59:35.900396",
   "event_count": 17
 }
