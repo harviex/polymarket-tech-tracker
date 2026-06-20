@@ -1,64 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-19T23:55:37.916306",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "191774",
-          "title": "xAI Grok score on FrontierMath Benchmark by June 30?",
-          "tags": [],
-          "first_seen": "2026-06-19T17:07:40.054083",
-          "history": [
-            {
-              "time": "17:07",
-              "prob": 0.88,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "17:07",
-              "prob": 0.88,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "19:20",
-              "prob": 0.88,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.88
-        },
-        {
-          "id": "183159",
-          "title": "Ledger IPO closing market cap above ___ ?",
-          "tags": [],
-          "first_seen": "2026-06-19T20:58:28.576656",
-          "history": [
-            {
-              "time": "20:58",
-              "prob": 0.7035,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "23:55",
-              "prob": 0.7035,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7035
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-20T06:50:29.483409",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -66,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.85,
         "option_text": "Yes",
         "tags": [
@@ -113,7 +56,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9605,
         "option_text": "Yes",
         "tags": [
@@ -150,8 +93,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.9745,
+        "url": "https://polymarket.com/event/57711",
+        "probability": 0.9765,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2984,11 +2927,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.9765,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.981,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.9765,
         "history": [
           {
             "time": "23:38",
@@ -3011,7 +2954,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/193337",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
         "probability": 0.865,
         "option_text": "$800B",
         "tags": [
@@ -3712,7 +3655,7 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+        "url": "https://polymarket.com/event/57708",
         "probability": 0.915,
         "option_text": "Anthropic",
         "tags": [
@@ -5707,8 +5650,8 @@
         "id": "100079",
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/100079",
-        "probability": 0.701,
+        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+        "probability": 0.7015,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5821,11 +5764,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.701,
+        "current_prob": 0.7015,
         "added_at": "2026-06-18T07:21:29.172005",
         "first_seen": "2026-06-18T07:21:29.172005",
         "peak_prob": 0.7385,
-        "last_checked_prob": 0.701,
+        "last_checked_prob": 0.7015,
         "history": [
           {
             "time": "07:21",
@@ -5835,6 +5778,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-19T23:55:37.909178"
+    "updated_at": "2026-06-20T06:50:29.476685"
   }
 }
