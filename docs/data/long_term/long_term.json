@@ -51,7 +51,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -89,7 +89,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.987,
+      "probability": 0.9875,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2922,11 +2922,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.987,
+      "current_prob": 0.9875,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
-      "peak_prob": 0.987,
-      "last_checked_prob": 0.987,
+      "peak_prob": 0.9875,
+      "last_checked_prob": 0.9875,
       "history": [
         {
           "time": "23:38",
@@ -2949,7 +2949,7 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+      "url": "https://polymarket.com/event/193337",
       "probability": 0.88,
       "option_text": "$800B",
       "tags": [
@@ -5501,7 +5501,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/79080",
-      "probability": 0.815,
+      "probability": 0.82,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -5623,11 +5623,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.815,
+      "current_prob": 0.82,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.91,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.82,
       "history": [
         {
           "time": "20:57",
@@ -5642,6 +5642,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-20T20:59:35.900396",
+  "updated_at": "2026-06-20T22:05:26.247157",
   "event_count": 17
 }
