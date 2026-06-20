@@ -5,7 +5,7 @@
       "title": "Will Neymar play in the 2026 FIFA World Cup?",
       "slug": "will-neymar-play-in-the-2026-fifa-world-cup-for-brazil",
       "url": "https://polymarket.com/event/will-neymar-play-in-the-world-cup",
-      "probability": 0.855,
+      "probability": 0.92,
       "option_text": "Yes",
       "tags": [
         "neymar",
@@ -19,11 +19,11 @@
       ],
       "volume": 1144354.9592139928,
       "liquidity": 20303.8894,
-      "current_prob": 0.855,
+      "current_prob": 0.92,
       "added_at": "2026-05-19T00:06:18.280031",
       "first_seen": "2026-05-19T00:06:18.280031",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.92,
       "history": [
         {
           "time": "00:06",
@@ -54,6 +54,11 @@
           "time": "00:05",
           "prob": 0.875,
           "reason": "Update: 93.5% → 87.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.92,
+          "reason": "Update: 85.5% → 92.0%"
         }
       ]
     },
@@ -62,7 +67,7 @@
       "title": "Which characters will appear in Avengers: Doomsday?",
       "slug": "which-characters-will-appear-in-avengers-doomsday",
       "url": "https://polymarket.com/event/which-characters-will-appear-in-avengers-doomsday",
-      "probability": 0.885,
+      "probability": 0.845,
       "option_text": "Hugh Jackman as Wolverine",
       "tags": [
         "movies",
@@ -70,11 +75,11 @@
       ],
       "volume": 42194.038787000005,
       "liquidity": 16591.73895,
-      "current_prob": 0.885,
+      "current_prob": 0.845,
       "added_at": "2026-06-01T00:06:09.678147",
       "first_seen": "2026-06-01T00:06:09.678147",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "00:06",
@@ -93,7 +98,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.81,
+      "probability": 0.825,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -102,11 +107,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.81,
+      "current_prob": 0.825,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.81,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "00:06",
@@ -114,36 +119,8 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
-    },
-    "106016": {
-      "id": "106016",
-      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
-      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.78,
-      "option_text": "Danielle Haim",
-      "tags": [
-        "pop-culture",
-        "taylor-swift",
-        "nfl",
-        "music"
-      ],
-      "volume": 306419.36804100004,
-      "liquidity": 7680.8827,
-      "current_prob": 0.78,
-      "added_at": "2026-06-19T00:06:43.424122",
-      "first_seen": "2026-06-19T00:06:43.424122",
-      "peak_prob": 0.79,
-      "last_checked_prob": 0.78,
-      "history": [
-        {
-          "time": "00:06",
-          "prob": 0.79,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
     }
   },
-  "updated_at": "2026-06-20T00:06:20.646360",
-  "event_count": 4
+  "updated_at": "2026-06-21T00:06:00.321660",
+  "event_count": 3
 }
