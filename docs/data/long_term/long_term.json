@@ -51,7 +51,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -89,7 +89,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.9875,
+      "probability": 0.9865,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2922,11 +2922,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9875,
+      "current_prob": 0.9865,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.9875,
-      "last_checked_prob": 0.9875,
+      "last_checked_prob": 0.9865,
       "history": [
         {
           "time": "23:38",
@@ -2949,7 +2949,7 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/193337",
+      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.88,
       "option_text": "$800B",
       "tags": [
@@ -3514,7 +3514,7 @@
       "id": "192788",
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
-      "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+      "url": "https://polymarket.com/event/192788",
       "probability": 0.774,
       "option_text": "Yes",
       "tags": [
@@ -5501,7 +5501,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/79080",
-      "probability": 0.82,
+      "probability": 0.815,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -5623,11 +5623,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.82,
+      "current_prob": 0.815,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.91,
-      "last_checked_prob": 0.82,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "20:57",
@@ -5642,6 +5642,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-20T22:05:26.247157",
+  "updated_at": "2026-06-20T23:56:14.131925",
   "event_count": 17
 }
