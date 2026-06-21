@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-21T07:21:21.098799",
+  "updated_at": "2026-06-21T10:56:52.856785",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
@@ -98,8 +98,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.987,
+        "url": "https://polymarket.com/event/57711",
+        "probability": 0.9875,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2932,11 +2932,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.987,
+        "current_prob": 0.9875,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.9875,
-        "last_checked_prob": 0.987,
+        "last_checked_prob": 0.9875,
         "history": [
           {
             "time": "23:38",
@@ -2959,7 +2959,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/193337",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
         "probability": 0.88,
         "option_text": "$800B",
         "tags": [
@@ -3660,7 +3660,7 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+        "url": "https://polymarket.com/event/57708",
         "probability": 0.925,
         "option_text": "Anthropic",
         "tags": [
@@ -5652,6 +5652,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-21T07:21:21.093313"
+    "updated_at": "2026-06-21T10:56:52.850340"
   }
 }
