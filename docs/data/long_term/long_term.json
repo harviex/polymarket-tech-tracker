@@ -94,7 +94,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.987,
+      "probability": 0.9875,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2927,11 +2927,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.987,
+      "current_prob": 0.9875,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.9875,
-      "last_checked_prob": 0.987,
+      "last_checked_prob": 0.9875,
       "history": [
         {
           "time": "23:38",
@@ -2955,7 +2955,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.88,
+      "probability": 0.85,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -3497,11 +3497,11 @@
       "endDate": "2027-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.88,
+      "current_prob": 0.85,
       "added_at": "2026-05-20T17:48:04.975455",
       "first_seen": "2026-05-20T17:48:04.975455",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "17:48",
@@ -3520,7 +3520,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-      "probability": 0.7785,
+      "probability": 0.7795,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3633,11 +3633,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7785,
+      "current_prob": 0.7795,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.8525,
-      "last_checked_prob": 0.7785,
+      "last_checked_prob": 0.7795,
       "history": [
         {
           "time": "21:58",
@@ -5651,7 +5651,7 @@
       "title": "How many cities will Waymo operate in by June 30?",
       "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
       "url": "https://polymarket.com/event/78470",
-      "probability": 0.7145,
+      "probability": 0.715,
       "option_text": "Will Waymo operate in 7 cities on June 30 2026?",
       "tags": [
         "ai",
@@ -6498,11 +6498,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7145,
+      "current_prob": 0.715,
       "added_at": "2026-06-21T13:01:04.081556",
       "first_seen": "2026-06-21T13:01:04.081556",
-      "peak_prob": 0.7145,
-      "last_checked_prob": 0.7145,
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
       "history": [
         {
           "time": "13:01",
@@ -6512,6 +6512,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-21T17:13:54.710332",
+  "updated_at": "2026-06-21T19:08:11.127150",
   "event_count": 17
 }
