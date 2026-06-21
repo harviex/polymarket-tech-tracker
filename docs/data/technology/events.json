@@ -1,29 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-20T23:56:14.138985",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "100079",
-          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "tags": [],
-          "first_seen": "2026-06-20T15:26:24.732677",
-          "history": [
-            {
-              "time": "15:26",
-              "prob": 0.717,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.717
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-21T02:40:42.672349",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
     "events": [
@@ -32,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.855,
+        "probability": 0.765,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -41,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.855,
+        "current_prob": 0.765,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "15:48",
@@ -71,6 +49,11 @@
             "time": "11:09",
             "prob": 0.88,
             "reason": "Update: 80.5% → 88.0%"
+          },
+          {
+            "time": "02:40",
+            "prob": 0.765,
+            "reason": "Update: 85.5% → 76.5%"
           }
         ]
       },
@@ -115,8 +98,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.9865,
+        "url": "https://polymarket.com/event/57711",
+        "probability": 0.9875,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2949,11 +2932,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9865,
+        "current_prob": 0.9875,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.9875,
-        "last_checked_prob": 0.9865,
+        "last_checked_prob": 0.9875,
         "history": [
           {
             "time": "23:38",
@@ -2976,7 +2959,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "url": "https://polymarket.com/event/193337",
         "probability": 0.88,
         "option_text": "$800B",
         "tags": [
@@ -3541,7 +3524,7 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/192788",
+        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
         "probability": 0.774,
         "option_text": "Yes",
         "tags": [
@@ -3677,7 +3660,7 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+        "url": "https://polymarket.com/event/57708",
         "probability": 0.925,
         "option_text": "Anthropic",
         "tags": [
@@ -5669,6 +5652,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-20T23:56:14.131925"
+    "updated_at": "2026-06-21T02:40:42.665275"
   }
 }
