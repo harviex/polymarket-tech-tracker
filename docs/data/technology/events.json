@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-22T22:28:37.955783",
+  "updated_at": "2026-06-22T23:57:28.385624",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -135,7 +135,7 @@
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
         "url": "https://polymarket.com/event/57711",
-        "probability": 0.9895,
+        "probability": 0.9875,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2968,11 +2968,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9895,
+        "current_prob": 0.9875,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9895,
+        "last_checked_prob": 0.9875,
         "history": [
           {
             "time": "23:38",
@@ -2995,7 +2995,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
+        "url": "https://polymarket.com/event/193337",
         "probability": 0.85,
         "option_text": "$800B",
         "tags": [
@@ -5691,8 +5691,8 @@
         "id": "78470",
         "title": "How many cities will Waymo operate in by June 30?",
         "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
-        "url": "https://polymarket.com/event/78470",
-        "probability": 0.7655,
+        "url": "https://polymarket.com/event/how-many-cities-will-waymo-operate-in-by-june-30-2026",
+        "probability": 0.7665,
         "option_text": "Will Waymo operate in 7 cities on June 30 2026?",
         "tags": [
           "ai",
@@ -6519,11 +6519,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7655,
+        "current_prob": 0.7665,
         "added_at": "2026-06-22T20:27:28.746844",
         "first_seen": "2026-06-22T20:27:28.746844",
-        "peak_prob": 0.7655,
-        "last_checked_prob": 0.7655,
+        "peak_prob": 0.7665,
+        "last_checked_prob": 0.7665,
         "history": [
           {
             "time": "20:27",
@@ -6533,6 +6533,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-22T22:28:37.948044"
+    "updated_at": "2026-06-22T23:57:28.377655"
   }
 }
