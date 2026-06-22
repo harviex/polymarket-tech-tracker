@@ -1,6 +1,30 @@
 {
   "date": "2026-06-23",
   "created_at": "2026-06-23T00:00:33.046383",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "78470",
+      "title": "How many cities will Waymo operate in by June 30?",
+      "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
+      "prev_prob": 0.661,
+      "curr_prob": 0.7215,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "02:01",
+      "timestamp": "2026-06-23T02:01:19.004290"
+    },
+    {
+      "event_id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "02:01",
+      "timestamp": "2026-06-23T02:01:19.004335"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-06-23T02:01:19.004518"
 }
