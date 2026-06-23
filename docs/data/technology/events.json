@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-23T16:16:52.970561",
+  "updated_at": "2026-06-23T19:01:34.450561",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -61,7 +61,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9605,
         "option_text": "Yes",
         "tags": [
@@ -98,8 +98,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-        "probability": 0.9745,
+        "url": "https://polymarket.com/event/57711",
+        "probability": 0.975,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2932,11 +2932,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.975,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "23:38",
@@ -3525,7 +3525,7 @@
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
         "url": "https://polymarket.com/event/192788",
-        "probability": 0.7945,
+        "probability": 0.7995,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -3638,11 +3638,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7945,
+        "current_prob": 0.7995,
         "added_at": "2026-06-07T21:58:34.577998",
         "first_seen": "2026-06-07T21:58:34.577998",
         "peak_prob": 0.8525,
-        "last_checked_prob": 0.7945,
+        "last_checked_prob": 0.7995,
         "history": [
           {
             "time": "21:58",
@@ -5511,7 +5511,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.83,
+        "probability": 0.825,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5633,11 +5633,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.83,
+        "current_prob": 0.825,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.91,
-        "last_checked_prob": 0.83,
+        "last_checked_prob": 0.825,
         "history": [
           {
             "time": "20:57",
@@ -5656,7 +5656,7 @@
         "title": "How many cities will Waymo operate in by June 30?",
         "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
         "url": "https://polymarket.com/event/how-many-cities-will-waymo-operate-in-by-june-30-2026",
-        "probability": 0.7295,
+        "probability": 0.773,
         "option_text": "Will Waymo operate in 7 cities on June 30 2026?",
         "tags": [
           "ai",
@@ -6483,11 +6483,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7295,
+        "current_prob": 0.773,
         "added_at": "2026-06-22T20:27:28.746844",
         "first_seen": "2026-06-22T20:27:28.746844",
-        "peak_prob": 0.7665,
-        "last_checked_prob": 0.7295,
+        "peak_prob": 0.773,
+        "last_checked_prob": 0.773,
         "history": [
           {
             "time": "20:27",
@@ -6497,6 +6497,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-23T16:16:52.962323"
+    "updated_at": "2026-06-23T19:01:34.442663"
   }
 }
