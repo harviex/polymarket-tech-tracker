@@ -1,43 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-22T23:57:28.385624",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "78470",
-          "title": "How many cities will Waymo operate in by June 30?",
-          "tags": [],
-          "first_seen": "2026-06-22T12:39:18.837264",
-          "history": [
-            {
-              "time": "12:39",
-              "prob": 0.707,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "17:21",
-              "prob": 0.707,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "20:27",
-              "prob": 0.7165,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.707
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-06-23T02:33:02.944446",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -97,7 +61,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9605,
         "option_text": "Yes",
         "tags": [
@@ -134,8 +98,8 @@
         "id": "57711",
         "title": "Largest Company end of June?",
         "slug": "largest-company-end-of-june-712",
-        "url": "https://polymarket.com/event/57711",
-        "probability": 0.9875,
+        "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+        "probability": 0.989,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -2968,11 +2932,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9875,
+        "current_prob": 0.989,
         "added_at": "2026-05-10T23:38:51.864375",
         "first_seen": "2026-05-10T23:38:51.864375",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9875,
+        "last_checked_prob": 0.989,
         "history": [
           {
             "time": "23:38",
@@ -2995,7 +2959,7 @@
         "id": "193337",
         "title": "OpenAI IPO closing market cap above ___ ?",
         "slug": "openai-ipo-closing-market-cap-above",
-        "url": "https://polymarket.com/event/193337",
+        "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
         "probability": 0.85,
         "option_text": "$800B",
         "tags": [
@@ -3560,8 +3524,8 @@
         "id": "192788",
         "title": "OpenAI $1T+ valuation in 2026?",
         "slug": "openai-1t-valuation-in-2026",
-        "url": "https://polymarket.com/event/192788",
-        "probability": 0.758,
+        "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
+        "probability": 0.791,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -3674,11 +3638,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.758,
+        "current_prob": 0.791,
         "added_at": "2026-06-07T21:58:34.577998",
         "first_seen": "2026-06-07T21:58:34.577998",
         "peak_prob": 0.8525,
-        "last_checked_prob": 0.758,
+        "last_checked_prob": 0.791,
         "history": [
           {
             "time": "21:58",
@@ -3697,7 +3661,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-        "probability": 0.92,
+        "probability": 0.915,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -5514,11 +5478,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.92,
+        "current_prob": 0.915,
         "added_at": "2026-06-09T01:47:24.734854",
         "first_seen": "2026-06-09T01:47:24.734854",
         "peak_prob": 0.935,
-        "last_checked_prob": 0.92,
+        "last_checked_prob": 0.915,
         "history": [
           {
             "time": "01:47",
@@ -5546,7 +5510,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.83,
         "option_text": "Yes",
         "tags": [
@@ -6533,6 +6497,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-22T23:57:28.377655"
+    "updated_at": "2026-06-23T02:33:02.936953"
   }
 }
