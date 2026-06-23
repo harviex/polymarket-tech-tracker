@@ -23,8 +23,30 @@
       "direction": "down",
       "time": "10:00",
       "timestamp": "2026-06-23T10:00:48.522343"
+    },
+    {
+      "event_id": "51456",
+      "title": "How many Fed rate cuts in 2026?",
+      "slug": "how-many-fed-rate-cuts-in-2026",
+      "prev_prob": 0.801,
+      "curr_prob": 0.7995,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "18:03",
+      "timestamp": "2026-06-23T18:03:12.800375"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.73,
+      "curr_prob": 0.695,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "18:03",
+      "timestamp": "2026-06-23T18:03:12.800499"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-23T10:00:48.522625"
+  "crossing_count": 4,
+  "last_updated": "2026-06-23T18:03:12.800723"
 }
