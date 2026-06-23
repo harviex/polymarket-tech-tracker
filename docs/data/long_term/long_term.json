@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
-      "probability": 0.825,
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "probability": 0.835,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.825,
+      "current_prob": 0.835,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "15:48",
@@ -94,7 +94,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.989,
+      "probability": 0.978,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2927,11 +2927,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.989,
+      "current_prob": 0.978,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.989,
+      "last_checked_prob": 0.978,
       "history": [
         {
           "time": "23:38",
@@ -3520,7 +3520,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-      "probability": 0.791,
+      "probability": 0.786,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3633,11 +3633,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.791,
+      "current_prob": 0.786,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.8525,
-      "last_checked_prob": 0.791,
+      "last_checked_prob": 0.786,
       "history": [
         {
           "time": "21:58",
@@ -3656,7 +3656,7 @@
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
       "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-      "probability": 0.915,
+      "probability": 0.925,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5473,11 +5473,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.915,
+      "current_prob": 0.925,
       "added_at": "2026-06-09T01:47:24.734854",
       "first_seen": "2026-06-09T01:47:24.734854",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.915,
+      "last_checked_prob": 0.925,
       "history": [
         {
           "time": "01:47",
@@ -5505,7 +5505,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/79080",
+      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "probability": 0.83,
       "option_text": "Yes",
       "tags": [
@@ -5651,7 +5651,7 @@
       "title": "How many cities will Waymo operate in by June 30?",
       "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
       "url": "https://polymarket.com/event/how-many-cities-will-waymo-operate-in-by-june-30-2026",
-      "probability": 0.7665,
+      "probability": 0.7355,
       "option_text": "Will Waymo operate in 7 cities on June 30 2026?",
       "tags": [
         "ai",
@@ -6478,11 +6478,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7665,
+      "current_prob": 0.7355,
       "added_at": "2026-06-22T20:27:28.746844",
       "first_seen": "2026-06-22T20:27:28.746844",
       "peak_prob": 0.7665,
-      "last_checked_prob": 0.7665,
+      "last_checked_prob": 0.7355,
       "history": [
         {
           "time": "20:27",
@@ -6492,6 +6492,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-23T02:33:02.936953",
+  "updated_at": "2026-06-23T06:35:43.499227",
   "event_count": 17
 }
