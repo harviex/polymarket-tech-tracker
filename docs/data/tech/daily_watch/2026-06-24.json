@@ -12,8 +12,30 @@
       "direction": "up",
       "time": "04:01",
       "timestamp": "2026-06-24T04:01:08.124320"
+    },
+    {
+      "event_id": "78470",
+      "title": "How many cities will Waymo operate in by June 30?",
+      "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
+      "prev_prob": 0.7945,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "06:01",
+      "timestamp": "2026-06-24T06:01:04.824277"
+    },
+    {
+      "event_id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "slug": "openai-1t-valuation-in-2026",
+      "prev_prob": 0.804,
+      "curr_prob": 0.787,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "06:01",
+      "timestamp": "2026-06-24T06:01:04.824333"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-06-24T04:01:08.124513"
+  "crossing_count": 3,
+  "last_updated": "2026-06-24T06:01:04.824510"
 }
