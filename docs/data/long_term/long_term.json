@@ -56,7 +56,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -3519,8 +3519,8 @@
       "id": "192788",
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
-      "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-      "probability": 0.7785,
+      "url": "https://polymarket.com/event/192788",
+      "probability": 0.7715,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3633,11 +3633,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7785,
+      "current_prob": 0.7715,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.8525,
-      "last_checked_prob": 0.7785,
+      "last_checked_prob": 0.7715,
       "history": [
         {
           "time": "21:58",
@@ -3655,8 +3655,8 @@
       "id": "57708",
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "url": "https://polymarket.com/event/57708",
-      "probability": 0.972,
+      "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+      "probability": 0.9725,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -5473,11 +5473,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.972,
+      "current_prob": 0.9725,
       "added_at": "2026-06-09T01:47:24.734854",
       "first_seen": "2026-06-09T01:47:24.734854",
-      "peak_prob": 0.972,
-      "last_checked_prob": 0.972,
+      "peak_prob": 0.9725,
+      "last_checked_prob": 0.9725,
       "history": [
         {
           "time": "01:47",
@@ -5650,8 +5650,8 @@
       "id": "78470",
       "title": "How many cities will Waymo operate in by June 30?",
       "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
-      "url": "https://polymarket.com/event/78470",
-      "probability": 0.7635,
+      "url": "https://polymarket.com/event/how-many-cities-will-waymo-operate-in-by-june-30-2026",
+      "probability": 0.766,
       "option_text": "Will Waymo operate in 7 cities on June 30 2026?",
       "tags": [
         "ai",
@@ -6478,11 +6478,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7635,
+      "current_prob": 0.766,
       "added_at": "2026-06-22T20:27:28.746844",
       "first_seen": "2026-06-22T20:27:28.746844",
       "peak_prob": 0.8115,
-      "last_checked_prob": 0.7635,
+      "last_checked_prob": 0.766,
       "history": [
         {
           "time": "20:27",
@@ -6492,6 +6492,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-24T18:25:24.977077",
+  "updated_at": "2026-06-24T20:24:42.650365",
   "event_count": 17
 }
