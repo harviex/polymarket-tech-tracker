@@ -34,8 +34,19 @@
       "direction": "down",
       "time": "06:01",
       "timestamp": "2026-06-24T06:01:04.824333"
+    },
+    {
+      "event_id": "78470",
+      "title": "How many cities will Waymo operate in by June 30?",
+      "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
+      "prev_prob": 0.8095,
+      "curr_prob": 0.7975,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-06-24T12:01:11.895886"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-06-24T06:01:04.824510"
+  "crossing_count": 4,
+  "last_updated": "2026-06-24T12:01:11.896129"
 }
