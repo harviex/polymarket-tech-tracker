@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.845,
       "option_text": "Yes",
       "tags": [
@@ -93,8 +93,8 @@
       "id": "57711",
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.9745,
+      "url": "https://polymarket.com/event/57711",
+      "probability": 0.9755,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -2927,11 +2927,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9745,
+      "current_prob": 0.9755,
       "added_at": "2026-05-10T23:38:51.864375",
       "first_seen": "2026-05-10T23:38:51.864375",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9745,
+      "last_checked_prob": 0.9755,
       "history": [
         {
           "time": "23:38",
@@ -2954,7 +2954,7 @@
       "id": "193337",
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
-      "url": "https://polymarket.com/event/193337",
+      "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
       "probability": 0.85,
       "option_text": "$800B",
       "tags": [
@@ -3520,7 +3520,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/192788",
-      "probability": 0.788,
+      "probability": 0.793,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -3633,11 +3633,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.788,
+      "current_prob": 0.793,
       "added_at": "2026-06-07T21:58:34.577998",
       "first_seen": "2026-06-07T21:58:34.577998",
       "peak_prob": 0.8525,
-      "last_checked_prob": 0.788,
+      "last_checked_prob": 0.793,
       "history": [
         {
           "time": "21:58",
@@ -5505,7 +5505,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.83,
       "option_text": "Yes",
       "tags": [
@@ -5651,7 +5651,7 @@
       "title": "How many cities will Waymo operate in by June 30?",
       "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
       "url": "https://polymarket.com/event/how-many-cities-will-waymo-operate-in-by-june-30-2026",
-      "probability": 0.8105,
+      "probability": 0.8115,
       "option_text": "Will Waymo operate in 7 cities on June 30 2026?",
       "tags": [
         "ai",
@@ -6478,11 +6478,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8105,
+      "current_prob": 0.8115,
       "added_at": "2026-06-22T20:27:28.746844",
       "first_seen": "2026-06-22T20:27:28.746844",
-      "peak_prob": 0.8105,
-      "last_checked_prob": 0.8105,
+      "peak_prob": 0.8115,
+      "last_checked_prob": 0.8115,
       "history": [
         {
           "time": "20:27",
@@ -6492,6 +6492,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-23T23:48:04.213137",
+  "updated_at": "2026-06-24T01:52:08.194446",
   "event_count": 17
 }
