@@ -78,8 +78,19 @@
       "direction": "up",
       "time": "18:00",
       "timestamp": "2026-06-25T18:00:30.240873"
+    },
+    {
+      "event_id": "357856",
+      "title": "Reserve Bank of New Zealand decision in July?",
+      "slug": "reserve-bank-of-new-zealand-decision-in-july",
+      "prev_prob": 0.7,
+      "curr_prob": 0.675,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-06-25T19:00:36.543321"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-06-25T18:00:30.241138"
+  "crossing_count": 8,
+  "last_updated": "2026-06-25T19:00:36.543580"
 }
