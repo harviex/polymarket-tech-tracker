@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.85,
+      "probability": 0.865,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -114,11 +114,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.85,
+      "current_prob": 0.865,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.85,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "23:25",
@@ -285,7 +285,7 @@
       "title": "Largest Company end of June?",
       "slug": "largest-company-end-of-june-712",
       "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.986,
+      "probability": 0.9855,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -298,11 +298,11 @@
       ],
       "volume": 10714935.557420975,
       "liquidity": 1158347.28666,
-      "current_prob": 0.986,
+      "current_prob": 0.9855,
       "added_at": "2026-05-08T00:06:00.948889",
       "first_seen": "2026-05-08T00:06:00.948889",
       "peak_prob": 0.989,
-      "last_checked_prob": 0.986,
+      "last_checked_prob": 0.9855,
       "history": [
         {
           "time": "00:06",
@@ -336,7 +336,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.855,
+      "probability": 0.86,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -352,11 +352,11 @@
       ],
       "volume": 1494411.8879680005,
       "liquidity": 18949.3209,
-      "current_prob": 0.855,
+      "current_prob": 0.86,
       "added_at": "2026-05-22T00:08:14.873568",
       "first_seen": "2026-05-22T00:08:14.873568",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "00:08",
@@ -370,7 +370,7 @@
       "title": "OpenAI $1T+ valuation in 2026?",
       "slug": "openai-1t-valuation-in-2026",
       "url": "https://polymarket.com/event/openai-1t-valuation-in-2026",
-      "probability": 0.783,
+      "probability": 0.7815,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -382,11 +382,11 @@
       ],
       "volume": 25523.92330699988,
       "liquidity": 1019.73248,
-      "current_prob": 0.783,
+      "current_prob": 0.7815,
       "added_at": "2026-06-09T00:05:40.483158",
       "first_seen": "2026-06-09T00:05:40.483158",
       "peak_prob": 0.8525,
-      "last_checked_prob": 0.783,
+      "last_checked_prob": 0.7815,
       "history": [
         {
           "time": "00:05",
@@ -410,7 +410,7 @@
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
       "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-      "probability": 0.972,
+      "probability": 0.977,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -422,11 +422,11 @@
       ],
       "volume": 568419.6640389999,
       "liquidity": 151150.52898,
-      "current_prob": 0.972,
+      "current_prob": 0.977,
       "added_at": "2026-06-10T00:06:00.511235",
       "first_seen": "2026-06-10T00:06:00.511235",
-      "peak_prob": 0.972,
-      "last_checked_prob": 0.972,
+      "peak_prob": 0.977,
+      "last_checked_prob": 0.977,
       "history": [
         {
           "time": "00:06",
@@ -455,7 +455,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.87,
+      "probability": 0.86,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -465,11 +465,11 @@
       ],
       "volume": 85578.29659499993,
       "liquidity": 4339.0704,
-      "current_prob": 0.87,
+      "current_prob": 0.86,
       "added_at": "2026-06-14T00:05:35.323549",
       "first_seen": "2026-06-14T00:05:35.323549",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.87,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "00:05",
@@ -477,38 +477,8 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
-    },
-    "78470": {
-      "id": "78470",
-      "title": "How many cities will Waymo operate in by June 30?",
-      "slug": "how-many-cities-will-waymo-operate-in-by-june-30-2026",
-      "url": "https://polymarket.com/event/how-many-cities-will-waymo-operate-in-by-june-30-2026",
-      "probability": 0.763,
-      "option_text": "7",
-      "tags": [
-        "ai",
-        "tech",
-        "google",
-        "tesla",
-        "self-driving",
-        "big-tech"
-      ],
-      "volume": 185059.69426299995,
-      "liquidity": 24109.46131,
-      "current_prob": 0.763,
-      "added_at": "2026-06-24T00:06:06.455888",
-      "first_seen": "2026-06-24T00:06:06.455888",
-      "peak_prob": 0.763,
-      "last_checked_prob": 0.763,
-      "history": [
-        {
-          "time": "00:06",
-          "prob": 0.7295,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
     }
   },
-  "updated_at": "2026-06-25T00:05:26.064539",
-  "event_count": 8
+  "updated_at": "2026-06-26T00:05:41.309447",
+  "event_count": 7
 }
