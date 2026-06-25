@@ -14,6 +14,22 @@
         }
       ],
       "current_prob": 0.7835
+    },
+    "100079": {
+      "id": "100079",
+      "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+      "tags": [],
+      "first_seen": "2026-06-25T22:13:18.002983",
+      "history": [
+        {
+          "time": "22:13",
+          "prob": 0.7045,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7045
     }
   }
 }
