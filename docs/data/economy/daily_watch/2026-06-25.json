@@ -100,8 +100,41 @@
       "direction": "down",
       "time": "20:00",
       "timestamp": "2026-06-25T20:00:34.348217"
+    },
+    {
+      "event_id": "535607",
+      "title": "Durable Goods Orders MoM - May 2026",
+      "slug": "durable-goods-orders-mom-may-2026",
+      "prev_prob": 0.497,
+      "curr_prob": 0.9955,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-06-25T21:00:32.419477"
+    },
+    {
+      "event_id": "535607",
+      "title": "Durable Goods Orders MoM - May 2026",
+      "slug": "durable-goods-orders-mom-may-2026",
+      "prev_prob": 0.497,
+      "curr_prob": 0.9955,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-06-25T21:00:32.419506"
+    },
+    {
+      "event_id": "535607",
+      "title": "Durable Goods Orders MoM - May 2026",
+      "slug": "durable-goods-orders-mom-may-2026",
+      "prev_prob": 0.497,
+      "curr_prob": 0.9955,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "21:00",
+      "timestamp": "2026-06-25T21:00:32.419518"
     }
   ],
-  "crossing_count": 9,
-  "last_updated": "2026-06-25T20:00:34.348582"
+  "crossing_count": 12,
+  "last_updated": "2026-06-25T21:00:32.419783"
 }
