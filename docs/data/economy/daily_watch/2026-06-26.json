@@ -78,8 +78,30 @@
       "direction": "down",
       "time": "13:00",
       "timestamp": "2026-06-26T13:00:47.609846"
+    },
+    {
+      "event_id": "193867",
+      "title": "Will Anthropic or OpenAI IPO first?",
+      "slug": "will-anthropic-or-openai-ipo-first",
+      "prev_prob": 0.735,
+      "curr_prob": 0.69,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-06-26T14:00:48.141364"
+    },
+    {
+      "event_id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "slug": "tech-layoffs-up-or-down-in-2026",
+      "prev_prob": 0.8,
+      "curr_prob": 0.77,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "14:00",
+      "timestamp": "2026-06-26T14:00:48.141400"
     }
   ],
-  "crossing_count": 7,
-  "last_updated": "2026-06-26T13:00:47.610119"
+  "crossing_count": 9,
+  "last_updated": "2026-06-26T14:00:48.141697"
 }
