@@ -36,7 +36,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.865,
+      "probability": 0.845,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -45,11 +45,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.865,
+      "current_prob": 0.845,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "00:06",
@@ -63,7 +63,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.78,
+      "probability": 0.79,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -73,11 +73,11 @@
       ],
       "volume": 307241.25033400004,
       "liquidity": 15559.84492,
-      "current_prob": 0.78,
+      "current_prob": 0.79,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.785,
-      "last_checked_prob": 0.78,
+      "peak_prob": 0.79,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "00:05",
@@ -91,7 +91,7 @@
       "title": "Nothing Ever Happens: Satoshi Nakamoto",
       "slug": "nothing-ever-happens-satoshi-nakamoto",
       "url": "https://polymarket.com/event/nothing-ever-happens-satoshi-nakamoto",
-      "probability": 0.95,
+      "probability": 0.9475,
       "option_text": "Nothing",
       "tags": [
         "crypto",
@@ -103,11 +103,11 @@
       ],
       "volume": 11185.629875000004,
       "liquidity": 7949.32084,
-      "current_prob": 0.95,
+      "current_prob": 0.9475,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.95,
-      "last_checked_prob": 0.95,
+      "last_checked_prob": 0.9475,
       "history": [
         {
           "time": "00:05",
@@ -121,7 +121,7 @@
       "title": "Will MrBeast get married by December 31?",
       "slug": "will-mrbeast-get-married-by-december-31",
       "url": "https://polymarket.com/event/will-mrbeast-get-married-by-december-31",
-      "probability": 0.815,
+      "probability": 0.865,
       "option_text": "Yes",
       "tags": [
         "mrbeast",
@@ -131,20 +131,25 @@
       ],
       "volume": 38013.528827999995,
       "liquidity": 2652.5776,
-      "current_prob": 0.815,
+      "current_prob": 0.865,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.82,
-      "last_checked_prob": 0.815,
+      "peak_prob": 0.865,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "00:05",
           "prob": 0.82,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:08",
+          "prob": 0.865,
+          "reason": "Update: 81.5% → 86.5%"
         }
       ]
     }
   },
-  "updated_at": "2026-06-26T00:05:37.387132",
+  "updated_at": "2026-06-27T00:08:16.168743",
   "event_count": 5
 }
