@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.845,
+      "probability": 0.85,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.845,
+      "current_prob": 0.85,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "15:48",
@@ -56,7 +56,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -2088,7 +2088,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.8,
       "option_text": "Up",
       "tags": [
@@ -2218,6 +2218,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-26T20:24:12.077293",
+  "updated_at": "2026-06-26T21:58:35.500607",
   "event_count": 17
 }
