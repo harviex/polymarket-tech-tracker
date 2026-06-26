@@ -45,8 +45,30 @@
       "direction": "down",
       "time": "05:00",
       "timestamp": "2026-06-26T05:00:37.039247"
+    },
+    {
+      "event_id": "193867",
+      "title": "Will Anthropic or OpenAI IPO first?",
+      "slug": "will-anthropic-or-openai-ipo-first",
+      "prev_prob": 0.68,
+      "curr_prob": 0.725,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-06-26T11:00:44.023157"
+    },
+    {
+      "event_id": "287395",
+      "title": "Fed Decision in July?",
+      "slug": "fed-decision-in-july-181",
+      "prev_prob": 0.795,
+      "curr_prob": 0.805,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-06-26T11:00:44.023243"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-06-26T05:00:37.039555"
+  "crossing_count": 6,
+  "last_updated": "2026-06-26T11:00:44.023482"
 }
