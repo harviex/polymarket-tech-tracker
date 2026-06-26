@@ -28,6 +28,57 @@
         }
       ],
       "current_prob": 0.99
+    },
+    "290152": {
+      "id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "tags": [],
+      "first_seen": "2026-06-26T20:24:12.080339",
+      "history": [
+        {
+          "time": "20:24",
+          "prob": 0.8,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "20:24",
+          "prob": 0.8,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.8
+    },
+    "193337": {
+      "id": "193337",
+      "title": "OpenAI IPO closing market cap above ___ ?",
+      "tags": [],
+      "first_seen": "2026-06-26T20:24:12.080349",
+      "history": [
+        {
+          "time": "20:24",
+          "prob": 0.84,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.84
+    },
+    "192788": {
+      "id": "192788",
+      "title": "OpenAI $1T+ valuation in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-26T20:24:12.080356",
+      "history": [
+        {
+          "time": "20:24",
+          "prob": 0.7195,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7195
     }
   }
 }
