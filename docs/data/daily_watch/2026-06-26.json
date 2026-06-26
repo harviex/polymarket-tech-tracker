@@ -14,6 +14,20 @@
         }
       ],
       "current_prob": 0.7045
+    },
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "tags": [],
+      "first_seen": "2026-06-26T13:53:38.312741",
+      "history": [
+        {
+          "time": "13:53",
+          "prob": 0.99,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.99
     }
   }
 }
