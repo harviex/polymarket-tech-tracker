@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-26T21:58:35.503607",
+  "updated_at": "2026-06-26T23:01:50.387772",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -186,7 +186,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-        "probability": 0.9725,
+        "probability": 0.9745,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -2003,11 +2003,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9725,
+        "current_prob": 0.9745,
         "added_at": "2026-06-09T01:47:24.734854",
         "first_seen": "2026-06-09T01:47:24.734854",
         "peak_prob": 0.9785,
-        "last_checked_prob": 0.9725,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "01:47",
@@ -2181,7 +2181,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.8,
+        "probability": 0.775,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -2296,11 +2296,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8,
+        "current_prob": 0.775,
         "added_at": "2026-06-26T20:24:12.077187",
         "first_seen": "2026-06-26T20:24:12.077187",
         "peak_prob": 0.8,
-        "last_checked_prob": 0.8,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "20:24",
@@ -2310,6 +2310,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-26T21:58:35.500607"
+    "updated_at": "2026-06-26T23:01:50.384716"
   }
 }
