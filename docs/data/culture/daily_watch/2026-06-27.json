@@ -23,8 +23,30 @@
       "direction": "down",
       "time": "04:01",
       "timestamp": "2026-06-27T04:01:04.030725"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.79,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "12:01",
+      "timestamp": "2026-06-27T12:01:05.348143"
+    },
+    {
+      "event_id": "211829",
+      "title": "Will MrBeast get married by December 31?",
+      "slug": "will-mrbeast-get-married-by-december-31",
+      "prev_prob": 0.865,
+      "curr_prob": 0.765,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "12:01",
+      "timestamp": "2026-06-27T12:01:05.348195"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-06-27T04:01:04.030963"
+  "crossing_count": 4,
+  "last_updated": "2026-06-27T12:01:05.348383"
 }
