@@ -56,7 +56,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9615,
       "option_text": "Yes",
       "tags": [
@@ -93,7 +93,7 @@
       "id": "57708",
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
+      "url": "https://polymarket.com/event/57708",
       "probability": 0.9845,
       "option_text": "Anthropic",
       "tags": [
@@ -1943,7 +1943,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.885,
       "option_text": "Yes",
       "tags": [
@@ -2085,6 +2085,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-27T16:56:37.564500",
+  "updated_at": "2026-06-27T17:55:13.695668",
   "event_count": 17
 }
