@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-27T05:42:09.784466",
+  "updated_at": "2026-06-27T08:21:00.428858",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.845,
         "option_text": "Yes",
         "tags": [
@@ -61,7 +61,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9615,
         "option_text": "Yes",
         "tags": [
@@ -98,7 +98,7 @@
         "id": "57708",
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
-        "url": "https://polymarket.com/event/57708",
+        "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
         "probability": 0.9735,
         "option_text": "Anthropic",
         "tags": [
@@ -2093,8 +2093,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.755,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.72,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -2209,11 +2209,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.755,
+        "current_prob": 0.72,
         "added_at": "2026-06-26T20:24:12.077187",
         "first_seen": "2026-06-26T20:24:12.077187",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.755,
+        "last_checked_prob": 0.72,
         "history": [
           {
             "time": "20:24",
@@ -2228,6 +2228,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-27T05:42:09.781499"
+    "updated_at": "2026-06-27T08:21:00.425957"
   }
 }
