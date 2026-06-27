@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.85,
+      "probability": 0.845,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.85,
+      "current_prob": 0.845,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.85,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "15:48",
@@ -94,7 +94,7 @@
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
       "url": "https://polymarket.com/event/57708",
-      "probability": 0.9725,
+      "probability": 0.9735,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -1911,11 +1911,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9725,
+      "current_prob": 0.9735,
       "added_at": "2026-06-09T01:47:24.734854",
       "first_seen": "2026-06-09T01:47:24.734854",
       "peak_prob": 0.9785,
-      "last_checked_prob": 0.9725,
+      "last_checked_prob": 0.9735,
       "history": [
         {
           "time": "01:47",
@@ -1944,7 +1944,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/79080",
-      "probability": 0.89,
+      "probability": 0.885,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2066,11 +2066,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.89,
+      "current_prob": 0.885,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.89,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "20:57",
@@ -2089,7 +2089,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.825,
+      "probability": 0.755,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -2204,20 +2204,25 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.825,
+      "current_prob": 0.755,
       "added_at": "2026-06-26T20:24:12.077187",
       "first_seen": "2026-06-26T20:24:12.077187",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "20:24",
           "prob": 0.8,
           "reason": "Added to Long-Term (high probability)"
+        },
+        {
+          "time": "05:42",
+          "prob": 0.755,
+          "reason": "Update: 82.5% → 75.5%"
         }
       ]
     }
   },
-  "updated_at": "2026-06-27T01:51:16.440147",
+  "updated_at": "2026-06-27T05:42:09.781499",
   "event_count": 17
 }
