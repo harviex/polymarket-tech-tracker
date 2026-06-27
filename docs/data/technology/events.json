@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-27T14:20:26.635791",
+  "updated_at": "2026-06-27T15:56:18.905934",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -39,7 +39,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.835,
+        "probability": 0.865,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -48,11 +48,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.835,
+        "current_prob": 0.865,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.835,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "15:48",
@@ -2123,7 +2123,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.7,
+        "probability": 0.725,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -2238,11 +2238,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7,
+        "current_prob": 0.725,
         "added_at": "2026-06-27T12:03:06.678031",
         "first_seen": "2026-06-27T12:03:06.678031",
-        "peak_prob": 0.72,
-        "last_checked_prob": 0.7,
+        "peak_prob": 0.725,
+        "last_checked_prob": 0.725,
         "history": [
           {
             "time": "12:03",
@@ -2252,6 +2252,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-27T14:20:26.632760"
+    "updated_at": "2026-06-27T15:56:18.902826"
   }
 }
