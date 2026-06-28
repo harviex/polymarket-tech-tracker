@@ -5,7 +5,7 @@
       "title": "Fed Decision in July?",
       "slug": "fed-decision-in-july-181",
       "url": "https://polymarket.com/event/fed-decision-in-july-181",
-      "probability": 0.805,
+      "probability": 0.815,
       "option_text": "No change",
       "tags": [
         "fomc",
@@ -18,11 +18,11 @@
       ],
       "volume": 4808824.680928059,
       "liquidity": 441285.33042,
-      "current_prob": 0.805,
+      "current_prob": 0.815,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "00:05",
@@ -51,7 +51,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.72,
+      "probability": 0.715,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -61,11 +61,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.72,
+      "current_prob": 0.715,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.72,
+      "last_checked_prob": 0.715,
       "history": [
         {
           "time": "00:05",
@@ -84,7 +84,7 @@
       "title": "Strait of Hormuz traffic returns to normal by December 31?",
       "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
       "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-      "probability": 0.865,
+      "probability": 0.805,
       "option_text": "Yes",
       "tags": [
         "ships",
@@ -100,11 +100,11 @@
       ],
       "volume": 410226.36447499954,
       "liquidity": 137619.2248,
-      "current_prob": 0.865,
+      "current_prob": 0.805,
       "added_at": "2026-05-30T00:05:27.222945",
       "first_seen": "2026-05-30T00:05:27.222945",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.805,
       "history": [
         {
           "time": "00:05",
@@ -130,6 +130,11 @@
           "time": "00:05",
           "prob": 0.845,
           "reason": "Update: 89.5% → 84.5%"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.805,
+          "reason": "Update: 86.5% → 80.5%"
         }
       ]
     },
@@ -138,7 +143,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.7725,
+      "probability": 0.7735,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -152,11 +157,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.7725,
+      "current_prob": 0.7735,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
       "peak_prob": 0.8135,
-      "last_checked_prob": 0.7725,
+      "last_checked_prob": 0.7735,
       "history": [
         {
           "time": "00:06",
@@ -198,7 +203,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.84,
+      "probability": 0.835,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -214,11 +219,11 @@
       ],
       "volume": 1506986.2457160004,
       "liquidity": 22283.7205,
-      "current_prob": 0.84,
+      "current_prob": 0.835,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.88,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:06",
@@ -232,7 +237,7 @@
       "title": "Will Anthropic or OpenAI IPO first?",
       "slug": "will-anthropic-or-openai-ipo-first",
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
-      "probability": 0.775,
+      "probability": 0.845,
       "option_text": "Anthropic",
       "tags": [
         "openai",
@@ -248,16 +253,21 @@
       ],
       "volume": 172561.4899689999,
       "liquidity": 17758.1263,
-      "current_prob": 0.775,
+      "current_prob": 0.845,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
-      "peak_prob": 0.775,
-      "last_checked_prob": 0.775,
+      "peak_prob": 0.845,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "00:06",
           "prob": 0.755,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.845,
+          "reason": "Update: 77.5% → 84.5%"
         }
       ]
     },
@@ -266,7 +276,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.73,
+      "probability": 0.825,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -279,11 +289,11 @@
       ],
       "volume": 25520.593357,
       "liquidity": 7365.8803,
-      "current_prob": 0.73,
+      "current_prob": 0.825,
       "added_at": "2026-06-26T00:05:53.258888",
       "first_seen": "2026-06-26T00:05:53.258888",
-      "peak_prob": 0.8,
-      "last_checked_prob": 0.73,
+      "peak_prob": 0.825,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "00:05",
@@ -299,10 +309,15 @@
           "time": "00:05",
           "prob": 0.73,
           "reason": "Update: 80.0% → 73.0%"
+        },
+        {
+          "time": "00:05",
+          "prob": 0.825,
+          "reason": "Update: 73.0% → 82.5%"
         }
       ]
     }
   },
-  "updated_at": "2026-06-28T00:05:24.110070",
+  "updated_at": "2026-06-29T00:05:53.770314",
   "event_count": 8
 }
