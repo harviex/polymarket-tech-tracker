@@ -27,9 +27,30 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "06:48",
+          "prob": 0.9785,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.9785
+    },
+    "245930": {
+      "id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-28T06:48:29.888002",
+      "history": [
+        {
+          "time": "06:48",
+          "prob": 0.73,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.73
     }
   }
 }
