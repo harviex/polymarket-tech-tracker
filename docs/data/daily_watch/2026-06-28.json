@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-28",
+  "events": {
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "tags": [],
+      "first_seen": "2026-06-28T02:01:04.951942",
+      "history": [
+        {
+          "time": "02:01",
+          "prob": 0.9785,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "02:01",
+          "prob": 0.9785,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "02:01",
+          "prob": 0.9785,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9785
+    }
+  }
+}
