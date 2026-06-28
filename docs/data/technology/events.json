@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-28T15:08:01.100132",
+  "updated_at": "2026-06-28T16:53:37.120875",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -68,7 +68,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
+        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
         "probability": 0.85,
         "option_text": "Yes",
         "tags": [
@@ -158,7 +158,7 @@
         "title": "Which company has second best AI model end of June?",
         "slug": "which-company-has-second-best-ai-model-end-of-june",
         "url": "https://polymarket.com/event/57708",
-        "probability": 0.9825,
+        "probability": 0.98,
         "option_text": "Anthropic",
         "tags": [
           "big-tech",
@@ -1975,11 +1975,11 @@
         "endDate": "2026-06-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9825,
+        "current_prob": 0.98,
         "added_at": "2026-06-09T01:47:24.734854",
         "first_seen": "2026-06-09T01:47:24.734854",
         "peak_prob": 0.9845,
-        "last_checked_prob": 0.9825,
+        "last_checked_prob": 0.98,
         "history": [
           {
             "time": "01:47",
@@ -2152,7 +2152,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.825,
         "option_text": "Up",
         "tags": [
@@ -2286,7 +2286,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-        "probability": 0.73,
+        "probability": 0.72,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2398,11 +2398,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.72,
         "added_at": "2026-06-28T06:48:29.884741",
         "first_seen": "2026-06-28T06:48:29.884741",
         "peak_prob": 0.78,
-        "last_checked_prob": 0.73,
+        "last_checked_prob": 0.72,
         "history": [
           {
             "time": "06:48",
@@ -2417,6 +2417,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-28T15:08:01.097004"
+    "updated_at": "2026-06-28T16:53:37.117638"
   }
 }
