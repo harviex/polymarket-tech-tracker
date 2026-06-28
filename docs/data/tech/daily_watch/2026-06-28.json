@@ -34,8 +34,19 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-06-28T04:00:19.798083"
+    },
+    {
+      "event_id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
+      "prev_prob": 0.68,
+      "curr_prob": 0.75,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "12:00",
+      "timestamp": "2026-06-28T12:00:32.845244"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-06-28T04:00:19.798287"
+  "crossing_count": 4,
+  "last_updated": "2026-06-28T12:00:32.845522"
 }
