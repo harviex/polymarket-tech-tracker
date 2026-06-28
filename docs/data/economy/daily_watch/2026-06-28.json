@@ -67,8 +67,19 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-06-28T06:00:36.716698"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.71,
+      "curr_prob": 0.68,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-06-28T19:00:35.022333"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-28T06:00:36.717010"
+  "crossing_count": 7,
+  "last_updated": "2026-06-28T19:00:35.022561"
 }
