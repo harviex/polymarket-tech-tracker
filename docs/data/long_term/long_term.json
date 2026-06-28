@@ -56,7 +56,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9615,
       "option_text": "Yes",
       "tags": [
@@ -1943,7 +1943,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.885,
       "option_text": "Yes",
       "tags": [
@@ -2222,7 +2222,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.73,
+      "probability": 0.755,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2334,11 +2334,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.73,
+      "current_prob": 0.755,
       "added_at": "2026-06-28T06:48:29.884741",
       "first_seen": "2026-06-28T06:48:29.884741",
-      "peak_prob": 0.73,
-      "last_checked_prob": 0.73,
+      "peak_prob": 0.755,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "06:48",
@@ -2348,6 +2348,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-28T06:48:29.884854",
+  "updated_at": "2026-06-28T09:49:46.076438",
   "event_count": 17
 }
