@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.855,
+      "probability": 0.85,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.855,
+      "current_prob": 0.85,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "15:48",
@@ -93,8 +93,8 @@
       "id": "57708",
       "title": "Which company has second best AI model end of June?",
       "slug": "which-company-has-second-best-ai-model-end-of-june",
-      "url": "https://polymarket.com/event/which-company-has-second-best-ai-model-end-of-june",
-      "probability": 0.9785,
+      "url": "https://polymarket.com/event/57708",
+      "probability": 0.9825,
       "option_text": "Anthropic",
       "tags": [
         "big-tech",
@@ -1911,11 +1911,11 @@
       "endDate": "2026-06-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9785,
+      "current_prob": 0.9825,
       "added_at": "2026-06-09T01:47:24.734854",
       "first_seen": "2026-06-09T01:47:24.734854",
       "peak_prob": 0.9845,
-      "last_checked_prob": 0.9785,
+      "last_checked_prob": 0.9825,
       "history": [
         {
           "time": "01:47",
@@ -2221,8 +2221,8 @@
       "id": "245930",
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
-      "url": "https://polymarket.com/event/245930",
-      "probability": 0.78,
+      "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
+      "probability": 0.73,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2334,20 +2334,25 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.78,
+      "current_prob": 0.73,
       "added_at": "2026-06-28T06:48:29.884741",
       "first_seen": "2026-06-28T06:48:29.884741",
       "peak_prob": 0.78,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "06:48",
           "prob": 0.73,
           "reason": "Added to Long-Term (high probability)"
+        },
+        {
+          "time": "15:08",
+          "prob": 0.73,
+          "reason": "Update: 78.0% → 73.0%"
         }
       ]
     }
   },
-  "updated_at": "2026-06-28T13:06:32.328842",
+  "updated_at": "2026-06-28T15:08:01.097004",
   "event_count": 17
 }
