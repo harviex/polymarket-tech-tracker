@@ -63,7 +63,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.79,
+      "probability": 0.83,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -73,11 +73,11 @@
       ],
       "volume": 307241.25033400004,
       "liquidity": 15559.84492,
-      "current_prob": 0.79,
+      "current_prob": 0.83,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.79,
-      "last_checked_prob": 0.79,
+      "peak_prob": 0.83,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "00:05",
@@ -91,7 +91,7 @@
       "title": "Nothing Ever Happens: Satoshi Nakamoto",
       "slug": "nothing-ever-happens-satoshi-nakamoto",
       "url": "https://polymarket.com/event/nothing-ever-happens-satoshi-nakamoto",
-      "probability": 0.9565,
+      "probability": 0.9575,
       "option_text": "Nothing",
       "tags": [
         "crypto",
@@ -103,11 +103,11 @@
       ],
       "volume": 11185.629875000004,
       "liquidity": 7949.32084,
-      "current_prob": 0.9565,
+      "current_prob": 0.9575,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.9565,
-      "last_checked_prob": 0.9565,
+      "peak_prob": 0.9575,
+      "last_checked_prob": 0.9575,
       "history": [
         {
           "time": "00:05",
@@ -121,7 +121,7 @@
       "title": "Will MrBeast get married by December 31?",
       "slug": "will-mrbeast-get-married-by-december-31",
       "url": "https://polymarket.com/event/will-mrbeast-get-married-by-december-31",
-      "probability": 0.765,
+      "probability": 0.755,
       "option_text": "Yes",
       "tags": [
         "mrbeast",
@@ -131,11 +131,11 @@
       ],
       "volume": 38013.528827999995,
       "liquidity": 2652.5776,
-      "current_prob": 0.765,
+      "current_prob": 0.755,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.765,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "00:05",
@@ -153,8 +153,36 @@
           "reason": "Update: 86.5% → 76.5%"
         }
       ]
+    },
+    "245930": {
+      "id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
+      "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
+      "probability": 0.715,
+      "option_text": "Yes",
+      "tags": [
+        "apple",
+        "pop-culture",
+        "tech",
+        "big-tech"
+      ],
+      "volume": 33969.64084100005,
+      "liquidity": 5235.2867,
+      "current_prob": 0.715,
+      "added_at": "2026-06-29T00:05:41.831467",
+      "first_seen": "2026-06-29T00:05:41.831467",
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.715,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-06-28T00:05:20.044335",
-  "event_count": 5
+  "updated_at": "2026-06-29T00:05:41.831577",
+  "event_count": 6
 }
