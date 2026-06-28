@@ -2089,7 +2089,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.825,
+      "probability": 0.82,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -2204,11 +2204,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.825,
+      "current_prob": 0.82,
       "added_at": "2026-06-27T20:05:57.020960",
       "first_seen": "2026-06-27T20:05:57.020960",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.82,
       "history": [
         {
           "time": "20:05",
@@ -2222,7 +2222,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.73,
+      "probability": 0.705,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2334,11 +2334,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.73,
+      "current_prob": 0.705,
       "added_at": "2026-06-28T22:49:59.190948",
       "first_seen": "2026-06-28T22:49:59.190948",
       "peak_prob": 0.73,
-      "last_checked_prob": 0.73,
+      "last_checked_prob": 0.705,
       "history": [
         {
           "time": "22:49",
@@ -2348,6 +2348,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-28T22:49:59.191039",
+  "updated_at": "2026-06-28T23:56:26.235631",
   "event_count": 17
 }
