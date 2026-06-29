@@ -30,6 +30,20 @@
         }
       ],
       "current_prob": 0.971
+    },
+    "245930": {
+      "id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-29T07:17:21.227085",
+      "history": [
+        {
+          "time": "07:17",
+          "prob": 0.725,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.725
     }
   }
 }
