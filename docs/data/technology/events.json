@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-29T22:01:22.928277",
+  "updated_at": "2026-06-29T23:48:25.888897",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -170,7 +170,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9615,
         "option_text": "Yes",
         "tags": [
@@ -207,7 +207,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.89,
         "option_text": "Yes",
         "tags": [
@@ -482,6 +482,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-29T22:01:22.927135"
+    "updated_at": "2026-06-29T23:48:25.888205"
   }
 }
