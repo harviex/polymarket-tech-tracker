@@ -27,6 +27,11 @@
           "threshold": 0.9,
           "direction": "up",
           "reason": "Crossed up 90%"
+        },
+        {
+          "time": "12:19",
+          "prob": 0.99,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.971
@@ -41,9 +46,30 @@
           "time": "07:17",
           "prob": 0.725,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "12:19",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.725
+    },
+    "57708": {
+      "id": "57708",
+      "title": "Which company has second best AI model end of June?",
+      "tags": [],
+      "first_seen": "2026-06-29T12:19:02.446641",
+      "history": [
+        {
+          "time": "12:19",
+          "prob": 0.9895,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9895
     }
   }
 }
