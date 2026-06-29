@@ -67,8 +67,30 @@
       "direction": "up",
       "time": "11:00",
       "timestamp": "2026-06-29T11:00:50.289295"
+    },
+    {
+      "event_id": "211829",
+      "title": "Will MrBeast get married by December 31?",
+      "slug": "will-mrbeast-get-married-by-december-31",
+      "prev_prob": 0.755,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "12:00",
+      "timestamp": "2026-06-29T12:00:50.016602"
+    },
+    {
+      "event_id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
+      "prev_prob": 0.73,
+      "curr_prob": 0.665,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "12:00",
+      "timestamp": "2026-06-29T12:00:50.016635"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-06-29T11:00:50.289503"
+  "crossing_count": 8,
+  "last_updated": "2026-06-29T12:00:50.016845"
 }
