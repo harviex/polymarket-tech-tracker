@@ -84,7 +84,7 @@
       "title": "Strait of Hormuz traffic returns to normal by December 31?",
       "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31",
       "url": "https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-december-31",
-      "probability": 0.805,
+      "probability": 0.835,
       "option_text": "Yes",
       "tags": [
         "ships",
@@ -100,11 +100,11 @@
       ],
       "volume": 410226.36447499954,
       "liquidity": 137619.2248,
-      "current_prob": 0.805,
+      "current_prob": 0.835,
       "added_at": "2026-05-30T00:05:27.222945",
       "first_seen": "2026-05-30T00:05:27.222945",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:05",
@@ -143,7 +143,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.7735,
+      "probability": 0.7755,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -157,11 +157,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.7735,
+      "current_prob": 0.7755,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
       "peak_prob": 0.8135,
-      "last_checked_prob": 0.7735,
+      "last_checked_prob": 0.7755,
       "history": [
         {
           "time": "00:06",
@@ -276,7 +276,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.825,
+      "probability": 0.82,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -289,11 +289,11 @@
       ],
       "volume": 25520.593357,
       "liquidity": 7365.8803,
-      "current_prob": 0.825,
+      "current_prob": 0.82,
       "added_at": "2026-06-26T00:05:53.258888",
       "first_seen": "2026-06-26T00:05:53.258888",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.82,
       "history": [
         {
           "time": "00:05",
@@ -316,8 +316,39 @@
           "reason": "Update: 73.0% → 82.5%"
         }
       ]
+    },
+    "57711": {
+      "id": "57711",
+      "title": "Largest Company end of June?",
+      "slug": "largest-company-end-of-june-712",
+      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
+      "probability": 0.9835,
+      "option_text": "NVIDIA",
+      "tags": [
+        "ai",
+        "tech",
+        "big-tech",
+        "economy",
+        "deepseek",
+        "business",
+        "finance"
+      ],
+      "volume": 24354228.577317014,
+      "liquidity": 1218854.74455,
+      "current_prob": 0.9835,
+      "added_at": "2026-06-30T00:06:08.608933",
+      "first_seen": "2026-06-30T00:06:08.608933",
+      "peak_prob": 0.9835,
+      "last_checked_prob": 0.9835,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.9835,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-06-29T00:05:53.770314",
-  "event_count": 8
+  "updated_at": "2026-06-30T00:06:08.609062",
+  "event_count": 9
 }
