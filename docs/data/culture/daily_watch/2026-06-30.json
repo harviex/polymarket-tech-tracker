@@ -12,8 +12,19 @@
       "direction": "up",
       "time": "02:01",
       "timestamp": "2026-06-30T02:01:08.416965"
+    },
+    {
+      "event_id": "211921",
+      "title": " Will Seattle Seahawks visit the White House in 2026?",
+      "slug": "will-seattle-seahawks-visit-the-white-house-in-2026",
+      "prev_prob": 0.765,
+      "curr_prob": 0.455,
+      "threshold": 0.7,
+      "direction": "down",
+      "time": "03:01",
+      "timestamp": "2026-06-30T03:01:09.153363"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-06-30T02:01:08.417156"
+  "crossing_count": 2,
+  "last_updated": "2026-06-30T03:01:09.153563"
 }
