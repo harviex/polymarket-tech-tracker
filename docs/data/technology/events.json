@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-29T20:45:00.081150",
+  "updated_at": "2026-06-29T22:01:22.928277",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -85,6 +85,11 @@
               "threshold": 0.7,
               "direction": "up",
               "reason": "Crossed up 70%"
+            },
+            {
+              "time": "22:01",
+              "prob": 0.71,
+              "reason": "Removed from Long-Term (prob < 70%)"
             }
           ],
           "current_prob": 0.725
@@ -107,14 +112,14 @@
     }
   ],
   "long_term_data": {
-    "event_count": 5,
+    "event_count": 4,
     "events": [
       {
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.83,
+        "url": "https://polymarket.com/event/103468",
+        "probability": 0.825,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -123,11 +128,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.83,
+        "current_prob": 0.825,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.83,
+        "last_checked_prob": 0.825,
         "history": [
           {
             "time": "15:48",
@@ -165,7 +170,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9615,
         "option_text": "Yes",
         "tags": [
@@ -202,7 +207,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.89,
         "option_text": "Yes",
         "tags": [
@@ -347,7 +352,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.82,
         "option_text": "Up",
         "tags": [
@@ -475,138 +480,8 @@
             "reason": "Added to Long-Term (high probability)"
           }
         ]
-      },
-      {
-        "id": "245930",
-        "title": "Will Apple release a touchscreen MacBook in 2026?",
-        "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-        "probability": 0.71,
-        "option_text": "Yes",
-        "tags": [
-          "apple",
-          "pop-culture",
-          "tech",
-          "big-tech"
-        ],
-        "markets": [
-          {
-            "id": "1499672",
-            "question": "Will Apple release a touchscreen MacBook in 2026?",
-            "conditionId": "0x3b8ffe267a348097806237bd9af95050896ee12e4d461b421ca703c8bdf31022",
-            "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
-            "resolutionSource": "",
-            "endDate": "2026-12-31T00:00:00Z",
-            "liquidity": "4477.1186",
-            "startDate": "2026-03-05T23:02:22.965897Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-apple-release-a-touchscreen-macbook-in-2026-R-ymwr35uBxc.jpg",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-apple-release-a-touchscreen-macbook-in-2026-R-ymwr35uBxc.jpg",
-            "description": "This market will resolve to \"Yes\" if Apple officially releases a MacBook with a touchscreen by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIn order to be considered released, the product must be available for purchase by the general public within the specified timeframe. An announcement or unveiling alone is not sufficient.\n\nA qualifying release of a MacBook with a touchscreen by Apple will only count if it is explicitly branded a MacBook. For example, an iMac will not qualify to resolve this market to \"Yes\". A qualifying touchscreen must be a true screen; a touch bar will not qualify.\n\nThe primary resolution source for this market will be official statements from Apple. However, a consensus of credible reporting may also be used.",
-            "outcomes": "[\"Yes\", \"No\"]",
-            "outcomePrices": "[\"0.715\", \"0.285\"]",
-            "volume": "34043.43146400005",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2026-03-04T15:46:04.736336Z",
-            "updatedAt": "2026-06-29T12:17:59.654492Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0xe7c0dd14dec9d7079f5ecc068c9891c799802972e95684a9ab9e40d0a7ffa14c",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.01,
-            "orderMinSize": 5,
-            "volumeNum": 34043.43146400005,
-            "liquidityNum": 4477.1186,
-            "endDateIso": "2026-12-31",
-            "startDateIso": "2026-03-05",
-            "hasReviewedDates": true,
-            "volume24hr": 109.839373,
-            "volume1wk": 712.6882390000001,
-            "volume1mo": 3528.073816,
-            "volume1yr": 34043.43146400002,
-            "clobTokenIds": "[\"7966697859820036062962777370893797454257030994450778883221499501735810143281\", \"23514447719471100390569154455440417533353453232779340703972009767897223549881\"]",
-            "comboStatus": "disabled",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volume24hrClob": 109.839373,
-            "volume1wkClob": 712.6882390000001,
-            "volume1moClob": 3528.073816,
-            "volume1yrClob": 34043.43146400002,
-            "volumeClob": 34043.43146400005,
-            "liquidityClob": 4477.1186,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2026-03-05T23:01:17Z",
-            "cyom": false,
-            "competitive": 0.9558173433056943,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "rewardsMinSize": 0,
-            "rewardsMaxSpread": 0,
-            "spread": 0.07,
-            "oneDayPriceChange": -0.065,
-            "oneHourPriceChange": 0.01,
-            "oneWeekPriceChange": 0.13,
-            "oneMonthPriceChange": 0.175,
-            "lastTradePrice": 0.66,
-            "bestBid": 0.68,
-            "bestAsk": 0.75,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2026-03-05T22:59:46.195296Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "tech_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.04,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            }
-          }
-        ],
-        "resolutionSource": "",
-        "description": "This market will resolve to \"Yes\" if Apple officially releases a MacBook with a touchscreen by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIn order to be considered released, the product must be available for purchase by the general public within the specified timeframe. An announcement or unveiling alone is not sufficient.\n\nA qualifying release of a MacBook with a touchscreen by Apple will only count if it is explicitly branded a MacBook. For example, an iMac will not qualify to resolve this market to \"Yes\". A qualifying touchscreen must be a true screen; a touch bar will not qualify.\n\nThe primary resolution source for this market will be official statements from Apple. However, a consensus of credible reporting may also be used.",
-        "volume": 34043.43146400005,
-        "liquidity": 5039.3796,
-        "startDate": "2026-03-05T23:02:22.965897Z",
-        "endDate": "2026-12-31T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.71,
-        "added_at": "2026-06-29T12:19:02.445569",
-        "first_seen": "2026-06-29T12:19:02.445569",
-        "peak_prob": 0.73,
-        "last_checked_prob": 0.71,
-        "history": [
-          {
-            "time": "12:19",
-            "prob": 0.715,
-            "reason": "Added to Long-Term (high probability)"
-          }
-        ]
       }
     ],
-    "updated_at": "2026-06-29T20:45:00.080231"
+    "updated_at": "2026-06-29T22:01:22.927135"
   }
 }
