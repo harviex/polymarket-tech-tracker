@@ -36,7 +36,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.84,
+      "probability": 0.835,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -45,11 +45,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.84,
+      "current_prob": 0.835,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:06",
@@ -63,7 +63,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.83,
+      "probability": 0.875,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -73,11 +73,11 @@
       ],
       "volume": 307241.25033400004,
       "liquidity": 15559.84492,
-      "current_prob": 0.83,
+      "current_prob": 0.875,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.83,
-      "last_checked_prob": 0.83,
+      "peak_prob": 0.875,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "00:05",
@@ -91,7 +91,7 @@
       "title": "Nothing Ever Happens: Satoshi Nakamoto",
       "slug": "nothing-ever-happens-satoshi-nakamoto",
       "url": "https://polymarket.com/event/nothing-ever-happens-satoshi-nakamoto",
-      "probability": 0.9575,
+      "probability": 0.967,
       "option_text": "Nothing",
       "tags": [
         "crypto",
@@ -103,11 +103,11 @@
       ],
       "volume": 11185.629875000004,
       "liquidity": 7949.32084,
-      "current_prob": 0.9575,
+      "current_prob": 0.967,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.9575,
-      "last_checked_prob": 0.9575,
+      "peak_prob": 0.967,
+      "last_checked_prob": 0.967,
       "history": [
         {
           "time": "00:05",
@@ -121,7 +121,7 @@
       "title": "Will MrBeast get married by December 31?",
       "slug": "will-mrbeast-get-married-by-december-31",
       "url": "https://polymarket.com/event/will-mrbeast-get-married-by-december-31",
-      "probability": 0.755,
+      "probability": 0.84,
       "option_text": "Yes",
       "tags": [
         "mrbeast",
@@ -131,11 +131,11 @@
       ],
       "volume": 38013.528827999995,
       "liquidity": 2652.5776,
-      "current_prob": 0.755,
+      "current_prob": 0.84,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "00:05",
@@ -151,6 +151,11 @@
           "time": "00:05",
           "prob": 0.765,
           "reason": "Update: 86.5% → 76.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.84,
+          "reason": "Update: 75.5% → 84.0%"
         }
       ]
     },
@@ -159,7 +164,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.715,
+      "probability": 0.7,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -169,11 +174,11 @@
       ],
       "volume": 33969.64084100005,
       "liquidity": 5235.2867,
-      "current_prob": 0.715,
+      "current_prob": 0.7,
       "added_at": "2026-06-29T00:05:41.831467",
       "first_seen": "2026-06-29T00:05:41.831467",
       "peak_prob": 0.715,
-      "last_checked_prob": 0.715,
+      "last_checked_prob": 0.7,
       "history": [
         {
           "time": "00:05",
@@ -183,6 +188,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-29T00:05:41.831577",
+  "updated_at": "2026-06-30T00:06:06.167690",
   "event_count": 6
 }
