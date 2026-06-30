@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-30",
+  "events": {
+    "245930": {
+      "id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "tags": [],
+      "first_seen": "2026-06-30T15:26:15.084292",
+      "history": [
+        {
+          "time": "15:26",
+          "prob": 0.78,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.78
+    }
+  }
+}
