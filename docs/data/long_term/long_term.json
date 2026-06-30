@@ -57,7 +57,7 @@
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/103636",
-      "probability": 0.9615,
+      "probability": 0.924,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -66,11 +66,11 @@
       ],
       "volume": 92980.70276899995,
       "liquidity": 3391.3302,
-      "current_prob": 0.9615,
+      "current_prob": 0.924,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.9615,
+      "last_checked_prob": 0.924,
       "history": [
         {
           "time": "15:48",
@@ -372,7 +372,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.785,
+      "probability": 0.795,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -484,11 +484,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.785,
+      "current_prob": 0.795,
       "added_at": "2026-06-30T15:26:15.083306",
       "first_seen": "2026-06-30T15:26:15.083306",
-      "peak_prob": 0.785,
-      "last_checked_prob": 0.785,
+      "peak_prob": 0.795,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "15:26",
@@ -498,6 +498,6 @@
       ]
     }
   },
-  "updated_at": "2026-06-30T19:26:38.977639",
+  "updated_at": "2026-06-30T21:20:26.029461",
   "event_count": 17
 }
