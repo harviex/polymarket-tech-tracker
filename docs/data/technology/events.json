@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-06-30T06:01:30.544868",
+  "updated_at": "2026-06-30T10:19:57.132901",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 4,
@@ -10,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.83,
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.83,
+        "current_prob": 0.845,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.83,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:48",
@@ -373,6 +373,6 @@
         ]
       }
     ],
-    "updated_at": "2026-06-30T06:01:30.544143"
+    "updated_at": "2026-06-30T10:19:57.132165"
   }
 }
