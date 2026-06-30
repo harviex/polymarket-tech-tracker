@@ -34,8 +34,30 @@
       "direction": "down",
       "time": "06:01",
       "timestamp": "2026-06-30T06:01:06.025897"
+    },
+    {
+      "event_id": "106016",
+      "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
+      "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
+      "prev_prob": 0.88,
+      "curr_prob": 0.94,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-06-30T11:00:19.760211"
+    },
+    {
+      "event_id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
+      "prev_prob": 0.695,
+      "curr_prob": 0.73,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-06-30T11:00:19.760271"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-06-30T06:01:06.026099"
+  "crossing_count": 5,
+  "last_updated": "2026-06-30T11:00:19.760477"
 }
