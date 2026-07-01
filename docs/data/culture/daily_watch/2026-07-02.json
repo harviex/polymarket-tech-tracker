@@ -12,8 +12,19 @@
       "direction": "up",
       "time": "01:00",
       "timestamp": "2026-07-02T01:00:52.797716"
+    },
+    {
+      "event_id": "482346",
+      "title": "Who will die in The Witcher: Season 5?",
+      "slug": "who-will-die-in-the-witcher-season-5",
+      "prev_prob": 0.83,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "02:01",
+      "timestamp": "2026-07-02T02:01:03.207213"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-07-02T01:00:52.797921"
+  "crossing_count": 2,
+  "last_updated": "2026-07-02T02:01:03.207432"
 }
