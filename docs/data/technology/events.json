@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-01T10:40:28.242321",
+  "updated_at": "2026-07-01T13:28:39.636946",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -121,7 +121,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.85,
         "option_text": "Yes",
         "tags": [
@@ -174,7 +174,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.9565,
+        "probability": 0.955,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -183,11 +183,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.9565,
+        "current_prob": 0.955,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.9565,
+        "last_checked_prob": 0.955,
         "history": [
           {
             "time": "15:48",
@@ -211,7 +211,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.895,
+        "probability": 0.89,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -333,11 +333,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.895,
+        "current_prob": 0.89,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "20:57",
@@ -632,8 +632,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.845,
+        "url": "https://polymarket.com/event/556312",
+        "probability": 0.85,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3079,11 +3079,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.845,
+        "current_prob": 0.85,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.855,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "02:02",
@@ -3097,7 +3097,7 @@
         "title": "US government rescinds Claude Fable 5 foreigner ban by…?",
         "slug": "us-government-rescinds-claude-fable-5-foreigner-ban-by-20260613202427937",
         "url": "https://polymarket.com/event/us-government-rescinds-claude-fable-5-foreigner-ban-by-20260613202427937",
-        "probability": 0.9615,
+        "probability": 0.9855,
         "option_text": "Will the US government rescind its ban on all fore",
         "tags": [
           "trump",
@@ -3303,11 +3303,11 @@
         "endDate": "2026-07-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9615,
+        "current_prob": 0.9855,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9855,
-        "last_checked_prob": 0.9615,
+        "last_checked_prob": 0.9855,
         "history": [
           {
             "time": "02:02",
@@ -3317,6 +3317,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-01T10:40:28.238756"
+    "updated_at": "2026-07-01T13:28:39.632716"
   }
 }
