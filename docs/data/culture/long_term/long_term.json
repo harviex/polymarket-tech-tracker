@@ -36,7 +36,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.835,
+      "probability": 0.84,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -45,11 +45,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.835,
+      "current_prob": 0.84,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "00:06",
@@ -63,7 +63,7 @@
       "title": "Who will attend Taylor Swift and Travis Kelce's wedding?",
       "slug": "who-will-attend-taylor-swift-and-travis-kelces-wedding",
       "url": "https://polymarket.com/event/who-will-attend-taylor-swift-and-travis-kelces-wedding",
-      "probability": 0.875,
+      "probability": 0.9825,
       "option_text": "Danielle Haim",
       "tags": [
         "pop-culture",
@@ -73,16 +73,21 @@
       ],
       "volume": 307241.25033400004,
       "liquidity": 15559.84492,
-      "current_prob": 0.875,
+      "current_prob": 0.9825,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
-      "peak_prob": 0.875,
-      "last_checked_prob": 0.875,
+      "peak_prob": 0.9825,
+      "last_checked_prob": 0.9825,
       "history": [
         {
           "time": "00:05",
           "prob": 0.785,
           "reason": "Added to Long-Term (daily update)"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.9825,
+          "reason": "Update: 87.5% → 98.2%"
         }
       ]
     },
@@ -91,7 +96,7 @@
       "title": "Nothing Ever Happens: Satoshi Nakamoto",
       "slug": "nothing-ever-happens-satoshi-nakamoto",
       "url": "https://polymarket.com/event/nothing-ever-happens-satoshi-nakamoto",
-      "probability": 0.967,
+      "probability": 0.9485,
       "option_text": "Nothing",
       "tags": [
         "crypto",
@@ -103,11 +108,11 @@
       ],
       "volume": 11185.629875000004,
       "liquidity": 7949.32084,
-      "current_prob": 0.967,
+      "current_prob": 0.9485,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.967,
-      "last_checked_prob": 0.967,
+      "last_checked_prob": 0.9485,
       "history": [
         {
           "time": "00:05",
@@ -121,7 +126,7 @@
       "title": "Will MrBeast get married by December 31?",
       "slug": "will-mrbeast-get-married-by-december-31",
       "url": "https://polymarket.com/event/will-mrbeast-get-married-by-december-31",
-      "probability": 0.84,
+      "probability": 0.815,
       "option_text": "Yes",
       "tags": [
         "mrbeast",
@@ -131,11 +136,11 @@
       ],
       "volume": 38013.528827999995,
       "liquidity": 2652.5776,
-      "current_prob": 0.84,
+      "current_prob": 0.815,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "00:05",
@@ -159,35 +164,120 @@
         }
       ]
     },
-    "245930": {
-      "id": "245930",
-      "title": "Will Apple release a touchscreen MacBook in 2026?",
-      "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.7,
-      "option_text": "Yes",
+    "482346": {
+      "id": "482346",
+      "title": "Who will die in The Witcher: Season 5?",
+      "slug": "who-will-die-in-the-witcher-season-5",
+      "url": "https://polymarket.com/event/who-will-die-in-the-witcher-season-5",
+      "probability": 0.83,
+      "option_text": "Geralt of Rivia",
       "tags": [
-        "apple",
         "pop-culture",
-        "tech",
-        "big-tech"
+        "movies"
       ],
-      "volume": 33969.64084100005,
-      "liquidity": 5235.2867,
-      "current_prob": 0.7,
-      "added_at": "2026-06-29T00:05:41.831467",
-      "first_seen": "2026-06-29T00:05:41.831467",
-      "peak_prob": 0.715,
-      "last_checked_prob": 0.7,
+      "volume": 32213.07493900001,
+      "liquidity": 6719.8359,
+      "current_prob": 0.83,
+      "added_at": "2026-07-02T00:06:24.710256",
+      "first_seen": "2026-07-02T00:06:24.710256",
+      "peak_prob": 0.83,
+      "last_checked_prob": 0.83,
       "history": [
         {
-          "time": "00:05",
-          "prob": 0.715,
+          "time": "00:06",
+          "prob": 0.83,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "498919": {
+      "id": "498919",
+      "title": "Eurovision 2027 City",
+      "slug": "eurovision-2027-city",
+      "url": "https://polymarket.com/event/eurovision-2027-city",
+      "probability": 0.865,
+      "option_text": "Sofia",
+      "tags": [
+        "eurovision",
+        "music",
+        "pop-culture"
+      ],
+      "volume": 13473.284248999998,
+      "liquidity": 7283.37164,
+      "current_prob": 0.865,
+      "added_at": "2026-07-02T00:06:24.710256",
+      "first_seen": "2026-07-02T00:06:24.710256",
+      "peak_prob": 0.865,
+      "last_checked_prob": 0.865,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.865,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "563638": {
+      "id": "563638",
+      "title": "Will Taylor Swift get married in Manhattan?",
+      "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
+      "url": "https://polymarket.com/event/will-taylor-swift-get-married-in-manhattan-20260605211638230",
+      "probability": 0.98,
+      "option_text": "Yes",
+      "tags": [
+        "pop-culture",
+        "celebrities",
+        "taylor-swift"
+      ],
+      "volume": 15289.807733000005,
+      "liquidity": 7200.69076,
+      "current_prob": 0.98,
+      "added_at": "2026-07-02T00:06:24.710256",
+      "first_seen": "2026-07-02T00:06:24.710256",
+      "peak_prob": 0.98,
+      "last_checked_prob": 0.98,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.98,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "572994": {
+      "id": "572994",
+      "title": "President Trump to Attend World Cup Final?",
+      "slug": "president-trump-to-attend-world-cup-final-20260608152749044",
+      "url": "https://polymarket.com/event/president-trump-to-attend-world-cup-final-20260608152749044",
+      "probability": 0.895,
+      "option_text": "Yes",
+      "tags": [
+        "fifa-world-cup",
+        "trump",
+        "sports",
+        "pop-culture",
+        "soccer",
+        "world-cup",
+        "donald-trump",
+        "2026-fifa-world-cup",
+        "wc-trump"
+      ],
+      "volume": 103352.75019900006,
+      "liquidity": 15679.6882,
+      "current_prob": 0.895,
+      "added_at": "2026-07-02T00:06:24.710256",
+      "first_seen": "2026-07-02T00:06:24.710256",
+      "peak_prob": 0.895,
+      "last_checked_prob": 0.895,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.895,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
     }
   },
-  "updated_at": "2026-06-30T00:06:06.167690",
-  "event_count": 6
+  "updated_at": "2026-07-02T00:06:24.710388",
+  "event_count": 9
 }
