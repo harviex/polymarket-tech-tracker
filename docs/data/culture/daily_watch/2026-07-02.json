@@ -45,8 +45,30 @@
       "direction": "up",
       "time": "03:01",
       "timestamp": "2026-07-02T03:01:00.533490"
+    },
+    {
+      "event_id": "482346",
+      "title": "Who will die in The Witcher: Season 5?",
+      "slug": "who-will-die-in-the-witcher-season-5",
+      "prev_prob": 0.845,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-07-02T04:01:58.132409"
+    },
+    {
+      "event_id": "572994",
+      "title": "President Trump to Attend World Cup Final?",
+      "slug": "president-trump-to-attend-world-cup-final-20260608152749044",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "04:01",
+      "timestamp": "2026-07-02T04:01:58.132441"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-07-02T03:01:00.533657"
+  "crossing_count": 6,
+  "last_updated": "2026-07-02T04:01:58.132627"
 }
