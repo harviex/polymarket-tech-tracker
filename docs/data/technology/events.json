@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-01T13:28:39.636946",
+  "updated_at": "2026-07-01T16:12:38.138613",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -122,7 +122,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.85,
+        "probability": 0.86,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -131,11 +131,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.85,
+        "current_prob": 0.86,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.85,
+        "last_checked_prob": 0.86,
         "history": [
           {
             "time": "15:48",
@@ -174,7 +174,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.955,
+        "probability": 0.9595,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -183,11 +183,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.955,
+        "current_prob": 0.9595,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.955,
+        "last_checked_prob": 0.9595,
         "history": [
           {
             "time": "15:48",
@@ -210,7 +210,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.89,
         "option_text": "Yes",
         "tags": [
@@ -488,7 +488,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.775,
         "option_text": "Yes",
         "tags": [
@@ -632,8 +632,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
-        "probability": 0.85,
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "probability": 0.855,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3079,11 +3079,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.85,
+        "current_prob": 0.855,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.855,
-        "last_checked_prob": 0.85,
+        "last_checked_prob": 0.855,
         "history": [
           {
             "time": "02:02",
@@ -3097,7 +3097,7 @@
         "title": "US government rescinds Claude Fable 5 foreigner ban by…?",
         "slug": "us-government-rescinds-claude-fable-5-foreigner-ban-by-20260613202427937",
         "url": "https://polymarket.com/event/us-government-rescinds-claude-fable-5-foreigner-ban-by-20260613202427937",
-        "probability": 0.9855,
+        "probability": 0.988,
         "option_text": "Will the US government rescind its ban on all fore",
         "tags": [
           "trump",
@@ -3303,11 +3303,11 @@
         "endDate": "2026-07-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9855,
+        "current_prob": 0.988,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
-        "peak_prob": 0.9855,
-        "last_checked_prob": 0.9855,
+        "peak_prob": 0.988,
+        "last_checked_prob": 0.988,
         "history": [
           {
             "time": "02:02",
@@ -3317,6 +3317,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-01T13:28:39.632716"
+    "updated_at": "2026-07-01T16:12:38.134416"
   }
 }
