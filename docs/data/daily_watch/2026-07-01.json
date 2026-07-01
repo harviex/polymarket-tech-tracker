@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-01",
+  "events": {
+    "428507": {
+      "id": "428507",
+      "title": "Will Anthropic flip BTC by December 31?",
+      "tags": [],
+      "first_seen": "2026-07-01T02:02:07.737695",
+      "history": [
+        {
+          "time": "02:02",
+          "prob": 0.745,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.745
+    },
+    "556312": {
+      "id": "556312",
+      "title": "Best Chinese AI Company end of July?",
+      "tags": [],
+      "first_seen": "2026-07-01T02:02:07.737703",
+      "history": [
+        {
+          "time": "02:02",
+          "prob": 0.84,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "02:02",
+          "prob": 0.84,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.84
+    },
+    "592360": {
+      "id": "592360",
+      "title": "US government rescinds Claude Fable 5 foreigner ban by…?",
+      "tags": [],
+      "first_seen": "2026-07-01T02:02:07.737707",
+      "history": [
+        {
+          "time": "02:02",
+          "prob": 0.9855,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "02:02",
+          "prob": 0.9855,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "02:02",
+          "prob": 0.9855,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9855
+    },
+    "631072": {
+      "id": "631072",
+      "title": "2nd Largest Company end of July?",
+      "tags": [],
+      "first_seen": "2026-07-01T02:02:07.737710",
+      "history": [
+        {
+          "time": "02:02",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.715
+    }
+  }
+}
