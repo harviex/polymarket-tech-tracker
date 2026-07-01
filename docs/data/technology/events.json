@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-01T20:31:08.308515",
+  "updated_at": "2026-07-01T22:09:54.542683",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -126,7 +126,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.865,
         "option_text": "Yes",
         "tags": [
@@ -178,7 +178,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9595,
         "option_text": "Yes",
         "tags": [
@@ -360,7 +360,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.82,
         "option_text": "Up",
         "tags": [
@@ -3098,6 +3098,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-01T20:31:08.304044"
+    "updated_at": "2026-07-01T22:09:54.538571"
   }
 }
