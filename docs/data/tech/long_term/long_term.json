@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.84,
+      "probability": 0.86,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -114,11 +114,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.86,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "23:25",
@@ -157,7 +157,7 @@
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-      "probability": 0.9615,
+      "probability": 0.9595,
       "option_text": "Yes",
       "tags": [
         "big-tech",
@@ -267,11 +267,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9615,
+      "current_prob": 0.9595,
       "added_at": "2026-05-04T23:25:17.006216",
       "first_seen": "2026-05-04T23:25:17.006216",
       "peak_prob": 0.9695,
-      "last_checked_prob": 0.9615,
+      "last_checked_prob": 0.9595,
       "history": [
         {
           "time": "23:25",
@@ -285,7 +285,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.885,
+      "probability": 0.89,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -295,11 +295,11 @@
       ],
       "volume": 85578.29659499993,
       "liquidity": 4339.0704,
-      "current_prob": 0.885,
+      "current_prob": 0.89,
       "added_at": "2026-06-14T00:05:35.323549",
       "first_seen": "2026-06-14T00:05:35.323549",
       "peak_prob": 0.89,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "00:05",
@@ -344,66 +344,92 @@
         }
       ]
     },
-    "245930": {
-      "id": "245930",
-      "title": "Will Apple release a touchscreen MacBook in 2026?",
-      "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.7,
+    "428507": {
+      "id": "428507",
+      "title": "Will Anthropic flip BTC by December 31?",
+      "slug": "will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "probability": 0.775,
       "option_text": "Yes",
       "tags": [
-        "apple",
-        "pop-culture",
         "tech",
-        "big-tech"
+        "crypto-prices",
+        "big-tech",
+        "ai",
+        "crypto",
+        "anthropic-ipo",
+        "price-comparison"
       ],
-      "volume": 33969.64084100005,
-      "liquidity": 5126.2846,
-      "current_prob": 0.7,
-      "added_at": "2026-06-29T00:05:46.322544",
-      "first_seen": "2026-06-29T00:05:46.322544",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.7,
+      "volume": 153462.60034199958,
+      "liquidity": 12430.423,
+      "current_prob": 0.775,
+      "added_at": "2026-07-02T00:06:02.795297",
+      "first_seen": "2026-07-02T00:06:02.795297",
+      "peak_prob": 0.775,
+      "last_checked_prob": 0.775,
       "history": [
         {
-          "time": "00:05",
-          "prob": 0.705,
+          "time": "00:06",
+          "prob": 0.775,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
     },
-    "57711": {
-      "id": "57711",
-      "title": "Largest Company end of June?",
-      "slug": "largest-company-end-of-june-712",
-      "url": "https://polymarket.com/event/largest-company-end-of-june-712",
-      "probability": 0.9835,
-      "option_text": "NVIDIA",
+    "556312": {
+      "id": "556312",
+      "title": "Best Chinese AI Company end of July?",
+      "slug": "best-chinese-ai-company-end-of-july",
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.855,
+      "option_text": "Alibaba",
       "tags": [
-        "ai",
+        "china",
         "tech",
-        "big-tech",
-        "economy",
-        "deepseek",
-        "business",
-        "finance"
+        "ai"
       ],
-      "volume": 24354228.577317014,
-      "liquidity": 1218854.74455,
-      "current_prob": 0.9835,
-      "added_at": "2026-06-30T00:06:03.952677",
-      "first_seen": "2026-06-30T00:06:03.952677",
-      "peak_prob": 0.9835,
-      "last_checked_prob": 0.9835,
+      "volume": 44742.54731100002,
+      "liquidity": 66129.70347,
+      "current_prob": 0.855,
+      "added_at": "2026-07-02T00:06:02.795297",
+      "first_seen": "2026-07-02T00:06:02.795297",
+      "peak_prob": 0.855,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "00:06",
-          "prob": 0.9835,
+          "prob": 0.855,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "638394": {
+      "id": "638394",
+      "title": "Which company has the best AI Agent end of July?",
+      "slug": "which-company-has-the-best-ai-agent-end-of-july-20260626204312502",
+      "url": "https://polymarket.com/event/which-company-has-the-best-ai-agent-end-of-july-20260626204312502",
+      "probability": 0.89,
+      "option_text": "Anthropic",
+      "tags": [
+        "tech",
+        "ai-agent",
+        "ai"
+      ],
+      "volume": 10034.498692,
+      "liquidity": 21208.11742,
+      "current_prob": 0.89,
+      "added_at": "2026-07-02T00:06:02.795297",
+      "first_seen": "2026-07-02T00:06:02.795297",
+      "peak_prob": 0.89,
+      "last_checked_prob": 0.89,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.89,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
     }
   },
-  "updated_at": "2026-06-30T00:06:03.952834",
-  "event_count": 6
+  "updated_at": "2026-07-02T00:06:02.795435",
+  "event_count": 7
 }
