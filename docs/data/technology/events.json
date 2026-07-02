@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-02T17:38:36.514629",
+  "updated_at": "2026-07-02T19:03:53.040356",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -201,7 +201,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9615,
         "option_text": "Yes",
         "tags": [
@@ -516,7 +516,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.78,
         "option_text": "Yes",
         "tags": [
@@ -660,8 +660,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
-        "probability": 0.86,
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "probability": 0.855,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3107,11 +3107,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.86,
+        "current_prob": 0.855,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.865,
-        "last_checked_prob": 0.86,
+        "last_checked_prob": 0.855,
         "history": [
           {
             "time": "02:02",
@@ -3430,8 +3430,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
-        "probability": 0.805,
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+        "probability": 0.71,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6394,11 +6394,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.805,
+        "current_prob": 0.71,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.805,
+        "last_checked_prob": 0.71,
         "history": [
           {
             "time": "15:57",
@@ -6409,6 +6409,11 @@
             "time": "17:38",
             "prob": 0.805,
             "reason": "Update: 88.5% → 80.5%"
+          },
+          {
+            "time": "19:03",
+            "prob": 0.71,
+            "reason": "Update: 80.5% → 71.0%"
           }
         ]
       },
@@ -6417,7 +6422,7 @@
         "title": "Best AI model on July 4?",
         "slug": "best-ai-model-on-july-4-20260626161107952",
         "url": "https://polymarket.com/event/best-ai-model-on-july-4-20260626161107952",
-        "probability": 0.9685,
+        "probability": 0.9695,
         "option_text": "Will claude-opus-4-6-thinking be the best AI model",
         "tags": [
           "ai",
@@ -6904,11 +6909,11 @@
         "endDate": "2026-07-04T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9685,
+        "current_prob": 0.9695,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
-        "peak_prob": 0.9685,
-        "last_checked_prob": 0.9685,
+        "peak_prob": 0.9695,
+        "last_checked_prob": 0.9695,
         "history": [
           {
             "time": "15:57",
@@ -6923,6 +6928,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-02T17:38:36.504634"
+    "updated_at": "2026-07-02T19:03:53.032669"
   }
 }
