@@ -133,8 +133,30 @@
       "direction": "up",
       "time": "14:01",
       "timestamp": "2026-07-02T14:01:13.911107"
+    },
+    {
+      "event_id": "211829",
+      "title": "Will MrBeast get married by December 31?",
+      "slug": "will-mrbeast-get-married-by-december-31",
+      "prev_prob": 0.825,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "17:01",
+      "timestamp": "2026-07-02T17:01:08.150850"
+    },
+    {
+      "event_id": "572994",
+      "title": "President Trump to Attend World Cup Final?",
+      "slug": "president-trump-to-attend-world-cup-final-20260608152749044",
+      "prev_prob": 0.89,
+      "curr_prob": 0.905,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:01",
+      "timestamp": "2026-07-02T17:01:08.150893"
     }
   ],
-  "crossing_count": 12,
-  "last_updated": "2026-07-02T14:01:13.911337"
+  "crossing_count": 14,
+  "last_updated": "2026-07-02T17:01:08.151112"
 }
