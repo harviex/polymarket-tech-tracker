@@ -23,6 +23,22 @@
         }
       ],
       "current_prob": 0.89
+    },
+    "556271": {
+      "id": "556271",
+      "title": "Which company has the best Math AI model end of July?",
+      "tags": [],
+      "first_seen": "2026-07-02T09:49:27.172205",
+      "history": [
+        {
+          "time": "09:49",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7
     }
   }
 }
