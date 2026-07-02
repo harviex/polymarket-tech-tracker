@@ -20,6 +20,11 @@
           "threshold": 0.8,
           "direction": "up",
           "reason": "Crossed up 80%"
+        },
+        {
+          "time": "13:54",
+          "prob": 0.895,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.89
