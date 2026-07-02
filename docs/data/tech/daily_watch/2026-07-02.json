@@ -23,8 +23,19 @@
       "direction": "up",
       "time": "15:02",
       "timestamp": "2026-07-02T15:02:03.529277"
+    },
+    {
+      "event_id": "556271",
+      "title": "Which company has the best Math AI model end of July?",
+      "slug": "which-company-has-the-best-math-ai-model-end-of-july",
+      "prev_prob": 0.695,
+      "curr_prob": 0.72,
+      "threshold": 0.7,
+      "direction": "up",
+      "time": "19:01",
+      "timestamp": "2026-07-02T19:01:05.064001"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-07-02T15:02:03.529503"
+  "crossing_count": 3,
+  "last_updated": "2026-07-02T19:01:05.064266"
 }
