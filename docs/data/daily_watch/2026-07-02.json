@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-02",
+  "events": {
+    "638394": {
+      "id": "638394",
+      "title": "Which company has the best AI Agent end of July?",
+      "tags": [],
+      "first_seen": "2026-07-02T02:58:10.865178",
+      "history": [
+        {
+          "time": "02:58",
+          "prob": 0.89,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "02:58",
+          "prob": 0.89,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.89
+    }
+  }
+}
