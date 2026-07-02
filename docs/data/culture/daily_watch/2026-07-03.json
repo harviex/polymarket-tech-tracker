@@ -45,8 +45,30 @@
       "direction": "down",
       "time": "06:00",
       "timestamp": "2026-07-03T06:00:49.361764"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.795,
+      "curr_prob": 0.82,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "07:00",
+      "timestamp": "2026-07-03T07:00:13.136082"
+    },
+    {
+      "event_id": "563638",
+      "title": "Will Taylor Swift get married in Manhattan?",
+      "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
+      "prev_prob": 0.8775,
+      "curr_prob": 0.9385,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "07:00",
+      "timestamp": "2026-07-03T07:00:13.136116"
     }
   ],
-  "crossing_count": 4,
-  "last_updated": "2026-07-03T06:00:49.361974"
+  "crossing_count": 6,
+  "last_updated": "2026-07-03T07:00:13.136295"
 }
