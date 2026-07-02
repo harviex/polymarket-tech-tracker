@@ -34,8 +34,19 @@
       "direction": "down",
       "time": "05:00",
       "timestamp": "2026-07-03T05:00:08.000584"
+    },
+    {
+      "event_id": "563638",
+      "title": "Will Taylor Swift get married in Manhattan?",
+      "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
+      "prev_prob": 0.9825,
+      "curr_prob": 0.8775,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "06:00",
+      "timestamp": "2026-07-03T06:00:49.361764"
     }
   ],
-  "crossing_count": 3,
-  "last_updated": "2026-07-03T05:00:08.000810"
+  "crossing_count": 4,
+  "last_updated": "2026-07-03T06:00:49.361974"
 }
