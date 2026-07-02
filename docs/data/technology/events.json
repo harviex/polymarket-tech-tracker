@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-02T21:55:19.090908",
+  "updated_at": "2026-07-02T22:53:12.234181",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -206,7 +206,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9615,
         "option_text": "Yes",
         "tags": [
@@ -665,8 +665,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
-        "probability": 0.87,
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "probability": 0.865,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3112,11 +3112,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.865,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "02:02",
@@ -3129,8 +3129,8 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
-        "probability": 0.975,
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "probability": 0.9755,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -3418,11 +3418,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.975,
+        "current_prob": 0.9755,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
-        "peak_prob": 0.975,
-        "last_checked_prob": 0.975,
+        "peak_prob": 0.9755,
+        "last_checked_prob": 0.9755,
         "history": [
           {
             "time": "15:57",
@@ -3435,8 +3435,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.795,
+        "url": "https://polymarket.com/event/630845",
+        "probability": 0.775,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6399,11 +6399,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.795,
+        "current_prob": 0.775,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.795,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "15:57",
@@ -6426,8 +6426,8 @@
         "id": "637422",
         "title": "Best AI model on July 4?",
         "slug": "best-ai-model-on-july-4-20260626161107952",
-        "url": "https://polymarket.com/event/best-ai-model-on-july-4-20260626161107952",
-        "probability": 0.983,
+        "url": "https://polymarket.com/event/637422",
+        "probability": 0.9895,
         "option_text": "Will claude-opus-4-6-thinking be the best AI model",
         "tags": [
           "ai",
@@ -6914,11 +6914,11 @@
         "endDate": "2026-07-04T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.983,
+        "current_prob": 0.9895,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
-        "peak_prob": 0.983,
-        "last_checked_prob": 0.983,
+        "peak_prob": 0.9895,
+        "last_checked_prob": 0.9895,
         "history": [
           {
             "time": "15:57",
@@ -6933,6 +6933,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-02T21:55:19.081527"
+    "updated_at": "2026-07-02T22:53:12.226197"
   }
 }
