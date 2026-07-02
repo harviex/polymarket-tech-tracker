@@ -41,9 +41,97 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "15:57",
+          "prob": 0.73,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.7
+    },
+    "612483": {
+      "id": "612483",
+      "title": "GTA VI: PS5 Launch Price",
+      "tags": [],
+      "first_seen": "2026-07-02T15:57:42.488082",
+      "history": [
+        {
+          "time": "15:57",
+          "prob": 0.975,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "15:57",
+          "prob": 0.975,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "15:57",
+          "prob": 0.975,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.975
+    },
+    "630845": {
+      "id": "630845",
+      "title": "Largest Company end of July?",
+      "tags": [],
+      "first_seen": "2026-07-02T15:57:42.488094",
+      "history": [
+        {
+          "time": "15:57",
+          "prob": 0.885,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "15:57",
+          "prob": 0.885,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.885
+    },
+    "637422": {
+      "id": "637422",
+      "title": "Best AI model on July 4?",
+      "tags": [],
+      "first_seen": "2026-07-02T15:57:42.488097",
+      "history": [
+        {
+          "time": "15:57",
+          "prob": 0.9125,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "15:57",
+          "prob": 0.9125,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "15:57",
+          "prob": 0.9125,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9125
     }
   }
 }
