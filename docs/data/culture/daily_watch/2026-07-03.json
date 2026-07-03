@@ -243,8 +243,30 @@
       "direction": "down",
       "time": "18:00",
       "timestamp": "2026-07-03T18:00:25.541498"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.795,
+      "curr_prob": 0.82,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "19:00",
+      "timestamp": "2026-07-03T19:00:54.916460"
+    },
+    {
+      "event_id": "535925",
+      "title": "Who will win Love Island USA Season 8? (Men)",
+      "slug": "who-will-win-love-island-usa-season-8-men",
+      "prev_prob": 0.86,
+      "curr_prob": 0.71,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "19:00",
+      "timestamp": "2026-07-03T19:00:54.916493"
     }
   ],
-  "crossing_count": 22,
-  "last_updated": "2026-07-03T18:00:25.541754"
+  "crossing_count": 24,
+  "last_updated": "2026-07-03T19:00:54.916753"
 }
