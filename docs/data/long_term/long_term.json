@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
-      "probability": 0.845,
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "probability": 0.85,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.845,
+      "current_prob": 0.85,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "15:48",
@@ -99,7 +99,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/79080",
-      "probability": 0.89,
+      "probability": 0.79,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -221,11 +221,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.89,
+      "current_prob": 0.79,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.89,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "20:57",
@@ -236,6 +236,11 @@
           "time": "23:57",
           "prob": 0.755,
           "reason": "Update: 81.0% → 75.5%"
+        },
+        {
+          "time": "11:21",
+          "prob": 0.79,
+          "reason": "Update: 89.0% → 79.0%"
         }
       ]
     },
@@ -521,7 +526,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.89,
+      "probability": 0.895,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2967,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.89,
+      "current_prob": 0.895,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
-      "peak_prob": 0.89,
-      "last_checked_prob": 0.89,
+      "peak_prob": 0.895,
+      "last_checked_prob": 0.895,
       "history": [
         {
           "time": "02:02",
@@ -2984,7 +2989,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.975,
       "option_text": "$60",
       "tags": [
@@ -6287,7 +6292,7 @@
       "title": "Best AI model on July 4?",
       "slug": "best-ai-model-on-july-4-20260626161107952",
       "url": "https://polymarket.com/event/637422",
-      "probability": 0.9855,
+      "probability": 0.984,
       "option_text": "Will claude-opus-4-6-thinking be the best AI model",
       "tags": [
         "ai",
@@ -6774,11 +6779,11 @@
       "endDate": "2026-07-04T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9855,
+      "current_prob": 0.984,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9855,
+      "last_checked_prob": 0.984,
       "history": [
         {
           "time": "15:57",
@@ -6793,6 +6798,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-03T08:41:45.315810",
+  "updated_at": "2026-07-03T11:21:53.552123",
   "event_count": 17
 }
