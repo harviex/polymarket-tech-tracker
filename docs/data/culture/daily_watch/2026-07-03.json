@@ -309,8 +309,19 @@
       "direction": "up",
       "time": "22:00",
       "timestamp": "2026-07-03T22:00:33.262329"
+    },
+    {
+      "event_id": "385789",
+      "title": "Who will perform at World Cup halftime show?",
+      "slug": "who-will-perform-at-world-cup-halftime-show",
+      "prev_prob": 0.992,
+      "curr_prob": 0.8615,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "23:00",
+      "timestamp": "2026-07-03T23:00:33.607365"
     }
   ],
-  "crossing_count": 28,
-  "last_updated": "2026-07-03T22:00:33.262616"
+  "crossing_count": 29,
+  "last_updated": "2026-07-03T23:00:33.607661"
 }
