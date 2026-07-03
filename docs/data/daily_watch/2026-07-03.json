@@ -28,6 +28,20 @@
         }
       ],
       "current_prob": 0.89
+    },
+    "637422": {
+      "id": "637422",
+      "title": "Best AI model on July 4?",
+      "tags": [],
+      "first_seen": "2026-07-03T21:52:13.874140",
+      "history": [
+        {
+          "time": "21:52",
+          "prob": 0.9855,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9855
     }
   }
 }
