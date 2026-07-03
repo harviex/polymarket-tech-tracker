@@ -111,8 +111,19 @@
       "direction": "down",
       "time": "09:00",
       "timestamp": "2026-07-03T09:00:18.972462"
+    },
+    {
+      "event_id": "117784",
+      "title": "Top Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-07-03T11:00:13.432829"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-07-03T09:00:18.972662"
+  "crossing_count": 11,
+  "last_updated": "2026-07-03T11:00:13.433103"
 }
