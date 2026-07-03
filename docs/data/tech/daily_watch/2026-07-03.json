@@ -56,8 +56,30 @@
       "direction": "up",
       "time": "20:00",
       "timestamp": "2026-07-03T20:00:31.755622"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.79,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:00",
+      "timestamp": "2026-07-03T23:00:30.161523"
+    },
+    {
+      "event_id": "556312",
+      "title": "Best Chinese AI Company end of July?",
+      "slug": "best-chinese-ai-company-end-of-july",
+      "prev_prob": 0.9,
+      "curr_prob": 0.895,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "23:00",
+      "timestamp": "2026-07-03T23:00:30.161588"
     }
   ],
-  "crossing_count": 5,
-  "last_updated": "2026-07-03T20:00:31.755790"
+  "crossing_count": 7,
+  "last_updated": "2026-07-03T23:00:30.161786"
 }
