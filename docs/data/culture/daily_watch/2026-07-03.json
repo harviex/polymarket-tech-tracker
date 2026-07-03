@@ -265,8 +265,30 @@
       "direction": "down",
       "time": "19:00",
       "timestamp": "2026-07-03T19:00:54.916493"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.82,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "20:00",
+      "timestamp": "2026-07-03T20:00:29.136541"
+    },
+    {
+      "event_id": "482346",
+      "title": "Who will die in The Witcher: Season 5?",
+      "slug": "who-will-die-in-the-witcher-season-5",
+      "prev_prob": 0.77,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "20:00",
+      "timestamp": "2026-07-03T20:00:29.136569"
     }
   ],
-  "crossing_count": 24,
-  "last_updated": "2026-07-03T19:00:54.916753"
+  "crossing_count": 26,
+  "last_updated": "2026-07-03T20:00:29.136830"
 }
