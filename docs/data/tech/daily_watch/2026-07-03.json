@@ -23,8 +23,19 @@
       "direction": "up",
       "time": "08:00",
       "timestamp": "2026-07-03T08:00:17.793312"
+    },
+    {
+      "event_id": "428507",
+      "title": "Will Anthropic flip BTC by December 31?",
+      "slug": "will-anthropic-flip-btc-by-december-31",
+      "prev_prob": 0.78,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "11:00",
+      "timestamp": "2026-07-03T11:00:48.042812"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-07-03T08:00:17.793518"
+  "crossing_count": 3,
+  "last_updated": "2026-07-03T11:00:48.043049"
 }
