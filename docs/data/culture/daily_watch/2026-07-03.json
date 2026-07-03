@@ -199,8 +199,19 @@
       "direction": "down",
       "time": "14:00",
       "timestamp": "2026-07-03T14:00:38.662215"
+    },
+    {
+      "event_id": "211829",
+      "title": "Will MrBeast get married by December 31?",
+      "slug": "will-mrbeast-get-married-by-december-31",
+      "prev_prob": 0.815,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "15:00",
+      "timestamp": "2026-07-03T15:00:37.648188"
     }
   ],
-  "crossing_count": 18,
-  "last_updated": "2026-07-03T14:00:38.662507"
+  "crossing_count": 19,
+  "last_updated": "2026-07-03T15:00:37.648444"
 }
