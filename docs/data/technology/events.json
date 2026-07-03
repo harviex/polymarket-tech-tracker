@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-03T21:52:13.874413",
+  "updated_at": "2026-07-03T22:50:10.443762",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -153,7 +153,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.81,
         "option_text": "Yes",
         "tags": [
@@ -436,8 +436,8 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.825,
+        "url": "https://polymarket.com/event/428507",
+        "probability": 0.83,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -563,11 +563,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.83,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.83,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.83,
         "history": [
           {
             "time": "02:02",
@@ -3045,7 +3045,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.975,
+        "probability": 0.9745,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -3333,11 +3333,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.975,
+        "current_prob": 0.9745,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9755,
-        "last_checked_prob": 0.975,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "15:57",
@@ -3350,7 +3350,7 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
         "probability": 0.81,
         "option_text": "NVIDIA",
         "tags": [
@@ -6343,6 +6343,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-03T21:52:13.865214"
+    "updated_at": "2026-07-03T22:50:10.434695"
   }
 }
