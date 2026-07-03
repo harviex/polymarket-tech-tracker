@@ -12,8 +12,19 @@
       "direction": "down",
       "time": "02:01",
       "timestamp": "2026-07-03T02:01:20.031766"
+    },
+    {
+      "event_id": "630845",
+      "title": "Largest Company end of July?",
+      "slug": "largest-company-end-of-july-20260624192302727",
+      "prev_prob": 0.775,
+      "curr_prob": 0.835,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "08:00",
+      "timestamp": "2026-07-03T08:00:18.915105"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-07-03T02:01:20.032035"
+  "crossing_count": 2,
+  "last_updated": "2026-07-03T08:00:18.915354"
 }
