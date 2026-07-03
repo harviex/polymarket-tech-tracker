@@ -89,8 +89,30 @@
       "direction": "down",
       "time": "08:00",
       "timestamp": "2026-07-03T08:00:12.001698"
+    },
+    {
+      "event_id": "117784",
+      "title": "Top Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.8,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "09:00",
+      "timestamp": "2026-07-03T09:00:18.972410"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.81,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "09:00",
+      "timestamp": "2026-07-03T09:00:18.972462"
     }
   ],
-  "crossing_count": 8,
-  "last_updated": "2026-07-03T08:00:12.001895"
+  "crossing_count": 10,
+  "last_updated": "2026-07-03T09:00:18.972662"
 }
