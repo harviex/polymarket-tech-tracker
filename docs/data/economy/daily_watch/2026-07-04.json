@@ -12,8 +12,19 @@
       "direction": "up",
       "time": "04:00",
       "timestamp": "2026-07-04T04:00:49.010182"
+    },
+    {
+      "event_id": "193867",
+      "title": "Will Anthropic or OpenAI IPO first?",
+      "slug": "will-anthropic-or-openai-ipo-first",
+      "prev_prob": 0.835,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "05:00",
+      "timestamp": "2026-07-04T05:00:36.780492"
     }
   ],
-  "crossing_count": 1,
-  "last_updated": "2026-07-04T04:00:49.010437"
+  "crossing_count": 2,
+  "last_updated": "2026-07-04T05:00:36.780753"
 }
