@@ -67,8 +67,30 @@
       "direction": "up",
       "time": "07:00",
       "timestamp": "2026-07-03T07:00:13.136116"
+    },
+    {
+      "event_id": "117784",
+      "title": "Top Artist 2026",
+      "slug": "top-spotify-artist-2026",
+      "prev_prob": 0.775,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "08:00",
+      "timestamp": "2026-07-03T08:00:12.001637"
+    },
+    {
+      "event_id": "563638",
+      "title": "Will Taylor Swift get married in Manhattan?",
+      "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
+      "prev_prob": 0.9385,
+      "curr_prob": 0.81,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "08:00",
+      "timestamp": "2026-07-03T08:00:12.001698"
     }
   ],
-  "crossing_count": 6,
-  "last_updated": "2026-07-03T07:00:13.136295"
+  "crossing_count": 8,
+  "last_updated": "2026-07-03T08:00:12.001895"
 }
