@@ -111,8 +111,41 @@
       "direction": "up",
       "time": "22:00",
       "timestamp": "2026-07-03T22:00:39.516652"
+    },
+    {
+      "event_id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "prev_prob": 0.79,
+      "curr_prob": 0.815,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "23:00",
+      "timestamp": "2026-07-03T23:00:34.577947"
+    },
+    {
+      "event_id": "193867",
+      "title": "Will Anthropic or OpenAI IPO first?",
+      "slug": "will-anthropic-or-openai-ipo-first",
+      "prev_prob": 0.82,
+      "curr_prob": 0.79,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "23:00",
+      "timestamp": "2026-07-03T23:00:34.577989"
+    },
+    {
+      "event_id": "339867",
+      "title": "Will ground beef hit __ in 2026?",
+      "slug": "will-ground-beef-hit-in-2026",
+      "prev_prob": 0.83,
+      "curr_prob": 0.765,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "23:00",
+      "timestamp": "2026-07-03T23:00:34.578057"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-07-03T22:00:39.516934"
+  "crossing_count": 13,
+  "last_updated": "2026-07-03T23:00:34.578336"
 }
