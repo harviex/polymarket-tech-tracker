@@ -1,6 +1,19 @@
 {
   "date": "2026-07-04",
   "created_at": "2026-07-04T00:00:39.454363",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "563638",
+      "title": "Will Taylor Swift get married in Manhattan?",
+      "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
+      "prev_prob": 0.892,
+      "curr_prob": 0.9415,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "02:00",
+      "timestamp": "2026-07-04T02:00:29.912126"
+    }
+  ],
+  "crossing_count": 1,
+  "last_updated": "2026-07-04T02:00:29.912307"
 }
