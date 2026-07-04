@@ -111,8 +111,30 @@
       "direction": "up",
       "time": "10:00",
       "timestamp": "2026-07-04T10:00:41.811862"
+    },
+    {
+      "event_id": "211829",
+      "title": "Will MrBeast get married by December 31?",
+      "slug": "will-mrbeast-get-married-by-december-31",
+      "prev_prob": 0.8,
+      "curr_prob": 0.785,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-07-04T11:00:42.864666"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.8,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "11:00",
+      "timestamp": "2026-07-04T11:00:42.864701"
     }
   ],
-  "crossing_count": 10,
-  "last_updated": "2026-07-04T10:00:41.812061"
+  "crossing_count": 12,
+  "last_updated": "2026-07-04T11:00:42.864957"
 }
