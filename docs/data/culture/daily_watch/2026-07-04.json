@@ -133,8 +133,41 @@
       "direction": "down",
       "time": "11:00",
       "timestamp": "2026-07-04T11:00:42.864701"
+    },
+    {
+      "event_id": "333162",
+      "title": "Which characters will appear in Avengers: Doomsday?",
+      "slug": "which-characters-will-appear-in-avengers-doomsday",
+      "prev_prob": 0.795,
+      "curr_prob": 0.8,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-07-04T13:00:43.703356"
+    },
+    {
+      "event_id": "482346",
+      "title": "Who will die in The Witcher: Season 5?",
+      "slug": "who-will-die-in-the-witcher-season-5",
+      "prev_prob": 0.81,
+      "curr_prob": 0.795,
+      "threshold": 0.8,
+      "direction": "down",
+      "time": "13:00",
+      "timestamp": "2026-07-04T13:00:43.703389"
+    },
+    {
+      "event_id": "535925",
+      "title": "Who will win Love Island USA Season 8? (Men)",
+      "slug": "who-will-win-love-island-usa-season-8-men",
+      "prev_prob": 0.795,
+      "curr_prob": 0.825,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "13:00",
+      "timestamp": "2026-07-04T13:00:43.703417"
     }
   ],
-  "crossing_count": 12,
-  "last_updated": "2026-07-04T11:00:42.864957"
+  "crossing_count": 15,
+  "last_updated": "2026-07-04T13:00:43.703648"
 }
