@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-04T22:42:56.435646",
+  "updated_at": "2026-07-04T23:49:13.105686",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -253,7 +253,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.82,
         "option_text": "Up",
         "tags": [
@@ -530,7 +530,7 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
         "probability": 0.92,
         "option_text": "Alibaba",
         "tags": [
@@ -2994,7 +2994,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.975,
         "option_text": "$60",
         "tags": [
@@ -3300,7 +3300,7 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
         "probability": 0.815,
         "option_text": "NVIDIA",
         "tags": [
@@ -6293,6 +6293,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-04T22:42:56.427792"
+    "updated_at": "2026-07-04T23:49:13.098261"
   }
 }
