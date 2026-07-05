@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.81,
+      "probability": 0.815,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.81,
+      "current_prob": 0.815,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.81,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "15:48",
@@ -248,7 +248,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.82,
       "option_text": "Up",
       "tags": [
@@ -6288,6 +6288,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-05T20:04:09.365573",
+  "updated_at": "2026-07-05T21:45:46.252384",
   "event_count": 17
 }
