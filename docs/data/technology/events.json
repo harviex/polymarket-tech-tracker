@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-05T01:30:50.590598",
+  "updated_at": "2026-07-05T05:50:01.241515",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -10,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.79,
+        "probability": 0.805,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.79,
+        "current_prob": 0.805,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.79,
+        "last_checked_prob": 0.805,
         "history": [
           {
             "time": "15:48",
@@ -67,7 +67,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
-        "probability": 0.96,
+        "probability": 0.9585,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -76,11 +76,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.96,
+        "current_prob": 0.9585,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9695,
-        "last_checked_prob": 0.96,
+        "last_checked_prob": 0.9585,
         "history": [
           {
             "time": "15:48",
@@ -103,8 +103,8 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "probability": 0.865,
+        "url": "https://polymarket.com/event/79080",
+        "probability": 0.86,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -226,11 +226,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.865,
+        "current_prob": 0.86,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.865,
+        "last_checked_prob": 0.86,
         "history": [
           {
             "time": "20:57",
@@ -387,7 +387,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.785,
+        "probability": 0.79,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -513,11 +513,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.79,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.83,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.79,
         "history": [
           {
             "time": "02:02",
@@ -2994,8 +2994,8 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
-        "probability": 0.975,
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "probability": 0.9745,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -3283,11 +3283,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.975,
+        "current_prob": 0.9745,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9765,
-        "last_checked_prob": 0.975,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "15:57",
@@ -6293,6 +6293,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-05T01:30:50.581460"
+    "updated_at": "2026-07-05T05:50:01.232596"
   }
 }
