@@ -1,6 +1,30 @@
 {
   "date": "2026-07-05",
   "created_at": "2026-07-05T00:00:51.373662",
-  "crossings": [],
-  "crossing_count": 0
+  "crossings": [
+    {
+      "event_id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "slug": "will-apple-release-a-foldable-iphone-before-2027",
+      "prev_prob": 0.79,
+      "curr_prob": 0.81,
+      "threshold": 0.8,
+      "direction": "up",
+      "time": "14:01",
+      "timestamp": "2026-07-05T14:01:05.513329"
+    },
+    {
+      "event_id": "556312",
+      "title": "Best Chinese AI Company end of July?",
+      "slug": "best-chinese-ai-company-end-of-july",
+      "prev_prob": 0.925,
+      "curr_prob": 0.89,
+      "threshold": 0.9,
+      "direction": "down",
+      "time": "14:01",
+      "timestamp": "2026-07-05T14:01:05.513394"
+    }
+  ],
+  "crossing_count": 2,
+  "last_updated": "2026-07-05T14:01:05.513594"
 }
