@@ -23,8 +23,19 @@
       "direction": "down",
       "time": "14:01",
       "timestamp": "2026-07-05T14:01:05.513394"
+    },
+    {
+      "event_id": "556312",
+      "title": "Best Chinese AI Company end of July?",
+      "slug": "best-chinese-ai-company-end-of-july",
+      "prev_prob": 0.895,
+      "curr_prob": 0.92,
+      "threshold": 0.9,
+      "direction": "up",
+      "time": "17:00",
+      "timestamp": "2026-07-05T17:00:47.465326"
     }
   ],
-  "crossing_count": 2,
-  "last_updated": "2026-07-05T14:01:05.513594"
+  "crossing_count": 3,
+  "last_updated": "2026-07-05T17:00:47.465542"
 }
