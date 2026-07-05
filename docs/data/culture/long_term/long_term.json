@@ -5,7 +5,7 @@
       "title": "Which characters will appear in Avengers: Doomsday?",
       "slug": "which-characters-will-appear-in-avengers-doomsday",
       "url": "https://polymarket.com/event/which-characters-will-appear-in-avengers-doomsday",
-      "probability": 0.795,
+      "probability": 0.85,
       "option_text": "Simu Liu as Shang-Chi",
       "tags": [
         "movies",
@@ -13,11 +13,11 @@
       ],
       "volume": 42194.038787000005,
       "liquidity": 16591.73895,
-      "current_prob": 0.795,
+      "current_prob": 0.85,
       "added_at": "2026-06-01T00:06:09.678147",
       "first_seen": "2026-06-01T00:06:09.678147",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.795,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "00:06",
@@ -28,6 +28,11 @@
           "time": "00:06",
           "prob": 0.885,
           "reason": "Update: 81.5% → 88.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.85,
+          "reason": "Update: 79.5% → 85.0%"
         }
       ]
     },
@@ -36,7 +41,7 @@
       "title": "Top Spotify Artist 2026",
       "slug": "top-spotify-artist-2026",
       "url": "https://polymarket.com/event/top-spotify-artist-2026",
-      "probability": 0.77,
+      "probability": 0.79,
       "option_text": "Bad Bunny",
       "tags": [
         "spotify",
@@ -45,11 +50,11 @@
       ],
       "volume": 1340762.419865,
       "liquidity": 132385.4622,
-      "current_prob": 0.77,
+      "current_prob": 0.79,
       "added_at": "2026-06-10T00:06:03.299092",
       "first_seen": "2026-06-10T00:06:03.299092",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "00:06",
@@ -68,7 +73,7 @@
       "title": "Nothing Ever Happens: Satoshi Nakamoto",
       "slug": "nothing-ever-happens-satoshi-nakamoto",
       "url": "https://polymarket.com/event/nothing-ever-happens-satoshi-nakamoto",
-      "probability": 0.97,
+      "probability": 0.945,
       "option_text": "Nothing",
       "tags": [
         "crypto",
@@ -80,11 +85,11 @@
       ],
       "volume": 11185.629875000004,
       "liquidity": 7949.32084,
-      "current_prob": 0.97,
+      "current_prob": 0.945,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.97,
-      "last_checked_prob": 0.97,
+      "last_checked_prob": 0.945,
       "history": [
         {
           "time": "00:05",
@@ -98,7 +103,7 @@
       "title": "Will MrBeast get married by December 31?",
       "slug": "will-mrbeast-get-married-by-december-31",
       "url": "https://polymarket.com/event/will-mrbeast-get-married-by-december-31",
-      "probability": 0.755,
+      "probability": 0.765,
       "option_text": "Yes",
       "tags": [
         "mrbeast",
@@ -108,11 +113,11 @@
       ],
       "volume": 38013.528827999995,
       "liquidity": 2652.5776,
-      "current_prob": 0.755,
+      "current_prob": 0.765,
       "added_at": "2026-06-25T00:05:43.240614",
       "first_seen": "2026-06-25T00:05:43.240614",
       "peak_prob": 0.865,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "00:05",
@@ -146,7 +151,7 @@
       "title": "Who will die in The Witcher: Season 5?",
       "slug": "who-will-die-in-the-witcher-season-5",
       "url": "https://polymarket.com/event/who-will-die-in-the-witcher-season-5",
-      "probability": 0.785,
+      "probability": 0.84,
       "option_text": "Geralt of Rivia",
       "tags": [
         "pop-culture",
@@ -154,11 +159,11 @@
       ],
       "volume": 32213.07493900001,
       "liquidity": 6719.8359,
-      "current_prob": 0.785,
+      "current_prob": 0.84,
       "added_at": "2026-07-02T00:06:24.710256",
       "first_seen": "2026-07-02T00:06:24.710256",
-      "peak_prob": 0.83,
-      "last_checked_prob": 0.785,
+      "peak_prob": 0.84,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "00:06",
@@ -169,6 +174,11 @@
           "time": "00:06",
           "prob": 0.775,
           "reason": "Update: 83.0% → 77.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.84,
+          "reason": "Update: 78.5% → 84.0%"
         }
       ]
     },
@@ -204,44 +214,12 @@
         }
       ]
     },
-    "563638": {
-      "id": "563638",
-      "title": "Will Taylor Swift get married in Manhattan?",
-      "slug": "will-taylor-swift-get-married-in-manhattan-20260605211638230",
-      "url": "https://polymarket.com/event/will-taylor-swift-get-married-in-manhattan-20260605211638230",
-      "probability": 0.8775,
-      "option_text": "Yes",
-      "tags": [
-        "pop-culture",
-        "celebrities",
-        "taylor-swift"
-      ],
-      "volume": 15289.807733000005,
-      "liquidity": 7200.69076,
-      "current_prob": 0.8775,
-      "added_at": "2026-07-02T00:06:24.710256",
-      "first_seen": "2026-07-02T00:06:24.710256",
-      "peak_prob": 0.9815,
-      "last_checked_prob": 0.8775,
-      "history": [
-        {
-          "time": "00:06",
-          "prob": 0.98,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.8775,
-          "reason": "Update: 98.2% → 87.8%"
-        }
-      ]
-    },
     "572994": {
       "id": "572994",
       "title": "President Trump to Attend World Cup Final?",
       "slug": "president-trump-to-attend-world-cup-final-20260608152749044",
       "url": "https://polymarket.com/event/president-trump-to-attend-world-cup-final-20260608152749044",
-      "probability": 0.915,
+      "probability": 0.935,
       "option_text": "Yes",
       "tags": [
         "fifa-world-cup",
@@ -256,11 +234,11 @@
       ],
       "volume": 103352.75019900006,
       "liquidity": 15679.6882,
-      "current_prob": 0.915,
+      "current_prob": 0.935,
       "added_at": "2026-07-02T00:06:24.710256",
       "first_seen": "2026-07-02T00:06:24.710256",
-      "peak_prob": 0.925,
-      "last_checked_prob": 0.915,
+      "peak_prob": 0.935,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "00:06",
@@ -274,7 +252,7 @@
       "title": "Richest person on December 31, 2026?",
       "slug": "richest-person-on-december-31-2026",
       "url": "https://polymarket.com/event/richest-person-on-december-31-2026",
-      "probability": 0.955,
+      "probability": 0.958,
       "option_text": "Elon Musk",
       "tags": [
         "business",
@@ -284,48 +262,15 @@
       ],
       "volume": 1833321.35572,
       "liquidity": 119862.84928,
-      "current_prob": 0.955,
+      "current_prob": 0.958,
       "added_at": "2026-07-03T00:06:31.035807",
       "first_seen": "2026-07-03T00:06:31.035807",
-      "peak_prob": 0.955,
-      "last_checked_prob": 0.955,
+      "peak_prob": 0.958,
+      "last_checked_prob": 0.958,
       "history": [
         {
           "time": "00:06",
           "prob": 0.955,
-          "reason": "Added to Long-Term (daily update)"
-        }
-      ]
-    },
-    "385789": {
-      "id": "385789",
-      "title": "Who will perform at World Cup halftime show?",
-      "slug": "who-will-perform-at-world-cup-halftime-show",
-      "url": "https://polymarket.com/event/who-will-perform-at-world-cup-halftime-show",
-      "probability": 0.9745,
-      "option_text": "Shakira",
-      "tags": [
-        "soccer",
-        "taylor-swift",
-        "sports",
-        "music",
-        "celebrities",
-        "pop-culture",
-        "wc-tournament-futures",
-        "wc-culture-mentions",
-        "2026-fifa-world-cup"
-      ],
-      "volume": 262884.57741300005,
-      "liquidity": 150595.33214,
-      "current_prob": 0.9745,
-      "added_at": "2026-07-03T00:06:31.035807",
-      "first_seen": "2026-07-03T00:06:31.035807",
-      "peak_prob": 0.985,
-      "last_checked_prob": 0.9745,
-      "history": [
-        {
-          "time": "00:06",
-          "prob": 0.985,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
@@ -335,7 +280,7 @@
       "title": "Who will win Love Island USA Season 8? (Men)",
       "slug": "who-will-win-love-island-usa-season-8-men",
       "url": "https://polymarket.com/event/who-will-win-love-island-usa-season-8-men",
-      "probability": 0.745,
+      "probability": 0.785,
       "option_text": "Bryce Dettloff",
       "tags": [
         "pop-culture",
@@ -344,11 +289,11 @@
       ],
       "volume": 13968.208602000004,
       "liquidity": 103386.06291,
-      "current_prob": 0.745,
+      "current_prob": 0.785,
       "added_at": "2026-07-03T00:06:31.035807",
       "first_seen": "2026-07-03T00:06:31.035807",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.745,
+      "last_checked_prob": 0.785,
       "history": [
         {
           "time": "00:06",
@@ -367,7 +312,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.975,
+      "probability": 0.9745,
       "option_text": "$60+",
       "tags": [
         "tech",
@@ -380,11 +325,11 @@
       ],
       "volume": 59414.37048700001,
       "liquidity": 14044.62586,
-      "current_prob": 0.975,
+      "current_prob": 0.9745,
       "added_at": "2026-07-03T00:06:31.035807",
       "first_seen": "2026-07-03T00:06:31.035807",
       "peak_prob": 0.975,
-      "last_checked_prob": 0.975,
+      "last_checked_prob": 0.9745,
       "history": [
         {
           "time": "00:06",
@@ -394,6 +339,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-04T00:05:35.129570",
-  "event_count": 12
+  "updated_at": "2026-07-06T00:06:08.677270",
+  "event_count": 10
 }
