@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-06T01:45:01.651361",
+  "updated_at": "2026-07-06T06:12:58.524491",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -104,7 +104,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.87,
+        "probability": 0.865,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -226,11 +226,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.865,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "20:57",
@@ -387,7 +387,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.835,
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -513,11 +513,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.835,
+        "current_prob": 0.845,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
-        "peak_prob": 0.835,
-        "last_checked_prob": 0.835,
+        "peak_prob": 0.845,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "02:02",
@@ -531,7 +531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.92,
+        "probability": 0.93,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2977,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.92,
+        "current_prob": 0.93,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.94,
-        "last_checked_prob": 0.92,
+        "last_checked_prob": 0.93,
         "history": [
           {
             "time": "02:02",
@@ -6293,6 +6293,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-06T01:45:01.641878"
+    "updated_at": "2026-07-06T06:12:58.517194"
   }
 }
