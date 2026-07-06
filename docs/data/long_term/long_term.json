@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.835,
+      "url": "https://polymarket.com/event/103468",
+      "probability": 0.83,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.835,
+      "current_prob": 0.83,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "15:48",
@@ -248,7 +248,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.82,
       "option_text": "Up",
       "tags": [
@@ -381,7 +381,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
       "probability": 0.81,
       "option_text": "Yes",
       "tags": [
@@ -525,8 +525,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.9415,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.9365,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9415,
+      "current_prob": 0.9365,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9515,
-      "last_checked_prob": 0.9415,
+      "last_checked_prob": 0.9365,
       "history": [
         {
           "time": "02:02",
@@ -6288,6 +6288,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-06T19:26:19.831376",
+  "updated_at": "2026-07-06T21:16:44.596143",
   "event_count": 17
 }
