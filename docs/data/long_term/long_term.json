@@ -381,8 +381,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
-      "probability": 0.81,
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "probability": 0.805,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -508,11 +508,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.81,
+      "current_prob": 0.805,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.81,
+      "last_checked_prob": 0.805,
       "history": [
         {
           "time": "02:02",
@@ -525,8 +525,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.9565,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.955,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9565,
+      "current_prob": 0.955,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9565,
-      "last_checked_prob": 0.9565,
+      "last_checked_prob": 0.955,
       "history": [
         {
           "time": "02:02",
@@ -3295,8 +3295,8 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/630845",
-      "probability": 0.705,
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+      "probability": 0.775,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -6259,11 +6259,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.775,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.705,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "15:57",
@@ -6289,10 +6289,15 @@
           "time": "13:08",
           "prob": 0.705,
           "reason": "Update: 75.5% → 70.5%"
+        },
+        {
+          "time": "18:52",
+          "prob": 0.775,
+          "reason": "Update: 70.5% → 77.5%"
         }
       ]
     }
   },
-  "updated_at": "2026-07-07T16:14:24.536937",
+  "updated_at": "2026-07-07T18:52:25.489242",
   "event_count": 17
 }
