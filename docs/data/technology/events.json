@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-07T13:08:43.366351",
+  "updated_at": "2026-07-07T16:14:24.544337",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -103,7 +103,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.88,
         "option_text": "Yes",
         "tags": [
@@ -530,7 +530,7 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "url": "https://polymarket.com/event/556312",
         "probability": 0.9565,
         "option_text": "Alibaba",
         "tags": [
@@ -2994,7 +2994,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.9725,
         "option_text": "$60",
         "tags": [
@@ -3300,7 +3300,7 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+        "url": "https://polymarket.com/event/630845",
         "probability": 0.705,
         "option_text": "NVIDIA",
         "tags": [
@@ -6298,6 +6298,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-07T13:08:43.358878"
+    "updated_at": "2026-07-07T16:14:24.536937"
   }
 }
