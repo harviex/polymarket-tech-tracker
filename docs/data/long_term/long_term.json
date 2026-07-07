@@ -98,7 +98,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.88,
       "option_text": "Yes",
       "tags": [
@@ -248,7 +248,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.82,
       "option_text": "Up",
       "tags": [
@@ -381,7 +381,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.81,
       "option_text": "Yes",
       "tags": [
@@ -526,7 +526,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.9545,
+      "probability": 0.9565,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9545,
+      "current_prob": 0.9565,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
-      "peak_prob": 0.9545,
-      "last_checked_prob": 0.9545,
+      "peak_prob": 0.9565,
+      "last_checked_prob": 0.9565,
       "history": [
         {
           "time": "02:02",
@@ -2989,7 +2989,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "url": "https://polymarket.com/event/612483",
       "probability": 0.9725,
       "option_text": "$60",
       "tags": [
@@ -3296,7 +3296,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.755,
+      "probability": 0.705,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -6259,11 +6259,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.755,
+      "current_prob": 0.705,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.705,
       "history": [
         {
           "time": "15:57",
@@ -6284,10 +6284,15 @@
           "time": "23:52",
           "prob": 0.835,
           "reason": "Update: 77.5% → 83.5%"
+        },
+        {
+          "time": "13:08",
+          "prob": 0.705,
+          "reason": "Update: 75.5% → 70.5%"
         }
       ]
     }
   },
-  "updated_at": "2026-07-07T10:15:21.740589",
+  "updated_at": "2026-07-07T13:08:43.358878",
   "event_count": 17
 }
