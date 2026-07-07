@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-07T06:32:58.736967",
+  "updated_at": "2026-07-07T10:15:21.749373",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -10,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.82,
+        "probability": 0.83,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.82,
+        "current_prob": 0.83,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.82,
+        "last_checked_prob": 0.83,
         "history": [
           {
             "time": "15:48",
@@ -531,7 +531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.954,
+        "probability": 0.9545,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2977,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.954,
+        "current_prob": 0.9545,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9545,
-        "last_checked_prob": 0.954,
+        "last_checked_prob": 0.9545,
         "history": [
           {
             "time": "02:02",
@@ -3301,7 +3301,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.785,
+        "probability": 0.755,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6264,11 +6264,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.755,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.755,
         "history": [
           {
             "time": "15:57",
@@ -6293,6 +6293,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-07T06:32:58.729456"
+    "updated_at": "2026-07-07T10:15:21.740589"
   }
 }
