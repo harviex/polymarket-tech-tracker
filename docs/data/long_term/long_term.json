@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.88,
+      "url": "https://polymarket.com/event/103468",
+      "probability": 0.895,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.88,
+      "current_prob": 0.895,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.895,
       "history": [
         {
           "time": "15:48",
@@ -248,8 +248,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.82,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.825,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -364,11 +364,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.82,
+      "current_prob": 0.825,
       "added_at": "2026-06-27T20:05:57.020960",
       "first_seen": "2026-06-27T20:05:57.020960",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.82,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "20:05",
@@ -381,8 +381,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
-      "probability": 0.805,
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "probability": 0.84,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -508,11 +508,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.805,
+      "current_prob": 0.84,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "02:02",
@@ -526,7 +526,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.9305,
+      "probability": 0.9555,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9305,
+      "current_prob": 0.9555,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9565,
-      "last_checked_prob": 0.9305,
+      "last_checked_prob": 0.9555,
       "history": [
         {
           "time": "02:02",
@@ -2990,7 +2990,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.9725,
+      "probability": 0.973,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -3278,11 +3278,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9725,
+      "current_prob": 0.973,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.9765,
-      "last_checked_prob": 0.9725,
+      "last_checked_prob": 0.973,
       "history": [
         {
           "time": "15:57",
@@ -3296,7 +3296,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.815,
+      "probability": 0.84,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -6259,11 +6259,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.815,
+      "current_prob": 0.84,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "15:57",
@@ -6303,6 +6303,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-08T17:14:30.615805",
+  "updated_at": "2026-07-08T18:59:52.586694",
   "event_count": 17
 }
