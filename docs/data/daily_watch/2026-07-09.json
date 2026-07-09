@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-09",
+  "events": {
+    "407875": {
+      "id": "407875",
+      "title": "Amazon 2026 capex above ___?",
+      "tags": [],
+      "first_seen": "2026-07-09T11:50:53.054902",
+      "history": [
+        {
+          "time": "11:50",
+          "prob": 0.948,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "11:50",
+          "prob": 0.948,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "11:50",
+          "prob": 0.948,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.948
+    }
+  }
+}
