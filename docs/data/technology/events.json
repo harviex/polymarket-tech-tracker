@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-10T00:04:16.633035",
+  "updated_at": "2026-07-10T04:41:07.015561",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -3300,8 +3300,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
-        "probability": 0.865,
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+        "probability": 0.85,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6264,11 +6264,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.865,
+        "current_prob": 0.85,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.865,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "15:57",
@@ -6317,7 +6317,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9775,
+        "probability": 0.978,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -6952,11 +6952,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9775,
+        "current_prob": 0.978,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
-        "peak_prob": 0.9775,
-        "last_checked_prob": 0.9775,
+        "peak_prob": 0.978,
+        "last_checked_prob": 0.978,
         "history": [
           {
             "time": "11:50",
@@ -6966,6 +6966,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-10T00:04:16.624529"
+    "updated_at": "2026-07-10T04:41:07.006261"
   }
 }
