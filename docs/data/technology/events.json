@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-10T18:14:21.221255",
+  "updated_at": "2026-07-10T20:10:03.927771",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -66,7 +66,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9605,
         "option_text": "Yes",
         "tags": [
@@ -104,7 +104,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.885,
+        "probability": 0.87,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -226,11 +226,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.87,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.87,
         "history": [
           {
             "time": "20:57",
@@ -531,7 +531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.9585,
+        "probability": 0.957,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2977,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9585,
+        "current_prob": 0.957,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9605,
-        "last_checked_prob": 0.9585,
+        "last_checked_prob": 0.957,
         "history": [
           {
             "time": "02:02",
@@ -6321,7 +6321,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.99,
         "option_text": "$170B",
         "tags": [
@@ -6971,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-10T18:14:21.212899"
+    "updated_at": "2026-07-10T20:10:03.919115"
   }
 }
