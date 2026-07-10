@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-10T11:38:45.991812",
+  "updated_at": "2026-07-10T13:48:04.988404",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.885,
         "option_text": "Yes",
         "tags": [
@@ -103,7 +103,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.885,
         "option_text": "Yes",
         "tags": [
@@ -254,7 +254,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.84,
+        "probability": 0.835,
         "option_text": "Up",
         "tags": [
           "big-tech",
@@ -369,11 +369,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.84,
+        "current_prob": 0.835,
         "added_at": "2026-06-27T20:05:57.020960",
         "first_seen": "2026-06-27T20:05:57.020960",
         "peak_prob": 0.84,
-        "last_checked_prob": 0.84,
+        "last_checked_prob": 0.835,
         "history": [
           {
             "time": "20:05",
@@ -531,7 +531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/556312",
-        "probability": 0.9605,
+        "probability": 0.9585,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2977,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9605,
+        "current_prob": 0.9585,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9605,
-        "last_checked_prob": 0.9605,
+        "last_checked_prob": 0.9585,
         "history": [
           {
             "time": "02:02",
@@ -3300,8 +3300,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.825,
+        "url": "https://polymarket.com/event/630845",
+        "probability": 0.875,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6264,11 +6264,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.875,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "15:57",
@@ -6309,6 +6309,11 @@
             "time": "23:56",
             "prob": 0.81,
             "reason": "Update: 87.0% → 81.0%"
+          },
+          {
+            "time": "13:48",
+            "prob": 0.875,
+            "reason": "Update: 82.5% → 87.5%"
           }
         ]
       },
@@ -6316,7 +6321,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.987,
         "option_text": "$170B",
         "tags": [
@@ -6966,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-10T11:38:45.983696"
+    "updated_at": "2026-07-10T13:48:04.980089"
   }
 }
