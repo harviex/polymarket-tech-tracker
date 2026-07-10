@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-10T13:48:04.988404",
+  "updated_at": "2026-07-10T16:10:20.564420",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -103,7 +103,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.885,
         "option_text": "Yes",
         "tags": [
@@ -386,7 +386,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.8,
         "option_text": "Yes",
         "tags": [
@@ -3300,8 +3300,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
-        "probability": 0.875,
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+        "probability": 0.885,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6264,11 +6264,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.885,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "15:57",
@@ -6322,7 +6322,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.987,
+        "probability": 0.99,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -6957,11 +6957,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.987,
+        "current_prob": 0.99,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
-        "peak_prob": 0.987,
-        "last_checked_prob": 0.987,
+        "peak_prob": 0.99,
+        "last_checked_prob": 0.99,
         "history": [
           {
             "time": "11:50",
@@ -6971,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-10T13:48:04.980089"
+    "updated_at": "2026-07-10T16:10:20.555974"
   }
 }
