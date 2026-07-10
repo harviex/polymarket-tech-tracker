@@ -1,45 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-09T22:59:56.952486",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "407875",
-          "title": "Amazon 2026 capex above ___?",
-          "tags": [],
-          "first_seen": "2026-07-09T11:50:53.054902",
-          "history": [
-            {
-              "time": "11:50",
-              "prob": 0.948,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "11:50",
-              "prob": 0.948,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "11:50",
-              "prob": 0.948,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            }
-          ],
-          "current_prob": 0.948
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-10T00:04:16.633035",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -48,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.885,
+        "probability": 0.895,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -57,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.885,
+        "current_prob": 0.895,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "15:48",
@@ -141,7 +103,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.885,
         "option_text": "Yes",
         "tags": [
@@ -291,7 +253,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.82,
         "option_text": "Up",
         "tags": [
@@ -569,7 +531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.9545,
+        "probability": 0.9605,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3015,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9545,
+        "current_prob": 0.9605,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
-        "peak_prob": 0.9565,
-        "last_checked_prob": 0.9545,
+        "peak_prob": 0.9605,
+        "last_checked_prob": 0.9605,
         "history": [
           {
             "time": "02:02",
@@ -3338,8 +3300,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.86,
+        "url": "https://polymarket.com/event/630845",
+        "probability": 0.865,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6302,11 +6264,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.86,
+        "current_prob": 0.865,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.86,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "15:57",
@@ -6354,8 +6316,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.9755,
+        "url": "https://polymarket.com/event/407875",
+        "probability": 0.9775,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -6990,11 +6952,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9755,
+        "current_prob": 0.9775,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
-        "peak_prob": 0.9755,
-        "last_checked_prob": 0.9755,
+        "peak_prob": 0.9775,
+        "last_checked_prob": 0.9775,
         "history": [
           {
             "time": "11:50",
@@ -7004,6 +6966,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-09T22:59:56.944212"
+    "updated_at": "2026-07-10T00:04:16.624529"
   }
 }
