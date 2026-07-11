@@ -61,7 +61,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9605,
       "option_text": "Yes",
       "tags": [
@@ -381,7 +381,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -526,7 +526,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/556312",
-      "probability": 0.9125,
+      "probability": 0.9295,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9125,
+      "current_prob": 0.9295,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9605,
-      "last_checked_prob": 0.9125,
+      "last_checked_prob": 0.9295,
       "history": [
         {
           "time": "02:02",
@@ -6966,6 +6966,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-11T04:48:56.169150",
+  "updated_at": "2026-07-11T07:02:18.478023",
   "event_count": 17
 }
