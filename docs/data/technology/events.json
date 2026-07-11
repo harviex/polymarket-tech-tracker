@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-11T14:14:55.679284",
+  "updated_at": "2026-07-11T15:41:02.264868",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -10,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.91,
+        "probability": 0.905,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.91,
+        "current_prob": 0.905,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.91,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "15:48",
@@ -66,7 +66,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9635,
         "option_text": "Yes",
         "tags": [
@@ -253,7 +253,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.835,
         "option_text": "Up",
         "tags": [
@@ -386,7 +386,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.795,
         "option_text": "Yes",
         "tags": [
@@ -530,8 +530,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
-        "probability": 0.9305,
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "probability": 0.9295,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2977,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9305,
+        "current_prob": 0.9295,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9605,
-        "last_checked_prob": 0.9305,
+        "last_checked_prob": 0.9295,
         "history": [
           {
             "time": "02:02",
@@ -2994,7 +2994,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9725,
         "option_text": "$60",
         "tags": [
@@ -6971,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-11T14:14:55.670999"
+    "updated_at": "2026-07-11T15:41:02.256491"
   }
 }
