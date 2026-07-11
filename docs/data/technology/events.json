@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-11T19:55:58.324844",
+  "updated_at": "2026-07-11T20:36:56.643726",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.905,
         "option_text": "Yes",
         "tags": [
@@ -103,7 +103,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.875,
         "option_text": "Yes",
         "tags": [
@@ -253,7 +253,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.835,
         "option_text": "Up",
         "tags": [
@@ -531,7 +531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/556312",
-        "probability": 0.9205,
+        "probability": 0.9235,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2977,11 +2977,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9205,
+        "current_prob": 0.9235,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9605,
-        "last_checked_prob": 0.9205,
+        "last_checked_prob": 0.9235,
         "history": [
           {
             "time": "02:02",
@@ -6971,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-11T19:55:58.316867"
+    "updated_at": "2026-07-11T20:36:56.635237"
   }
 }
