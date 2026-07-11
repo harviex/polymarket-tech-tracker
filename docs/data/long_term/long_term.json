@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.905,
       "option_text": "Yes",
       "tags": [
@@ -381,7 +381,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -525,8 +525,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.9285,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.93,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9285,
+      "current_prob": 0.93,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9605,
-      "last_checked_prob": 0.9285,
+      "last_checked_prob": 0.93,
       "history": [
         {
           "time": "02:02",
@@ -3295,7 +3295,7 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/630845",
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
       "probability": 0.935,
       "option_text": "NVIDIA",
       "tags": [
@@ -6316,7 +6316,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -6966,6 +6966,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-11T17:42:59.791522",
+  "updated_at": "2026-07-11T18:39:43.282371",
   "event_count": 17
 }
