@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-12T09:38:55.312555",
+  "updated_at": "2026-07-12T11:04:33.077815",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -410,7 +410,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.795,
         "option_text": "Yes",
         "tags": [
@@ -554,8 +554,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
-        "probability": 0.9445,
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "probability": 0.948,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3001,11 +3001,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9445,
+        "current_prob": 0.948,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.9605,
-        "last_checked_prob": 0.9445,
+        "last_checked_prob": 0.948,
         "history": [
           {
             "time": "02:02",
@@ -3018,7 +3018,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9725,
         "option_text": "$60",
         "tags": [
@@ -9885,6 +9885,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-12T09:38:55.299668"
+    "updated_at": "2026-07-12T11:04:33.065089"
   }
 }
