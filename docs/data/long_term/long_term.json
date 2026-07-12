@@ -98,7 +98,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.88,
       "option_text": "Yes",
       "tags": [
@@ -248,7 +248,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.82,
       "option_text": "Up",
       "tags": [
@@ -381,7 +381,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -526,7 +526,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/556312",
-      "probability": 0.941,
+      "probability": 0.9425,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.941,
+      "current_prob": 0.9425,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9605,
-      "last_checked_prob": 0.941,
+      "last_checked_prob": 0.9425,
       "history": [
         {
           "time": "02:02",
@@ -6316,7 +6316,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -6969,7 +6969,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/79041",
+      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
       "probability": 0.705,
       "option_text": "NVIDIA",
       "tags": [
@@ -9856,6 +9856,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-12T19:57:51.719226",
+  "updated_at": "2026-07-12T20:37:42.427592",
   "event_count": 17
 }
