@@ -61,7 +61,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9635,
       "option_text": "Yes",
       "tags": [
@@ -248,7 +248,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.835,
       "option_text": "Up",
       "tags": [
@@ -526,7 +526,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/556312",
-      "probability": 0.929,
+      "probability": 0.9225,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2972,11 +2972,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.929,
+      "current_prob": 0.9225,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.9605,
-      "last_checked_prob": 0.929,
+      "last_checked_prob": 0.9225,
       "history": [
         {
           "time": "02:02",
@@ -3295,8 +3295,8 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/630845",
-      "probability": 0.925,
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+      "probability": 0.915,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -6259,11 +6259,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.925,
+      "current_prob": 0.915,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.925,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "15:57",
@@ -6966,6 +6966,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-11T23:39:28.479098",
+  "updated_at": "2026-07-12T01:17:26.648338",
   "event_count": 17
 }
