@@ -61,7 +61,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9655,
       "option_text": "Yes",
       "tags": [
@@ -98,7 +98,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.88,
       "option_text": "Yes",
       "tags": [
@@ -248,8 +248,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.745,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.73,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -364,11 +364,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.745,
+      "current_prob": 0.73,
       "added_at": "2026-06-27T20:05:57.020960",
       "first_seen": "2026-06-27T20:05:57.020960",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.745,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "20:05",
@@ -391,7 +391,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.825,
       "option_text": "Yes",
       "tags": [
@@ -535,8 +535,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.9555,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.955,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2982,11 +2982,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9555,
+      "current_prob": 0.955,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.962,
-      "last_checked_prob": 0.9555,
+      "last_checked_prob": 0.955,
       "history": [
         {
           "time": "02:02",
@@ -2999,7 +2999,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "url": "https://polymarket.com/event/612483",
       "probability": 0.973,
       "option_text": "$60",
       "tags": [
@@ -3306,7 +3306,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.865,
+      "probability": 0.845,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -6269,11 +6269,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.865,
+      "current_prob": 0.845,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "15:57",
@@ -6326,8 +6326,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.9855,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.9845,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -6962,11 +6962,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9855,
+      "current_prob": 0.9845,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9855,
+      "last_checked_prob": 0.9845,
       "history": [
         {
           "time": "11:50",
@@ -6976,6 +6976,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-13T18:23:49.950107",
+  "updated_at": "2026-07-13T20:04:00.398285",
   "event_count": 17
 }
