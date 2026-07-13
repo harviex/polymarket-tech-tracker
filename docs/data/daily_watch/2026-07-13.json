@@ -21,6 +21,20 @@
         }
       ],
       "current_prob": 0.7
+    },
+    "79041": {
+      "id": "79041",
+      "title": "Largest Company end of December 2026?",
+      "tags": [],
+      "first_seen": "2026-07-13T13:52:56.871945",
+      "history": [
+        {
+          "time": "13:52",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.705
     }
   }
 }
