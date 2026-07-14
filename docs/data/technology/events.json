@@ -1,71 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-13T23:39:06.710820",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 3,
-      "events": [
-        {
-          "id": "86832",
-          "title": "Which companies will be acquired before 2027?",
-          "tags": [],
-          "first_seen": "2026-07-13T01:18:37.061725",
-          "history": [
-            {
-              "time": "01:18",
-              "prob": 0.7,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "05:20",
-              "prob": 0.7,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7
-        },
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "tags": [],
-          "first_seen": "2026-07-13T13:52:56.871945",
-          "history": [
-            {
-              "time": "13:52",
-              "prob": 0.705,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.705
-        },
-        {
-          "id": "290152",
-          "title": "Tech Layoffs Up or Down in 20​26?",
-          "tags": [],
-          "first_seen": "2026-07-13T21:40:50.665546",
-          "history": [
-            {
-              "time": "21:40",
-              "prob": 0.73,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "22:41",
-              "prob": 0.765,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.73
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-14T01:08:42.335257",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -317,7 +253,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.795,
         "option_text": "Yes",
         "tags": [
@@ -461,7 +397,7 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
         "probability": 0.954,
         "option_text": "Alibaba",
         "tags": [
@@ -3231,7 +3167,7 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
         "probability": 0.855,
         "option_text": "NVIDIA",
         "tags": [
@@ -6906,7 +6842,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.755,
+        "probability": 0.76,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -7021,11 +6957,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.755,
+        "current_prob": 0.76,
         "added_at": "2026-07-13T22:41:01.829685",
         "first_seen": "2026-07-13T22:41:01.829685",
         "peak_prob": 0.765,
-        "last_checked_prob": 0.755,
+        "last_checked_prob": 0.76,
         "history": [
           {
             "time": "22:41",
@@ -7035,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-13T23:39:06.702498"
+    "updated_at": "2026-07-14T01:08:42.328516"
   }
 }

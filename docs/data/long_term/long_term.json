@@ -248,7 +248,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -392,7 +392,7 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
       "probability": 0.954,
       "option_text": "Alibaba",
       "tags": [
@@ -3162,7 +3162,7 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/630845",
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
       "probability": 0.855,
       "option_text": "NVIDIA",
       "tags": [
@@ -6837,7 +6837,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.755,
+      "probability": 0.76,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6952,11 +6952,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.755,
+      "current_prob": 0.76,
       "added_at": "2026-07-13T22:41:01.829685",
       "first_seen": "2026-07-13T22:41:01.829685",
       "peak_prob": 0.765,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "22:41",
@@ -6966,6 +6966,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-13T23:39:06.702498",
+  "updated_at": "2026-07-14T01:08:42.328516",
   "event_count": 17
 }
