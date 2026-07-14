@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.91,
       "option_text": "Yes",
       "tags": [
@@ -393,7 +393,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.9155,
+      "probability": 0.8615,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2839,11 +2839,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9155,
+      "current_prob": 0.8615,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.962,
-      "last_checked_prob": 0.9155,
+      "last_checked_prob": 0.8615,
       "history": [
         {
           "time": "02:02",
@@ -2854,6 +2854,11 @@
           "time": "14:44",
           "prob": 0.9095,
           "reason": "Update: 96.0% → 91.0%"
+        },
+        {
+          "time": "18:55",
+          "prob": 0.8615,
+          "reason": "Update: 91.5% → 86.2%"
         }
       ]
     },
@@ -2861,7 +2866,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "url": "https://polymarket.com/event/612483",
       "probability": 0.9725,
       "option_text": "$70",
       "tags": [
@@ -6188,8 +6193,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.986,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.9855,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -6824,11 +6829,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.986,
+      "current_prob": 0.9855,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.986,
+      "last_checked_prob": 0.9855,
       "history": [
         {
           "time": "11:50",
@@ -6974,7 +6979,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/79041",
       "probability": 0.725,
       "option_text": "NVIDIA",
       "tags": [
@@ -9859,6 +9864,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-14T17:54:07.494352",
+  "updated_at": "2026-07-14T18:55:57.691038",
   "event_count": 17
 }
