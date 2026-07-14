@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-14T01:08:42.335257",
+  "updated_at": "2026-07-14T04:35:52.654114",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -398,7 +398,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.954,
+        "probability": 0.9545,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2844,11 +2844,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.954,
+        "current_prob": 0.9545,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.962,
-        "last_checked_prob": 0.954,
+        "last_checked_prob": 0.9545,
         "history": [
           {
             "time": "02:02",
@@ -2863,7 +2863,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.973,
-        "option_text": "$60",
+        "option_text": "$70",
         "tags": [
           "tech",
           "gta-6",
@@ -3168,7 +3168,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.855,
+        "probability": 0.845,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -6131,11 +6131,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.855,
+        "current_prob": 0.845,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.935,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:57",
@@ -6188,7 +6188,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.9845,
         "option_text": "$170B",
         "tags": [
@@ -6842,7 +6842,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.76,
+        "probability": 0.77,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -6957,11 +6957,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.76,
+        "current_prob": 0.77,
         "added_at": "2026-07-13T22:41:01.829685",
         "first_seen": "2026-07-13T22:41:01.829685",
-        "peak_prob": 0.765,
-        "last_checked_prob": 0.76,
+        "peak_prob": 0.77,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "22:41",
@@ -6971,6 +6971,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-14T01:08:42.328516"
+    "updated_at": "2026-07-14T04:35:52.646326"
   }
 }
