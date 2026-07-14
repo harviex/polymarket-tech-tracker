@@ -393,7 +393,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.9545,
+      "probability": 0.9555,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2839,11 +2839,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9545,
+      "current_prob": 0.9555,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.962,
-      "last_checked_prob": 0.9545,
+      "last_checked_prob": 0.9555,
       "history": [
         {
           "time": "02:02",
@@ -6836,8 +6836,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
-      "probability": 0.77,
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "probability": 0.765,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6952,11 +6952,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.765,
       "added_at": "2026-07-13T22:41:01.829685",
       "first_seen": "2026-07-13T22:41:01.829685",
       "peak_prob": 0.77,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "22:41",
@@ -6966,6 +6966,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-14T04:35:52.646326",
+  "updated_at": "2026-07-14T06:59:50.880649",
   "event_count": 17
 }
