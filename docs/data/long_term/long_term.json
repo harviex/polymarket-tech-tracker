@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.91,
       "option_text": "Yes",
       "tags": [
@@ -248,7 +248,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -393,7 +393,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.8355,
+      "probability": 0.8235,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -2839,11 +2839,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8355,
+      "current_prob": 0.8235,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.962,
-      "last_checked_prob": 0.8355,
+      "last_checked_prob": 0.8235,
       "history": [
         {
           "time": "02:02",
@@ -3172,8 +3172,8 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.915,
+      "url": "https://polymarket.com/event/630845",
+      "probability": 0.925,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -6136,11 +6136,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.915,
+      "current_prob": 0.925,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.915,
+      "last_checked_prob": 0.925,
       "history": [
         {
           "time": "15:57",
@@ -6193,8 +6193,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.985,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.984,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -6829,11 +6829,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.985,
+      "current_prob": 0.984,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.985,
+      "last_checked_prob": 0.984,
       "history": [
         {
           "time": "11:50",
@@ -6980,7 +6980,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-      "probability": 0.715,
+      "probability": 0.72,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -9850,11 +9850,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.715,
+      "current_prob": 0.72,
       "added_at": "2026-07-14T16:05:51.304225",
       "first_seen": "2026-07-14T16:05:51.304225",
       "peak_prob": 0.725,
-      "last_checked_prob": 0.715,
+      "last_checked_prob": 0.72,
       "history": [
         {
           "time": "16:05",
@@ -9864,6 +9864,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-14T23:39:06.645135",
+  "updated_at": "2026-07-15T01:05:56.802952",
   "event_count": 17
 }
