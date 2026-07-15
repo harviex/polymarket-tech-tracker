@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-15",
+  "events": {
+    "228565": {
+      "id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "tags": [],
+      "first_seen": "2026-07-15T04:35:32.903758",
+      "history": [
+        {
+          "time": "04:35",
+          "prob": 0.795,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.795
+    }
+  }
+}
