@@ -55,6 +55,11 @@
           "threshold": 0.7,
           "direction": "up",
           "reason": "Crossed up 70%"
+        },
+        {
+          "time": "20:56",
+          "prob": 0.72,
+          "reason": "Removed from Long-Term (prob < 70%)"
         }
       ],
       "current_prob": 0.741
@@ -86,6 +91,20 @@
         }
       ],
       "current_prob": 0.8255
+    },
+    "290152": {
+      "id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "tags": [],
+      "first_seen": "2026-07-15T20:56:09.303709",
+      "history": [
+        {
+          "time": "20:56",
+          "prob": 0.73,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.73
     }
   }
 }
