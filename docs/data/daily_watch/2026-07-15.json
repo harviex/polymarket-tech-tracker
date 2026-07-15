@@ -32,6 +32,22 @@
         }
       ],
       "current_prob": 0.7085
+    },
+    "228549": {
+      "id": "228549",
+      "title": "Will Stripe acquire Paypal in 2026?",
+      "tags": [],
+      "first_seen": "2026-07-15T09:44:54.174573",
+      "history": [
+        {
+          "time": "09:44",
+          "prob": 0.741,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.741
     }
   }
 }

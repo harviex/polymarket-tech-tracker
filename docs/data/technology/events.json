@@ -1,11 +1,11 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-15T07:03:06.783354",
+  "updated_at": "2026-07-15T09:44:54.174852",
   "daily_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 2,
+      "event_count": 3,
       "events": [
         {
           "id": "228565",
@@ -38,12 +38,28 @@
             }
           ],
           "current_prob": 0.7085
+        },
+        {
+          "id": "228549",
+          "title": "Will Stripe acquire Paypal in 2026?",
+          "tags": [],
+          "first_seen": "2026-07-15T09:44:54.174573",
+          "history": [
+            {
+              "time": "09:44",
+              "prob": 0.741,
+              "threshold": 0.7,
+              "direction": "up",
+              "reason": "Crossed up 70%"
+            }
+          ],
+          "current_prob": 0.741
         }
       ]
     }
   ],
   "long_term_data": {
-    "event_count": 12,
+    "event_count": 13,
     "events": [
       {
         "id": "103468",
@@ -438,7 +454,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.936,
+        "probability": 0.928,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2884,11 +2900,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.936,
+        "current_prob": 0.928,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.962,
-        "last_checked_prob": 0.936,
+        "last_checked_prob": 0.928,
         "history": [
           {
             "time": "02:02",
@@ -2916,7 +2932,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.9735,
         "option_text": "$70",
         "tags": [
@@ -6244,7 +6260,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9845,
+        "probability": 0.985,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -6879,11 +6895,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9845,
+        "current_prob": 0.985,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9845,
+        "last_checked_prob": 0.985,
         "history": [
           {
             "time": "11:50",
@@ -7030,7 +7046,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.725,
+        "probability": 0.715,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -9900,11 +9916,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.725,
+        "current_prob": 0.715,
         "added_at": "2026-07-14T16:05:51.304225",
         "first_seen": "2026-07-14T16:05:51.304225",
         "peak_prob": 0.725,
-        "last_checked_prob": 0.725,
+        "last_checked_prob": 0.715,
         "history": [
           {
             "time": "16:05",
@@ -9918,7 +9934,7 @@
         "title": "Will Stripe acquire any part of Paypal in 2026?",
         "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
         "url": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026",
-        "probability": 0.785,
+        "probability": 0.75,
         "option_text": "Yes",
         "tags": [
           "business",
@@ -10042,11 +10058,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.75,
         "added_at": "2026-07-15T04:35:32.890886",
         "first_seen": "2026-07-15T04:35:32.890886",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "04:35",
@@ -10185,8 +10201,151 @@
             "reason": "Added to Long-Term (high probability)"
           }
         ]
+      },
+      {
+        "id": "228549",
+        "title": "Will Stripe acquire Paypal in 2026?",
+        "slug": "will-stripe-acquire-paypal-in-2026",
+        "url": "https://polymarket.com/event/will-stripe-acquire-paypal-in-2026",
+        "probability": 0.741,
+        "option_text": "Yes",
+        "tags": [
+          "economy",
+          "business",
+          "tech",
+          "buy",
+          "big-tech",
+          "acquisitions"
+        ],
+        "markets": [
+          {
+            "id": "1429663",
+            "question": "Will Stripe acquire Paypal in 2026?",
+            "conditionId": "0x74681cc13dc54fa347507d7ab57b66ea8c0e8c4ff9fb5a589583239c774f65aa",
+            "slug": "will-stripe-acquire-paypal-in-2026",
+            "resolutionSource": "",
+            "endDate": "2026-12-31T00:00:00Z",
+            "liquidity": "2043.05358",
+            "startDate": "2026-02-24T22:38:15.656582Z",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stripe-acquire-paypal-in-2026--gGYjppHStfU.png",
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-stripe-acquire-paypal-in-2026--gGYjppHStfU.png",
+            "description": "This market will resolve to \"Yes\" if it is officially announced that Paypal will be, has been, or is being acquired by or merged with Stripe by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA qualifying acquisition or acquisition announcement must include the acquisition of a controlling interest in Paypal by Stripe. A \"controlling interest\" is defined as an ownership stake sufficient to control the company's strategic decisions, typically more than 50% of equity, or equivalent control via voting rights, governance rights, board control, or other mechanisms. Transactions or investments that do not result in a transfer of controlling interest, such as minority stake purchases, will not count.\n\nAn announcement of a qualifying acquisition or merger by Paypal or Paypal and Stripe will qualify for a \"Yes\" resolution, regardless of whether the announced acquisition/merger actually occurs.\n\nThe primary resolution source for this market will be official information from Paypal and Stripe, however a consensus of credible reporting may also be used.",
+            "outcomes": "[\"Yes\", \"No\"]",
+            "outcomePrices": "[\"0.741\", \"0.259\"]",
+            "volume": "55517.86125099997",
+            "active": true,
+            "closed": false,
+            "marketMakerAddress": "",
+            "createdAt": "2026-02-24T21:42:31.998428Z",
+            "updatedAt": "2026-07-15T09:44:41.564955Z",
+            "new": false,
+            "featured": false,
+            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+            "archived": false,
+            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+            "restricted": true,
+            "groupItemTitle": "",
+            "groupItemThreshold": "0",
+            "questionID": "0x4ed5422454d89dc762e1a7d98eba5edd758ec8291e5d5713c54877f1227b32cd",
+            "enableOrderBook": true,
+            "orderPriceMinTickSize": 0.001,
+            "orderMinSize": 5,
+            "volumeNum": 55517.86125099997,
+            "liquidityNum": 2043.05358,
+            "endDateIso": "2026-12-31",
+            "startDateIso": "2026-02-24",
+            "hasReviewedDates": true,
+            "volume24hr": 1308.54596,
+            "volume1wk": 1342.434526,
+            "volume1mo": 2152.921981,
+            "volume1yr": 55517.861250999995,
+            "clobTokenIds": "[\"59528430575002039974877371601639303686869751244866658786853981046174443210300\", \"110343134819315810457944768983092579947706564005451436251904465965729021119281\"]",
+            "comboStatus": "disabled",
+            "umaBond": "500",
+            "umaReward": "5",
+            "volume24hrClob": 1308.54596,
+            "volume1wkClob": 1342.434526,
+            "volume1moClob": 2152.921981,
+            "volume1yrClob": 55517.861250999995,
+            "volumeClob": 55517.86125099997,
+            "liquidityClob": 2043.05358,
+            "makerBaseFee": 1000,
+            "takerBaseFee": 1000,
+            "customLiveness": 0,
+            "acceptingOrders": true,
+            "negRisk": false,
+            "negRiskRequestID": "",
+            "ready": false,
+            "funded": false,
+            "acceptingOrdersTimestamp": "2026-02-24T22:37:10Z",
+            "cyom": false,
+            "competitive": 0.7239521359895886,
+            "pagerDutyNotificationEnabled": false,
+            "approved": true,
+            "clobRewards": [
+              {
+                "id": "86462",
+                "conditionId": "0x74681cc13dc54fa347507d7ab57b66ea8c0e8c4ff9fb5a589583239c774f65aa",
+                "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+                "rewardsAmount": 0,
+                "rewardsDailyRate": 2,
+                "startDate": "2026-02-25",
+                "endDate": "2500-12-31"
+              }
+            ],
+            "rewardsMinSize": 100,
+            "rewardsMaxSpread": 4.5,
+            "spread": 0.234,
+            "oneDayPriceChange": 0.626,
+            "oneHourPriceChange": 0.0305,
+            "oneWeekPriceChange": 0.6255,
+            "oneMonthPriceChange": 0.616,
+            "lastTradePrice": 0.622,
+            "bestBid": 0.624,
+            "bestAsk": 0.858,
+            "automaticallyActive": true,
+            "clearBookOnStart": true,
+            "manualActivation": false,
+            "negRiskOther": false,
+            "umaResolutionStatuses": "[]",
+            "pendingDeployment": false,
+            "deploying": false,
+            "deployingTimestamp": "2026-02-24T22:35:54.412731Z",
+            "rfqEnabled": false,
+            "holdingRewardsEnabled": false,
+            "feesEnabled": true,
+            "requiresTranslation": false,
+            "feeType": "tech_fees",
+            "feeSchedule": {
+              "exponent": 1,
+              "rate": 0.04,
+              "takerOnly": true,
+              "rebateRate": 0.25
+            }
+          }
+        ],
+        "resolutionSource": "",
+        "description": "This market will resolve to \"Yes\" if it is officially announced that Paypal will be, has been, or is being acquired by or merged with Stripe by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nA qualifying acquisition or acquisition announcement must include the acquisition of a controlling interest in Paypal by Stripe. A \"controlling interest\" is defined as an ownership stake sufficient to control the company's strategic decisions, typically more than 50% of equity, or equivalent control via voting rights, governance rights, board control, or other mechanisms. Transactions or investments that do not result in a transfer of controlling interest, such as minority stake purchases, will not count.\n\nAn announcement of a qualifying acquisition or merger by Paypal or Paypal and Stripe will qualify for a \"Yes\" resolution, regardless of whether the announced acquisition/merger actually occurs.\n\nThe primary resolution source for this market will be official information from Paypal and Stripe, however a consensus of credible reporting may also be used.",
+        "volume": 55517.86125099997,
+        "liquidity": 1905.11554,
+        "startDate": "2026-02-24T22:38:15.656582Z",
+        "endDate": "2026-12-31T00:00:00Z",
+        "active": true,
+        "closed": false,
+        "current_prob": 0.741,
+        "added_at": "2026-07-15T09:44:54.162419",
+        "first_seen": "2026-07-15T09:44:54.162419",
+        "peak_prob": 0.741,
+        "last_checked_prob": 0.741,
+        "history": [
+          {
+            "time": "09:44",
+            "prob": 0.741,
+            "reason": "Added to Long-Term (high probability)"
+          }
+        ]
       }
     ],
-    "updated_at": "2026-07-15T07:03:06.774274"
+    "updated_at": "2026-07-15T09:44:54.162536"
   }
 }
