@@ -5,7 +5,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.79,
+      "probability": 0.785,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -15,11 +15,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.79,
+      "current_prob": 0.785,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.785,
       "history": [
         {
           "time": "00:05",
@@ -63,7 +63,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.8045,
+      "probability": 0.8115,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -77,11 +77,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.8045,
+      "current_prob": 0.8115,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
       "peak_prob": 0.8135,
-      "last_checked_prob": 0.8045,
+      "last_checked_prob": 0.8115,
       "history": [
         {
           "time": "00:06",
@@ -138,7 +138,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -154,11 +154,11 @@
       ],
       "volume": 1506986.2457160004,
       "liquidity": 22283.7205,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.88,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "00:06",
@@ -177,7 +177,7 @@
       "title": "Will Anthropic or OpenAI IPO first?",
       "slug": "will-anthropic-or-openai-ipo-first",
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
-      "probability": 0.835,
+      "probability": 0.79,
       "option_text": "Anthropic",
       "tags": [
         "openai",
@@ -193,11 +193,11 @@
       ],
       "volume": 172561.4899689999,
       "liquidity": 17758.1263,
-      "current_prob": 0.835,
+      "current_prob": 0.79,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "00:06",
@@ -226,7 +226,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.775,
+      "probability": 0.76,
       "option_text": "Up",
       "tags": [
         "big-tech",
@@ -239,11 +239,11 @@
       ],
       "volume": 25520.593357,
       "liquidity": 7365.8803,
-      "current_prob": 0.775,
+      "current_prob": 0.76,
       "added_at": "2026-06-26T00:05:53.258888",
       "first_seen": "2026-06-26T00:05:53.258888",
       "peak_prob": 0.84,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "00:05",
@@ -305,7 +305,7 @@
       "title": "SpaceX or OpenAI higher IPO Market Cap?",
       "slug": "spacex-or-openai-higher-ipo-closing-market-cap",
       "url": "https://polymarket.com/event/spacex-or-openai-higher-ipo-closing-market-cap",
-      "probability": 0.964,
+      "probability": 0.9845,
       "option_text": "SpaceX",
       "tags": [
         "elon-musk",
@@ -323,11 +323,11 @@
       ],
       "volume": 10045.527629000002,
       "liquidity": 6004.11676,
-      "current_prob": 0.964,
+      "current_prob": 0.9845,
       "added_at": "2026-07-03T00:06:26.677046",
       "first_seen": "2026-07-03T00:06:26.677046",
-      "peak_prob": 0.975,
-      "last_checked_prob": 0.964,
+      "peak_prob": 0.9845,
+      "last_checked_prob": 0.9845,
       "history": [
         {
           "time": "00:06",
@@ -394,7 +394,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.905,
+      "probability": 0.87,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -406,11 +406,11 @@
       ],
       "volume": 1248795.308239999,
       "liquidity": 491934.46831,
-      "current_prob": 0.905,
+      "current_prob": 0.87,
       "added_at": "2026-07-09T00:05:46.198013",
       "first_seen": "2026-07-09T00:05:46.198013",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "00:05",
@@ -424,37 +424,97 @@
         }
       ]
     },
-    "79041": {
-      "id": "79041",
-      "title": "Largest Company end of December 2026?",
-      "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-      "probability": 0.715,
-      "option_text": "NVIDIA",
+    "228549": {
+      "id": "228549",
+      "title": "Will Stripe acquire Paypal in 2026?",
+      "slug": "will-stripe-acquire-paypal-in-2026",
+      "url": "https://polymarket.com/event/will-stripe-acquire-paypal-in-2026",
+      "probability": 0.787,
+      "option_text": "Yes",
       "tags": [
-        "ai",
         "economy",
         "business",
-        "finance",
         "tech",
-        "big-tech"
+        "buy",
+        "big-tech",
+        "acquisitions"
       ],
-      "volume": 4211380.15054701,
-      "liquidity": 912705.76792,
+      "volume": 55522.86125099997,
+      "liquidity": 1935.03314,
+      "current_prob": 0.787,
+      "added_at": "2026-07-16T00:05:17.230718",
+      "first_seen": "2026-07-16T00:05:17.230718",
+      "peak_prob": 0.787,
+      "last_checked_prob": 0.787,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.787,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "228565": {
+      "id": "228565",
+      "title": "Will Stripe acquire any part of Paypal in 2026?",
+      "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
+      "url": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026",
+      "probability": 0.735,
+      "option_text": "Yes",
+      "tags": [
+        "business",
+        "economy",
+        "buy",
+        "big-tech",
+        "tech",
+        "acquisitions"
+      ],
+      "volume": 54624.987050000025,
+      "liquidity": 2229.5266,
+      "current_prob": 0.735,
+      "added_at": "2026-07-16T00:05:17.230718",
+      "first_seen": "2026-07-16T00:05:17.230718",
+      "peak_prob": 0.735,
+      "last_checked_prob": 0.735,
+      "history": [
+        {
+          "time": "00:05",
+          "prob": 0.735,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "638261": {
+      "id": "638261",
+      "title": "Will USD hit ___ Iranian rials by July 31?",
+      "slug": "will-usd-hit-iranian-rials-by-july-31-20260626150325078",
+      "url": "https://polymarket.com/event/will-usd-hit-iranian-rials-by-july-31-20260626150325078",
+      "probability": 0.715,
+      "option_text": "↑ 1.9M",
+      "tags": [
+        "usd",
+        "iran",
+        "bank",
+        "economy",
+        "middle-east",
+        "exchange-rate"
+      ],
+      "volume": 16454.010048,
+      "liquidity": 1500.69,
       "current_prob": 0.715,
-      "added_at": "2026-07-15T00:06:13.720125",
-      "first_seen": "2026-07-15T00:06:13.720125",
+      "added_at": "2026-07-16T00:05:17.230718",
+      "first_seen": "2026-07-16T00:05:17.230718",
       "peak_prob": 0.715,
       "last_checked_prob": 0.715,
       "history": [
         {
-          "time": "00:06",
+          "time": "00:05",
           "prob": 0.715,
           "reason": "Added to Long-Term (daily update)"
         }
       ]
     }
   },
-  "updated_at": "2026-07-15T00:06:13.720250",
-  "event_count": 11
+  "updated_at": "2026-07-16T00:05:17.230881",
+  "event_count": 13
 }
