@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-15T09:44:54.174852",
+  "updated_at": "2026-07-15T11:17:17.981784",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -65,7 +65,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.905,
         "option_text": "Yes",
         "tags": [
@@ -159,7 +159,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.88,
         "option_text": "Yes",
         "tags": [
@@ -454,7 +454,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.928,
+        "probability": 0.9245,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -2900,11 +2900,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.928,
+        "current_prob": 0.9245,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.962,
-        "last_checked_prob": 0.928,
+        "last_checked_prob": 0.9245,
         "history": [
           {
             "time": "02:02",
@@ -2932,7 +2932,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9735,
         "option_text": "$70",
         "tags": [
@@ -6913,7 +6913,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.755,
+        "probability": 0.765,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -7028,11 +7028,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.755,
+        "current_prob": 0.765,
         "added_at": "2026-07-13T22:41:01.829685",
         "first_seen": "2026-07-13T22:41:01.829685",
         "peak_prob": 0.775,
-        "last_checked_prob": 0.755,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "22:41",
@@ -7045,7 +7045,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
         "probability": 0.715,
         "option_text": "NVIDIA",
         "tags": [
@@ -9933,8 +9933,8 @@
         "id": "228565",
         "title": "Will Stripe acquire any part of Paypal in 2026?",
         "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
-        "url": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026",
-        "probability": 0.75,
+        "url": "https://polymarket.com/event/228565",
+        "probability": 0.73,
         "option_text": "Yes",
         "tags": [
           "business",
@@ -10058,11 +10058,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.75,
+        "current_prob": 0.73,
         "added_at": "2026-07-15T04:35:32.890886",
         "first_seen": "2026-07-15T04:35:32.890886",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.75,
+        "last_checked_prob": 0.73,
         "history": [
           {
             "time": "04:35",
@@ -10075,7 +10075,7 @@
         "id": "100079",
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+        "url": "https://polymarket.com/event/100079",
         "probability": 0.7085,
         "option_text": "Yes",
         "tags": [
@@ -10207,7 +10207,7 @@
         "title": "Will Stripe acquire Paypal in 2026?",
         "slug": "will-stripe-acquire-paypal-in-2026",
         "url": "https://polymarket.com/event/will-stripe-acquire-paypal-in-2026",
-        "probability": 0.741,
+        "probability": 0.7685,
         "option_text": "Yes",
         "tags": [
           "economy",
@@ -10332,11 +10332,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.741,
+        "current_prob": 0.7685,
         "added_at": "2026-07-15T09:44:54.162419",
         "first_seen": "2026-07-15T09:44:54.162419",
-        "peak_prob": 0.741,
-        "last_checked_prob": 0.741,
+        "peak_prob": 0.7685,
+        "last_checked_prob": 0.7685,
         "history": [
           {
             "time": "09:44",
@@ -10346,6 +10346,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-15T09:44:54.162536"
+    "updated_at": "2026-07-15T11:17:17.970032"
   }
 }
