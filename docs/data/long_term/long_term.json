@@ -61,7 +61,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9655,
       "option_text": "Yes",
       "tags": [
@@ -392,7 +392,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.972,
       "option_text": "$70",
       "tags": [
@@ -699,7 +699,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.845,
+      "probability": 0.795,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3662,11 +3662,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.845,
+      "current_prob": 0.795,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "15:57",
@@ -3724,7 +3724,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -4378,7 +4378,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.735,
+      "probability": 0.76,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -4484,11 +4484,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.735,
+      "current_prob": 0.76,
       "added_at": "2026-07-16T13:08:54.583791",
       "first_seen": "2026-07-16T13:08:54.583791",
-      "peak_prob": 0.735,
-      "last_checked_prob": 0.735,
+      "peak_prob": 0.76,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "13:08",
@@ -4498,6 +4498,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-16T13:08:54.583897",
+  "updated_at": "2026-07-16T15:22:33.677497",
   "event_count": 17
 }
