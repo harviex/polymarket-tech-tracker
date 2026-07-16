@@ -98,8 +98,8 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.875,
+      "url": "https://polymarket.com/event/79080",
+      "probability": 0.885,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -221,11 +221,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.885,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "20:57",
@@ -699,7 +699,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.76,
+      "probability": 0.705,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3662,11 +3662,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.76,
+      "current_prob": 0.705,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.76,
+      "last_checked_prob": 0.705,
       "history": [
         {
           "time": "15:57",
@@ -3717,6 +3717,11 @@
           "time": "17:00",
           "prob": 0.795,
           "reason": "Update: 90.5% → 79.5%"
+        },
+        {
+          "time": "19:52",
+          "prob": 0.705,
+          "reason": "Update: 76.0% → 70.5%"
         }
       ]
     },
@@ -4378,7 +4383,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.73,
+      "probability": 0.77,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -4484,11 +4489,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.73,
+      "current_prob": 0.77,
       "added_at": "2026-07-16T13:08:54.583791",
       "first_seen": "2026-07-16T13:08:54.583791",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.73,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "13:08",
@@ -4508,6 +4513,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-16T18:01:38.479868",
+  "updated_at": "2026-07-16T19:52:34.327244",
   "event_count": 17
 }
