@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-16T01:14:27.986410",
+  "updated_at": "2026-07-16T04:46:11.973869",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.905,
         "option_text": "Yes",
         "tags": [
@@ -66,7 +66,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -253,8 +253,8 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
-        "probability": 0.8,
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "probability": 0.795,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -380,11 +380,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8,
+        "current_prob": 0.795,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.8,
+        "last_checked_prob": 0.795,
         "history": [
           {
             "time": "02:02",
@@ -704,7 +704,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.845,
+        "probability": 0.815,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3667,11 +3667,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.845,
+        "current_prob": 0.815,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.935,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.815,
         "history": [
           {
             "time": "15:57",
@@ -3729,7 +3729,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -4382,8 +4382,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.76,
+        "url": "https://polymarket.com/event/290152",
+        "probability": 0.77,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -4490,11 +4490,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.76,
+        "current_prob": 0.77,
         "added_at": "2026-07-15T21:45:26.925505",
         "first_seen": "2026-07-15T21:45:26.925505",
         "peak_prob": 0.77,
-        "last_checked_prob": 0.76,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "21:45",
@@ -4504,6 +4504,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-16T01:14:27.981148"
+    "updated_at": "2026-07-16T04:46:11.968484"
   }
 }
