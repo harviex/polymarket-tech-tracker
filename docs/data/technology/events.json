@@ -1,127 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-15T23:45:23.957921",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 6,
-      "events": [
-        {
-          "id": "228565",
-          "title": "Will Stripe acquire any part of Paypal in 2026?",
-          "tags": [],
-          "first_seen": "2026-07-15T04:35:32.903758",
-          "history": [
-            {
-              "time": "04:35",
-              "prob": 0.795,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "19:58",
-              "prob": 0.7,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.795
-        },
-        {
-          "id": "100079",
-          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "tags": [],
-          "first_seen": "2026-07-15T07:03:06.783225",
-          "history": [
-            {
-              "time": "07:03",
-              "prob": 0.7085,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "13:01",
-              "prob": 0.7085,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7085
-        },
-        {
-          "id": "228549",
-          "title": "Will Stripe acquire Paypal in 2026?",
-          "tags": [],
-          "first_seen": "2026-07-15T09:44:54.174573",
-          "history": [
-            {
-              "time": "09:44",
-              "prob": 0.741,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "20:56",
-              "prob": 0.72,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.741
-        },
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "tags": [],
-          "first_seen": "2026-07-15T15:14:35.976443",
-          "history": [
-            {
-              "time": "15:14",
-              "prob": 0.715,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.715
-        },
-        {
-          "id": "556312",
-          "title": "Best Chinese AI Company end of July?",
-          "tags": [],
-          "first_seen": "2026-07-15T18:08:02.699933",
-          "history": [
-            {
-              "time": "18:08",
-              "prob": 0.8255,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.8255
-        },
-        {
-          "id": "290152",
-          "title": "Tech Layoffs Up or Down in 20​26?",
-          "tags": [],
-          "first_seen": "2026-07-15T20:56:09.303709",
-          "history": [
-            {
-              "time": "20:56",
-              "prob": 0.73,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "21:45",
-              "prob": 0.765,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.73
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-16T01:14:27.986410",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -186,7 +66,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -373,7 +253,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.8,
         "option_text": "Yes",
         "tags": [
@@ -517,7 +397,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.972,
         "option_text": "$70",
         "tags": [
@@ -824,7 +704,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.84,
+        "probability": 0.845,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3787,11 +3667,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.84,
+        "current_prob": 0.845,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.935,
-        "last_checked_prob": 0.84,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:57",
@@ -4502,8 +4382,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.77,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.76,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -4610,11 +4490,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.76,
         "added_at": "2026-07-15T21:45:26.925505",
         "first_seen": "2026-07-15T21:45:26.925505",
         "peak_prob": 0.77,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.76,
         "history": [
           {
             "time": "21:45",
@@ -4624,6 +4504,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-15T23:45:23.952695"
+    "updated_at": "2026-07-16T01:14:27.981148"
   }
 }

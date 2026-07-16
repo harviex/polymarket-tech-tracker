@@ -61,7 +61,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9655,
       "option_text": "Yes",
       "tags": [
@@ -248,7 +248,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.8,
       "option_text": "Yes",
       "tags": [
@@ -392,7 +392,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "url": "https://polymarket.com/event/612483",
       "probability": 0.972,
       "option_text": "$70",
       "tags": [
@@ -699,7 +699,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.84,
+      "probability": 0.845,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3662,11 +3662,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.845,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "15:57",
@@ -4377,8 +4377,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
-      "probability": 0.77,
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "probability": 0.76,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -4485,11 +4485,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.76,
       "added_at": "2026-07-15T21:45:26.925505",
       "first_seen": "2026-07-15T21:45:26.925505",
       "peak_prob": 0.77,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "21:45",
@@ -4499,6 +4499,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-15T23:45:23.952695",
+  "updated_at": "2026-07-16T01:14:27.981148",
   "event_count": 17
 }
