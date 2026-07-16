@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-16T22:43:44.352912",
+  "updated_at": "2026-07-16T23:44:10.865782",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -66,7 +66,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
+        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
         "probability": 0.9,
         "option_text": "Yes",
         "tags": [
@@ -123,7 +123,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -454,7 +454,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9725,
         "option_text": "$70",
         "tags": [
@@ -760,8 +760,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
-        "probability": 0.725,
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+        "probability": 0.71,
         "option_text": "NVIDIA",
         "tags": [
           "ai",
@@ -3724,11 +3724,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.725,
+        "current_prob": 0.71,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.935,
-        "last_checked_prob": 0.725,
+        "last_checked_prob": 0.71,
         "history": [
           {
             "time": "15:57",
@@ -4444,8 +4444,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.75,
+        "url": "https://polymarket.com/event/290152",
+        "probability": 0.78,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -4551,11 +4551,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.75,
+        "current_prob": 0.78,
         "added_at": "2026-07-16T13:08:54.583791",
         "first_seen": "2026-07-16T13:08:54.583791",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.75,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "13:08",
@@ -4578,8 +4578,8 @@
         "id": "228565",
         "title": "Will Stripe acquire any part of Paypal in 2026?",
         "slug": "will-stripe-acquire-any-part-of-paypal-in-2026",
-        "url": "https://polymarket.com/event/228565",
-        "probability": 0.72,
+        "url": "https://polymarket.com/event/will-stripe-acquire-any-part-of-paypal-in-2026",
+        "probability": 0.725,
         "option_text": "Yes",
         "tags": [
           "business",
@@ -4704,11 +4704,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.72,
+        "current_prob": 0.725,
         "added_at": "2026-07-16T21:57:43.067680",
         "first_seen": "2026-07-16T21:57:43.067680",
         "peak_prob": 0.745,
-        "last_checked_prob": 0.72,
+        "last_checked_prob": 0.725,
         "history": [
           {
             "time": "21:57",
@@ -4718,6 +4718,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-16T22:43:44.347253"
+    "updated_at": "2026-07-16T23:44:10.858467"
   }
 }
