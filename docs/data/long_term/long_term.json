@@ -392,8 +392,8 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.972,
+      "url": "https://polymarket.com/event/612483",
+      "probability": 0.9725,
       "option_text": "$70",
       "tags": [
         "tech",
@@ -681,11 +681,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.972,
+      "current_prob": 0.9725,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.9765,
-      "last_checked_prob": 0.972,
+      "last_checked_prob": 0.9725,
       "history": [
         {
           "time": "15:57",
@@ -698,8 +698,8 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.705,
+      "url": "https://polymarket.com/event/630845",
+      "probability": 0.725,
       "option_text": "NVIDIA",
       "tags": [
         "ai",
@@ -3662,11 +3662,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.725,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.935,
-      "last_checked_prob": 0.705,
+      "last_checked_prob": 0.725,
       "history": [
         {
           "time": "15:57",
@@ -3729,7 +3729,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -4382,8 +4382,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.745,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -4489,11 +4489,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.745,
       "added_at": "2026-07-16T13:08:54.583791",
       "first_seen": "2026-07-16T13:08:54.583791",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.745,
       "history": [
         {
           "time": "13:08",
@@ -4513,6 +4513,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-16T19:52:34.327244",
+  "updated_at": "2026-07-16T20:40:56.897486",
   "event_count": 17
 }
