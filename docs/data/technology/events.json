@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-17T11:11:06.888554",
+  "updated_at": "2026-07-17T12:54:50.476909",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -45,7 +45,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.84,
         "option_text": "Yes",
         "tags": [
@@ -744,7 +744,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1398,7 +1398,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.76,
+        "probability": 0.77,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1504,11 +1504,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.76,
+        "current_prob": 0.77,
         "added_at": "2026-07-16T13:08:54.583791",
         "first_seen": "2026-07-16T13:08:54.583791",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.76,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "13:08",
@@ -1528,6 +1528,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-17T11:11:06.886406"
+    "updated_at": "2026-07-17T12:54:50.474753"
   }
 }
