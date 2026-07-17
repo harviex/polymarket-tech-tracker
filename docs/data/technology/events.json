@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-17T04:49:05.202363",
+  "updated_at": "2026-07-17T07:06:28.618009",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -102,7 +102,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -290,7 +290,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.785,
+        "probability": 0.775,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -416,11 +416,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.775,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "02:02",
@@ -433,7 +433,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.9725,
         "option_text": "$70",
         "tags": [
@@ -1392,8 +1392,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.77,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.78,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1499,11 +1499,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.78,
         "added_at": "2026-07-16T13:08:54.583791",
         "first_seen": "2026-07-16T13:08:54.583791",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "13:08",
@@ -1523,6 +1523,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-17T04:49:05.200012"
+    "updated_at": "2026-07-17T07:06:28.616004"
   }
 }
