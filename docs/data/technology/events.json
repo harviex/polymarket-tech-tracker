@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-17T14:21:52.369134",
+  "updated_at": "2026-07-17T16:04:52.488454",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -46,7 +46,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.805,
+        "probability": 0.82,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -55,11 +55,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.805,
+        "current_prob": 0.82,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.805,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "15:48",
@@ -294,8 +294,8 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
-        "probability": 0.77,
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "probability": 0.765,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -421,11 +421,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.765,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "02:02",
@@ -744,7 +744,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1528,6 +1528,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-17T14:21:52.367002"
+    "updated_at": "2026-07-17T16:04:52.486182"
   }
 }
