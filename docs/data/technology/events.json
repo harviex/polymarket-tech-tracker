@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-17T19:55:02.813413",
+  "updated_at": "2026-07-17T20:39:30.980905",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -145,7 +145,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "probability": 0.87,
+        "probability": 0.865,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -267,11 +267,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.865,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "20:57",
@@ -295,7 +295,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.77,
+        "probability": 0.78,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -421,11 +421,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.78,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "02:02",
@@ -1398,7 +1398,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.735,
+        "probability": 0.755,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1504,11 +1504,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.735,
+        "current_prob": 0.755,
         "added_at": "2026-07-16T13:08:54.583791",
         "first_seen": "2026-07-16T13:08:54.583791",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.735,
+        "last_checked_prob": 0.755,
         "history": [
           {
             "time": "13:08",
@@ -1533,6 +1533,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-17T19:55:02.811289"
+    "updated_at": "2026-07-17T20:39:30.978689"
   }
 }
