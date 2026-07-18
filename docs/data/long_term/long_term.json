@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.82,
+      "probability": 0.855,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.82,
+      "current_prob": 0.855,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.82,
+      "last_checked_prob": 0.855,
       "history": [
         {
           "time": "15:48",
@@ -254,7 +254,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.78,
+      "probability": 0.765,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -380,11 +380,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.78,
+      "current_prob": 0.765,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "02:02",
@@ -1357,7 +1357,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.77,
+      "probability": 0.765,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1463,11 +1463,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.765,
       "added_at": "2026-07-16T13:08:54.583791",
       "first_seen": "2026-07-16T13:08:54.583791",
       "peak_prob": 0.825,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.765,
       "history": [
         {
           "time": "13:08",
@@ -1492,6 +1492,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-18T01:10:15.283961",
+  "updated_at": "2026-07-18T04:33:52.968693",
   "event_count": 17
 }
