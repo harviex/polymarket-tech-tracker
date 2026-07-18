@@ -5,7 +5,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.79,
+      "probability": 0.725,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -15,11 +15,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.79,
+      "current_prob": 0.725,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.725,
       "history": [
         {
           "time": "00:05",
@@ -55,6 +55,11 @@
           "time": "00:05",
           "prob": 0.775,
           "reason": "Update: 94.0% → 77.5%"
+        },
+        {
+          "time": "00:06",
+          "prob": 0.725,
+          "reason": "Update: 79.0% → 72.5%"
         }
       ]
     },
@@ -63,7 +68,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.837,
+      "probability": 0.8415,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -77,11 +82,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.837,
+      "current_prob": 0.8415,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
-      "peak_prob": 0.8375,
-      "last_checked_prob": 0.837,
+      "peak_prob": 0.8415,
+      "last_checked_prob": 0.8415,
       "history": [
         {
           "time": "00:06",
@@ -95,7 +100,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.88,
+      "probability": 0.86,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -105,11 +110,11 @@
       ],
       "volume": 95869.61764999993,
       "liquidity": 7596.6751,
-      "current_prob": 0.88,
+      "current_prob": 0.86,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "00:06",
@@ -138,7 +143,7 @@
       "title": "OpenAI IPO closing market cap above ___ ?",
       "slug": "openai-ipo-closing-market-cap-above",
       "url": "https://polymarket.com/event/openai-ipo-closing-market-cap-above",
-      "probability": 0.775,
+      "probability": 0.795,
       "option_text": "$800B",
       "tags": [
         "finance",
@@ -154,11 +159,11 @@
       ],
       "volume": 1506986.2457160004,
       "liquidity": 22283.7205,
-      "current_prob": 0.775,
+      "current_prob": 0.795,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.88,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "00:06",
@@ -177,7 +182,7 @@
       "title": "Will Anthropic or OpenAI IPO first?",
       "slug": "will-anthropic-or-openai-ipo-first",
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
-      "probability": 0.81,
+      "probability": 0.825,
       "option_text": "Anthropic",
       "tags": [
         "openai",
@@ -193,11 +198,11 @@
       ],
       "volume": 172561.4899689999,
       "liquidity": 17758.1263,
-      "current_prob": 0.81,
+      "current_prob": 0.825,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.81,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "00:06",
@@ -221,63 +226,12 @@
         }
       ]
     },
-    "290152": {
-      "id": "290152",
-      "title": "Tech Layoffs Up or Down in 20​26?",
-      "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.785,
-      "option_text": "Up",
-      "tags": [
-        "big-tech",
-        "tech",
-        "business",
-        "layoffs",
-        "ai",
-        "employment",
-        "macro-indicators"
-      ],
-      "volume": 25520.593357,
-      "liquidity": 7365.8803,
-      "current_prob": 0.785,
-      "added_at": "2026-06-26T00:05:53.258888",
-      "first_seen": "2026-06-26T00:05:53.258888",
-      "peak_prob": 0.84,
-      "last_checked_prob": 0.785,
-      "history": [
-        {
-          "time": "00:05",
-          "prob": 0.725,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.8,
-          "reason": "Update: 72.5% → 80.0%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.73,
-          "reason": "Update: 80.0% → 73.0%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.825,
-          "reason": "Update: 73.0% → 82.5%"
-        },
-        {
-          "time": "00:06",
-          "prob": 0.765,
-          "reason": "Update: 82.0% → 76.5%"
-        }
-      ]
-    },
     "79090": {
       "id": "79090",
       "title": "Richest person on December 31, 2026?",
       "slug": "richest-person-on-december-31-2026",
       "url": "https://polymarket.com/event/richest-person-on-december-31-2026",
-      "probability": 0.9645,
+      "probability": 0.9395,
       "option_text": "Elon Musk",
       "tags": [
         "business",
@@ -287,11 +241,11 @@
       ],
       "volume": 1833321.35572,
       "liquidity": 119862.84928,
-      "current_prob": 0.9645,
+      "current_prob": 0.9395,
       "added_at": "2026-07-03T00:06:26.677046",
       "first_seen": "2026-07-03T00:06:26.677046",
       "peak_prob": 0.9685,
-      "last_checked_prob": 0.9645,
+      "last_checked_prob": 0.9395,
       "history": [
         {
           "time": "00:06",
@@ -388,48 +342,8 @@
           "reason": "Update: 76.5% → 86.5%"
         }
       ]
-    },
-    "638261": {
-      "id": "638261",
-      "title": "Will USD hit ___ Iranian rials by July 31?",
-      "slug": "will-usd-hit-iranian-rials-by-july-31-20260626150325078",
-      "url": "https://polymarket.com/event/will-usd-hit-iranian-rials-by-july-31-20260626150325078",
-      "probability": 0.9825,
-      "option_text": "↑ 1.9M",
-      "tags": [
-        "usd",
-        "iran",
-        "bank",
-        "economy",
-        "middle-east",
-        "exchange-rate"
-      ],
-      "volume": 16454.010048,
-      "liquidity": 1500.69,
-      "current_prob": 0.9825,
-      "added_at": "2026-07-16T00:05:17.230718",
-      "first_seen": "2026-07-16T00:05:17.230718",
-      "peak_prob": 0.9825,
-      "last_checked_prob": 0.9825,
-      "history": [
-        {
-          "time": "00:05",
-          "prob": 0.715,
-          "reason": "Added to Long-Term (daily update)"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.865,
-          "reason": "Update: 71.5% → 86.5%"
-        },
-        {
-          "time": "00:05",
-          "prob": 0.9825,
-          "reason": "Update: 86.5% → 98.2%"
-        }
-      ]
     }
   },
-  "updated_at": "2026-07-18T00:05:26.292934",
-  "event_count": 10
+  "updated_at": "2026-07-19T00:06:04.174776",
+  "event_count": 8
 }
