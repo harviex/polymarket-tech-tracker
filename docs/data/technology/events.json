@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-18T10:05:38.550858",
+  "updated_at": "2026-07-18T11:40:54.259066",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.86,
         "option_text": "Yes",
         "tags": [
@@ -71,7 +71,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -108,7 +108,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.865,
         "option_text": "Yes",
         "tags": [
@@ -258,7 +258,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.765,
         "option_text": "Yes",
         "tags": [
@@ -708,8 +708,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.9855,
+        "url": "https://polymarket.com/event/407875",
+        "probability": 0.985,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -1344,11 +1344,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9855,
+        "current_prob": 0.985,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9855,
+        "last_checked_prob": 0.985,
         "history": [
           {
             "time": "11:50",
@@ -1362,7 +1362,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.795,
+        "probability": 0.78,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1468,11 +1468,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.795,
+        "current_prob": 0.78,
         "added_at": "2026-07-16T13:08:54.583791",
         "first_seen": "2026-07-16T13:08:54.583791",
         "peak_prob": 0.825,
-        "last_checked_prob": 0.795,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "13:08",
@@ -1502,6 +1502,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-18T10:05:38.548547"
+    "updated_at": "2026-07-18T11:40:54.256965"
   }
 }
