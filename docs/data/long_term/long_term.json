@@ -66,7 +66,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9655,
       "option_text": "Yes",
       "tags": [
@@ -397,7 +397,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.9725,
       "option_text": "$70",
       "tags": [
@@ -1353,6 +1353,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-18T20:36:40.616829",
+  "updated_at": "2026-07-18T21:37:19.332610",
   "event_count": 17
 }
