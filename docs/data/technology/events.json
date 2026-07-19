@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-18T23:38:48.197048",
+  "updated_at": "2026-07-19T01:15:44.381255",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -11,47 +11,28 @@
           "id": "290152",
           "title": "Tech Layoffs Up or Down in 20​26?",
           "tags": [],
-          "first_seen": "2026-07-18T17:43:35.233923",
+          "first_seen": "2026-07-19T01:15:44.381054",
           "history": [
             {
-              "time": "17:43",
-              "prob": 0.725,
+              "time": "01:15",
+              "prob": 0.795,
               "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "18:40",
-              "prob": 0.77,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "20:36",
-              "prob": 0.755,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "22:34",
-              "prob": 0.725,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
             }
           ],
-          "current_prob": 0.725
+          "current_prob": 0.795
         }
       ]
     }
   ],
   "long_term_data": {
-    "event_count": 7,
+    "event_count": 6,
     "events": [
       {
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.875,
+        "probability": 0.88,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -60,11 +41,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.875,
+        "current_prob": 0.88,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.88,
         "history": [
           {
             "time": "15:48",
@@ -299,7 +280,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
         "probability": 0.765,
         "option_text": "Yes",
         "tags": [
@@ -1397,138 +1378,8 @@
             "reason": "Added to Long-Term (high probability)"
           }
         ]
-      },
-      {
-        "id": "290152",
-        "title": "Tech Layoffs Up or Down in 20​26?",
-        "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.795,
-        "option_text": "Up",
-        "tags": [
-          "tech",
-          "ai",
-          "big-tech",
-          "business",
-          "layoffs",
-          "employment",
-          "macro-indicators"
-        ],
-        "markets": [
-          {
-            "id": "1663141",
-            "question": "Tech Layoffs Up or Down in 20​26?",
-            "conditionId": "0x74f19011005f2f2b1f12aa4ffc9efbec07f07d076045201b3912abcfbe9898bd",
-            "slug": "tech-layoffs-up-or-down-in-2026",
-            "resolutionSource": "",
-            "endDate": "2027-02-28T00:00:00Z",
-            "liquidity": "6412.8502",
-            "startDate": "2026-03-20T18:45:43.464337Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tech-layoffs-up-in-2026-gY8rlSNEerUO.jpg",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/tech-layoffs-up-in-2026-gY8rlSNEerUO.jpg",
-            "description": "This market will resolve to \"Up\" if, according to Federal Reserve Economic Data (FRED), there are more layoffs in the information sector in 2026 than in 2025 (447,000 layoffs).\n\nThis market will resolve to \"Down\" if there are more layoffs in the information sector in 2025 than in 2026.\n\nThis market will resolve to 50-50 if the totals are the same in 2025 and 2026.\n\nIf not all relevant data points are published by June 30, 2027, ET, data published up until this point will be used to determine the 2026 total.\n\nRevisions to previous data points after all relevant data points have been released will not be considered.\n\nThis market's resolution source will be the Federal Reserve Economic Data (FRED), specifically the monthly 'Layoffs and Discharges: Information' within the Job Openings and Labor Turnover (Not Seasonally Adjusted) (https://fred.stlouisfed.org/series/JTU5100LDL).\n\nChanges in the methodology by which the Bureau of Labor Statistics reports data will have no bearing on the resolution of this market.\n\nThe resolution source reports the values as whole numbers (thousands of persons). Thus, this is the level of precision that will be used when resolving the market.",
-            "outcomes": "[\"Up\", \"Down\"]",
-            "outcomePrices": "[\"0.725\", \"0.275\"]",
-            "volume": "25660.99278",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2026-03-20T16:18:14.976476Z",
-            "updatedAt": "2026-07-18T22:33:11.780206Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0x05e73c0baa49e0e041a64a1d2cb203f56e03abecfcbc04eb94379a3f9aa6b038",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.01,
-            "orderMinSize": 5,
-            "volumeNum": 25660.99278,
-            "liquidityNum": 6412.8502,
-            "endDateIso": "2027-02-28",
-            "startDateIso": "2026-03-20",
-            "hasReviewedDates": true,
-            "clobTokenIds": "[\"15699866962298243375251726885229366865100179372606130416856207898223888111141\", \"88904980180945021132064725503078567164899767774967151310125042499926019764513\"]",
-            "comboStatus": "disabled",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volumeClob": 25660.99278,
-            "liquidityClob": 6412.8502,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2026-03-20T18:44:37Z",
-            "cyom": false,
-            "competitive": 0.6757882212968471,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "rewardsMinSize": 0,
-            "rewardsMaxSpread": 0,
-            "spread": 0.29,
-            "oneDayPriceChange": -0.005,
-            "oneHourPriceChange": 0.115,
-            "oneWeekPriceChange": -0.11,
-            "oneMonthPriceChange": -0.18,
-            "lastTradePrice": 0.87,
-            "bestBid": 0.58,
-            "bestAsk": 0.87,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2026-03-20T18:43:22.953603Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "economics_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.05,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            }
-          }
-        ],
-        "resolutionSource": "",
-        "description": "This market will resolve to \"Up\" if, according to Federal Reserve Economic Data (FRED), there are more layoffs in the information sector in 2026 than in 2025 (447,000 layoffs).\n\nThis market will resolve to \"Down\" if there are more layoffs in the information sector in 2025 than in 2026.\n\nThis market will resolve to 50-50 if the totals are the same in 2025 and 2026.\n\nIf not all relevant data points are published by June 30, 2027, ET, data published up until this point will be used to determine the 2026 total.\n\nRevisions to previous data points after all relevant data points have been released will not be considered.\n\nThis market's resolution source will be the Federal Reserve Economic Data (FRED), specifically the monthly 'Layoffs and Discharges: Information' within the Job Openings and Labor Turnover (Not Seasonally Adjusted) (https://fred.stlouisfed.org/series/JTU5100LDL).\n\nChanges in the methodology by which the Bureau of Labor Statistics reports data will have no bearing on the resolution of this market.\n\nThe resolution source reports the values as whole numbers (thousands of persons). Thus, this is the level of precision that will be used when resolving the market.",
-        "volume": 25660.99278,
-        "liquidity": 6412.8502,
-        "startDate": "2026-03-20T18:45:43.464337Z",
-        "endDate": "2027-02-28T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.795,
-        "added_at": "2026-07-18T22:34:35.975520",
-        "first_seen": "2026-07-18T22:34:35.975520",
-        "peak_prob": 0.795,
-        "last_checked_prob": 0.795,
-        "history": [
-          {
-            "time": "22:34",
-            "prob": 0.725,
-            "reason": "Added to Long-Term (high probability)"
-          },
-          {
-            "time": "23:38",
-            "prob": 0.795,
-            "reason": "Update: 72.5% → 79.5%"
-          }
-        ]
       }
     ],
-    "updated_at": "2026-07-18T23:38:48.194771"
+    "updated_at": "2026-07-19T01:15:44.379092"
   }
 }
