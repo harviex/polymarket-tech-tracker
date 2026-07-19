@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-19T14:16:52.018712",
+  "updated_at": "2026-07-19T15:42:15.147945",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -444,7 +444,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9725,
+        "probability": 0.9735,
         "option_text": "$70",
         "tags": [
           "tech",
@@ -732,11 +732,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9725,
+        "current_prob": 0.9735,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9765,
-        "last_checked_prob": 0.9725,
+        "last_checked_prob": 0.9735,
         "history": [
           {
             "time": "15:57",
@@ -1399,6 +1399,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-19T14:16:52.016667"
+    "updated_at": "2026-07-19T15:42:15.146079"
   }
 }
