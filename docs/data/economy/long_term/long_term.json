@@ -5,7 +5,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.725,
+      "probability": 0.76,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -15,11 +15,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.725,
+      "current_prob": 0.76,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.725,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "00:05",
@@ -68,7 +68,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.8415,
+      "probability": 0.849,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -82,11 +82,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.8415,
+      "current_prob": 0.849,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
-      "peak_prob": 0.8415,
-      "last_checked_prob": 0.8415,
+      "peak_prob": 0.849,
+      "last_checked_prob": 0.849,
       "history": [
         {
           "time": "00:06",
@@ -100,7 +100,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.86,
+      "probability": 0.865,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -110,11 +110,11 @@
       ],
       "volume": 95869.61764999993,
       "liquidity": 7596.6751,
-      "current_prob": 0.86,
+      "current_prob": 0.865,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.86,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "00:06",
@@ -182,7 +182,7 @@
       "title": "Will Anthropic or OpenAI IPO first?",
       "slug": "will-anthropic-or-openai-ipo-first",
       "url": "https://polymarket.com/event/will-anthropic-or-openai-ipo-first",
-      "probability": 0.825,
+      "probability": 0.835,
       "option_text": "Anthropic",
       "tags": [
         "openai",
@@ -198,11 +198,11 @@
       ],
       "volume": 172561.4899689999,
       "liquidity": 17758.1263,
-      "current_prob": 0.825,
+      "current_prob": 0.835,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:06",
@@ -259,7 +259,7 @@
       "title": "SpaceX or OpenAI higher IPO Market Cap?",
       "slug": "spacex-or-openai-higher-ipo-closing-market-cap",
       "url": "https://polymarket.com/event/spacex-or-openai-higher-ipo-closing-market-cap",
-      "probability": 0.98,
+      "probability": 0.981,
       "option_text": "SpaceX",
       "tags": [
         "elon-musk",
@@ -277,11 +277,11 @@
       ],
       "volume": 10045.527629000002,
       "liquidity": 6004.11676,
-      "current_prob": 0.98,
+      "current_prob": 0.981,
       "added_at": "2026-07-03T00:06:26.677046",
       "first_seen": "2026-07-03T00:06:26.677046",
       "peak_prob": 0.9845,
-      "last_checked_prob": 0.98,
+      "last_checked_prob": 0.981,
       "history": [
         {
           "time": "00:06",
@@ -344,6 +344,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-19T00:06:04.174776",
+  "updated_at": "2026-07-20T00:05:40.459218",
   "event_count": 8
 }
