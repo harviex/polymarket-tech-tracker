@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.885,
       "option_text": "Yes",
       "tags": [
@@ -103,7 +103,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.865,
       "option_text": "Yes",
       "tags": [
@@ -253,8 +253,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-      "probability": 0.765,
+      "url": "https://polymarket.com/event/428507",
+      "probability": 0.73,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -380,11 +380,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.765,
+      "current_prob": 0.73,
       "added_at": "2026-07-01T02:02:07.730076",
       "first_seen": "2026-07-01T02:02:07.730076",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.765,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "02:02",
@@ -397,7 +397,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.9725,
       "option_text": "$70",
       "tags": [
@@ -703,7 +703,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -1353,6 +1353,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-19T12:42:57.147335",
+  "updated_at": "2026-07-19T14:16:52.016667",
   "event_count": 17
 }
