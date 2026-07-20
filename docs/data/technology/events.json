@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-20T01:18:34.977073",
+  "updated_at": "2026-07-20T05:23:54.586984",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -34,7 +34,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.89,
+        "probability": 0.9,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -43,11 +43,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.89,
+        "current_prob": 0.9,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.9,
         "history": [
           {
             "time": "15:48",
@@ -428,7 +428,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.9735,
-        "option_text": "$60",
+        "option_text": "$70",
         "tags": [
           "tech",
           "gta-6",
@@ -1386,7 +1386,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.765,
+        "probability": 0.77,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1501,11 +1501,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.765,
+        "current_prob": 0.77,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
-        "peak_prob": 0.765,
-        "last_checked_prob": 0.765,
+        "peak_prob": 0.77,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "01:18",
@@ -1515,6 +1515,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-20T01:18:34.974512"
+    "updated_at": "2026-07-20T05:23:54.584940"
   }
 }
