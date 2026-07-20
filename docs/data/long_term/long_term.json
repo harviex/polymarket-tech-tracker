@@ -71,7 +71,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9655,
       "option_text": "Yes",
       "tags": [
@@ -108,7 +108,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/79080",
+      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "probability": 0.885,
       "option_text": "Yes",
       "tags": [
@@ -708,7 +708,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -1491,6 +1491,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-20T19:19:06.166324",
+  "updated_at": "2026-07-20T20:56:31.118097",
   "event_count": 17
 }
