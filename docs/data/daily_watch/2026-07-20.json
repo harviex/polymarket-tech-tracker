@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-20",
+  "events": {
+    "290152": {
+      "id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "tags": [],
+      "first_seen": "2026-07-20T01:18:34.976867",
+      "history": [
+        {
+          "time": "01:18",
+          "prob": 0.765,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.765
+    }
+  }
+}
