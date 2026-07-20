@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.9,
+      "url": "https://polymarket.com/event/103468",
+      "probability": 0.83,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.9,
+      "current_prob": 0.83,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "15:48",
@@ -59,6 +59,11 @@
           "time": "09:41",
           "prob": 0.84,
           "reason": "Update: 90.0% → 84.0%"
+        },
+        {
+          "time": "08:31",
+          "prob": 0.83,
+          "reason": "Update: 90.0% → 83.0%"
         }
       ]
     },
@@ -253,7 +258,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.72,
       "option_text": "Yes",
       "tags": [
@@ -397,8 +402,8 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
-      "probability": 0.9735,
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "probability": 0.974,
       "option_text": "$70",
       "tags": [
         "tech",
@@ -686,11 +691,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9735,
+      "current_prob": 0.974,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.9765,
-      "last_checked_prob": 0.9735,
+      "last_checked_prob": 0.974,
       "history": [
         {
           "time": "15:57",
@@ -1357,7 +1362,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "probability": 0.755,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1472,11 +1477,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.755,
       "added_at": "2026-07-20T01:18:34.974420",
       "first_seen": "2026-07-20T01:18:34.974420",
       "peak_prob": 0.77,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "01:18",
@@ -1486,6 +1491,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-20T05:23:54.584940",
+  "updated_at": "2026-07-20T08:31:02.164531",
   "event_count": 17
 }
