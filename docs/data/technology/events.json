@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-20T15:41:22.773135",
+  "updated_at": "2026-07-20T17:12:35.664790",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -288,7 +288,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.715,
+        "probability": 0.705,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -414,11 +414,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.715,
+        "current_prob": 0.705,
         "added_at": "2026-07-01T02:02:07.730076",
         "first_seen": "2026-07-01T02:02:07.730076",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.715,
+        "last_checked_prob": 0.705,
         "history": [
           {
             "time": "02:02",
@@ -737,7 +737,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1520,6 +1520,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-20T15:41:22.770847"
+    "updated_at": "2026-07-20T17:12:35.662575"
   }
 }
