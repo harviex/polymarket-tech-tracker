@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-20T21:54:42.936801",
+  "updated_at": "2026-07-20T22:42:55.147838",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -33,7 +33,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.85,
         "option_text": "Yes",
         "tags": [
@@ -287,7 +287,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
         "probability": 0.705,
         "option_text": "Yes",
         "tags": [
@@ -1390,7 +1390,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.77,
         "option_text": "Up",
         "tags": [
@@ -1520,6 +1520,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-20T21:54:42.934479"
+    "updated_at": "2026-07-20T22:42:55.145690"
   }
 }
