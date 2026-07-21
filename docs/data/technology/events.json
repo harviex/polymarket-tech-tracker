@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-21T04:54:16.740987",
+  "updated_at": "2026-07-21T07:24:38.219197",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -41,7 +41,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.845,
+        "probability": 0.875,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -50,11 +50,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.845,
+        "current_prob": 0.875,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "15:48",
@@ -1531,7 +1531,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.882,
+        "probability": 0.883,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -4007,11 +4007,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.882,
+        "current_prob": 0.883,
         "added_at": "2026-07-21T04:54:16.736352",
         "first_seen": "2026-07-21T04:54:16.736352",
-        "peak_prob": 0.882,
-        "last_checked_prob": 0.882,
+        "peak_prob": 0.883,
+        "last_checked_prob": 0.883,
         "history": [
           {
             "time": "04:54",
@@ -4021,6 +4021,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-21T04:54:16.736466"
+    "updated_at": "2026-07-21T07:24:38.213901"
   }
 }
