@@ -5,7 +5,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.75,
+      "probability": 0.735,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -15,11 +15,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.75,
+      "current_prob": 0.735,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.735,
       "history": [
         {
           "time": "00:05",
@@ -68,7 +68,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.8455,
+      "probability": 0.8465,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -82,11 +82,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.8455,
+      "current_prob": 0.8465,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
       "peak_prob": 0.849,
-      "last_checked_prob": 0.8455,
+      "last_checked_prob": 0.8465,
       "history": [
         {
           "time": "00:06",
@@ -100,7 +100,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.865,
+      "probability": 0.885,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -110,11 +110,11 @@
       ],
       "volume": 95869.61764999993,
       "liquidity": 7596.6751,
-      "current_prob": 0.865,
+      "current_prob": 0.885,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.865,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "00:06",
@@ -231,7 +231,7 @@
       "title": "Richest person on December 31, 2026?",
       "slug": "richest-person-on-december-31-2026",
       "url": "https://polymarket.com/event/richest-person-on-december-31-2026",
-      "probability": 0.94,
+      "probability": 0.9405,
       "option_text": "Elon Musk",
       "tags": [
         "business",
@@ -241,11 +241,11 @@
       ],
       "volume": 1833321.35572,
       "liquidity": 119862.84928,
-      "current_prob": 0.94,
+      "current_prob": 0.9405,
       "added_at": "2026-07-03T00:06:26.677046",
       "first_seen": "2026-07-03T00:06:26.677046",
       "peak_prob": 0.9685,
-      "last_checked_prob": 0.94,
+      "last_checked_prob": 0.9405,
       "history": [
         {
           "time": "00:06",
@@ -259,7 +259,7 @@
       "title": "SpaceX or OpenAI higher IPO Market Cap?",
       "slug": "spacex-or-openai-higher-ipo-closing-market-cap",
       "url": "https://polymarket.com/event/spacex-or-openai-higher-ipo-closing-market-cap",
-      "probability": 0.9795,
+      "probability": 0.9785,
       "option_text": "SpaceX",
       "tags": [
         "elon-musk",
@@ -277,11 +277,11 @@
       ],
       "volume": 10045.527629000002,
       "liquidity": 6004.11676,
-      "current_prob": 0.9795,
+      "current_prob": 0.9785,
       "added_at": "2026-07-03T00:06:26.677046",
       "first_seen": "2026-07-03T00:06:26.677046",
       "peak_prob": 0.9845,
-      "last_checked_prob": 0.9795,
+      "last_checked_prob": 0.9785,
       "history": [
         {
           "time": "00:06",
@@ -348,7 +348,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -361,11 +361,11 @@
       ],
       "volume": 25689.083136,
       "liquidity": 4495.1961,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-07-21T00:06:33.752342",
       "first_seen": "2026-07-21T00:06:33.752342",
-      "peak_prob": 0.77,
-      "last_checked_prob": 0.77,
+      "peak_prob": 0.775,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "00:06",
@@ -402,8 +402,128 @@
           "reason": "Added to Long-Term (daily update)"
         }
       ]
+    },
+    "86832": {
+      "id": "86832",
+      "title": "Which companies will be acquired before 2027?",
+      "slug": "which-companies-will-be-acquired-before-2027",
+      "url": "https://polymarket.com/event/which-companies-will-be-acquired-before-2027",
+      "probability": 0.72,
+      "option_text": "Brown-Forman",
+      "tags": [
+        "business",
+        "big-tech",
+        "prediction-markets",
+        "finance",
+        "tech",
+        "ai",
+        "acquisitions",
+        "buy"
+      ],
+      "volume": 18091691.395606976,
+      "liquidity": 64136.46748,
+      "current_prob": 0.72,
+      "added_at": "2026-07-22T00:06:11.974424",
+      "first_seen": "2026-07-22T00:06:11.974424",
+      "peak_prob": 0.72,
+      "last_checked_prob": 0.72,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.72,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "630845": {
+      "id": "630845",
+      "title": "Largest Company end of July?",
+      "slug": "largest-company-end-of-july-20260624192302727",
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+      "probability": 0.715,
+      "option_text": "NVIDIA",
+      "tags": [
+        "tech",
+        "economy",
+        "finance",
+        "big-tech",
+        "business"
+      ],
+      "volume": 3215874.732650995,
+      "liquidity": 1031626.41083,
+      "current_prob": 0.715,
+      "added_at": "2026-07-22T00:06:11.974424",
+      "first_seen": "2026-07-22T00:06:11.974424",
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.715,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "185924": {
+      "id": "185924",
+      "title": "Tariff increase on Canada in effect by...?",
+      "slug": "tariff-increase-on-canada-in-effect-by-june-30",
+      "url": "https://polymarket.com/event/tariff-increase-on-canada-in-effect-by-june-30",
+      "probability": 0.715,
+      "option_text": "December 31, 2026",
+      "tags": [
+        "trump",
+        "economy",
+        "china",
+        "politics",
+        "tariffs",
+        "canada"
+      ],
+      "volume": 44620.67519999997,
+      "liquidity": 449.9688,
+      "current_prob": 0.715,
+      "added_at": "2026-07-22T00:06:11.974424",
+      "first_seen": "2026-07-22T00:06:11.974424",
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.715,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
+    },
+    "413680": {
+      "id": "413680",
+      "title": "Bank of Russia decision in July?",
+      "slug": "bank-of-russia-decision-in-july",
+      "url": "https://polymarket.com/event/bank-of-russia-decision-in-july",
+      "probability": 0.745,
+      "option_text": "Decrease",
+      "tags": [
+        "economy",
+        "Global-Rates",
+        "interest-rates",
+        "bor",
+        "russia"
+      ],
+      "volume": 278854.14886200003,
+      "liquidity": 54964.85038,
+      "current_prob": 0.745,
+      "added_at": "2026-07-22T00:06:11.974424",
+      "first_seen": "2026-07-22T00:06:11.974424",
+      "peak_prob": 0.745,
+      "last_checked_prob": 0.745,
+      "history": [
+        {
+          "time": "00:06",
+          "prob": 0.745,
+          "reason": "Added to Long-Term (daily update)"
+        }
+      ]
     }
   },
-  "updated_at": "2026-07-21T00:06:33.752499",
-  "event_count": 10
+  "updated_at": "2026-07-22T00:06:11.974626",
+  "event_count": 14
 }
