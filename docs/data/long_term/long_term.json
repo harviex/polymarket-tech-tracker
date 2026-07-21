@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
-      "probability": 0.88,
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "probability": 0.875,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.88,
+      "current_prob": 0.875,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "15:48",
@@ -1495,7 +1495,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.8655,
+      "probability": 0.7815,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -3971,16 +3971,21 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8655,
+      "current_prob": 0.7815,
       "added_at": "2026-07-21T04:54:16.736352",
       "first_seen": "2026-07-21T04:54:16.736352",
       "peak_prob": 0.883,
-      "last_checked_prob": 0.8655,
+      "last_checked_prob": 0.7815,
       "history": [
         {
           "time": "04:54",
           "prob": 0.882,
           "reason": "Added to Long-Term (high probability)"
+        },
+        {
+          "time": "14:51",
+          "prob": 0.7815,
+          "reason": "Update: 86.6% → 78.1%"
         }
       ]
     },
@@ -3989,7 +3994,7 @@
       "title": "Which companies will be acquired before 2027?",
       "slug": "which-companies-will-be-acquired-before-2027",
       "url": "https://polymarket.com/event/which-companies-will-be-acquired-before-2027",
-      "probability": 0.75,
+      "probability": 0.775,
       "option_text": "Will Warner Bros. Discovery be acquired before 202",
       "tags": [
         "business",
@@ -5939,11 +5944,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.775,
       "added_at": "2026-07-21T10:10:06.934019",
       "first_seen": "2026-07-21T10:10:06.934019",
-      "peak_prob": 0.75,
-      "last_checked_prob": 0.75,
+      "peak_prob": 0.775,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "10:10",
@@ -8906,6 +8911,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-21T12:15:44.024018",
+  "updated_at": "2026-07-21T14:51:19.887792",
   "event_count": 17
 }
