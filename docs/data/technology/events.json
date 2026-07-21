@@ -1,31 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-20T23:43:38.182428",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "290152",
-          "title": "Tech Layoffs Up or Down in 20​26?",
-          "tags": [],
-          "first_seen": "2026-07-20T01:18:34.976867",
-          "history": [
-            {
-              "time": "01:18",
-              "prob": 0.765,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.765
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-21T01:15:27.459909",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
     "events": [
@@ -34,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.85,
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -43,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.85,
+        "current_prob": 0.845,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.85,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:48",
@@ -1520,6 +1496,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-20T23:43:38.180308"
+    "updated_at": "2026-07-21T01:15:27.457790"
   }
 }
