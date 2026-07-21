@@ -1495,7 +1495,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.8665,
+      "probability": 0.8655,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -3971,11 +3971,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8665,
+      "current_prob": 0.8655,
       "added_at": "2026-07-21T04:54:16.736352",
       "first_seen": "2026-07-21T04:54:16.736352",
       "peak_prob": 0.883,
-      "last_checked_prob": 0.8665,
+      "last_checked_prob": 0.8655,
       "history": [
         {
           "time": "04:54",
@@ -3989,7 +3989,7 @@
       "title": "Which companies will be acquired before 2027?",
       "slug": "which-companies-will-be-acquired-before-2027",
       "url": "https://polymarket.com/event/which-companies-will-be-acquired-before-2027",
-      "probability": 0.715,
+      "probability": 0.75,
       "option_text": "Will Warner Bros. Discovery be acquired before 202",
       "tags": [
         "business",
@@ -5939,11 +5939,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.715,
+      "current_prob": 0.75,
       "added_at": "2026-07-21T10:10:06.934019",
       "first_seen": "2026-07-21T10:10:06.934019",
-      "peak_prob": 0.715,
-      "last_checked_prob": 0.715,
+      "peak_prob": 0.75,
+      "last_checked_prob": 0.75,
       "history": [
         {
           "time": "10:10",
@@ -8906,6 +8906,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-21T10:10:06.934124",
+  "updated_at": "2026-07-21T12:15:44.024018",
   "event_count": 17
 }
