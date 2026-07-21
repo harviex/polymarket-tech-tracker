@@ -23,6 +23,38 @@
         }
       ],
       "current_prob": 0.882
+    },
+    "86832": {
+      "id": "86832",
+      "title": "Which companies will be acquired before 2027?",
+      "tags": [],
+      "first_seen": "2026-07-21T10:10:06.944725",
+      "history": [
+        {
+          "time": "10:10",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.715
+    },
+    "630845": {
+      "id": "630845",
+      "title": "Largest Company end of July?",
+      "tags": [],
+      "first_seen": "2026-07-21T10:10:06.944733",
+      "history": [
+        {
+          "time": "10:10",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.715
     }
   }
 }
