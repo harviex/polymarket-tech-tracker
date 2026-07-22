@@ -1,70 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-21T23:44:31.545082",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 3,
-      "events": [
-        {
-          "id": "556312",
-          "title": "Best Chinese AI Company end of July?",
-          "tags": [],
-          "first_seen": "2026-07-21T04:54:16.740791",
-          "history": [
-            {
-              "time": "04:54",
-              "prob": 0.882,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "04:54",
-              "prob": 0.882,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            }
-          ],
-          "current_prob": 0.882
-        },
-        {
-          "id": "86832",
-          "title": "Which companies will be acquired before 2027?",
-          "tags": [],
-          "first_seen": "2026-07-21T10:10:06.944725",
-          "history": [
-            {
-              "time": "10:10",
-              "prob": 0.715,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.715
-        },
-        {
-          "id": "630845",
-          "title": "Largest Company end of July?",
-          "tags": [],
-          "first_seen": "2026-07-21T10:10:06.944733",
-          "history": [
-            {
-              "time": "10:10",
-              "prob": 0.715,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.715
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-22T01:14:38.062893",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
     "events": [
@@ -139,7 +76,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -326,7 +263,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.705,
         "option_text": "Yes",
         "tags": [
@@ -470,7 +407,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9735,
         "option_text": "$70",
         "tags": [
@@ -776,7 +713,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1430,7 +1367,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.795,
+        "probability": 0.79,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1545,11 +1482,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.795,
+        "current_prob": 0.79,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.795,
+        "last_checked_prob": 0.79,
         "history": [
           {
             "time": "01:18",
@@ -1563,7 +1500,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/556312",
-        "probability": 0.7815,
+        "probability": 0.777,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -4039,11 +3976,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7815,
+        "current_prob": 0.777,
         "added_at": "2026-07-21T04:54:16.736352",
         "first_seen": "2026-07-21T04:54:16.736352",
         "peak_prob": 0.883,
-        "last_checked_prob": 0.7815,
+        "last_checked_prob": 0.777,
         "history": [
           {
             "time": "04:54",
@@ -4061,8 +3998,8 @@
         "id": "86832",
         "title": "Which companies will be acquired before 2027?",
         "slug": "which-companies-will-be-acquired-before-2027",
-        "url": "https://polymarket.com/event/86832",
-        "probability": 0.775,
+        "url": "https://polymarket.com/event/which-companies-will-be-acquired-before-2027",
+        "probability": 0.77,
         "option_text": "Will Warner Bros. Discovery be acquired before 202",
         "tags": [
           "business",
@@ -6012,11 +5949,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.77,
         "added_at": "2026-07-21T10:10:06.934019",
         "first_seen": "2026-07-21T10:10:06.934019",
         "peak_prob": 0.775,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "10:10",
@@ -8989,6 +8926,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-21T23:44:31.532427"
+    "updated_at": "2026-07-22T01:14:37.990258"
   }
 }
