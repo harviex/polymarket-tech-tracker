@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-22T12:18:17.822345",
+  "updated_at": "2026-07-22T14:50:51.884867",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -119,7 +119,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9655,
         "option_text": "Yes",
         "tags": [
@@ -450,7 +450,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.9735,
         "option_text": "$70",
         "tags": [
@@ -756,8 +756,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.985,
+        "url": "https://polymarket.com/event/407875",
+        "probability": 0.9855,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -1392,11 +1392,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.985,
+        "current_prob": 0.9855,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.985,
+        "last_checked_prob": 0.9855,
         "history": [
           {
             "time": "11:50",
@@ -1543,7 +1543,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.715,
+        "probability": 0.735,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -4478,11 +4478,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.715,
+        "current_prob": 0.735,
         "added_at": "2026-07-21T10:10:06.934019",
         "first_seen": "2026-07-21T10:10:06.934019",
         "peak_prob": 0.745,
-        "last_checked_prob": 0.715,
+        "last_checked_prob": 0.735,
         "history": [
           {
             "time": "10:10",
@@ -4496,7 +4496,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.717,
+        "probability": 0.7,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -6987,11 +6987,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.717,
+        "current_prob": 0.7,
         "added_at": "2026-07-22T10:09:38.999333",
         "first_seen": "2026-07-22T10:09:38.999333",
         "peak_prob": 0.717,
-        "last_checked_prob": 0.717,
+        "last_checked_prob": 0.7,
         "history": [
           {
             "time": "10:09",
@@ -7001,6 +7001,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-22T12:18:17.814018"
+    "updated_at": "2026-07-22T14:50:51.876684"
   }
 }
