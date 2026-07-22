@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-22T22:47:49.959577",
+  "updated_at": "2026-07-22T23:49:59.626120",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -64,7 +64,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.875,
         "option_text": "Yes",
         "tags": [
@@ -768,7 +768,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.9855,
         "option_text": "$170B",
         "tags": [
@@ -1421,7 +1421,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.785,
         "option_text": "Up",
         "tags": [
@@ -1554,8 +1554,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/630845",
-        "probability": 0.875,
+        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+        "probability": 0.885,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -4490,11 +4490,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.885,
         "added_at": "2026-07-21T10:10:06.934019",
         "first_seen": "2026-07-21T10:10:06.934019",
-        "peak_prob": 0.875,
-        "last_checked_prob": 0.875,
+        "peak_prob": 0.885,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "10:10",
@@ -4513,7 +4513,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.746,
+        "probability": 0.731,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -6998,11 +6998,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.746,
+        "current_prob": 0.731,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.7675,
-        "last_checked_prob": 0.746,
+        "last_checked_prob": 0.731,
         "history": [
           {
             "time": "17:58",
@@ -7017,6 +7017,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-22T22:47:49.951249"
+    "updated_at": "2026-07-22T23:49:59.617775"
   }
 }
