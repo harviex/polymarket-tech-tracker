@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-22",
+  "events": {
+    "86832": {
+      "id": "86832",
+      "title": "Which companies will be acquired before 2027?",
+      "tags": [],
+      "first_seen": "2026-07-22T04:53:22.887293",
+      "history": [
+        {
+          "time": "04:53",
+          "prob": 0.77,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.77
+    }
+  }
+}
