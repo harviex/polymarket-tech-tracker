@@ -258,7 +258,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.9735,
       "option_text": "$60",
       "tags": [
@@ -1351,7 +1351,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.905,
+      "probability": 0.89,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -4286,11 +4286,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.89,
       "added_at": "2026-07-21T10:10:06.934019",
       "first_seen": "2026-07-21T10:10:06.934019",
       "peak_prob": 0.905,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "10:10",
@@ -4308,8 +4308,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.8305,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.8045,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -6794,11 +6794,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8305,
+      "current_prob": 0.8045,
       "added_at": "2026-07-22T17:58:44.465495",
       "first_seen": "2026-07-22T17:58:44.465495",
       "peak_prob": 0.8305,
-      "last_checked_prob": 0.8305,
+      "last_checked_prob": 0.8045,
       "history": [
         {
           "time": "17:58",
@@ -6813,6 +6813,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-23T18:04:05.075621",
+  "updated_at": "2026-07-23T20:04:27.493105",
   "event_count": 17
 }
