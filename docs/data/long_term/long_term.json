@@ -402,7 +402,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.9735,
       "option_text": "$60",
       "tags": [
@@ -1361,7 +1361,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.78,
       "option_text": "Up",
       "tags": [
@@ -1495,7 +1495,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.845,
+      "probability": 0.865,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -4430,11 +4430,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.845,
+      "current_prob": 0.865,
       "added_at": "2026-07-21T10:10:06.934019",
       "first_seen": "2026-07-21T10:10:06.934019",
       "peak_prob": 0.885,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "10:10",
@@ -4453,7 +4453,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.7925,
+      "probability": 0.813,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -6938,11 +6938,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7925,
+      "current_prob": 0.813,
       "added_at": "2026-07-22T17:58:44.465495",
       "first_seen": "2026-07-22T17:58:44.465495",
-      "peak_prob": 0.7925,
-      "last_checked_prob": 0.7925,
+      "peak_prob": 0.813,
+      "last_checked_prob": 0.813,
       "history": [
         {
           "time": "17:58",
@@ -6957,6 +6957,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-23T12:16:04.683992",
+  "updated_at": "2026-07-23T14:57:06.051233",
   "event_count": 17
 }
