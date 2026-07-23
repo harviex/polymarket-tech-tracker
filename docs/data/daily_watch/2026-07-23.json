@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-23",
+  "events": {
+    "428507": {
+      "id": "428507",
+      "title": "Will Anthropic flip BTC by December 31?",
+      "tags": [],
+      "first_seen": "2026-07-23T16:20:48.190570",
+      "history": [
+        {
+          "time": "16:20",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.705
+    }
+  }
+}
