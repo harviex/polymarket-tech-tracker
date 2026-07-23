@@ -4309,7 +4309,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/556312",
-      "probability": 0.79,
+      "probability": 0.7905,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -6794,11 +6794,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.79,
+      "current_prob": 0.7905,
       "added_at": "2026-07-22T17:58:44.465495",
       "first_seen": "2026-07-22T17:58:44.465495",
       "peak_prob": 0.8305,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.7905,
       "history": [
         {
           "time": "17:58",
@@ -6813,6 +6813,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-23T22:43:04.572789",
+  "updated_at": "2026-07-23T23:44:58.269468",
   "event_count": 17
 }
