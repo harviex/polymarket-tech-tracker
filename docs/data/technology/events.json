@@ -1,62 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-22T23:49:59.626120",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "86832",
-          "title": "Which companies will be acquired before 2027?",
-          "tags": [],
-          "first_seen": "2026-07-22T04:53:22.887293",
-          "history": [
-            {
-              "time": "04:53",
-              "prob": 0.77,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.77
-        },
-        {
-          "id": "556312",
-          "title": "Best Chinese AI Company end of July?",
-          "tags": [],
-          "first_seen": "2026-07-22T07:26:51.355479",
-          "history": [
-            {
-              "time": "07:26",
-              "prob": 0.7025,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "10:09",
-              "prob": 0.7115,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "16:10",
-              "prob": 0.7,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "17:58",
-              "prob": 0.705,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.7025
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-23T01:21:23.523623",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -318,7 +263,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
         "probability": 0.705,
         "option_text": "Yes",
         "tags": [
@@ -462,7 +407,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9735,
         "option_text": "$70",
         "tags": [
@@ -1421,7 +1366,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.785,
         "option_text": "Up",
         "tags": [
@@ -4513,7 +4458,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.731,
+        "probability": 0.7685,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -6998,11 +6943,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.731,
+        "current_prob": 0.7685,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
-        "peak_prob": 0.7675,
-        "last_checked_prob": 0.731,
+        "peak_prob": 0.7685,
+        "last_checked_prob": 0.7685,
         "history": [
           {
             "time": "17:58",
@@ -7017,6 +6962,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-22T23:49:59.617775"
+    "updated_at": "2026-07-23T01:21:23.455367"
   }
 }

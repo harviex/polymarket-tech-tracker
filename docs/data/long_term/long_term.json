@@ -258,7 +258,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
       "probability": 0.705,
       "option_text": "Yes",
       "tags": [
@@ -402,7 +402,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "url": "https://polymarket.com/event/612483",
       "probability": 0.9735,
       "option_text": "$70",
       "tags": [
@@ -1361,7 +1361,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.785,
       "option_text": "Up",
       "tags": [
@@ -4453,7 +4453,7 @@
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
       "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-      "probability": 0.731,
+      "probability": 0.7685,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -6938,11 +6938,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.731,
+      "current_prob": 0.7685,
       "added_at": "2026-07-22T17:58:44.465495",
       "first_seen": "2026-07-22T17:58:44.465495",
-      "peak_prob": 0.7675,
-      "last_checked_prob": 0.731,
+      "peak_prob": 0.7685,
+      "last_checked_prob": 0.7685,
       "history": [
         {
           "time": "17:58",
@@ -6957,6 +6957,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-22T23:49:59.617775",
+  "updated_at": "2026-07-23T01:21:23.455367",
   "event_count": 17
 }
