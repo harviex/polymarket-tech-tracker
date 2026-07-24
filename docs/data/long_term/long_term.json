@@ -1350,8 +1350,8 @@
       "id": "630845",
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
-      "url": "https://polymarket.com/event/630845",
-      "probability": 0.875,
+      "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
+      "probability": 0.885,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -4286,11 +4286,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.885,
       "added_at": "2026-07-21T10:10:06.934019",
       "first_seen": "2026-07-21T10:10:06.934019",
       "peak_prob": 0.905,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.885,
       "history": [
         {
           "time": "10:10",
@@ -6813,6 +6813,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-24T04:55:56.258288",
+  "updated_at": "2026-07-24T07:23:44.221434",
   "event_count": 17
 }
