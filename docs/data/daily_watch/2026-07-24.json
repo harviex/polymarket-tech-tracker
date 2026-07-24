@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-24",
+  "events": {
+    "138745": {
+      "id": "138745",
+      "title": "Will any AI model reach ___ Overall Arena Score by December 31?",
+      "tags": [],
+      "first_seen": "2026-07-24T18:07:54.400480",
+      "history": [
+        {
+          "time": "18:07",
+          "prob": 0.83,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "18:07",
+          "prob": 0.83,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.83
+    }
+  }
+}
