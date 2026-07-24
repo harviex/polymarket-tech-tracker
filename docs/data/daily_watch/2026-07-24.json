@@ -23,6 +23,22 @@
         }
       ],
       "current_prob": 0.83
+    },
+    "336406": {
+      "id": "336406",
+      "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
+      "tags": [],
+      "first_seen": "2026-07-24T23:50:48.344283",
+      "history": [
+        {
+          "time": "23:50",
+          "prob": 0.71,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.71
     }
   }
 }
