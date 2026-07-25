@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-25T20:01:55.015519",
+  "updated_at": "2026-07-25T21:40:38.355837",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -307,7 +307,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.975,
+        "probability": 0.9745,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -595,11 +595,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.975,
+        "current_prob": 0.9745,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9765,
-        "last_checked_prob": 0.975,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "15:57",
@@ -1399,7 +1399,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.8005,
+        "probability": 0.7725,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3884,11 +3884,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8005,
+        "current_prob": 0.7725,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.8545,
-        "last_checked_prob": 0.8005,
+        "last_checked_prob": 0.7725,
         "history": [
           {
             "time": "17:58",
@@ -7841,6 +7841,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-25T20:01:55.006958"
+    "updated_at": "2026-07-25T21:40:38.345222"
   }
 }
