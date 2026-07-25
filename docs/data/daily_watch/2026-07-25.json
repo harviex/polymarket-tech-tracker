@@ -11,9 +11,30 @@
           "time": "01:18",
           "prob": 0.715,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "04:51",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.715
+    },
+    "336406": {
+      "id": "336406",
+      "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
+      "tags": [],
+      "first_seen": "2026-07-25T04:51:30.743324",
+      "history": [
+        {
+          "time": "04:51",
+          "prob": 0.71,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.71
     }
   }
 }
