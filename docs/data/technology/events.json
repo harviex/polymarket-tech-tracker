@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-25T07:06:18.860027",
+  "updated_at": "2026-07-25T09:22:56.319438",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -156,7 +156,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.86,
         "option_text": "Yes",
         "tags": [
@@ -306,8 +306,8 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
-        "probability": 0.9735,
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "probability": 0.974,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -595,11 +595,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9735,
+        "current_prob": 0.974,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9765,
-        "last_checked_prob": 0.9735,
+        "last_checked_prob": 0.974,
         "history": [
           {
             "time": "15:57",
@@ -612,7 +612,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1265,7 +1265,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.785,
         "option_text": "Up",
         "tags": [
@@ -3921,7 +3921,7 @@
         "id": "138745",
         "title": "Will any AI model reach ___ Overall Arena Score by December 31?",
         "slug": "chatbot-arena-how-high-will-ai-score-by-december-31",
-        "url": "https://polymarket.com/event/138745",
+        "url": "https://polymarket.com/event/chatbot-arena-how-high-will-ai-score-by-december-31",
         "probability": 0.885,
         "option_text": "any AI model reach a Chatbot Arena",
         "tags": [
@@ -4863,7 +4863,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.715,
+        "probability": 0.765,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -7822,20 +7822,25 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.715,
+        "current_prob": 0.765,
         "added_at": "2026-07-25T04:51:30.734142",
         "first_seen": "2026-07-25T04:51:30.734142",
-        "peak_prob": 0.715,
-        "last_checked_prob": 0.715,
+        "peak_prob": 0.765,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "04:51",
             "prob": 0.715,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "09:22",
+            "prob": 0.765,
+            "reason": "Update: 71.5% → 76.5%"
           }
         ]
       }
     ],
-    "updated_at": "2026-07-25T07:06:18.850854"
+    "updated_at": "2026-07-25T09:22:56.310673"
   }
 }
