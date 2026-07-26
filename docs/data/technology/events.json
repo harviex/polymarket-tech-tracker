@@ -1,50 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-25T23:46:33.761832",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "630845",
-          "title": "Largest Company end of July?",
-          "tags": [],
-          "first_seen": "2026-07-25T01:18:13.868401",
-          "history": [
-            {
-              "time": "01:18",
-              "prob": 0.715,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "04:51",
-              "prob": 0.715,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.715
-        },
-        {
-          "id": "336406",
-          "title": "Will any AI model reach ___ Overall Arena Score by September 30?",
-          "tags": [],
-          "first_seen": "2026-07-25T04:51:30.743324",
-          "history": [
-            {
-              "time": "04:51",
-              "prob": 0.71,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.71
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-26T01:21:31.157657",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -52,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.91,
         "option_text": "Yes",
         "tags": [
@@ -1265,7 +1222,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.75,
         "option_text": "Up",
         "tags": [
@@ -1398,8 +1355,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/556312",
-        "probability": 0.7755,
+        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+        "probability": 0.7765,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3884,11 +3841,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7755,
+        "current_prob": 0.7765,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.8545,
-        "last_checked_prob": 0.7755,
+        "last_checked_prob": 0.7765,
         "history": [
           {
             "time": "17:58",
@@ -4863,7 +4820,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.765,
+        "probability": 0.77,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -7822,11 +7779,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.765,
+        "current_prob": 0.77,
         "added_at": "2026-07-25T04:51:30.734142",
         "first_seen": "2026-07-25T04:51:30.734142",
         "peak_prob": 0.775,
-        "last_checked_prob": 0.765,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "04:51",
@@ -7841,6 +7798,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-25T23:46:33.752845"
+    "updated_at": "2026-07-26T01:21:31.147328"
   }
 }

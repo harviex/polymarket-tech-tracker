@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.91,
       "option_text": "Yes",
       "tags": [
@@ -1217,7 +1217,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.75,
       "option_text": "Up",
       "tags": [
@@ -1350,8 +1350,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.7755,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.7765,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -3836,11 +3836,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.7755,
+      "current_prob": 0.7765,
       "added_at": "2026-07-22T17:58:44.465495",
       "first_seen": "2026-07-22T17:58:44.465495",
       "peak_prob": 0.8545,
-      "last_checked_prob": 0.7755,
+      "last_checked_prob": 0.7765,
       "history": [
         {
           "time": "17:58",
@@ -4815,7 +4815,7 @@
       "title": "Largest Company end of July?",
       "slug": "largest-company-end-of-july-20260624192302727",
       "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-      "probability": 0.765,
+      "probability": 0.77,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -7774,11 +7774,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.765,
+      "current_prob": 0.77,
       "added_at": "2026-07-25T04:51:30.734142",
       "first_seen": "2026-07-25T04:51:30.734142",
       "peak_prob": 0.775,
-      "last_checked_prob": 0.765,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "04:51",
@@ -7793,6 +7793,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-25T23:46:33.752845",
+  "updated_at": "2026-07-26T01:21:31.147328",
   "event_count": 17
 }
