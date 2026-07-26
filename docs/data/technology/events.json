@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-26T15:50:59.456518",
+  "updated_at": "2026-07-26T16:41:51.142945",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -113,7 +113,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.85,
         "option_text": "Yes",
         "tags": [
@@ -263,7 +263,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.9745,
         "option_text": "$60",
         "tags": [
@@ -569,7 +569,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1356,7 +1356,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.7955,
+        "probability": 0.795,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3841,11 +3841,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7955,
+        "current_prob": 0.795,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.8545,
-        "last_checked_prob": 0.7955,
+        "last_checked_prob": 0.795,
         "history": [
           {
             "time": "17:58",
@@ -3879,7 +3879,7 @@
         "title": "Will any AI model reach ___ Overall Arena Score by December 31?",
         "slug": "chatbot-arena-how-high-will-ai-score-by-december-31",
         "url": "https://polymarket.com/event/chatbot-arena-how-high-will-ai-score-by-december-31",
-        "probability": 0.845,
+        "probability": 0.86,
         "option_text": "any AI model reach a Chatbot Arena",
         "tags": [
           "ai-benchmarks",
@@ -4802,11 +4802,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.845,
+        "current_prob": 0.86,
         "added_at": "2026-07-24T18:07:54.391107",
         "first_seen": "2026-07-24T18:07:54.391107",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.86,
         "history": [
           {
             "time": "18:07",
@@ -4819,8 +4819,8 @@
         "id": "630845",
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
-        "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.775,
+        "url": "https://polymarket.com/event/630845",
+        "probability": 0.77,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -7779,11 +7779,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.77,
         "added_at": "2026-07-25T04:51:30.734142",
         "first_seen": "2026-07-25T04:51:30.734142",
         "peak_prob": 0.785,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "04:51",
@@ -7798,6 +7798,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-26T15:50:59.445947"
+    "updated_at": "2026-07-26T16:41:51.132538"
   }
 }
