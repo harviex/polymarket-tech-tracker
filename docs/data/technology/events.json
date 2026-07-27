@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-27T20:57:38.729291",
+  "updated_at": "2026-07-27T21:58:36.195883",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -314,7 +314,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.9745,
+        "probability": 0.974,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -602,11 +602,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.974,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9765,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.974,
         "history": [
           {
             "time": "15:57",
@@ -1273,7 +1273,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.775,
+        "probability": 0.78,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1388,11 +1388,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.78,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "01:18",
@@ -1406,7 +1406,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/556312",
-        "probability": 0.8495,
+        "probability": 0.8525,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3891,11 +3891,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8495,
+        "current_prob": 0.8525,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.8495,
+        "last_checked_prob": 0.8525,
         "history": [
           {
             "time": "17:58",
@@ -3934,7 +3934,7 @@
         "title": "Will any AI model reach ___ Overall Arena Score by December 31?",
         "slug": "chatbot-arena-how-high-will-ai-score-by-december-31",
         "url": "https://polymarket.com/event/chatbot-arena-how-high-will-ai-score-by-december-31",
-        "probability": 0.97,
+        "probability": 0.975,
         "option_text": "any AI model reach a Chatbot Arena",
         "tags": [
           "ai-benchmarks",
@@ -4857,11 +4857,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.97,
+        "current_prob": 0.975,
         "added_at": "2026-07-24T18:07:54.391107",
         "first_seen": "2026-07-24T18:07:54.391107",
-        "peak_prob": 0.97,
-        "last_checked_prob": 0.97,
+        "peak_prob": 0.975,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "18:07",
@@ -7851,6 +7851,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-27T20:57:38.718543"
+    "updated_at": "2026-07-27T21:58:36.186573"
   }
 }
