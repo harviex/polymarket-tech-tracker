@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-28T21:52:28.358111",
+  "updated_at": "2026-07-28T22:46:18.728044",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -1394,7 +1394,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.858,
+        "probability": 0.857,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3879,11 +3879,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.858,
+        "current_prob": 0.857,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.858,
+        "last_checked_prob": 0.857,
         "history": [
           {
             "time": "17:58",
@@ -3922,7 +3922,7 @@
         "title": "2nd Largest Company end of July?",
         "slug": "2nd-largest-company-end-of-july-20260624192727948",
         "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
-        "probability": 0.75,
+        "probability": 0.71,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6878,11 +6878,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.75,
+        "current_prob": 0.71,
         "added_at": "2026-07-28T04:49:39.190749",
         "first_seen": "2026-07-28T04:49:39.190749",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.75,
+        "last_checked_prob": 0.71,
         "history": [
           {
             "time": "04:49",
@@ -6897,6 +6897,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-28T21:52:28.349713"
+    "updated_at": "2026-07-28T22:46:18.719328"
   }
 }
