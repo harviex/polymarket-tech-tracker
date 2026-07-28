@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-28T20:54:30.081279",
+  "updated_at": "2026-07-28T21:52:28.358111",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -114,7 +114,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9695,
         "option_text": "Yes",
         "tags": [
@@ -152,7 +152,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.8,
+        "probability": 0.81,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -274,11 +274,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8,
+        "current_prob": 0.81,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.8,
+        "last_checked_prob": 0.81,
         "history": [
           {
             "time": "20:57",
@@ -301,7 +301,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.974,
         "option_text": "$60",
         "tags": [
@@ -607,7 +607,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1261,7 +1261,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.765,
+        "probability": 0.77,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1376,11 +1376,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.765,
+        "current_prob": 0.77,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.765,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "01:18",
@@ -1394,7 +1394,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.8555,
+        "probability": 0.858,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3879,11 +3879,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8555,
+        "current_prob": 0.858,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.8555,
+        "last_checked_prob": 0.858,
         "history": [
           {
             "time": "17:58",
@@ -3921,8 +3921,8 @@
         "id": "631072",
         "title": "2nd Largest Company end of July?",
         "slug": "2nd-largest-company-end-of-july-20260624192727948",
-        "url": "https://polymarket.com/event/631072",
-        "probability": 0.775,
+        "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
+        "probability": 0.75,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6878,11 +6878,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.75,
         "added_at": "2026-07-28T04:49:39.190749",
         "first_seen": "2026-07-28T04:49:39.190749",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "04:49",
@@ -6897,6 +6897,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-28T20:54:30.073116"
+    "updated_at": "2026-07-28T21:52:28.349713"
   }
 }
