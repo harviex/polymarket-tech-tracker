@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-29T22:44:04.671651",
+  "updated_at": "2026-07-29T23:49:37.612977",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -19,6 +19,11 @@
               "threshold": 0.7,
               "direction": "up",
               "reason": "Crossed up 70%"
+            },
+            {
+              "time": "23:49",
+              "prob": 0.725,
+              "reason": "Removed from Long-Term (prob < 70%)"
             }
           ],
           "current_prob": 0.725
@@ -27,7 +32,7 @@
     }
   ],
   "long_term_data": {
-    "event_count": 9,
+    "event_count": 8,
     "events": [
       {
         "id": "103468",
@@ -287,7 +292,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9745,
         "option_text": "$60",
         "tags": [
@@ -1246,8 +1251,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.77,
+        "url": "https://polymarket.com/event/290152",
+        "probability": 0.775,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1362,11 +1367,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.775,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "01:18",
@@ -1380,7 +1385,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/556312",
-        "probability": 0.7265,
+        "probability": 0.7825,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3865,11 +3870,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7265,
+        "current_prob": 0.7825,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.7265,
+        "last_checked_prob": 0.7825,
         "history": [
           {
             "time": "17:58",
@@ -3915,6 +3920,11 @@
             "time": "15:01",
             "prob": 0.724,
             "reason": "Update: 77.7% → 72.4%"
+          },
+          {
+            "time": "23:49",
+            "prob": 0.7825,
+            "reason": "Update: 72.7% → 78.2%"
           }
         ]
       },
@@ -3922,7 +3932,7 @@
         "id": "631072",
         "title": "2nd Largest Company end of July?",
         "slug": "2nd-largest-company-end-of-july-20260624192727948",
-        "url": "https://polymarket.com/event/631072",
+        "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
         "probability": 0.915,
         "option_text": "NVIDIA",
         "tags": [
@@ -6911,142 +6921,8 @@
             "reason": "Update: 78.0% → 92.5%"
           }
         ]
-      },
-      {
-        "id": "79056",
-        "title": "SpaceX Starship fully reusable before 2027?",
-        "slug": "spacex-starship-fully-reusable-before-2027",
-        "url": "https://polymarket.com/event/79056",
-        "probability": 0.725,
-        "option_text": "Yes",
-        "tags": [
-          "elon-musk",
-          "tech",
-          "science",
-          "big-tech",
-          "business",
-          "spacex",
-          "climate-science"
-        ],
-        "markets": [
-          {
-            "id": "676812",
-            "question": "SpaceX Starship fully reusable before 2027?",
-            "conditionId": "0x0a1b551058f78174cf64ed9d61edb103a76c4df88232ee1188dbc9e390896e7d",
-            "slug": "spacex-starship-fully-reusable-before-2027",
-            "resolutionSource": "",
-            "endDate": "2026-12-31T00:00:00Z",
-            "liquidity": "1433.9248",
-            "startDate": "2025-11-12T22:05:40.68397Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starship-fully-reusable-in-2025--DEFWFOt4Xl2.jpg",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starship-fully-reusable-in-2025--DEFWFOt4Xl2.jpg",
-            "description": "On February 28, Elon Musk posted that it was likely Starship would become fully reusable in 2025. You can see the X post here: https://x.com/elonmusk/status/1895598258225106984\n\nThis market will resolve to \"Yes\" if SpaceX or Elon Musk announces that Starship is fully reusable by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nNote, this market refers to the Starship upper stage and does not require reusability for the Super-Heavy booster.\n\nFor this market to resolve to \"Yes\" it is not necessary that an actual reuse occur, only that SpaceX or Elon Musk announces that Starship is fully reusable by this market's resolution date.\n\nThe resolution source for this market is announcements by Elon Musk and SpaceX, or their official representatives.",
-            "outcomes": "[\"Yes\", \"No\"]",
-            "outcomePrices": "[\"0.725\", \"0.275\"]",
-            "volume": "119867.81479900003",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2025-11-11T18:01:23.754725Z",
-            "updatedAt": "2026-07-29T22:42:56.963991Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0xd51b0b23885664549b623e9a4d25ac78f08d8e5735b863a221321a4acb7070df",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.01,
-            "orderMinSize": 5,
-            "volumeNum": 119867.81479900003,
-            "liquidityNum": 1433.9248,
-            "endDateIso": "2026-12-31",
-            "startDateIso": "2025-11-12",
-            "hasReviewedDates": true,
-            "volume24hr": 620.269129,
-            "volume1wk": 905.736678,
-            "volume1mo": 1436.2990490000002,
-            "volume1yr": 119865.59479900001,
-            "clobTokenIds": "[\"68841043137419682742407917950323128757425564408860523030307999893432460743024\", \"56474994774559829851462437736234567725783260130778254578352001078848194168934\"]",
-            "comboStatus": "disabled",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volume24hrClob": 620.269129,
-            "volume1wkClob": 905.736678,
-            "volume1moClob": 1436.2990490000002,
-            "volume1yrClob": 119865.59479900001,
-            "volumeClob": 119867.81479900003,
-            "liquidityClob": 1433.9248,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2025-11-12T22:05:19Z",
-            "cyom": false,
-            "competitive": 0.6757882212968471,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "rewardsMinSize": 20,
-            "rewardsMaxSpread": 3.5,
-            "spread": 0.29,
-            "oneDayPriceChange": 0.11,
-            "oneHourPriceChange": 0.14,
-            "oneWeekPriceChange": 0.175,
-            "oneMonthPriceChange": 0.235,
-            "lastTradePrice": 0.69,
-            "bestBid": 0.58,
-            "bestAsk": 0.87,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2025-11-12T22:04:49.802133Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "tech_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.04,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            },
-            "version": "v1"
-          }
-        ],
-        "resolutionSource": "",
-        "description": "On February 28, Elon Musk posted that it was likely Starship would become fully reusable in 2025. You can see the X post here: https://x.com/elonmusk/status/1895598258225106984\n\nThis market will resolve to \"Yes\" if SpaceX or Elon Musk announces that Starship is fully reusable by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nNote, this market refers to the Starship upper stage and does not require reusability for the Super-Heavy booster.\n\nFor this market to resolve to \"Yes\" it is not necessary that an actual reuse occur, only that SpaceX or Elon Musk announces that Starship is fully reusable by this market's resolution date.\n\nThe resolution source for this market is announcements by Elon Musk and SpaceX, or their official representatives.",
-        "volume": 119867.81479900003,
-        "liquidity": 1432.8984,
-        "startDate": "2025-11-12T22:05:40.68397Z",
-        "endDate": "2026-12-31T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.725,
-        "added_at": "2026-07-29T22:44:04.663302",
-        "first_seen": "2026-07-29T22:44:04.663302",
-        "peak_prob": 0.725,
-        "last_checked_prob": 0.725,
-        "history": [
-          {
-            "time": "22:44",
-            "prob": 0.725,
-            "reason": "Added to Long-Term (high probability)"
-          }
-        ]
       }
     ],
-    "updated_at": "2026-07-29T22:44:04.663407"
+    "updated_at": "2026-07-29T23:49:37.604623"
   }
 }
