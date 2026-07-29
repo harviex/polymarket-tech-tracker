@@ -1,45 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-28T23:46:11.883650",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "138745",
-          "title": "Will any AI model reach ___ Overall Arena Score by December 31?",
-          "tags": [],
-          "first_seen": "2026-07-28T01:23:45.589740",
-          "history": [
-            {
-              "time": "01:23",
-              "prob": 0.9845,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.9845
-        },
-        {
-          "id": "631072",
-          "title": "2nd Largest Company end of July?",
-          "tags": [],
-          "first_seen": "2026-07-28T04:49:39.199711",
-          "history": [
-            {
-              "time": "04:49",
-              "prob": 0.77,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.77
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-07-29T01:15:57.196691",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -114,7 +76,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9695,
         "option_text": "Yes",
         "tags": [
@@ -151,8 +113,8 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "probability": 0.815,
+        "url": "https://polymarket.com/event/79080",
+        "probability": 0.82,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -274,11 +236,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.815,
+        "current_prob": 0.82,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.815,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "20:57",
@@ -607,7 +569,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.985,
         "option_text": "$170B",
         "tags": [
@@ -1260,7 +1222,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.77,
         "option_text": "Up",
         "tags": [
@@ -1393,8 +1355,8 @@
         "id": "556312",
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
-        "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.8575,
+        "url": "https://polymarket.com/event/556312",
+        "probability": 0.8585,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3879,11 +3841,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8575,
+        "current_prob": 0.8585,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.8575,
+        "last_checked_prob": 0.8585,
         "history": [
           {
             "time": "17:58",
@@ -3921,8 +3883,8 @@
         "id": "631072",
         "title": "2nd Largest Company end of July?",
         "slug": "2nd-largest-company-end-of-july-20260624192727948",
-        "url": "https://polymarket.com/event/631072",
-        "probability": 0.73,
+        "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
+        "probability": 0.765,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6878,11 +6840,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.765,
         "added_at": "2026-07-28T04:49:39.190749",
         "first_seen": "2026-07-28T04:49:39.190749",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.73,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "04:49",
@@ -6897,6 +6859,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-28T23:46:11.875697"
+    "updated_at": "2026-07-29T01:15:57.188470"
   }
 }
