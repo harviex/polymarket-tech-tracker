@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.87,
       "option_text": "Yes",
       "tags": [
@@ -71,7 +71,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9695,
       "option_text": "Yes",
       "tags": [
@@ -108,7 +108,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.815,
       "option_text": "Yes",
       "tags": [
@@ -258,7 +258,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "url": "https://polymarket.com/event/612483",
       "probability": 0.9745,
       "option_text": "$60",
       "tags": [
@@ -564,7 +564,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.985,
       "option_text": "$170B",
       "tags": [
@@ -1350,8 +1350,8 @@
       "id": "556312",
       "title": "Best Chinese AI Company end of July?",
       "slug": "best-chinese-ai-company-end-of-july",
-      "url": "https://polymarket.com/event/556312",
-      "probability": 0.9025,
+      "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
+      "probability": 0.9215,
       "option_text": "Alibaba",
       "tags": [
         "china",
@@ -3836,11 +3836,11 @@
       "endDate": "2026-07-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9025,
+      "current_prob": 0.9215,
       "added_at": "2026-07-22T17:58:44.465495",
       "first_seen": "2026-07-22T17:58:44.465495",
-      "peak_prob": 0.9025,
-      "last_checked_prob": 0.9025,
+      "peak_prob": 0.9215,
+      "last_checked_prob": 0.9215,
       "history": [
         {
           "time": "17:58",
@@ -3903,8 +3903,8 @@
       "id": "631072",
       "title": "2nd Largest Company end of July?",
       "slug": "2nd-largest-company-end-of-july-20260624192727948",
-      "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
-      "probability": 0.93,
+      "url": "https://polymarket.com/event/631072",
+      "probability": 0.969,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -6860,11 +6860,11 @@
       "endDate": "2026-07-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.93,
+      "current_prob": 0.969,
       "added_at": "2026-07-28T04:49:39.190749",
       "first_seen": "2026-07-28T04:49:39.190749",
-      "peak_prob": 0.93,
-      "last_checked_prob": 0.93,
+      "peak_prob": 0.969,
+      "last_checked_prob": 0.969,
       "history": [
         {
           "time": "04:49",
@@ -6898,7 +6898,7 @@
       "title": "SpaceX Starship fully reusable before 2027?",
       "slug": "spacex-starship-fully-reusable-before-2027",
       "url": "https://polymarket.com/event/79056",
-      "probability": 0.705,
+      "probability": 0.715,
       "option_text": "Yes",
       "tags": [
         "elon-musk",
@@ -7014,11 +7014,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.715,
       "added_at": "2026-07-30T07:23:49.887950",
       "first_seen": "2026-07-30T07:23:49.887950",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.705,
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
       "history": [
         {
           "time": "07:23",
@@ -7028,6 +7028,6 @@
       ]
     }
   },
-  "updated_at": "2026-07-30T07:23:49.888070",
+  "updated_at": "2026-07-30T10:06:53.255019",
   "event_count": 17
 }
