@@ -16,6 +16,43 @@
         }
       ],
       "current_prob": 0.705
+    },
+    "630845": {
+      "id": "630845",
+      "title": "Largest Company end of July?",
+      "tags": [],
+      "first_seen": "2026-07-30T21:54:56.324688",
+      "history": [
+        {
+          "time": "21:54",
+          "prob": 0.8095,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "21:54",
+          "prob": 0.8095,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        }
+      ],
+      "current_prob": 0.8095
+    },
+    "631072": {
+      "id": "631072",
+      "title": "2nd Largest Company end of July?",
+      "tags": [],
+      "first_seen": "2026-07-30T21:54:56.324698",
+      "history": [
+        {
+          "time": "21:54",
+          "prob": 0.9,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9
     }
   }
 }
