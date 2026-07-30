@@ -1,16 +1,40 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-30T04:42:34.729499",
-  "daily_watch_summaries": [],
+  "updated_at": "2026-07-30T07:23:49.898120",
+  "daily_watch_summaries": [
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 1,
+      "events": [
+        {
+          "id": "79056",
+          "title": "SpaceX Starship fully reusable before 2027?",
+          "tags": [],
+          "first_seen": "2026-07-30T07:23:49.896435",
+          "history": [
+            {
+              "time": "07:23",
+              "prob": 0.705,
+              "threshold": 0.7,
+              "direction": "up",
+              "reason": "Crossed up 70%"
+            }
+          ],
+          "current_prob": 0.705
+        }
+      ]
+    }
+  ],
   "long_term_data": {
-    "event_count": 8,
+    "event_count": 9,
     "events": [
       {
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.865,
+        "probability": 0.87,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +43,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.865,
+        "current_prob": 0.87,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.865,
+        "last_checked_prob": 0.87,
         "history": [
           {
             "time": "15:48",
@@ -1223,7 +1247,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.775,
+        "probability": 0.77,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1338,11 +1362,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.77,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "01:18",
@@ -1356,7 +1380,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/556312",
-        "probability": 0.797,
+        "probability": 0.9025,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3841,11 +3865,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.797,
+        "current_prob": 0.9025,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
-        "peak_prob": 0.885,
-        "last_checked_prob": 0.797,
+        "peak_prob": 0.9025,
+        "last_checked_prob": 0.9025,
         "history": [
           {
             "time": "17:58",
@@ -3896,6 +3920,11 @@
             "time": "23:49",
             "prob": 0.7825,
             "reason": "Update: 72.7% → 78.2%"
+          },
+          {
+            "time": "07:23",
+            "prob": 0.9025,
+            "reason": "Update: 79.7% → 90.2%"
           }
         ]
       },
@@ -3904,7 +3933,7 @@
         "title": "2nd Largest Company end of July?",
         "slug": "2nd-largest-company-end-of-july-20260624192727948",
         "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
-        "probability": 0.905,
+        "probability": 0.93,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6860,11 +6889,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.93,
         "added_at": "2026-07-28T04:49:39.190749",
         "first_seen": "2026-07-28T04:49:39.190749",
-        "peak_prob": 0.925,
-        "last_checked_prob": 0.905,
+        "peak_prob": 0.93,
+        "last_checked_prob": 0.93,
         "history": [
           {
             "time": "04:49",
@@ -6892,8 +6921,142 @@
             "reason": "Update: 78.0% → 92.5%"
           }
         ]
+      },
+      {
+        "id": "79056",
+        "title": "SpaceX Starship fully reusable before 2027?",
+        "slug": "spacex-starship-fully-reusable-before-2027",
+        "url": "https://polymarket.com/event/79056",
+        "probability": 0.705,
+        "option_text": "Yes",
+        "tags": [
+          "elon-musk",
+          "tech",
+          "science",
+          "big-tech",
+          "business",
+          "spacex",
+          "climate-science"
+        ],
+        "markets": [
+          {
+            "id": "676812",
+            "question": "SpaceX Starship fully reusable before 2027?",
+            "conditionId": "0x0a1b551058f78174cf64ed9d61edb103a76c4df88232ee1188dbc9e390896e7d",
+            "slug": "spacex-starship-fully-reusable-before-2027",
+            "resolutionSource": "",
+            "endDate": "2026-12-31T00:00:00Z",
+            "liquidity": "2036.351",
+            "startDate": "2025-11-12T22:05:40.68397Z",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starship-fully-reusable-in-2025--DEFWFOt4Xl2.jpg",
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/starship-fully-reusable-in-2025--DEFWFOt4Xl2.jpg",
+            "description": "On February 28, Elon Musk posted that it was likely Starship would become fully reusable in 2025. You can see the X post here: https://x.com/elonmusk/status/1895598258225106984\n\nThis market will resolve to \"Yes\" if SpaceX or Elon Musk announces that Starship is fully reusable by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nNote, this market refers to the Starship upper stage and does not require reusability for the Super-Heavy booster.\n\nFor this market to resolve to \"Yes\" it is not necessary that an actual reuse occur, only that SpaceX or Elon Musk announces that Starship is fully reusable by this market's resolution date.\n\nThe resolution source for this market is announcements by Elon Musk and SpaceX, or their official representatives.",
+            "outcomes": "[\"Yes\", \"No\"]",
+            "outcomePrices": "[\"0.705\", \"0.295\"]",
+            "volume": "119867.814799",
+            "active": true,
+            "closed": false,
+            "marketMakerAddress": "",
+            "createdAt": "2025-11-11T18:01:23.754725Z",
+            "updatedAt": "2026-07-30T07:22:57.831135Z",
+            "new": false,
+            "featured": false,
+            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+            "archived": false,
+            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+            "restricted": true,
+            "groupItemTitle": "",
+            "groupItemThreshold": "0",
+            "questionID": "0xd51b0b23885664549b623e9a4d25ac78f08d8e5735b863a221321a4acb7070df",
+            "enableOrderBook": true,
+            "orderPriceMinTickSize": 0.01,
+            "orderMinSize": 5,
+            "volumeNum": 119867.814799,
+            "liquidityNum": 2036.351,
+            "endDateIso": "2026-12-31",
+            "startDateIso": "2025-11-12",
+            "hasReviewedDates": true,
+            "volume24hr": 620.269129,
+            "volume1wk": 905.736678,
+            "volume1mo": 1436.2990490000002,
+            "volume1yr": 119865.594799,
+            "clobTokenIds": "[\"68841043137419682742407917950323128757425564408860523030307999893432460743024\", \"56474994774559829851462437736234567725783260130778254578352001078848194168934\"]",
+            "comboStatus": "disabled",
+            "umaBond": "500",
+            "umaReward": "5",
+            "volume24hrClob": 620.269129,
+            "volume1wkClob": 905.736678,
+            "volume1moClob": 1436.2990490000002,
+            "volume1yrClob": 119865.594799,
+            "volumeClob": 119867.814799,
+            "liquidityClob": 2036.351,
+            "makerBaseFee": 1000,
+            "takerBaseFee": 1000,
+            "customLiveness": 0,
+            "acceptingOrders": true,
+            "negRisk": false,
+            "negRiskRequestID": "",
+            "ready": false,
+            "funded": false,
+            "acceptingOrdersTimestamp": "2025-11-12T22:05:19Z",
+            "cyom": false,
+            "competitive": 0.7581392001151604,
+            "pagerDutyNotificationEnabled": false,
+            "approved": true,
+            "rewardsMinSize": 20,
+            "rewardsMaxSpread": 3.5,
+            "spread": 0.21,
+            "oneDayPriceChange": 0.09,
+            "oneHourPriceChange": 0.015,
+            "oneWeekPriceChange": 0.155,
+            "oneMonthPriceChange": 0.215,
+            "lastTradePrice": 0.69,
+            "bestBid": 0.6,
+            "bestAsk": 0.81,
+            "automaticallyActive": true,
+            "clearBookOnStart": true,
+            "manualActivation": false,
+            "negRiskOther": false,
+            "umaResolutionStatuses": "[]",
+            "pendingDeployment": false,
+            "deploying": false,
+            "deployingTimestamp": "2025-11-12T22:04:49.802133Z",
+            "rfqEnabled": false,
+            "holdingRewardsEnabled": false,
+            "feesEnabled": true,
+            "requiresTranslation": false,
+            "feeType": "tech_fees",
+            "feeSchedule": {
+              "exponent": 1,
+              "rate": 0.04,
+              "takerOnly": true,
+              "rebateRate": 0.25
+            },
+            "version": "v1"
+          }
+        ],
+        "resolutionSource": "",
+        "description": "On February 28, Elon Musk posted that it was likely Starship would become fully reusable in 2025. You can see the X post here: https://x.com/elonmusk/status/1895598258225106984\n\nThis market will resolve to \"Yes\" if SpaceX or Elon Musk announces that Starship is fully reusable by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nNote, this market refers to the Starship upper stage and does not require reusability for the Super-Heavy booster.\n\nFor this market to resolve to \"Yes\" it is not necessary that an actual reuse occur, only that SpaceX or Elon Musk announces that Starship is fully reusable by this market's resolution date.\n\nThe resolution source for this market is announcements by Elon Musk and SpaceX, or their official representatives.",
+        "volume": 119867.814799,
+        "liquidity": 2022.5257,
+        "startDate": "2025-11-12T22:05:40.68397Z",
+        "endDate": "2026-12-31T00:00:00Z",
+        "active": true,
+        "closed": false,
+        "current_prob": 0.705,
+        "added_at": "2026-07-30T07:23:49.887950",
+        "first_seen": "2026-07-30T07:23:49.887950",
+        "peak_prob": 0.705,
+        "last_checked_prob": 0.705,
+        "history": [
+          {
+            "time": "07:23",
+            "prob": 0.705,
+            "reason": "Added to Long-Term (high probability)"
+          }
+        ]
       }
     ],
-    "updated_at": "2026-07-30T04:42:34.722976"
+    "updated_at": "2026-07-30T07:23:49.888070"
   }
 }
