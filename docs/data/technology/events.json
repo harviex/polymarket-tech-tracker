@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-30T12:19:56.943767",
+  "updated_at": "2026-07-30T14:57:39.205204",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -594,7 +594,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.985,
+        "probability": 0.986,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -1229,11 +1229,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.985,
+        "current_prob": 0.986,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.985,
+        "last_checked_prob": 0.986,
         "history": [
           {
             "time": "11:50",
@@ -1380,7 +1380,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.917,
+        "probability": 0.8695,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3865,11 +3865,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.917,
+        "current_prob": 0.8695,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.9215,
-        "last_checked_prob": 0.917,
+        "last_checked_prob": 0.8695,
         "history": [
           {
             "time": "17:58",
@@ -3932,8 +3932,8 @@
         "id": "631072",
         "title": "2nd Largest Company end of July?",
         "slug": "2nd-largest-company-end-of-july-20260624192727948",
-        "url": "https://polymarket.com/event/2nd-largest-company-end-of-july-20260624192727948",
-        "probability": 0.9415,
+        "url": "https://polymarket.com/event/631072",
+        "probability": 0.8115,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6889,11 +6889,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9415,
+        "current_prob": 0.8115,
         "added_at": "2026-07-28T04:49:39.190749",
         "first_seen": "2026-07-28T04:49:39.190749",
         "peak_prob": 0.969,
-        "last_checked_prob": 0.9415,
+        "last_checked_prob": 0.8115,
         "history": [
           {
             "time": "04:49",
@@ -6919,6 +6919,11 @@
             "time": "15:01",
             "prob": 0.925,
             "reason": "Update: 78.0% → 92.5%"
+          },
+          {
+            "time": "14:57",
+            "prob": 0.8115,
+            "reason": "Update: 94.2% → 81.2%"
           }
         ]
       },
@@ -6927,7 +6932,7 @@
         "title": "SpaceX Starship fully reusable before 2027?",
         "slug": "spacex-starship-fully-reusable-before-2027",
         "url": "https://polymarket.com/event/79056",
-        "probability": 0.7,
+        "probability": 0.73,
         "option_text": "Yes",
         "tags": [
           "elon-musk",
@@ -7043,11 +7048,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7,
+        "current_prob": 0.73,
         "added_at": "2026-07-30T07:23:49.887950",
         "first_seen": "2026-07-30T07:23:49.887950",
-        "peak_prob": 0.715,
-        "last_checked_prob": 0.7,
+        "peak_prob": 0.73,
+        "last_checked_prob": 0.73,
         "history": [
           {
             "time": "07:23",
@@ -7057,6 +7062,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-30T12:19:56.935792"
+    "updated_at": "2026-07-30T14:57:39.196564"
   }
 }
