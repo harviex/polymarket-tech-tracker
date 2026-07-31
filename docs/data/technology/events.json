@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-31T21:53:14.600458",
+  "updated_at": "2026-07-31T22:46:12.821402",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -163,7 +163,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.865,
         "option_text": "Yes",
         "tags": [
@@ -313,7 +313,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.9845,
         "option_text": "$60",
         "tags": [
@@ -1402,6 +1402,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-31T21:53:14.598437"
+    "updated_at": "2026-07-31T22:46:12.819652"
   }
 }
