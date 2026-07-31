@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-07-31T05:19:45.312229",
+  "updated_at": "2026-07-31T08:25:06.095617",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -32,7 +32,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.88,
+        "probability": 0.885,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -41,11 +41,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.88,
+        "current_prob": 0.885,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.88,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "15:48",
@@ -286,7 +286,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.974,
+        "probability": 0.9745,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -574,11 +574,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.974,
+        "current_prob": 0.9745,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9765,
-        "last_checked_prob": 0.974,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "15:57",
@@ -1378,7 +1378,7 @@
         "title": "Best Chinese AI Company end of July?",
         "slug": "best-chinese-ai-company-end-of-july",
         "url": "https://polymarket.com/event/best-chinese-ai-company-end-of-july",
-        "probability": 0.929,
+        "probability": 0.93,
         "option_text": "Alibaba",
         "tags": [
           "china",
@@ -3863,11 +3863,11 @@
         "endDate": "2026-07-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.929,
+        "current_prob": 0.93,
         "added_at": "2026-07-22T17:58:44.465495",
         "first_seen": "2026-07-22T17:58:44.465495",
         "peak_prob": 0.9575,
-        "last_checked_prob": 0.929,
+        "last_checked_prob": 0.93,
         "history": [
           {
             "time": "17:58",
@@ -3936,7 +3936,7 @@
         "title": "Largest Company end of July?",
         "slug": "largest-company-end-of-july-20260624192302727",
         "url": "https://polymarket.com/event/largest-company-end-of-july-20260624192302727",
-        "probability": 0.8835,
+        "probability": 0.8805,
         "option_text": "NVIDIA",
         "tags": [
           "tech",
@@ -6914,11 +6914,11 @@
         "endDate": "2026-07-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8835,
+        "current_prob": 0.8805,
         "added_at": "2026-07-30T21:54:56.315876",
         "first_seen": "2026-07-30T21:54:56.315876",
         "peak_prob": 0.8835,
-        "last_checked_prob": 0.8835,
+        "last_checked_prob": 0.8805,
         "history": [
           {
             "time": "21:54",
@@ -6938,6 +6938,6 @@
         ]
       }
     ],
-    "updated_at": "2026-07-31T05:19:45.305061"
+    "updated_at": "2026-07-31T08:25:06.088090"
   }
 }
