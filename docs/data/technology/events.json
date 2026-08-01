@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-01T20:02:19.334051",
+  "updated_at": "2026-08-01T21:42:52.343701",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -1254,7 +1254,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.77,
+        "probability": 0.775,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1369,11 +1369,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.775,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "01:18",
@@ -2806,6 +2806,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-01T20:02:19.330173"
+    "updated_at": "2026-08-01T21:42:52.340116"
   }
 }
