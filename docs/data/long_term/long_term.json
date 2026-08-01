@@ -71,7 +71,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9705,
       "option_text": "Yes",
       "tags": [
@@ -1217,8 +1217,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.775,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1333,11 +1333,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-07-20T01:18:34.974420",
       "first_seen": "2026-07-20T01:18:34.974420",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "01:18",
@@ -2770,6 +2770,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-01T17:47:04.679620",
+  "updated_at": "2026-08-01T18:45:58.697276",
   "event_count": 17
 }
