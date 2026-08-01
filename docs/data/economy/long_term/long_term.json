@@ -5,7 +5,7 @@
       "title": "Will ground beef hit __ in 2026?",
       "slug": "will-ground-beef-hit-in-2026",
       "url": "https://polymarket.com/event/will-ground-beef-hit-in-2026",
-      "probability": 0.76,
+      "probability": 0.715,
       "option_text": "$7.000+",
       "tags": [
         "macro-indicators",
@@ -15,11 +15,11 @@
       ],
       "volume": 12604.208087,
       "liquidity": 1339.9717,
-      "current_prob": 0.76,
+      "current_prob": 0.715,
       "added_at": "2026-05-10T00:05:54.762962",
       "first_seen": "2026-05-10T00:05:54.762962",
       "peak_prob": 0.94,
-      "last_checked_prob": 0.76,
+      "last_checked_prob": 0.715,
       "history": [
         {
           "time": "00:05",
@@ -73,7 +73,7 @@
       "title": "How many Fed rate cuts in 2026?",
       "slug": "how-many-fed-rate-cuts-in-2026",
       "url": "https://polymarket.com/event/how-many-fed-rate-cuts-in-2026",
-      "probability": 0.8935,
+      "probability": 0.8845,
       "option_text": "0 (0 bps)",
       "tags": [
         "business",
@@ -87,11 +87,11 @@
       ],
       "volume": 36661531.75212249,
       "liquidity": 2285445.78369,
-      "current_prob": 0.8935,
+      "current_prob": 0.8845,
       "added_at": "2026-06-19T00:06:53.395010",
       "first_seen": "2026-06-19T00:06:53.395010",
       "peak_prob": 0.8935,
-      "last_checked_prob": 0.8935,
+      "last_checked_prob": 0.8845,
       "history": [
         {
           "time": "00:06",
@@ -105,7 +105,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "probability": 0.805,
+      "probability": 0.835,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -115,11 +115,11 @@
       ],
       "volume": 95869.61764999993,
       "liquidity": 7596.6751,
-      "current_prob": 0.805,
+      "current_prob": 0.835,
       "added_at": "2026-06-22T00:06:12.581282",
       "first_seen": "2026-06-22T00:06:12.581282",
       "peak_prob": 0.895,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "00:06",
@@ -236,7 +236,7 @@
       "title": "Richest person on December 31, 2026?",
       "slug": "richest-person-on-december-31-2026",
       "url": "https://polymarket.com/event/richest-person-on-december-31-2026",
-      "probability": 0.94,
+      "probability": 0.943,
       "option_text": "Elon Musk",
       "tags": [
         "business",
@@ -246,11 +246,11 @@
       ],
       "volume": 1833321.35572,
       "liquidity": 119862.84928,
-      "current_prob": 0.94,
+      "current_prob": 0.943,
       "added_at": "2026-07-03T00:06:26.677046",
       "first_seen": "2026-07-03T00:06:26.677046",
       "peak_prob": 0.9685,
-      "last_checked_prob": 0.94,
+      "last_checked_prob": 0.943,
       "history": [
         {
           "time": "00:06",
@@ -353,7 +353,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -366,11 +366,11 @@
       ],
       "volume": 25689.083136,
       "liquidity": 4495.1961,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-07-21T00:06:33.752342",
       "first_seen": "2026-07-21T00:06:33.752342",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "00:06",
@@ -419,7 +419,7 @@
       "title": "Largest Company end of August?",
       "slug": "largest-company-end-of-august-20260715202138598",
       "url": "https://polymarket.com/event/largest-company-end-of-august-20260715202138598",
-      "probability": 0.705,
+      "probability": 0.745,
       "option_text": "NVIDIA",
       "tags": [
         "tech",
@@ -430,11 +430,11 @@
       ],
       "volume": 634717.86116,
       "liquidity": 553323.91146,
-      "current_prob": 0.705,
+      "current_prob": 0.745,
       "added_at": "2026-08-01T00:05:51.642483",
       "first_seen": "2026-08-01T00:05:51.642483",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.705,
+      "peak_prob": 0.745,
+      "last_checked_prob": 0.745,
       "history": [
         {
           "time": "00:05",
@@ -448,7 +448,7 @@
       "title": "Reserve Bank of New Zealand decision in September?",
       "slug": "reserve-bank-of-new-zealand-decision-in-september-20260710022000963",
       "url": "https://polymarket.com/event/reserve-bank-of-new-zealand-decision-in-september-20260710022000963",
-      "probability": 0.84,
+      "probability": 0.865,
       "option_text": "Increase",
       "tags": [
         "rbnz",
@@ -461,11 +461,11 @@
       ],
       "volume": 17153.559114,
       "liquidity": 13528.38831,
-      "current_prob": 0.84,
+      "current_prob": 0.865,
       "added_at": "2026-08-01T00:05:51.642483",
       "first_seen": "2026-08-01T00:05:51.642483",
-      "peak_prob": 0.84,
-      "last_checked_prob": 0.84,
+      "peak_prob": 0.865,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "00:05",
@@ -475,6 +475,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-01T00:05:51.642637",
+  "updated_at": "2026-08-02T00:05:21.986202",
   "event_count": 12
 }
