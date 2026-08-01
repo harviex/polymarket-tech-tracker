@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-01T05:12:12.955352",
+  "updated_at": "2026-08-01T07:55:23.222370",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -107,7 +107,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9695,
         "option_text": "Yes",
         "tags": [
@@ -145,7 +145,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.845,
+        "probability": 0.835,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -267,11 +267,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.845,
+        "current_prob": 0.835,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.835,
         "history": [
           {
             "time": "20:57",
@@ -294,8 +294,8 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
-        "probability": 0.9845,
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "probability": 0.984,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -583,11 +583,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9845,
+        "current_prob": 0.984,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.9845,
-        "last_checked_prob": 0.9845,
+        "last_checked_prob": 0.984,
         "history": [
           {
             "time": "15:57",
@@ -1253,7 +1253,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.775,
         "option_text": "Up",
         "tags": [
@@ -1386,7 +1386,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+        "url": "https://polymarket.com/event/648785",
         "probability": 0.87,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2806,6 +2806,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-01T05:12:12.951760"
+    "updated_at": "2026-08-01T07:55:23.218726"
   }
 }
