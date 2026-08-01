@@ -108,7 +108,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.835,
       "option_text": "Yes",
       "tags": [
@@ -564,7 +564,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.984,
       "option_text": "$170B",
       "tags": [
@@ -1350,7 +1350,7 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/648785",
+      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
       "probability": 0.87,
       "option_text": "Reliance Industries Ltd",
       "tags": [
@@ -2770,6 +2770,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-01T15:48:13.381541",
+  "updated_at": "2026-08-01T16:42:45.215703",
   "event_count": 17
 }
