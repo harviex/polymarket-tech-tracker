@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-01T11:07:45.745077",
+  "updated_at": "2026-08-01T12:46:48.527409",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -144,7 +144,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.835,
         "option_text": "Yes",
         "tags": [
@@ -2806,6 +2806,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-01T11:07:45.741325"
+    "updated_at": "2026-08-01T12:46:48.523855"
   }
 }
