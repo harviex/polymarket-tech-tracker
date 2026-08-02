@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.895,
       "option_text": "Yes",
       "tags": [
@@ -71,7 +71,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.9705,
       "option_text": "Yes",
       "tags": [
@@ -258,7 +258,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.984,
       "option_text": "$60",
       "tags": [
@@ -1218,7 +1218,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.775,
+      "probability": 0.78,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1333,11 +1333,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.78,
       "added_at": "2026-07-20T01:18:34.974420",
       "first_seen": "2026-07-20T01:18:34.974420",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "01:18",
@@ -1350,7 +1350,7 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/648785",
+      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
       "probability": 0.87,
       "option_text": "Reliance Industries Ltd",
       "tags": [
@@ -2770,6 +2770,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-02T17:48:09.859829",
+  "updated_at": "2026-08-02T18:46:22.699290",
   "event_count": 17
 }
