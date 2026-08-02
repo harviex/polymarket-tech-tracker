@@ -564,7 +564,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
       "probability": 0.984,
       "option_text": "$170B",
       "tags": [
@@ -2770,6 +2770,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-02T07:57:03.923866",
+  "updated_at": "2026-08-02T09:49:08.640202",
   "event_count": 17
 }
