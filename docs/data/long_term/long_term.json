@@ -108,8 +108,8 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/79080",
-      "probability": 0.815,
+      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "probability": 0.825,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -231,11 +231,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.815,
+      "current_prob": 0.825,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "20:57",
@@ -564,7 +564,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.984,
       "option_text": "$170B",
       "tags": [
@@ -1218,7 +1218,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "probability": 0.775,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1333,11 +1333,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-07-20T01:18:34.974420",
       "first_seen": "2026-07-20T01:18:34.974420",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "01:18",
@@ -2775,6 +2775,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-02T23:45:34.531961",
+  "updated_at": "2026-08-03T01:21:02.756023",
   "event_count": 17
 }
