@@ -569,8 +569,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.984,
+      "url": "https://polymarket.com/event/407875",
+      "probability": 0.9785,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -1205,11 +1205,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.984,
+      "current_prob": 0.9785,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.984,
+      "last_checked_prob": 0.9785,
       "history": [
         {
           "time": "11:50",
@@ -1222,8 +1222,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.77,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.775,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1338,11 +1338,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.77,
+      "current_prob": 0.775,
       "added_at": "2026-07-20T01:18:34.974420",
       "first_seen": "2026-07-20T01:18:34.974420",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.77,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "01:18",
@@ -1355,8 +1355,8 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/648785",
-      "probability": 0.82,
+      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+      "probability": 0.84,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2761,11 +2761,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.82,
+      "current_prob": 0.84,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.82,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "01:22",
@@ -2780,6 +2780,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-03T21:54:42.998561",
+  "updated_at": "2026-08-03T22:45:49.172661",
   "event_count": 17
 }
