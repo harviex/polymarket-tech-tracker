@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-04T20:59:06.778955",
+  "updated_at": "2026-08-04T22:07:36.391043",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -32,7 +32,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.89,
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -41,11 +41,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.89,
+        "current_prob": 0.845,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:48",
@@ -136,7 +136,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.895,
+        "probability": 0.89,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -258,11 +258,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.895,
+        "current_prob": 0.89,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "20:57",
@@ -2674,6 +2674,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-04T20:59:06.775479"
+    "updated_at": "2026-08-04T22:07:36.387644"
   }
 }
