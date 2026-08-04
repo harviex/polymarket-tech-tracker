@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.905,
+      "probability": 0.91,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.905,
+      "current_prob": 0.91,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.91,
       "history": [
         {
           "time": "15:48",
@@ -109,7 +109,7 @@
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "url": "https://polymarket.com/event/79080",
-      "probability": 0.905,
+      "probability": 0.9,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -231,11 +231,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.9,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
       "peak_prob": 0.915,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.9,
       "history": [
         {
           "time": "20:57",
@@ -1355,8 +1355,8 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/648785",
-      "probability": 0.835,
+      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+      "probability": 0.815,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2761,11 +2761,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.835,
+      "current_prob": 0.815,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.815,
       "history": [
         {
           "time": "01:22",
@@ -2780,6 +2780,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-04T04:49:53.985645",
+  "updated_at": "2026-08-04T07:27:40.214975",
   "event_count": 17
 }
