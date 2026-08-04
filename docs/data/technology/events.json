@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-04T07:27:40.218505",
+  "updated_at": "2026-08-04T10:23:13.825314",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
@@ -10,7 +10,7 @@
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
         "url": "https://polymarket.com/event/103468",
-        "probability": 0.91,
+        "probability": 0.89,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.91,
+        "current_prob": 0.89,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.91,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "15:48",
@@ -76,8 +76,8 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
-        "probability": 0.9725,
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "probability": 0.9695,
         "option_text": "Yes",
         "tags": [
           "big-tech",
@@ -86,11 +86,11 @@
         ],
         "volume": 92980.70276899995,
         "liquidity": 3391.3302,
-        "current_prob": 0.9725,
+        "current_prob": 0.9695,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.9725,
-        "last_checked_prob": 0.9725,
+        "last_checked_prob": 0.9695,
         "history": [
           {
             "time": "15:48",
@@ -114,7 +114,7 @@
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "url": "https://polymarket.com/event/79080",
-        "probability": 0.9,
+        "probability": 0.905,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -236,11 +236,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9,
+        "current_prob": 0.905,
         "added_at": "2026-06-12T20:57:52.317872",
         "first_seen": "2026-06-12T20:57:52.317872",
         "peak_prob": 0.915,
-        "last_checked_prob": 0.9,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "20:57",
@@ -574,7 +574,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.9785,
         "option_text": "$180B",
         "tags": [
@@ -1228,7 +1228,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.77,
+        "probability": 0.785,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1343,11 +1343,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.785,
         "added_at": "2026-07-20T01:18:34.974420",
         "first_seen": "2026-07-20T01:18:34.974420",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.785,
         "history": [
           {
             "time": "01:18",
@@ -1360,7 +1360,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+        "url": "https://polymarket.com/event/648785",
         "probability": 0.815,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2785,6 +2785,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-04T07:27:40.214975"
+    "updated_at": "2026-08-04T10:23:13.821753"
   }
 }
