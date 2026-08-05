@@ -1,29 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-04T23:50:49.668779",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "290152",
-          "title": "Tech Layoffs Up or Down in 20​26?",
-          "tags": [],
-          "first_seen": "2026-08-04T12:50:16.266337",
-          "history": [
-            {
-              "time": "12:50",
-              "prob": 0.785,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.785
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-08-05T01:13:55.729035",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
     "events": [
@@ -2674,6 +2652,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-04T23:50:49.665327"
+    "updated_at": "2026-08-05T01:13:55.725610"
   }
 }
