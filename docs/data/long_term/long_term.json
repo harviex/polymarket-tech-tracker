@@ -264,7 +264,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.986,
+      "probability": 0.9855,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -552,11 +552,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.986,
+      "current_prob": 0.9855,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.986,
+      "last_checked_prob": 0.9855,
       "history": [
         {
           "time": "15:57",
@@ -570,7 +570,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.896,
+      "probability": 0.897,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -1205,11 +1205,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.896,
+      "current_prob": 0.897,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.896,
+      "last_checked_prob": 0.897,
       "history": [
         {
           "time": "11:50",
@@ -1228,7 +1228,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.8,
+      "probability": 0.81,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2633,11 +2633,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.81,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.8,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "01:22",
@@ -2652,6 +2652,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-06T10:20:50.091504",
+  "updated_at": "2026-08-06T12:47:18.338385",
   "event_count": 17
 }
