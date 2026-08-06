@@ -1228,7 +1228,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.8,
+      "probability": 0.795,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2633,11 +2633,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.795,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.8,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "01:22",
@@ -2652,6 +2652,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-05T23:43:53.436821",
+  "updated_at": "2026-08-06T01:11:19.098916",
   "event_count": 17
 }
