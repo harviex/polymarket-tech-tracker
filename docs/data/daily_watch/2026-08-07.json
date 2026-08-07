@@ -18,9 +18,32 @@
           "time": "10:38",
           "prob": 0.72,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "14:02",
+          "prob": 0.795,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
         }
       ],
       "current_prob": 0.72
+    },
+    "79041": {
+      "id": "79041",
+      "title": "Largest Company end of December 2026?",
+      "tags": [],
+      "first_seen": "2026-08-07T14:02:10.274736",
+      "history": [
+        {
+          "time": "14:02",
+          "prob": 0.705,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.705
     }
   }
 }
