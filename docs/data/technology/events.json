@@ -1,83 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-07T23:21:16.709403",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "290152",
-          "title": "Tech Layoffs Up or Down in 20​26?",
-          "tags": [],
-          "first_seen": "2026-08-07T09:45:33.981957",
-          "history": [
-            {
-              "time": "09:45",
-              "prob": 0.72,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "10:38",
-              "prob": 0.72,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "14:02",
-              "prob": 0.795,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "16:37",
-              "prob": 0.79,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "17:37",
-              "prob": 0.735,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "18:34",
-              "prob": 0.735,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "20:24",
-              "prob": 0.78,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.72
-        },
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "tags": [],
-          "first_seen": "2026-08-07T14:02:10.274736",
-          "history": [
-            {
-              "time": "14:02",
-              "prob": 0.705,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.705
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-08-08T00:37:44.465303",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -656,7 +580,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.8935,
+        "probability": 0.903,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1291,11 +1215,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8935,
+        "current_prob": 0.903,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.8935,
+        "last_checked_prob": 0.903,
         "history": [
           {
             "time": "11:50",
@@ -5660,7 +5584,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.82,
+        "probability": 0.705,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -5768,11 +5692,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.82,
+        "current_prob": 0.705,
         "added_at": "2026-08-07T20:24:59.139021",
         "first_seen": "2026-08-07T20:24:59.139021",
         "peak_prob": 0.82,
-        "last_checked_prob": 0.82,
+        "last_checked_prob": 0.705,
         "history": [
           {
             "time": "20:24",
@@ -5788,10 +5712,15 @@
             "time": "22:21",
             "prob": 0.78,
             "reason": "Update: 72.0% → 78.0%"
+          },
+          {
+            "time": "00:37",
+            "prob": 0.705,
+            "reason": "Update: 82.0% → 70.5%"
           }
         ]
       }
     ],
-    "updated_at": "2026-08-07T23:21:16.702607"
+    "updated_at": "2026-08-08T00:37:44.457978"
   }
 }
