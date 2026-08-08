@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.91,
       "option_text": "Yes",
       "tags": [
@@ -264,8 +264,8 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.942,
-      "option_text": "$70",
+      "probability": 0.963,
+      "option_text": "$60",
       "tags": [
         "tech",
         "gta-6",
@@ -552,11 +552,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.942,
+      "current_prob": 0.963,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.942,
+      "last_checked_prob": 0.963,
       "history": [
         {
           "time": "15:57",
@@ -574,8 +574,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.903,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.904,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1210,11 +1210,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.903,
+      "current_prob": 0.904,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.903,
+      "last_checked_prob": 0.904,
       "history": [
         {
           "time": "11:50",
@@ -2660,7 +2660,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/79041",
+      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
       "probability": 0.705,
       "option_text": "NVIDIA",
       "tags": [
@@ -5578,8 +5578,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.705,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.78,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -5687,11 +5687,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.78,
       "added_at": "2026-08-07T20:24:59.139021",
       "first_seen": "2026-08-07T20:24:59.139021",
       "peak_prob": 0.82,
-      "last_checked_prob": 0.705,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "20:24",
@@ -5712,10 +5712,15 @@
           "time": "00:37",
           "prob": 0.705,
           "reason": "Update: 82.0% → 70.5%"
+        },
+        {
+          "time": "02:46",
+          "prob": 0.78,
+          "reason": "Update: 70.5% → 78.0%"
         }
       ]
     }
   },
-  "updated_at": "2026-08-08T00:37:44.457978",
+  "updated_at": "2026-08-08T02:46:23.933419",
   "event_count": 17
 }
