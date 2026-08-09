@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-09T15:17:59.673170",
+  "updated_at": "2026-08-09T16:17:44.940929",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -76,7 +76,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.9705,
         "option_text": "Yes",
         "tags": [
@@ -268,8 +268,8 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9645,
+        "url": "https://polymarket.com/event/612483",
+        "probability": 0.962,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -557,11 +557,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9645,
+        "current_prob": 0.962,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9645,
+        "last_checked_prob": 0.962,
         "history": [
           {
             "time": "15:57",
@@ -580,7 +580,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.893,
+        "probability": 0.9015,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1215,11 +1215,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.893,
+        "current_prob": 0.9015,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.893,
+        "last_checked_prob": 0.9015,
         "history": [
           {
             "time": "11:50",
@@ -1237,7 +1237,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+        "url": "https://polymarket.com/event/648785",
         "probability": 0.845,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2665,8 +2665,8 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
-        "probability": 0.705,
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+        "probability": 0.7,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -5566,11 +5566,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.705,
+        "current_prob": 0.7,
         "added_at": "2026-08-07T14:02:10.267446",
         "first_seen": "2026-08-07T14:02:10.267446",
         "peak_prob": 0.705,
-        "last_checked_prob": 0.705,
+        "last_checked_prob": 0.7,
         "history": [
           {
             "time": "14:02",
@@ -5583,8 +5583,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-        "probability": 0.815,
+        "url": "https://polymarket.com/event/290152",
+        "probability": 0.835,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -5700,11 +5700,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.815,
+        "current_prob": 0.835,
         "added_at": "2026-08-08T11:16:38.455943",
         "first_seen": "2026-08-08T11:16:38.455943",
-        "peak_prob": 0.83,
-        "last_checked_prob": 0.815,
+        "peak_prob": 0.835,
+        "last_checked_prob": 0.835,
         "history": [
           {
             "time": "11:16",
@@ -5719,6 +5719,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-09T15:17:59.666361"
+    "updated_at": "2026-08-09T16:17:44.935724"
   }
 }
