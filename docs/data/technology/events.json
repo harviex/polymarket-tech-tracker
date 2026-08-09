@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-09T19:22:40.290143",
+  "updated_at": "2026-08-09T20:16:06.939168",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
@@ -269,7 +269,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.9595,
+        "probability": 0.9575,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -557,11 +557,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9595,
+        "current_prob": 0.9575,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9595,
+        "last_checked_prob": 0.9575,
         "history": [
           {
             "time": "15:57",
@@ -580,8 +580,8 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.881,
-        "option_text": "$190B",
+        "probability": 0.9035,
+        "option_text": "$180B",
         "tags": [
           "finance",
           "tech",
@@ -1215,11 +1215,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.881,
+        "current_prob": 0.9035,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.881,
+        "last_checked_prob": 0.9035,
         "history": [
           {
             "time": "11:50",
@@ -5584,7 +5584,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.835,
+        "probability": 0.815,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -5700,11 +5700,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.835,
+        "current_prob": 0.815,
         "added_at": "2026-08-08T11:16:38.455943",
         "first_seen": "2026-08-08T11:16:38.455943",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.835,
+        "last_checked_prob": 0.815,
         "history": [
           {
             "time": "11:16",
@@ -5719,6 +5719,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-09T19:22:40.281322"
+    "updated_at": "2026-08-09T20:16:06.932390"
   }
 }
