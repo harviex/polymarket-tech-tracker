@@ -58,6 +58,20 @@
         }
       ],
       "current_prob": 0.9805
+    },
+    "290152": {
+      "id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "tags": [],
+      "first_seen": "2026-08-11T20:30:06.307261",
+      "history": [
+        {
+          "time": "20:30",
+          "prob": 0.71,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.71
     }
   }
 }
