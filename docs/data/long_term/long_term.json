@@ -108,7 +108,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.83,
       "option_text": "Yes",
       "tags": [
@@ -579,8 +579,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.9,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.881,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1215,11 +1215,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9,
+      "current_prob": 0.881,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.881,
       "history": [
         {
           "time": "11:50",
@@ -1237,7 +1237,7 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+      "url": "https://polymarket.com/event/648785",
       "probability": 0.835,
       "option_text": "Reliance Industries Ltd",
       "tags": [
@@ -2665,7 +2665,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/79041",
       "probability": 0.705,
       "option_text": "NVIDIA",
       "tags": [
@@ -5576,7 +5576,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+      "url": "https://polymarket.com/event/627701",
       "probability": 0.9805,
       "option_text": "$1000",
       "tags": [
@@ -6008,7 +6008,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.705,
+      "probability": 0.71,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6124,11 +6124,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.71,
       "added_at": "2026-08-11T22:27:52.687240",
       "first_seen": "2026-08-11T22:27:52.687240",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.705,
+      "peak_prob": 0.71,
+      "last_checked_prob": 0.71,
       "history": [
         {
           "time": "22:27",
@@ -6138,6 +6138,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-11T22:27:52.687352",
+  "updated_at": "2026-08-11T23:26:51.922268",
   "event_count": 17
 }
