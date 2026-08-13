@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-13T00:49:54.797204",
+  "updated_at": "2026-08-13T03:19:06.595834",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
@@ -76,7 +76,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
         "probability": 0.9755,
         "option_text": "Yes",
         "tags": [
@@ -113,7 +113,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.895,
         "option_text": "Yes",
         "tags": [
@@ -279,7 +279,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.968,
+        "probability": 0.969,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -567,11 +567,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.968,
+        "current_prob": 0.969,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.968,
+        "last_checked_prob": 0.969,
         "history": [
           {
             "time": "15:57",
@@ -589,8 +589,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
-        "probability": 0.918,
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "probability": 0.9245,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1225,11 +1225,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.918,
+        "current_prob": 0.9245,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.918,
+        "last_checked_prob": 0.9245,
         "history": [
           {
             "time": "11:50",
@@ -1248,7 +1248,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.83,
+        "probability": 0.825,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2653,11 +2653,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.83,
+        "current_prob": 0.825,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.83,
+        "last_checked_prob": 0.825,
         "history": [
           {
             "time": "01:22",
@@ -5586,7 +5586,7 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/627701",
+        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "probability": 0.9815,
         "option_text": "$1000",
         "tags": [
@@ -6018,7 +6018,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.73,
+        "probability": 0.74,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -6134,11 +6134,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.74,
         "added_at": "2026-08-12T19:54:20.477849",
         "first_seen": "2026-08-12T19:54:20.477849",
         "peak_prob": 0.78,
-        "last_checked_prob": 0.73,
+        "last_checked_prob": 0.74,
         "history": [
           {
             "time": "19:54",
@@ -6158,6 +6158,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-13T00:49:54.789986"
+    "updated_at": "2026-08-13T03:19:06.588579"
   }
 }
