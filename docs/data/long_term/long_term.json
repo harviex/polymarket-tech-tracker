@@ -585,7 +585,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.907,
+      "probability": 0.918,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1220,11 +1220,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.907,
+      "current_prob": 0.918,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.907,
+      "last_checked_prob": 0.918,
       "history": [
         {
           "time": "11:50",
@@ -6013,7 +6013,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.775,
+      "probability": 0.73,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6129,11 +6129,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.73,
       "added_at": "2026-08-12T19:54:20.477849",
       "first_seen": "2026-08-12T19:54:20.477849",
       "peak_prob": 0.78,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "19:54",
@@ -6153,6 +6153,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-12T23:26:56.296959",
+  "updated_at": "2026-08-13T00:49:54.789986",
   "event_count": 17
 }

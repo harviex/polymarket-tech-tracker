@@ -1,36 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-12T23:26:56.302754",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "290152",
-          "title": "Tech Layoffs Up or Down in 20​26?",
-          "tags": [],
-          "first_seen": "2026-08-12T18:42:35.415566",
-          "history": [
-            {
-              "time": "18:42",
-              "prob": 0.705,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "19:54",
-              "prob": 0.745,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.705
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-08-13T00:49:54.797204",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 9,
     "events": [
@@ -619,7 +590,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.907,
+        "probability": 0.918,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1254,11 +1225,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.907,
+        "current_prob": 0.918,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.907,
+        "last_checked_prob": 0.918,
         "history": [
           {
             "time": "11:50",
@@ -6047,7 +6018,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.775,
+        "probability": 0.73,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -6163,11 +6134,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.73,
         "added_at": "2026-08-12T19:54:20.477849",
         "first_seen": "2026-08-12T19:54:20.477849",
         "peak_prob": 0.78,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.73,
         "history": [
           {
             "time": "19:54",
@@ -6187,6 +6158,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-12T23:26:56.296959"
+    "updated_at": "2026-08-13T00:49:54.789986"
   }
 }
