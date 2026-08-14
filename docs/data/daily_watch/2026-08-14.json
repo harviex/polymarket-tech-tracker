@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-14",
+  "events": {
+    "79041": {
+      "id": "79041",
+      "title": "Largest Company end of December 2026?",
+      "tags": [],
+      "first_seen": "2026-08-14T07:01:23.366201",
+      "history": [
+        {
+          "time": "07:01",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.705
+    },
+    "290152": {
+      "id": "290152",
+      "title": "Tech Layoffs Up or Down in 20​26?",
+      "tags": [],
+      "first_seen": "2026-08-14T07:01:23.366211",
+      "history": [
+        {
+          "time": "07:01",
+          "prob": 0.73,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.73
+    }
+  }
+}
