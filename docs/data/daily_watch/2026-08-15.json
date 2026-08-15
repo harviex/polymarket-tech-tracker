@@ -47,6 +47,20 @@
         }
       ],
       "current_prob": 0.74
+    },
+    "103636": {
+      "id": "103636",
+      "title": "Will Apple release iPhone 18 in 2026?",
+      "tags": [],
+      "first_seen": "2026-08-15T21:08:42.744156",
+      "history": [
+        {
+          "time": "21:08",
+          "prob": 0.99,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.99
     }
   }
 }
