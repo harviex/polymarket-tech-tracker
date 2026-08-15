@@ -71,7 +71,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9815,
       "option_text": "Yes",
       "tags": [
@@ -108,7 +108,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.895,
       "option_text": "Yes",
       "tags": [
@@ -274,7 +274,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.97,
+      "probability": 0.9705,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -562,11 +562,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.97,
+      "current_prob": 0.9705,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.97,
+      "last_checked_prob": 0.9705,
       "history": [
         {
           "time": "15:57",
@@ -6166,8 +6166,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.79,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.8,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6283,11 +6283,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.79,
+      "current_prob": 0.8,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.8,
-      "last_checked_prob": 0.79,
+      "last_checked_prob": 0.8,
       "history": [
         {
           "time": "06:15",
@@ -6302,6 +6302,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-15T10:09:23.754829",
+  "updated_at": "2026-08-15T11:07:13.074712",
   "event_count": 17
 }
