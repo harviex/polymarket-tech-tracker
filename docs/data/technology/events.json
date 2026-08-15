@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-15T22:07:04.613306",
+  "updated_at": "2026-08-15T23:07:53.048765",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -3160,7 +3160,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.82,
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -3288,11 +3288,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.82,
+        "current_prob": 0.845,
         "added_at": "2026-08-13T21:31:35.446175",
         "first_seen": "2026-08-13T21:31:35.446175",
-        "peak_prob": 0.825,
-        "last_checked_prob": 0.82,
+        "peak_prob": 0.845,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "21:31",
@@ -6225,7 +6225,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.82,
+        "probability": 0.815,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -6341,11 +6341,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.82,
+        "current_prob": 0.815,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.83,
-        "last_checked_prob": 0.82,
+        "last_checked_prob": 0.815,
         "history": [
           {
             "time": "06:15",
@@ -6492,6 +6492,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-15T22:07:04.605674"
+    "updated_at": "2026-08-15T23:07:53.040644"
   }
 }
