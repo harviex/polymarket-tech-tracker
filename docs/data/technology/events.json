@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-16T10:09:14.200070",
+  "updated_at": "2026-08-16T11:08:25.970734",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.93,
         "option_text": "Yes",
         "tags": [
@@ -241,8 +241,8 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.974,
+        "url": "https://polymarket.com/event/612483",
+        "probability": 0.973,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -530,11 +530,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.974,
+        "current_prob": 0.973,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.974,
+        "last_checked_prob": 0.973,
         "history": [
           {
             "time": "15:57",
@@ -552,8 +552,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
-        "probability": 0.9285,
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "probability": 0.929,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1188,11 +1188,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9285,
+        "current_prob": 0.929,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9285,
+        "last_checked_prob": 0.929,
         "history": [
           {
             "time": "11:50",
@@ -3069,7 +3069,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.845,
         "option_text": "Yes",
         "tags": [
@@ -3220,7 +3220,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
         "probability": 0.73,
         "option_text": "NVIDIA",
         "tags": [
@@ -6134,8 +6134,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.805,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.83,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -6251,11 +6251,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.805,
+        "current_prob": 0.83,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.83,
-        "last_checked_prob": 0.805,
+        "last_checked_prob": 0.83,
         "history": [
           {
             "time": "06:15",
@@ -6273,7 +6273,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.983,
         "option_text": "Yes",
         "tags": [
@@ -6402,6 +6402,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-16T10:09:14.192442"
+    "updated_at": "2026-08-16T11:08:25.963399"
   }
 }
