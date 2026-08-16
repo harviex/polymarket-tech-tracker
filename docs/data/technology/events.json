@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-16T05:16:07.236682",
+  "updated_at": "2026-08-16T06:16:39.450944",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -241,7 +241,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9685,
         "option_text": "$60",
         "tags": [
@@ -553,7 +553,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.924,
+        "probability": 0.9295,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -1188,11 +1188,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.924,
+        "current_prob": 0.9295,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.924,
+        "last_checked_prob": 0.9295,
         "history": [
           {
             "time": "11:50",
@@ -2638,7 +2638,7 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+        "url": "https://polymarket.com/event/627701",
         "probability": 0.981,
         "option_text": "$1000",
         "tags": [
@@ -6402,6 +6402,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-16T05:16:07.229262"
+    "updated_at": "2026-08-16T06:16:39.444598"
   }
 }
