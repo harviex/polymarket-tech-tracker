@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.93,
       "option_text": "Yes",
       "tags": [
@@ -71,7 +71,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.9,
       "option_text": "Yes",
       "tags": [
@@ -548,7 +548,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9295,
+      "probability": 0.9285,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1183,11 +1183,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9295,
+      "current_prob": 0.9285,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9295,
+      "last_checked_prob": 0.9285,
       "history": [
         {
           "time": "11:50",
@@ -2633,7 +2633,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/627701",
+      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -3215,8 +3215,8 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-      "probability": 0.735,
+      "url": "https://polymarket.com/event/79041",
+      "probability": 0.73,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -6112,11 +6112,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.735,
+      "current_prob": 0.73,
       "added_at": "2026-08-14T09:47:25.338148",
       "first_seen": "2026-08-14T09:47:25.338148",
       "peak_prob": 0.735,
-      "last_checked_prob": 0.735,
+      "last_checked_prob": 0.73,
       "history": [
         {
           "time": "09:47",
@@ -6129,8 +6129,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.81,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.805,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6246,11 +6246,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.81,
+      "current_prob": 0.805,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.81,
+      "last_checked_prob": 0.805,
       "history": [
         {
           "time": "06:15",
@@ -6268,7 +6268,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.983,
       "option_text": "Yes",
       "tags": [
@@ -6397,6 +6397,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-16T09:13:55.457871",
+  "updated_at": "2026-08-16T10:09:14.192442",
   "event_count": 17
 }
