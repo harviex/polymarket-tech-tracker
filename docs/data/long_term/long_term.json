@@ -236,8 +236,8 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
-      "probability": 0.973,
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+      "probability": 0.97,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -525,11 +525,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.973,
+      "current_prob": 0.97,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.973,
+      "last_checked_prob": 0.97,
       "history": [
         {
           "time": "15:57",
@@ -547,8 +547,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.929,
+      "url": "https://polymarket.com/event/407875",
+      "probability": 0.9285,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1183,11 +1183,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.929,
+      "current_prob": 0.9285,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.929,
+      "last_checked_prob": 0.9285,
       "history": [
         {
           "time": "11:50",
@@ -6129,8 +6129,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.83,
+      "url": "https://polymarket.com/event/290152",
+      "probability": 0.81,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6246,11 +6246,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.83,
+      "current_prob": 0.81,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.83,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "06:15",
@@ -6397,6 +6397,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-16T11:08:25.963399",
+  "updated_at": "2026-08-16T12:11:44.973638",
   "event_count": 17
 }
