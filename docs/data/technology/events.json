@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-16T21:07:22.356469",
+  "updated_at": "2026-08-16T22:06:35.844711",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -552,7 +552,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.9295,
         "option_text": "$190B",
         "tags": [
@@ -1210,7 +1210,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/648785",
+        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
         "probability": 0.835,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -6134,8 +6134,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.8,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.805,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -6251,11 +6251,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8,
+        "current_prob": 0.805,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.83,
-        "last_checked_prob": 0.8,
+        "last_checked_prob": 0.805,
         "history": [
           {
             "time": "06:15",
@@ -6274,7 +6274,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/103636",
-        "probability": 0.983,
+        "probability": 0.987,
         "option_text": "Yes",
         "tags": [
           "kpis",
@@ -6388,11 +6388,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.983,
+        "current_prob": 0.987,
         "added_at": "2026-08-15T22:07:04.605557",
         "first_seen": "2026-08-15T22:07:04.605557",
         "peak_prob": 0.9875,
-        "last_checked_prob": 0.983,
+        "last_checked_prob": 0.987,
         "history": [
           {
             "time": "22:07",
@@ -6402,6 +6402,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-16T21:07:22.348805"
+    "updated_at": "2026-08-16T22:06:35.837006"
   }
 }
