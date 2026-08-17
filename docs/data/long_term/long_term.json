@@ -2643,7 +2643,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+      "url": "https://polymarket.com/event/627701",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -6140,7 +6140,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.8,
+      "probability": 0.795,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -6256,11 +6256,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.795,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.83,
-      "last_checked_prob": 0.8,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "06:15",
@@ -6278,7 +6278,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.983,
       "option_text": "Yes",
       "tags": [
@@ -6407,6 +6407,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-17T21:13:05.678079",
+  "updated_at": "2026-08-17T22:09:41.744563",
   "event_count": 17
 }
