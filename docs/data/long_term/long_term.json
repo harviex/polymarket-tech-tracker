@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/103468",
+      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
       "probability": 0.93,
       "option_text": "Yes",
       "tags": [
@@ -547,7 +547,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.9295,
       "option_text": "$190B",
       "tags": [
@@ -2633,7 +2633,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+      "url": "https://polymarket.com/event/627701",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -3064,7 +3064,7 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "url": "https://polymarket.com/event/428507",
       "probability": 0.825,
       "option_text": "Yes",
       "tags": [
@@ -6397,6 +6397,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-17T04:28:05.567347",
+  "updated_at": "2026-08-17T05:23:39.572034",
   "event_count": 17
 }
