@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.845,
       "option_text": "Yes",
       "tags": [
@@ -81,7 +81,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "url": "https://polymarket.com/event/79080",
       "probability": 0.9,
       "option_text": "Yes",
       "tags": [
@@ -557,8 +557,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.906,
+      "url": "https://polymarket.com/event/407875",
+      "probability": 0.8965,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1193,11 +1193,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.906,
+      "current_prob": 0.8965,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.906,
+      "last_checked_prob": 0.8965,
       "history": [
         {
           "time": "11:50",
@@ -3075,7 +3075,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.83,
+      "probability": 0.825,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -3203,11 +3203,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.83,
+      "current_prob": 0.825,
       "added_at": "2026-08-13T21:31:35.446175",
       "first_seen": "2026-08-13T21:31:35.446175",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.83,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "21:31",
@@ -3226,7 +3226,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.775,
+      "probability": 0.79,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -6122,11 +6122,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.79,
       "added_at": "2026-08-14T09:47:25.338148",
       "first_seen": "2026-08-14T09:47:25.338148",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.79,
       "history": [
         {
           "time": "09:47",
@@ -6407,6 +6407,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-18T07:26:09.000474",
+  "updated_at": "2026-08-18T08:19:08.696645",
   "event_count": 17
 }
