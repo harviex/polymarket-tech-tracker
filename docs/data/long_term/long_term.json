@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.84,
+      "probability": 0.845,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.84,
+      "current_prob": 0.845,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "15:48",
@@ -81,7 +81,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/79080",
+      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "probability": 0.9,
       "option_text": "Yes",
       "tags": [
@@ -246,8 +246,8 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.971,
+      "url": "https://polymarket.com/event/612483",
+      "probability": 0.974,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -535,11 +535,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.971,
+      "current_prob": 0.974,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.971,
+      "last_checked_prob": 0.974,
       "history": [
         {
           "time": "15:57",
@@ -558,7 +558,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.8945,
+      "probability": 0.906,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1193,11 +1193,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8945,
+      "current_prob": 0.906,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.8945,
+      "last_checked_prob": 0.906,
       "history": [
         {
           "time": "11:50",
@@ -1215,7 +1215,7 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/648785",
+      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
       "probability": 0.835,
       "option_text": "Reliance Industries Ltd",
       "tags": [
@@ -2643,7 +2643,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/627701",
+      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -3075,7 +3075,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.825,
+      "probability": 0.83,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -3203,11 +3203,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.825,
+      "current_prob": 0.83,
       "added_at": "2026-08-13T21:31:35.446175",
       "first_seen": "2026-08-13T21:31:35.446175",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.825,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "21:31",
@@ -3225,7 +3225,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/79041",
       "probability": 0.775,
       "option_text": "NVIDIA",
       "tags": [
@@ -6139,7 +6139,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.795,
       "option_text": "Up",
       "tags": [
@@ -6407,6 +6407,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-18T06:18:51.667800",
+  "updated_at": "2026-08-18T07:26:09.000474",
   "event_count": 17
 }
