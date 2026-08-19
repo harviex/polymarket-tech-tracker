@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-19T17:14:10.584401",
+  "updated_at": "2026-08-19T18:13:51.987372",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -108,7 +108,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.905,
         "option_text": "Yes",
         "tags": [
@@ -584,8 +584,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
-        "probability": 0.912,
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "probability": 0.904,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -1220,11 +1220,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.912,
+        "current_prob": 0.904,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.912,
+        "last_checked_prob": 0.904,
         "history": [
           {
             "time": "11:50",
@@ -3253,7 +3253,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.785,
+        "probability": 0.795,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -3369,11 +3369,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.795,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.785,
+        "last_checked_prob": 0.795,
         "history": [
           {
             "time": "06:15",
@@ -3520,6 +3520,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-19T17:14:10.579820"
+    "updated_at": "2026-08-19T18:13:51.984378"
   }
 }
