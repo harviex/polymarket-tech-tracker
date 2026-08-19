@@ -1,0 +1,19 @@
+{
+  "date": "2026-08-19",
+  "events": {
+    "79041": {
+      "id": "79041",
+      "title": "Largest Company end of December 2026?",
+      "tags": [],
+      "first_seen": "2026-08-19T15:17:27.385888",
+      "history": [
+        {
+          "time": "15:17",
+          "prob": 0.705,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.705
+    }
+  }
+}
