@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-19T09:20:29.133193",
+  "updated_at": "2026-08-19T10:14:26.513084",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.845,
         "option_text": "Yes",
         "tags": [
@@ -251,7 +251,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.975,
         "option_text": "$60",
         "tags": [
@@ -3230,7 +3230,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
         "probability": 0.745,
         "option_text": "NVIDIA",
         "tags": [
@@ -6144,7 +6144,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.795,
         "option_text": "Up",
         "tags": [
@@ -6283,7 +6283,7 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "url": "https://polymarket.com/event/103636",
         "probability": 0.986,
         "option_text": "Yes",
         "tags": [
@@ -6412,6 +6412,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-19T09:20:29.125646"
+    "updated_at": "2026-08-19T10:14:26.505545"
   }
 }
