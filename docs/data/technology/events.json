@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-19T04:22:54.086389",
+  "updated_at": "2026-08-19T05:17:53.604115",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -251,7 +251,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9755,
         "option_text": "$60",
         "tags": [
@@ -562,7 +562,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.867,
         "option_text": "$190B",
         "tags": [
@@ -3230,7 +3230,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
         "probability": 0.745,
         "option_text": "NVIDIA",
         "tags": [
@@ -6412,6 +6412,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-19T04:22:54.078245"
+    "updated_at": "2026-08-19T05:17:53.596416"
   }
 }
