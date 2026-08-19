@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-19T21:13:28.335215",
+  "updated_at": "2026-08-19T22:11:09.799078",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -592,7 +592,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.9035,
+        "probability": 0.8885,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -1227,11 +1227,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9035,
+        "current_prob": 0.8885,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9035,
+        "last_checked_prob": 0.8885,
         "history": [
           {
             "time": "11:50",
@@ -1249,7 +1249,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+        "url": "https://polymarket.com/event/648785",
         "probability": 0.855,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -3108,7 +3108,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
         "probability": 0.83,
         "option_text": "Yes",
         "tags": [
@@ -3259,7 +3259,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.795,
         "option_text": "Up",
         "tags": [
@@ -6441,6 +6441,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-19T21:13:28.327380"
+    "updated_at": "2026-08-19T22:11:09.791494"
   }
 }
