@@ -1,16 +1,38 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-20T14:22:04.313764",
-  "daily_watch_summaries": [],
+  "updated_at": "2026-08-20T15:20:58.740505",
+  "daily_watch_summaries": [
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 1,
+      "events": [
+        {
+          "id": "428507",
+          "title": "Will Anthropic flip BTC by December 31?",
+          "tags": [],
+          "first_seen": "2026-08-20T15:20:58.740297",
+          "history": [
+            {
+              "time": "15:20",
+              "prob": 0.765,
+              "reason": "Removed from Long-Term (prob < 70%)"
+            }
+          ],
+          "current_prob": 0.765
+        }
+      ]
+    }
+  ],
   "long_term_data": {
-    "event_count": 10,
+    "event_count": 9,
     "events": [
       {
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
-        "probability": 0.85,
+        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +41,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.85,
+        "current_prob": 0.845,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.85,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:48",
@@ -251,7 +273,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.9705,
         "option_text": "$60",
         "tags": [
@@ -563,8 +585,8 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.887,
-        "option_text": "$190B",
+        "probability": 0.888,
+        "option_text": "$180B",
         "tags": [
           "finance",
           "tech",
@@ -1198,11 +1220,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.887,
+        "current_prob": 0.888,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.887,
+        "last_checked_prob": 0.888,
         "history": [
           {
             "time": "11:50",
@@ -1220,8 +1242,8 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.79,
+        "url": "https://polymarket.com/event/648785",
+        "probability": 0.805,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2626,11 +2648,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.79,
+        "current_prob": 0.805,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.79,
+        "last_checked_prob": 0.805,
         "history": [
           {
             "time": "01:22",
@@ -2653,9 +2675,9 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/627701",
+        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "probability": 0.9815,
-        "option_text": "$1000",
+        "option_text": "$1100",
         "tags": [
           "tech",
           "apple",
@@ -3081,162 +3103,11 @@
         ]
       },
       {
-        "id": "428507",
-        "title": "Will Anthropic flip BTC by December 31?",
-        "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
-        "probability": 0.765,
-        "option_text": "Yes",
-        "tags": [
-          "ai",
-          "big-tech",
-          "tech",
-          "crypto-prices",
-          "crypto",
-          "anthropic-ipo",
-          "price-comparison",
-          "anthropic"
-        ],
-        "markets": [
-          {
-            "id": "2109881",
-            "question": "Will Anthropic flip BTC by December 31?",
-            "conditionId": "0x5c0d7c74bbf6ef1e0114e6f75514e3360673e15b6542b78a95363a41c24089d3",
-            "slug": "will-anthropic-flip-btc-by-december-31",
-            "resolutionSource": "",
-            "endDate": "2026-12-31T00:00:00Z",
-            "liquidity": "5835.078",
-            "startDate": "2026-04-28T19:40:06.158Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-anthropic-flip-btc-by-december-31-vj3FsSMs6aX7.png",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-anthropic-flip-btc-by-december-31-vj3FsSMs6aX7.png",
-            "description": "This market will resolve to \"Yes\" if the public valuation of Anthropic surpasses the market capitalization of Bitcoin (BTC) at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nFor Bitcoin, CoinGecko's data for BTC will be used, currently available at https://www.coingecko.com/en/coins/bitcoin. If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.\n\nFor Anthropic, any public valuation, or private funding round that values the company will be considered. To qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. \n\nThe resolution source will CoinGecko and Anthropic's official communications; however a consensus of credible reporting may also be used.",
-            "outcomes": "[\"Yes\", \"No\"]",
-            "outcomePrices": "[\"0.72\", \"0.28\"]",
-            "volume": "174424.79268800002",
-            "active": true,
-            "closed": false,
-            "marketMakerAddress": "",
-            "createdAt": "2026-04-28T19:14:30.008999Z",
-            "updatedAt": "2026-08-13T21:30:24.484483Z",
-            "new": false,
-            "featured": false,
-            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
-            "archived": false,
-            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
-            "restricted": true,
-            "groupItemTitle": "",
-            "groupItemThreshold": "0",
-            "questionID": "0xe5b5ec32edc81fe7b12fb1178fb465061b26fdf3426077d9b888e65544ad01de",
-            "enableOrderBook": true,
-            "orderPriceMinTickSize": 0.01,
-            "orderMinSize": 5,
-            "volumeNum": 174424.79268800002,
-            "liquidityNum": 5835.078,
-            "endDateIso": "2026-12-31",
-            "startDateIso": "2026-04-28",
-            "hasReviewedDates": true,
-            "volume24hr": 7596.688338000001,
-            "volume1wk": 9575.963766,
-            "volume1mo": 18417.740245,
-            "volume1yr": 174424.792688,
-            "clobTokenIds": "[\"58490859328243212279412541458794308476991330364217513266494370658881648510092\", \"44437828835918970572754149333933371073424732398014446529359093781493670177161\"]",
-            "comboStatus": "disabled",
-            "umaBond": "500",
-            "umaReward": "5",
-            "volume24hrClob": 7596.688338000001,
-            "volume1wkClob": 9575.963766,
-            "volume1moClob": 18417.740245,
-            "volume1yrClob": 174424.792688,
-            "volumeClob": 174424.79268800002,
-            "liquidityClob": 5835.078,
-            "makerBaseFee": 1000,
-            "takerBaseFee": 1000,
-            "customLiveness": 0,
-            "acceptingOrders": true,
-            "negRisk": false,
-            "negRiskRequestID": "",
-            "ready": false,
-            "funded": false,
-            "acceptingOrdersTimestamp": "2026-04-28T19:39:02Z",
-            "cyom": false,
-            "competitive": 0.9538344143456696,
-            "pagerDutyNotificationEnabled": false,
-            "approved": true,
-            "clobRewards": [
-              {
-                "id": "271325",
-                "conditionId": "0x5c0d7c74bbf6ef1e0114e6f75514e3360673e15b6542b78a95363a41c24089d3",
-                "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-                "rewardsAmount": 0,
-                "rewardsDailyRate": 10,
-                "startDate": "2026-04-28",
-                "endDate": "2500-12-31"
-              }
-            ],
-            "rewardsMinSize": 200,
-            "rewardsMaxSpread": 4.5,
-            "spread": 0.06,
-            "oneDayPriceChange": 0.14,
-            "oneHourPriceChange": 0.045,
-            "oneWeekPriceChange": 0.16,
-            "oneMonthPriceChange": -0.075,
-            "lastTradePrice": 0.69,
-            "bestBid": 0.69,
-            "bestAsk": 0.75,
-            "automaticallyActive": true,
-            "clearBookOnStart": true,
-            "manualActivation": false,
-            "negRiskOther": false,
-            "umaResolutionStatuses": "[]",
-            "pendingDeployment": false,
-            "deploying": false,
-            "deployingTimestamp": "2026-04-28T19:23:02.917858Z",
-            "rfqEnabled": false,
-            "holdingRewardsEnabled": false,
-            "feesEnabled": true,
-            "requiresTranslation": false,
-            "feeType": "tech_fees",
-            "feeSchedule": {
-              "exponent": 1,
-              "rate": 0.04,
-              "takerOnly": true,
-              "rebateRate": 0.25
-            },
-            "version": "v1"
-          }
-        ],
-        "resolutionSource": "",
-        "description": "This market will resolve to \"Yes\" if the public valuation of Anthropic surpasses the market capitalization of Bitcoin (BTC) at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nFor Bitcoin, CoinGecko's data for BTC will be used, currently available at https://www.coingecko.com/en/coins/bitcoin. If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.\n\nFor Anthropic, any public valuation, or private funding round that values the company will be considered. To qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. \n\nThe resolution source will CoinGecko and Anthropic's official communications; however a consensus of credible reporting may also be used.",
-        "volume": 174424.79268800002,
-        "liquidity": 5829.268,
-        "startDate": "2026-04-28T19:40:06.158Z",
-        "endDate": "2026-12-31T00:00:00Z",
-        "active": true,
-        "closed": false,
-        "current_prob": 0.765,
-        "added_at": "2026-08-13T21:31:35.446175",
-        "first_seen": "2026-08-13T21:31:35.446175",
-        "peak_prob": 0.845,
-        "last_checked_prob": 0.765,
-        "history": [
-          {
-            "time": "21:31",
-            "prob": 0.72,
-            "reason": "Added to Long-Term (high probability)"
-          },
-          {
-            "time": "03:17",
-            "prob": 0.825,
-            "reason": "Update: 73.0% → 82.5%"
-          }
-        ]
-      },
-      {
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.83,
+        "probability": 0.8,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -3352,11 +3223,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.83,
+        "current_prob": 0.8,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.835,
-        "last_checked_prob": 0.83,
+        "last_checked_prob": 0.8,
         "history": [
           {
             "time": "06:15",
@@ -3506,7 +3377,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+        "url": "https://polymarket.com/event/79041",
         "probability": 0.725,
         "option_text": "NVIDIA",
         "tags": [
@@ -6417,6 +6288,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-20T14:22:04.306052"
+    "updated_at": "2026-08-20T15:20:58.732537"
   }
 }
