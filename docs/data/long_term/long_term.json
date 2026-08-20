@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.895,
       "option_text": "Yes",
       "tags": [
@@ -558,8 +558,8 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.891,
-      "option_text": "$190B",
+      "probability": 0.8905,
+      "option_text": "$180B",
       "tags": [
         "finance",
         "tech",
@@ -1193,11 +1193,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.891,
+      "current_prob": 0.8905,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.891,
+      "last_checked_prob": 0.8905,
       "history": [
         {
           "time": "11:50",
@@ -1216,7 +1216,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.84,
+      "probability": 0.83,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2621,11 +2621,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.83,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.83,
       "history": [
         {
           "time": "01:22",
@@ -3075,7 +3075,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.775,
+      "probability": 0.77,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -3203,11 +3203,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.77,
       "added_at": "2026-08-13T21:31:35.446175",
       "first_seen": "2026-08-13T21:31:35.446175",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "21:31",
@@ -3225,8 +3225,8 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
-      "probability": 0.805,
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "probability": 0.8,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -3342,11 +3342,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.805,
+      "current_prob": 0.8,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.835,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.8,
       "history": [
         {
           "time": "06:15",
@@ -3364,7 +3364,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.986,
       "option_text": "Yes",
       "tags": [
@@ -6407,6 +6407,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-20T06:20:51.045849",
+  "updated_at": "2026-08-20T07:29:48.574016",
   "event_count": 17
 }
