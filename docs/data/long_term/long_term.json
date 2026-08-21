@@ -578,7 +578,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9185,
+      "probability": 0.8945,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1213,11 +1213,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9185,
+      "current_prob": 0.8945,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9185,
+      "last_checked_prob": 0.8945,
       "history": [
         {
           "time": "11:50",
@@ -1236,7 +1236,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-      "probability": 0.805,
+      "probability": 0.81,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2641,11 +2641,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.805,
+      "current_prob": 0.81,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.805,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "01:22",
@@ -2670,7 +2670,7 @@
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
       "url": "https://polymarket.com/event/627701",
       "probability": 0.9815,
-      "option_text": "$1000",
+      "option_text": "$1100",
       "tags": [
         "tech",
         "apple",
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-21T20:10:31.898089",
+  "updated_at": "2026-08-21T21:10:54.380462",
   "event_count": 17
 }
