@@ -1,36 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-20T23:12:49.243818",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "428507",
-          "title": "Will Anthropic flip BTC by December 31?",
-          "tags": [],
-          "first_seen": "2026-08-20T15:20:58.740297",
-          "history": [
-            {
-              "time": "15:20",
-              "prob": 0.765,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "18:17",
-              "prob": 0.7,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.765
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-08-21T00:28:49.278792",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
     "events": [
@@ -38,8 +9,8 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
-        "probability": 0.835,
+        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "probability": 0.845,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -48,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.835,
+        "current_prob": 0.845,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.835,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "15:48",
@@ -115,7 +86,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/79080",
+        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
         "probability": 0.9,
         "option_text": "Yes",
         "tags": [
@@ -591,8 +562,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
-        "probability": 0.902,
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "probability": 0.9005,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1227,11 +1198,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.902,
+        "current_prob": 0.9005,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.902,
+        "last_checked_prob": 0.9005,
         "history": [
           {
             "time": "11:50",
@@ -1250,7 +1221,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.805,
+        "probability": 0.795,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2655,11 +2626,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.805,
+        "current_prob": 0.795,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.805,
+        "last_checked_prob": 0.795,
         "history": [
           {
             "time": "01:22",
@@ -2682,7 +2653,7 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/627701",
+        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "probability": 0.9815,
         "option_text": "$1000",
         "tags": [
@@ -6303,8 +6274,8 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
-        "probability": 0.73,
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "probability": 0.735,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -6432,11 +6403,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.735,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
-        "peak_prob": 0.73,
-        "last_checked_prob": 0.73,
+        "peak_prob": 0.735,
+        "last_checked_prob": 0.735,
         "history": [
           {
             "time": "18:17",
@@ -6446,6 +6417,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-20T23:12:49.236388"
+    "updated_at": "2026-08-21T00:28:49.271377"
   }
 }
