@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.775,
       "option_text": "Yes",
       "tags": [
@@ -252,7 +252,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.9715,
+      "probability": 0.97,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -540,11 +540,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9715,
+      "current_prob": 0.97,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.9715,
+      "last_checked_prob": 0.97,
       "history": [
         {
           "time": "15:57",
@@ -563,7 +563,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.8895,
+      "probability": 0.8965,
       "option_text": "$190B",
       "tags": [
         "finance",
@@ -1198,11 +1198,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8895,
+      "current_prob": 0.8965,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.8895,
+      "last_checked_prob": 0.8965,
       "history": [
         {
           "time": "11:50",
@@ -2655,7 +2655,7 @@
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
       "url": "https://polymarket.com/event/627701",
       "probability": 0.9815,
-      "option_text": "$1000",
+      "option_text": "$1100",
       "tags": [
         "tech",
         "apple",
@@ -3084,7 +3084,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.905,
       "option_text": "Up",
       "tags": [
@@ -3228,7 +3228,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.986,
       "option_text": "Yes",
       "tags": [
@@ -6274,8 +6274,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
-      "probability": 0.755,
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "probability": 0.725,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -6403,11 +6403,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.755,
+      "current_prob": 0.725,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.755,
+      "last_checked_prob": 0.725,
       "history": [
         {
           "time": "18:17",
@@ -6422,6 +6422,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-21T06:20:52.474188",
+  "updated_at": "2026-08-21T07:32:19.037866",
   "event_count": 17
 }
