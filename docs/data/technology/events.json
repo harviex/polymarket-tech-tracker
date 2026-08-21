@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-21T04:25:09.677983",
+  "updated_at": "2026-08-21T05:20:04.821969",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -9,8 +9,8 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-        "probability": 0.855,
+        "url": "https://polymarket.com/event/103468",
+        "probability": 0.76,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -19,11 +19,11 @@
         ],
         "volume": 148210.77044799988,
         "liquidity": 8439.6928,
-        "current_prob": 0.855,
+        "current_prob": 0.76,
         "added_at": "2026-05-05T15:48:08.637792",
         "first_seen": "2026-05-05T15:48:08.637792",
         "peak_prob": 0.945,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.76,
         "history": [
           {
             "time": "15:48",
@@ -79,6 +79,11 @@
             "time": "17:14",
             "prob": 0.845,
             "reason": "Update: 89.5% → 84.5%"
+          },
+          {
+            "time": "05:20",
+            "prob": 0.76,
+            "reason": "Update: 85.5% → 76.0%"
           }
         ]
       },
@@ -563,7 +568,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.896,
+        "probability": 0.8875,
         "option_text": "$190B",
         "tags": [
           "finance",
@@ -1198,11 +1203,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.896,
+        "current_prob": 0.8875,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.896,
+        "last_checked_prob": 0.8875,
         "history": [
           {
             "time": "11:50",
@@ -1220,7 +1225,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/648785",
+        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
         "probability": 0.8,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2655,7 +2660,7 @@
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "url": "https://polymarket.com/event/627701",
         "probability": 0.9815,
-        "option_text": "$1000",
+        "option_text": "$1100",
         "tags": [
           "tech",
           "apple",
@@ -3084,7 +3089,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.905,
         "option_text": "Up",
         "tags": [
@@ -3360,7 +3365,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+        "url": "https://polymarket.com/event/79041",
         "probability": 0.725,
         "option_text": "NVIDIA",
         "tags": [
@@ -6275,7 +6280,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.76,
+        "probability": 0.765,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -6403,11 +6408,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.76,
+        "current_prob": 0.765,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
         "peak_prob": 0.785,
-        "last_checked_prob": 0.76,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "18:17",
@@ -6422,6 +6427,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-21T04:25:09.670415"
+    "updated_at": "2026-08-21T05:20:04.816957"
   }
 }
