@@ -4,7 +4,7 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+      "url": "https://polymarket.com/event/103468",
       "probability": 0.86,
       "option_text": "Yes",
       "tags": [
@@ -96,7 +96,7 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/79080",
+      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
       "probability": 0.795,
       "option_text": "Yes",
       "tags": [
@@ -577,8 +577,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.9105,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.892,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -1213,11 +1213,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9105,
+      "current_prob": 0.892,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9105,
+      "last_checked_prob": 0.892,
       "history": [
         {
           "time": "11:50",
@@ -1235,7 +1235,7 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+      "url": "https://polymarket.com/event/648785",
       "probability": 0.845,
       "option_text": "Reliance Industries Ltd",
       "tags": [
@@ -2668,7 +2668,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+      "url": "https://polymarket.com/event/627701",
       "probability": 0.9815,
       "option_text": "$1000",
       "tags": [
@@ -3099,7 +3099,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/290152",
+      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
       "probability": 0.9,
       "option_text": "Up",
       "tags": [
@@ -3243,7 +3243,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.986,
       "option_text": "Yes",
       "tags": [
@@ -3376,7 +3376,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.735,
+      "probability": 0.74,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -6272,11 +6272,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.735,
+      "current_prob": 0.74,
       "added_at": "2026-08-19T21:13:28.327283",
       "first_seen": "2026-08-19T21:13:28.327283",
       "peak_prob": 0.74,
-      "last_checked_prob": 0.735,
+      "last_checked_prob": 0.74,
       "history": [
         {
           "time": "21:13",
@@ -6290,7 +6290,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.775,
+      "probability": 0.78,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -6418,11 +6418,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.78,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "18:17",
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-22T15:07:31.344097",
+  "updated_at": "2026-08-22T16:07:57.629779",
   "event_count": 17
 }
