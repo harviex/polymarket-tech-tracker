@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-22T21:08:46.049506",
+  "updated_at": "2026-08-22T22:07:55.415539",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -9,7 +9,7 @@
         "id": "103468",
         "title": "Will Apple release a foldable iPhone before 2027?",
         "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
+        "url": "https://polymarket.com/event/103468",
         "probability": 0.865,
         "option_text": "Yes",
         "tags": [
@@ -583,7 +583,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.8995,
+        "probability": 0.8915,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -1218,11 +1218,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8995,
+        "current_prob": 0.8915,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.8995,
+        "last_checked_prob": 0.8915,
         "history": [
           {
             "time": "11:50",
@@ -1240,7 +1240,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+        "url": "https://polymarket.com/event/648785",
         "probability": 0.84,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2675,7 +2675,7 @@
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "url": "https://polymarket.com/event/627701",
         "probability": 0.9815,
-        "option_text": "$1000",
+        "option_text": "$1100",
         "tags": [
           "tech",
           "apple",
@@ -3380,7 +3380,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+        "url": "https://polymarket.com/event/79041",
         "probability": 0.73,
         "option_text": "NVIDIA",
         "tags": [
@@ -6294,7 +6294,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/428507",
+        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
         "probability": 0.785,
         "option_text": "Yes",
         "tags": [
@@ -6442,6 +6442,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-22T21:08:46.041454"
+    "updated_at": "2026-08-22T22:07:55.407909"
   }
 }
