@@ -578,8 +578,8 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.8995,
-      "option_text": "$190B",
+      "probability": 0.9105,
+      "option_text": "$180B",
       "tags": [
         "finance",
         "tech",
@@ -1213,11 +1213,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8995,
+      "current_prob": 0.9105,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.8995,
+      "last_checked_prob": 0.9105,
       "history": [
         {
           "time": "11:50",
@@ -1236,7 +1236,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-      "probability": 0.84,
+      "probability": 0.845,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2641,11 +2641,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.845,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "01:22",
@@ -3243,7 +3243,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+      "url": "https://polymarket.com/event/103636",
       "probability": 0.986,
       "option_text": "Yes",
       "tags": [
@@ -3376,7 +3376,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.74,
+      "probability": 0.735,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -6272,11 +6272,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.74,
+      "current_prob": 0.735,
       "added_at": "2026-08-19T21:13:28.327283",
       "first_seen": "2026-08-19T21:13:28.327283",
       "peak_prob": 0.74,
-      "last_checked_prob": 0.74,
+      "last_checked_prob": 0.735,
       "history": [
         {
           "time": "21:13",
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-22T14:08:14.449372",
+  "updated_at": "2026-08-22T15:07:31.344097",
   "event_count": 17
 }
