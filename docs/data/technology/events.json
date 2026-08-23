@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-23T13:22:31.022611",
+  "updated_at": "2026-08-23T14:10:34.279969",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -101,7 +101,7 @@
         "id": "79080",
         "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
         "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-        "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+        "url": "https://polymarket.com/event/79080",
         "probability": 0.8,
         "option_text": "Yes",
         "tags": [
@@ -271,7 +271,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/612483",
+        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
         "probability": 0.973,
         "option_text": "$60",
         "tags": [
@@ -582,8 +582,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.89,
+        "url": "https://polymarket.com/event/407875",
+        "probability": 0.8975,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -1218,11 +1218,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.89,
+        "current_prob": 0.8975,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.8975,
         "history": [
           {
             "time": "11:50",
@@ -2673,7 +2673,7 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+        "url": "https://polymarket.com/event/627701",
         "probability": 0.9815,
         "option_text": "$1000",
         "tags": [
@@ -3381,7 +3381,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-        "probability": 0.735,
+        "probability": 0.725,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -6277,11 +6277,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.735,
+        "current_prob": 0.725,
         "added_at": "2026-08-19T21:13:28.327283",
         "first_seen": "2026-08-19T21:13:28.327283",
         "peak_prob": 0.74,
-        "last_checked_prob": 0.735,
+        "last_checked_prob": 0.725,
         "history": [
           {
             "time": "21:13",
@@ -6294,7 +6294,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.79,
         "option_text": "Yes",
         "tags": [
@@ -6442,6 +6442,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-23T13:22:31.014833"
+    "updated_at": "2026-08-23T14:10:34.273918"
   }
 }
