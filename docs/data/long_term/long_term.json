@@ -267,7 +267,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.973,
+      "probability": 0.972,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -555,11 +555,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.973,
+      "current_prob": 0.972,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.973,
+      "last_checked_prob": 0.972,
       "history": [
         {
           "time": "15:57",
@@ -578,7 +578,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.9015,
+      "probability": 0.8985,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -1213,11 +1213,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9015,
+      "current_prob": 0.8985,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9015,
+      "last_checked_prob": 0.8985,
       "history": [
         {
           "time": "11:50",
@@ -6290,7 +6290,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.785,
+      "probability": 0.78,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -6418,11 +6418,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.785,
+      "current_prob": 0.78,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.785,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "18:17",
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-23T02:15:57.464532",
+  "updated_at": "2026-08-23T03:38:17.030504",
   "event_count": 17
 }
