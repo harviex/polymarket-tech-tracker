@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-24T14:28:42.252920",
+  "updated_at": "2026-08-24T15:25:38.133851",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -582,7 +582,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.891,
         "option_text": "$180B",
         "tags": [
@@ -1240,8 +1240,8 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.825,
+        "url": "https://polymarket.com/event/648785",
+        "probability": 0.84,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2646,11 +2646,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.84,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.84,
         "history": [
           {
             "time": "01:22",
@@ -2673,7 +2673,7 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/627701",
+        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "probability": 0.981,
         "option_text": "$1000",
         "tags": [
@@ -3104,7 +3104,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.9,
         "option_text": "Up",
         "tags": [
@@ -3380,7 +3380,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
         "probability": 0.715,
         "option_text": "NVIDIA",
         "tags": [
@@ -6294,7 +6294,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.825,
         "option_text": "Yes",
         "tags": [
@@ -6442,6 +6442,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-24T14:28:42.245194"
+    "updated_at": "2026-08-24T15:25:38.126387"
   }
 }
