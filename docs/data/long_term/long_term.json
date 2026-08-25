@@ -578,7 +578,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.888,
+      "probability": 0.8995,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -1213,11 +1213,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.888,
+      "current_prob": 0.8995,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.888,
+      "last_checked_prob": 0.8995,
       "history": [
         {
           "time": "11:50",
@@ -1236,7 +1236,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.86,
+      "probability": 0.85,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2641,11 +2641,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.86,
+      "current_prob": 0.85,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.86,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "01:22",
@@ -3099,7 +3099,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.9,
       "option_text": "Up",
       "tags": [
@@ -6290,7 +6290,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-      "probability": 0.845,
+      "probability": 0.84,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -6418,11 +6418,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.845,
+      "current_prob": 0.84,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "18:17",
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-25T06:21:21.553423",
+  "updated_at": "2026-08-25T07:32:52.978357",
   "event_count": 17
 }
