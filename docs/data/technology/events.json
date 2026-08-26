@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-08-26T02:16:02.905934",
+  "updated_at": "2026-08-26T03:41:28.768722",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 10,
@@ -583,7 +583,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.8965,
+        "probability": 0.898,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -1218,11 +1218,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8965,
+        "current_prob": 0.898,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.8965,
+        "last_checked_prob": 0.898,
         "history": [
           {
             "time": "11:50",
@@ -1241,7 +1241,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.86,
+        "probability": 0.85,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2646,11 +2646,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.86,
+        "current_prob": 0.85,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.87,
-        "last_checked_prob": 0.86,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "01:22",
@@ -2675,7 +2675,7 @@
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "probability": 0.981,
-        "option_text": "$1100",
+        "option_text": "$1000",
         "tags": [
           "tech",
           "apple",
@@ -6442,6 +6442,6 @@
         ]
       }
     ],
-    "updated_at": "2026-08-26T02:16:02.897794"
+    "updated_at": "2026-08-26T03:41:28.761235"
   }
 }
