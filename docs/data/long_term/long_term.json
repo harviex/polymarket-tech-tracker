@@ -5,7 +5,7 @@
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
       "url": "https://polymarket.com/event/103468",
-      "probability": 0.905,
+      "probability": 0.915,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.905,
+      "current_prob": 0.915,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.945,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "15:48",
@@ -577,8 +577,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.898,
+      "url": "https://polymarket.com/event/407875",
+      "probability": 0.8975,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -1213,11 +1213,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.898,
+      "current_prob": 0.8975,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.898,
+      "last_checked_prob": 0.8975,
       "history": [
         {
           "time": "11:50",
@@ -1235,8 +1235,8 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-      "probability": 0.855,
+      "url": "https://polymarket.com/event/648785",
+      "probability": 0.85,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2641,11 +2641,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.855,
+      "current_prob": 0.85,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "01:22",
@@ -2668,7 +2668,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/627701",
+      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -3100,7 +3100,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.9,
+      "probability": 0.905,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -3216,11 +3216,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9,
+      "current_prob": 0.905,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.905,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "06:15",
@@ -3375,7 +3375,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/79041",
       "probability": 0.715,
       "option_text": "NVIDIA",
       "tags": [
@@ -6289,8 +6289,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-      "probability": 0.8,
+      "url": "https://polymarket.com/event/428507",
+      "probability": 0.795,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -6418,11 +6418,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.8,
+      "current_prob": 0.795,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.8,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "18:17",
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-26T12:21:11.804696",
+  "updated_at": "2026-08-26T13:42:42.308520",
   "event_count": 17
 }
