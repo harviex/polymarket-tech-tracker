@@ -266,7 +266,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.9675,
       "option_text": "$60",
       "tags": [
@@ -577,7 +577,7 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "url": "https://polymarket.com/event/407875",
       "probability": 0.898,
       "option_text": "$180B",
       "tags": [
@@ -1235,7 +1235,7 @@
       "id": "648785",
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-      "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+      "url": "https://polymarket.com/event/648785",
       "probability": 0.86,
       "option_text": "Reliance Industries Ltd",
       "tags": [
@@ -2668,7 +2668,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+      "url": "https://polymarket.com/event/627701",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -3099,7 +3099,7 @@
       "id": "290152",
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
-      "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+      "url": "https://polymarket.com/event/290152",
       "probability": 0.905,
       "option_text": "Up",
       "tags": [
@@ -3375,7 +3375,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/79041",
       "probability": 0.715,
       "option_text": "NVIDIA",
       "tags": [
@@ -6437,6 +6437,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-26T06:23:13.002639",
+  "updated_at": "2026-08-26T07:34:30.808654",
   "event_count": 17
 }
