@@ -4,8 +4,8 @@
       "id": "103468",
       "title": "Will Apple release a foldable iPhone before 2027?",
       "slug": "will-apple-release-a-foldable-iphone-before-2027",
-      "url": "https://polymarket.com/event/will-apple-release-a-foldable-iphone-before-2027",
-      "probability": 0.9405,
+      "url": "https://polymarket.com/event/103468",
+      "probability": 0.9415,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -14,11 +14,11 @@
       ],
       "volume": 148210.77044799988,
       "liquidity": 8439.6928,
-      "current_prob": 0.9405,
+      "current_prob": 0.9415,
       "added_at": "2026-05-05T15:48:08.637792",
       "first_seen": "2026-05-05T15:48:08.637792",
       "peak_prob": 0.9815,
-      "last_checked_prob": 0.9405,
+      "last_checked_prob": 0.9415,
       "history": [
         {
           "time": "15:48",
@@ -96,8 +96,8 @@
       "id": "79080",
       "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
       "slug": "ai-model-scores-90-on-frontiermath-benchmark-before-2027",
-      "url": "https://polymarket.com/event/79080",
-      "probability": 0.89,
+      "url": "https://polymarket.com/event/ai-model-scores-90-on-frontiermath-benchmark-before-2027",
+      "probability": 0.962,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -219,11 +219,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.89,
+      "current_prob": 0.962,
       "added_at": "2026-06-12T20:57:52.317872",
       "first_seen": "2026-06-12T20:57:52.317872",
-      "peak_prob": 0.915,
-      "last_checked_prob": 0.89,
+      "peak_prob": 0.962,
+      "last_checked_prob": 0.962,
       "history": [
         {
           "time": "20:57",
@@ -269,6 +269,11 @@
           "time": "02:48",
           "prob": 0.88,
           "reason": "Update: 82.5% → 88.0%"
+        },
+        {
+          "time": "21:40",
+          "prob": 0.962,
+          "reason": "Update: 89.0% → 96.2%"
         }
       ]
     },
@@ -276,8 +281,8 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.9705,
+      "url": "https://polymarket.com/event/612483",
+      "probability": 0.9695,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -565,11 +570,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9705,
+      "current_prob": 0.9695,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.9705,
+      "last_checked_prob": 0.9695,
       "history": [
         {
           "time": "15:57",
@@ -587,8 +592,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.916,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.9155,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -1223,11 +1228,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.916,
+      "current_prob": 0.9155,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.916,
+      "last_checked_prob": 0.9155,
       "history": [
         {
           "time": "11:50",
@@ -1246,7 +1251,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.845,
+      "probability": 0.85,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2651,11 +2656,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.845,
+      "current_prob": 0.85,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.87,
-      "last_checked_prob": 0.845,
+      "last_checked_prob": 0.85,
       "history": [
         {
           "time": "01:22",
@@ -2678,7 +2683,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
+      "url": "https://polymarket.com/event/627701",
       "probability": 0.981,
       "option_text": "$1000",
       "tags": [
@@ -3110,7 +3115,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
-      "probability": 0.9,
+      "probability": 0.89,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -3226,11 +3231,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9,
+      "current_prob": 0.89,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.905,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "06:15",
@@ -3258,7 +3263,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/79041",
+      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
       "probability": 0.775,
       "option_text": "NVIDIA",
       "tags": [
@@ -6452,6 +6457,6 @@
       ]
     }
   },
-  "updated_at": "2026-08-31T16:33:04.907047",
+  "updated_at": "2026-08-31T21:40:37.576012",
   "event_count": 17
 }
