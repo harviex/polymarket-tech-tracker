@@ -11,9 +11,44 @@
           "time": "21:27",
           "prob": 0.99,
           "reason": "Removed from Long-Term (prob < 70%)"
+        },
+        {
+          "time": "23:36",
+          "prob": 0.99,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "23:36",
+          "prob": 0.99,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "23:36",
+          "prob": 0.99,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
         }
       ],
       "current_prob": 0.99
+    },
+    "79080": {
+      "id": "79080",
+      "title": "AI model scores ≥ 90% on FrontierMath Benchmark before 2027?",
+      "tags": [],
+      "first_seen": "2026-09-01T23:36:31.456107",
+      "history": [
+        {
+          "time": "23:36",
+          "prob": 0.918,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.918
     }
   }
 }
