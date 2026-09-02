@@ -315,8 +315,8 @@
       "id": "407875",
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
-      "url": "https://polymarket.com/event/407875",
-      "probability": 0.918,
+      "url": "https://polymarket.com/event/amazon-2026-capex-above",
+      "probability": 0.92,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -951,11 +951,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.918,
+      "current_prob": 0.92,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.918,
+      "last_checked_prob": 0.92,
       "history": [
         {
           "time": "11:50",
@@ -2565,7 +2565,7 @@
       "id": "79041",
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
-      "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+      "url": "https://polymarket.com/event/79041",
       "probability": 0.765,
       "option_text": "NVIDIA",
       "tags": [
@@ -5479,8 +5479,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-      "probability": 0.83,
+      "url": "https://polymarket.com/event/428507",
+      "probability": 0.835,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -5608,11 +5608,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.83,
+      "current_prob": 0.835,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.83,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "18:17",
@@ -5630,7 +5630,7 @@
       "id": "103636",
       "title": "Will Apple release iPhone 18 in 2026?",
       "slug": "will-apple-release-iphone-18-in-2026",
-      "url": "https://polymarket.com/event/103636",
+      "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
       "probability": 0.9865,
       "option_text": "Yes",
       "tags": [
@@ -5762,7 +5762,7 @@
       "id": "627701",
       "title": "How much will the iPhone 18 Pro cost?",
       "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-      "url": "https://polymarket.com/event/627701",
+      "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
       "probability": 0.99,
       "option_text": "$1000",
       "tags": [
@@ -6208,6 +6208,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-02T19:00:00.053065",
+  "updated_at": "2026-09-02T21:36:19.297320",
   "event_count": 17
 }
