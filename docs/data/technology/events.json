@@ -1,11 +1,11 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-02T06:29:13.473949",
+  "updated_at": "2026-09-02T11:46:25.566850",
   "daily_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 1,
+      "event_count": 2,
       "events": [
         {
           "id": "627701",
@@ -41,105 +41,27 @@
             }
           ],
           "current_prob": 0.99
+        },
+        {
+          "id": "103468",
+          "title": "Will Apple release a foldable iPhone before 2027?",
+          "tags": [],
+          "first_seen": "2026-09-02T11:46:25.566596",
+          "history": [
+            {
+              "time": "11:46",
+              "prob": 0.9485,
+              "reason": "Removed from Long-Term (prob < 70%)"
+            }
+          ],
+          "current_prob": 0.9485
         }
       ]
     }
   ],
   "long_term_data": {
-    "event_count": 9,
+    "event_count": 8,
     "events": [
-      {
-        "id": "103468",
-        "title": "Will Apple release a foldable iPhone before 2027?",
-        "slug": "will-apple-release-a-foldable-iphone-before-2027",
-        "url": "https://polymarket.com/event/103468",
-        "probability": 0.9485,
-        "option_text": "Yes",
-        "tags": [
-          "apple",
-          "tech",
-          "big-tech"
-        ],
-        "volume": 148210.77044799988,
-        "liquidity": 8439.6928,
-        "current_prob": 0.9485,
-        "added_at": "2026-05-05T15:48:08.637792",
-        "first_seen": "2026-05-05T15:48:08.637792",
-        "peak_prob": 0.9815,
-        "last_checked_prob": 0.9485,
-        "history": [
-          {
-            "time": "15:48",
-            "prob": 0.805,
-            "reason": "Added to Long-Term (daily update)"
-          },
-          {
-            "time": "08:08",
-            "prob": 0.735,
-            "reason": "Update: 83.0% → 73.5%"
-          },
-          {
-            "time": "10:56",
-            "prob": 0.82,
-            "reason": "Update: 73.5% → 82.0%"
-          },
-          {
-            "time": "19:58",
-            "prob": 0.855,
-            "reason": "Update: 79.0% → 85.5%"
-          },
-          {
-            "time": "11:09",
-            "prob": 0.88,
-            "reason": "Update: 80.5% → 88.0%"
-          },
-          {
-            "time": "02:40",
-            "prob": 0.765,
-            "reason": "Update: 85.5% → 76.5%"
-          },
-          {
-            "time": "20:48",
-            "prob": 0.825,
-            "reason": "Update: 87.5% → 82.5%"
-          },
-          {
-            "time": "09:41",
-            "prob": 0.84,
-            "reason": "Update: 90.0% → 84.0%"
-          },
-          {
-            "time": "08:31",
-            "prob": 0.83,
-            "reason": "Update: 90.0% → 83.0%"
-          },
-          {
-            "time": "06:25",
-            "prob": 0.865,
-            "reason": "Update: 93.0% → 86.5%"
-          },
-          {
-            "time": "17:14",
-            "prob": 0.845,
-            "reason": "Update: 89.5% → 84.5%"
-          },
-          {
-            "time": "05:20",
-            "prob": 0.76,
-            "reason": "Update: 85.5% → 76.0%"
-          },
-          {
-            "time": "09:22",
-            "prob": 0.895,
-            "reason": "Update: 78.0% → 89.5%"
-          },
-          {
-            "time": "10:16",
-            "prob": 0.805,
-            "reason": "Update: 89.5% → 80.5%"
-          }
-        ]
-      },
       {
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
@@ -1114,7 +1036,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.86,
+        "probability": 0.85,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2519,11 +2441,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.86,
+        "current_prob": 0.85,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.86,
+        "last_checked_prob": 0.85,
         "history": [
           {
             "time": "01:22",
@@ -5620,7 +5542,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.84,
+        "probability": 0.835,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5748,11 +5670,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.84,
+        "current_prob": 0.835,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.84,
+        "last_checked_prob": 0.835,
         "history": [
           {
             "time": "18:17",
@@ -5771,7 +5693,7 @@
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
         "url": "https://polymarket.com/event/103636",
-        "probability": 0.9855,
+        "probability": 0.9865,
         "option_text": "Yes",
         "tags": [
           "kpis",
@@ -5885,11 +5807,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9855,
+        "current_prob": 0.9865,
         "added_at": "2026-08-29T09:25:58.525095",
         "first_seen": "2026-08-29T09:25:58.525095",
         "peak_prob": 0.9885,
-        "last_checked_prob": 0.9855,
+        "last_checked_prob": 0.9865,
         "history": [
           {
             "time": "09:25",
@@ -6348,6 +6270,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-02T06:29:13.466290"
+    "updated_at": "2026-09-02T11:46:25.558872"
   }
 }

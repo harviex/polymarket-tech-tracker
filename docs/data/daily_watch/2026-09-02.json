@@ -35,6 +35,20 @@
         }
       ],
       "current_prob": 0.99
+    },
+    "103468": {
+      "id": "103468",
+      "title": "Will Apple release a foldable iPhone before 2027?",
+      "tags": [],
+      "first_seen": "2026-09-02T11:46:25.566596",
+      "history": [
+        {
+          "time": "11:46",
+          "prob": 0.9485,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9485
     }
   }
 }
