@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-05",
+  "events": {
+    "627701": {
+      "id": "627701",
+      "title": "How much will the iPhone 18 Pro cost?",
+      "tags": [],
+      "first_seen": "2026-09-05T01:31:33.267776",
+      "history": [
+        {
+          "time": "01:31",
+          "prob": 0.9615,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "01:31",
+          "prob": 0.9615,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "01:31",
+          "prob": 0.9615,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9615
+    }
+  }
+}
