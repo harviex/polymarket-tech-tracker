@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-05T13:37:32.646886",
+  "updated_at": "2026-09-05T16:18:41.860695",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -358,8 +358,8 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/407875",
-        "probability": 0.957,
+        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "probability": 0.9565,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -994,11 +994,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.957,
+        "current_prob": 0.9565,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.957,
+        "last_checked_prob": 0.9565,
         "history": [
           {
             "time": "11:50",
@@ -1017,7 +1017,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.905,
+        "probability": 0.91,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2422,11 +2422,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.91,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.905,
+        "last_checked_prob": 0.91,
         "history": [
           {
             "time": "01:22",
@@ -2459,8 +2459,8 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
-        "probability": 0.885,
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "probability": 0.875,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -2576,11 +2576,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.875,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.905,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "06:15",
@@ -2608,7 +2608,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
+        "url": "https://polymarket.com/event/79041",
         "probability": 0.795,
         "option_text": "NVIDIA",
         "tags": [
@@ -5523,7 +5523,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.825,
+        "probability": 0.82,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5651,11 +5651,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.82,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "18:17",
@@ -5673,8 +5673,8 @@
         "id": "103636",
         "title": "Will Apple release iPhone 18 in 2026?",
         "slug": "will-apple-release-iphone-18-in-2026",
-        "url": "https://polymarket.com/event/103636",
-        "probability": 0.9885,
+        "url": "https://polymarket.com/event/will-apple-release-iphone-18-in-2026",
+        "probability": 0.989,
         "option_text": "Yes",
         "tags": [
           "kpis",
@@ -5788,11 +5788,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9885,
+        "current_prob": 0.989,
         "added_at": "2026-08-29T09:25:58.525095",
         "first_seen": "2026-08-29T09:25:58.525095",
         "peak_prob": 0.989,
-        "last_checked_prob": 0.9885,
+        "last_checked_prob": 0.989,
         "history": [
           {
             "time": "09:25",
@@ -5805,8 +5805,8 @@
         "id": "627701",
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "probability": 0.9675,
+        "url": "https://polymarket.com/event/627701",
+        "probability": 0.97,
         "option_text": "$1000",
         "tags": [
           "tech",
@@ -6229,11 +6229,11 @@
         "endDate": "2027-03-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9675,
+        "current_prob": 0.97,
         "added_at": "2026-09-05T01:31:33.260203",
         "first_seen": "2026-09-05T01:31:33.260203",
         "peak_prob": 0.972,
-        "last_checked_prob": 0.9675,
+        "last_checked_prob": 0.97,
         "history": [
           {
             "time": "01:31",
@@ -6243,6 +6243,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-05T13:37:32.639612"
+    "updated_at": "2026-09-05T16:18:41.853869"
   }
 }
