@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-06",
+  "events": {
+    "627701": {
+      "id": "627701",
+      "title": "How much will the iPhone 18 Pro cost?",
+      "tags": [],
+      "first_seen": "2026-09-06T05:11:29.212148",
+      "history": [
+        {
+          "time": "05:11",
+          "prob": 0.987,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.987
+    }
+  }
+}
