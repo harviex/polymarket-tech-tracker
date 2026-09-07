@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-07T16:07:52.341785",
+  "updated_at": "2026-09-07T20:12:23.134953",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -31,7 +31,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.972,
         "option_text": "$60",
         "tags": [
@@ -342,7 +342,7 @@
         "id": "407875",
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
-        "url": "https://polymarket.com/event/amazon-2026-capex-above",
+        "url": "https://polymarket.com/event/407875",
         "probability": 0.952,
         "option_text": "$180B",
         "tags": [
@@ -1000,7 +1000,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/648785",
+        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
         "probability": 0.89,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2443,7 +2443,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.91,
         "option_text": "Up",
         "tags": [
@@ -5506,7 +5506,7 @@
         "id": "428507",
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "url": "https://polymarket.com/event/428507",
         "probability": 0.825,
         "option_text": "Yes",
         "tags": [
@@ -5658,7 +5658,7 @@
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "url": "https://polymarket.com/event/627701",
-        "probability": 0.9765,
+        "probability": 0.98,
         "option_text": "$1000",
         "tags": [
           "tech",
@@ -6191,11 +6191,11 @@
         "endDate": "2027-03-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9765,
+        "current_prob": 0.98,
         "added_at": "2026-09-06T20:52:56.619407",
         "first_seen": "2026-09-06T20:52:56.619407",
         "peak_prob": 0.9835,
-        "last_checked_prob": 0.9765,
+        "last_checked_prob": 0.98,
         "history": [
           {
             "time": "20:52",
@@ -6205,6 +6205,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-07T16:07:52.332991"
+    "updated_at": "2026-09-07T20:12:23.127754"
   }
 }
