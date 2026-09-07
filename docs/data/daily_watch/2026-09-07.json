@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-07",
+  "events": {
+    "103636": {
+      "id": "103636",
+      "title": "Will Apple release iPhone 18 in 2026?",
+      "tags": [],
+      "first_seen": "2026-09-07T05:19:31.764701",
+      "history": [
+        {
+          "time": "05:19",
+          "prob": 0.9895,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9895
+    }
+  }
+}
