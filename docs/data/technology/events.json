@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-08T06:35:16.544366",
+  "updated_at": "2026-09-08T11:47:23.900620",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -34,7 +34,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.972,
+        "probability": 0.9715,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -322,11 +322,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.972,
+        "current_prob": 0.9715,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.972,
+        "last_checked_prob": 0.9715,
         "history": [
           {
             "time": "15:57",
@@ -345,7 +345,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.95,
+        "probability": 0.9515,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -980,11 +980,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.95,
+        "current_prob": 0.9515,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.95,
+        "last_checked_prob": 0.9515,
         "history": [
           {
             "time": "11:50",
@@ -1002,7 +1002,7 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
+        "url": "https://polymarket.com/event/648785",
         "probability": 0.895,
         "option_text": "Reliance Industries Ltd",
         "tags": [
@@ -2445,7 +2445,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/290152",
+        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
         "probability": 0.91,
         "option_text": "Up",
         "tags": [
@@ -2594,7 +2594,7 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/79041",
+        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
         "probability": 0.795,
         "option_text": "NVIDIA",
         "tags": [
@@ -5509,7 +5509,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.825,
+        "probability": 0.81,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5637,11 +5637,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.81,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.81,
         "history": [
           {
             "time": "18:17",
@@ -5660,8 +5660,8 @@
         "title": "How much will the iPhone 18 Pro cost?",
         "slug": "how-much-will-the-iphone-18-pro-cost-20260623232158676",
         "url": "https://polymarket.com/event/how-much-will-the-iphone-18-pro-cost-20260623232158676",
-        "probability": 0.9855,
-        "option_text": "$1000",
+        "probability": 0.9875,
+        "option_text": "$1100",
         "tags": [
           "tech",
           "apple",
@@ -6193,11 +6193,11 @@
         "endDate": "2027-03-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9855,
+        "current_prob": 0.9875,
         "added_at": "2026-09-06T20:52:56.619407",
         "first_seen": "2026-09-06T20:52:56.619407",
-        "peak_prob": 0.9855,
-        "last_checked_prob": 0.9855,
+        "peak_prob": 0.9875,
+        "last_checked_prob": 0.9875,
         "history": [
           {
             "time": "20:52",
@@ -6211,7 +6211,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-        "probability": 0.7,
+        "probability": 0.855,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -6325,20 +6325,25 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.7,
+        "current_prob": 0.855,
         "added_at": "2026-09-08T06:35:16.536468",
         "first_seen": "2026-09-08T06:35:16.536468",
-        "peak_prob": 0.7,
-        "last_checked_prob": 0.7,
+        "peak_prob": 0.855,
+        "last_checked_prob": 0.855,
         "history": [
           {
             "time": "06:35",
             "prob": 0.7,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "11:47",
+            "prob": 0.855,
+            "reason": "Update: 70.0% → 85.5%"
           }
         ]
       }
     ],
-    "updated_at": "2026-09-08T06:35:16.536576"
+    "updated_at": "2026-09-08T11:47:23.893206"
   }
 }
