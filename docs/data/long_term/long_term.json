@@ -4,7 +4,7 @@
       "id": "612483",
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
-      "url": "https://polymarket.com/event/612483",
+      "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.9725,
       "option_text": "$60",
       "tags": [
@@ -316,7 +316,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/amazon-2026-capex-above",
-      "probability": 0.9505,
+      "probability": 0.954,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -951,11 +951,11 @@
       "endDate": "2027-04-30T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9505,
+      "current_prob": 0.954,
       "added_at": "2026-07-09T11:50:53.046381",
       "first_seen": "2026-07-09T11:50:53.046381",
       "peak_prob": 0.99,
-      "last_checked_prob": 0.9505,
+      "last_checked_prob": 0.954,
       "history": [
         {
           "time": "11:50",
@@ -5479,8 +5479,8 @@
       "id": "428507",
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
-      "url": "https://polymarket.com/event/428507",
-      "probability": 0.815,
+      "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+      "probability": 0.825,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -5608,11 +5608,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.815,
+      "current_prob": 0.825,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.815,
+      "last_checked_prob": 0.825,
       "history": [
         {
           "time": "18:17",
@@ -5627,6 +5627,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-09T18:03:11.448332",
+  "updated_at": "2026-09-09T21:17:34.769890",
   "event_count": 17
 }
