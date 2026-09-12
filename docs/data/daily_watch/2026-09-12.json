@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-12",
+  "events": {
+    "638395": {
+      "id": "638395",
+      "title": "How many cities will Waymo operate in by December 31?",
+      "tags": [],
+      "first_seen": "2026-09-12T11:18:20.407677",
+      "history": [
+        {
+          "time": "11:18",
+          "prob": 0.701,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.701
+    }
+  }
+}
