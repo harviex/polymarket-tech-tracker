@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-12T01:41:44.680016",
+  "updated_at": "2026-09-12T06:34:13.716144",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -322,7 +322,7 @@
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
         "probability": 0.954,
-        "option_text": "$190B",
+        "option_text": "$170B",
         "tags": [
           "finance",
           "tech",
@@ -979,7 +979,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.87,
+        "probability": 0.86,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2384,11 +2384,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.86,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.86,
         "history": [
           {
             "time": "01:22",
@@ -5637,6 +5637,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-12T01:41:44.673521"
+    "updated_at": "2026-09-12T06:34:13.709494"
   }
 }
