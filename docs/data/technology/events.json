@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-12T19:47:51.083193",
+  "updated_at": "2026-09-12T21:43:25.303673",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -1008,7 +1008,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.875,
+        "probability": 0.88,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2413,11 +2413,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.88,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.88,
         "history": [
           {
             "time": "01:22",
@@ -2600,7 +2600,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-        "probability": 0.74,
+        "probability": 0.735,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -5496,11 +5496,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.74,
+        "current_prob": 0.735,
         "added_at": "2026-08-19T21:13:28.327283",
         "first_seen": "2026-08-19T21:13:28.327283",
         "peak_prob": 0.805,
-        "last_checked_prob": 0.74,
+        "last_checked_prob": 0.735,
         "history": [
           {
             "time": "21:13",
@@ -5666,6 +5666,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-12T19:47:51.076343"
+    "updated_at": "2026-09-12T21:43:25.297140"
   }
 }
