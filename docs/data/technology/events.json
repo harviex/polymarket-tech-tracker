@@ -1,36 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-12T23:28:08.099975",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "638395",
-          "title": "How many cities will Waymo operate in by December 31?",
-          "tags": [],
-          "first_seen": "2026-09-12T11:18:20.407677",
-          "history": [
-            {
-              "time": "11:18",
-              "prob": 0.701,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "14:26",
-              "prob": 0.701,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.701
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-09-13T01:32:05.795153",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
     "events": [
@@ -39,7 +10,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.975,
+        "probability": 0.9725,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -327,11 +298,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.975,
+        "current_prob": 0.9725,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.975,
+        "last_checked_prob": 0.9725,
         "history": [
           {
             "time": "15:57",
@@ -1008,7 +979,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.855,
+        "probability": 0.865,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2413,11 +2384,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.855,
+        "current_prob": 0.865,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.855,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "01:22",
@@ -5519,7 +5490,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.825,
+        "probability": 0.82,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5647,11 +5618,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.825,
+        "current_prob": 0.82,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
         "peak_prob": 0.845,
-        "last_checked_prob": 0.825,
+        "last_checked_prob": 0.82,
         "history": [
           {
             "time": "18:17",
@@ -5666,6 +5637,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-12T23:28:08.092797"
+    "updated_at": "2026-09-13T01:32:05.789890"
   }
 }
