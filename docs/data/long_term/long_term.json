@@ -974,7 +974,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-      "probability": 0.885,
+      "probability": 0.88,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -2379,11 +2379,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.885,
+      "current_prob": 0.88,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.92,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.88,
       "history": [
         {
           "time": "01:22",
@@ -5485,7 +5485,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-      "probability": 0.795,
+      "probability": 0.805,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -5613,11 +5613,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.795,
+      "current_prob": 0.805,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.795,
+      "last_checked_prob": 0.805,
       "history": [
         {
           "time": "18:17",
@@ -5632,6 +5632,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-13T12:21:26.951343",
+  "updated_at": "2026-09-13T16:40:37.236110",
   "event_count": 17
 }
