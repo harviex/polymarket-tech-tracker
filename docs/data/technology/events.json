@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-13T21:50:06.696602",
+  "updated_at": "2026-09-13T23:41:48.878853",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -10,7 +10,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9715,
+        "probability": 0.9725,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -298,11 +298,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9715,
+        "current_prob": 0.9725,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9715,
+        "last_checked_prob": 0.9725,
         "history": [
           {
             "time": "15:57",
@@ -321,7 +321,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.976,
+        "probability": 0.9775,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -956,11 +956,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.976,
+        "current_prob": 0.9775,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.976,
+        "last_checked_prob": 0.9775,
         "history": [
           {
             "time": "11:50",
@@ -5637,6 +5637,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-13T21:50:06.689930"
+    "updated_at": "2026-09-13T23:41:48.873825"
   }
 }
