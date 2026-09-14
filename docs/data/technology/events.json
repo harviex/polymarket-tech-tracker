@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-14T19:38:10.712274",
+  "updated_at": "2026-09-14T22:47:44.841254",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -378,7 +378,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.9765,
+        "probability": 0.9795,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -1013,11 +1013,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9765,
+        "current_prob": 0.9795,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9765,
+        "last_checked_prob": 0.9795,
         "history": [
           {
             "time": "11:50",
@@ -2775,6 +2775,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-14T19:38:10.708737"
+    "updated_at": "2026-09-14T22:47:44.837569"
   }
 }
