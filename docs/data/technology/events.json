@@ -1,64 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-14T22:47:44.841254",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "192773",
-          "title": "Will OpenAI release a social network in 2026?",
-          "tags": [],
-          "first_seen": "2026-09-14T01:50:12.803312",
-          "history": [
-            {
-              "time": "01:50",
-              "prob": 0.93,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "01:50",
-              "prob": 0.93,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "01:50",
-              "prob": 0.93,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            },
-            {
-              "time": "07:14",
-              "prob": 0.93,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.93
-        },
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "tags": [],
-          "first_seen": "2026-09-14T14:27:27.190754",
-          "history": [
-            {
-              "time": "14:27",
-              "prob": 0.71,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.71
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-09-15T01:00:32.486152",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
     "events": [
@@ -378,7 +321,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/amazon-2026-capex-above",
-        "probability": 0.9795,
+        "probability": 0.977,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -1013,11 +956,11 @@
         "endDate": "2027-04-30T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9795,
+        "current_prob": 0.977,
         "added_at": "2026-07-09T11:50:53.046381",
         "first_seen": "2026-07-09T11:50:53.046381",
         "peak_prob": 0.99,
-        "last_checked_prob": 0.9795,
+        "last_checked_prob": 0.977,
         "history": [
           {
             "time": "11:50",
@@ -1036,7 +979,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.87,
+        "probability": 0.865,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -2441,11 +2384,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.865,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "01:22",
@@ -2775,6 +2718,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-14T22:47:44.837569"
+    "updated_at": "2026-09-15T01:00:32.482677"
   }
 }
