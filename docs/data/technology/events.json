@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-16T17:19:20.584349",
+  "updated_at": "2026-09-16T20:28:54.279921",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -48,7 +48,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9735,
+        "probability": 0.974,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -336,11 +336,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9735,
+        "current_prob": 0.974,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9735,
+        "last_checked_prob": 0.974,
         "history": [
           {
             "time": "15:57",
@@ -359,7 +359,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.885,
+        "probability": 0.89,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1764,11 +1764,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.89,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.92,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "01:22",
@@ -2102,7 +2102,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-        "probability": 0.73,
+        "probability": 0.745,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -5003,11 +5003,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.745,
         "added_at": "2026-09-16T17:19:20.577840",
         "first_seen": "2026-09-16T17:19:20.577840",
-        "peak_prob": 0.73,
-        "last_checked_prob": 0.73,
+        "peak_prob": 0.745,
+        "last_checked_prob": 0.745,
         "history": [
           {
             "time": "17:19",
@@ -5017,6 +5017,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-16T17:19:20.577946"
+    "updated_at": "2026-09-16T20:28:54.274171"
   }
 }
