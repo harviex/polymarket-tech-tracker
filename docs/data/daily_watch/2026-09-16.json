@@ -1,0 +1,19 @@
+{
+  "date": "2026-09-16",
+  "events": {
+    "407875": {
+      "id": "407875",
+      "title": "Amazon 2026 capex above ___?",
+      "tags": [],
+      "first_seen": "2026-09-16T12:14:56.683409",
+      "history": [
+        {
+          "time": "12:14",
+          "prob": 0.9795,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9795
+    }
+  }
+}
