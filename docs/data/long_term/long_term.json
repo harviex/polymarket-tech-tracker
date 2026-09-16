@@ -1908,7 +1908,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-      "probability": 0.83,
+      "probability": 0.84,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2036,11 +2036,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.83,
+      "current_prob": 0.84,
       "added_at": "2026-08-20T18:17:58.315117",
       "first_seen": "2026-08-20T18:17:58.315117",
       "peak_prob": 0.845,
-      "last_checked_prob": 0.83,
+      "last_checked_prob": 0.84,
       "history": [
         {
           "time": "18:17",
@@ -2059,7 +2059,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-      "probability": 0.745,
+      "probability": 0.74,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -4960,11 +4960,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.745,
+      "current_prob": 0.74,
       "added_at": "2026-09-16T17:19:20.577840",
       "first_seen": "2026-09-16T17:19:20.577840",
       "peak_prob": 0.745,
-      "last_checked_prob": 0.745,
+      "last_checked_prob": 0.74,
       "history": [
         {
           "time": "17:19",
@@ -4974,6 +4974,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-16T20:28:54.274171",
+  "updated_at": "2026-09-16T23:18:04.288751",
   "event_count": 17
 }
