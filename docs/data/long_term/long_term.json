@@ -2064,7 +2064,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-      "probability": 0.705,
+      "probability": 0.715,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -4960,11 +4960,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.715,
       "added_at": "2026-09-17T12:14:55.718371",
       "first_seen": "2026-09-17T12:14:55.718371",
-      "peak_prob": 0.705,
-      "last_checked_prob": 0.705,
+      "peak_prob": 0.715,
+      "last_checked_prob": 0.715,
       "history": [
         {
           "time": "12:14",
@@ -4978,7 +4978,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.75,
+      "probability": 0.715,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -5091,11 +5091,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.715,
       "added_at": "2026-09-17T20:36:19.116915",
       "first_seen": "2026-09-17T20:36:19.116915",
       "peak_prob": 0.75,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.715,
       "history": [
         {
           "time": "20:36",
@@ -5105,6 +5105,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-17T20:36:19.117027",
+  "updated_at": "2026-09-17T23:09:22.487904",
   "event_count": 17
 }
