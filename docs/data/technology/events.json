@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-18T11:54:50.338006",
+  "updated_at": "2026-09-18T15:15:20.161859",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -32,8 +32,8 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9745,
-        "option_text": "$75",
+        "probability": 0.974,
+        "option_text": "$60",
         "tags": [
           "tech",
           "gta-6",
@@ -320,11 +320,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.974,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.974,
         "history": [
           {
             "time": "15:57",
@@ -343,7 +343,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.9,
+        "probability": 0.895,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1748,11 +1748,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9,
+        "current_prob": 0.895,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.9,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "01:22",
@@ -5006,6 +5006,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-18T11:54:50.332290"
+    "updated_at": "2026-09-18T15:15:20.153417"
   }
 }
