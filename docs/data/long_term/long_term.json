@@ -6,7 +6,7 @@
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
       "probability": 0.975,
-      "option_text": "$70",
+      "option_text": "$60",
       "tags": [
         "tech",
         "gta-6",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-      "probability": 0.955,
+      "probability": 0.89,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.955,
+      "current_prob": 0.89,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.955,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "01:22",
@@ -1756,6 +1756,11 @@
           "time": "17:18",
           "prob": 0.935,
           "reason": "Update: 88.5% → 93.5%"
+        },
+        {
+          "time": "01:41",
+          "prob": 0.89,
+          "reason": "Update: 95.5% → 89.0%"
         }
       ]
     },
@@ -4978,7 +4983,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.715,
+      "probability": 0.71,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -5091,11 +5096,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.715,
+      "current_prob": 0.71,
       "added_at": "2026-09-17T20:36:19.116915",
       "first_seen": "2026-09-17T20:36:19.116915",
       "peak_prob": 0.75,
-      "last_checked_prob": 0.715,
+      "last_checked_prob": 0.71,
       "history": [
         {
           "time": "20:36",
@@ -5105,6 +5110,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-17T23:09:22.487904",
+  "updated_at": "2026-09-18T01:41:41.837185",
   "event_count": 17
 }
