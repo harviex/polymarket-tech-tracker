@@ -1,29 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-18T23:40:17.268674",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "245930",
-          "title": "Will Apple release a touchscreen MacBook in 2026?",
-          "tags": [],
-          "first_seen": "2026-09-18T06:44:27.237391",
-          "history": [
-            {
-              "time": "06:44",
-              "prob": 0.71,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.71
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-09-19T01:46:26.495254",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
     "events": [
@@ -343,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.9,
+        "probability": 0.895,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1748,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9,
+        "current_prob": 0.895,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.9,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "01:22",
@@ -1945,7 +1923,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.815,
+        "probability": 0.81,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2073,11 +2051,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.815,
+        "current_prob": 0.81,
         "added_at": "2026-08-20T18:17:58.315117",
         "first_seen": "2026-08-20T18:17:58.315117",
         "peak_prob": 0.85,
-        "last_checked_prob": 0.815,
+        "last_checked_prob": 0.81,
         "history": [
           {
             "time": "18:17",
@@ -5006,6 +4984,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-18T23:40:17.262567"
+    "updated_at": "2026-09-19T01:46:26.489390"
   }
 }
