@@ -2069,7 +2069,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-      "probability": 0.73,
+      "probability": 0.735,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -4965,11 +4965,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.73,
+      "current_prob": 0.735,
       "added_at": "2026-09-17T12:14:55.718371",
       "first_seen": "2026-09-17T12:14:55.718371",
       "peak_prob": 0.735,
-      "last_checked_prob": 0.73,
+      "last_checked_prob": 0.735,
       "history": [
         {
           "time": "12:14",
@@ -5123,6 +5123,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-19T19:38:02.136620",
+  "updated_at": "2026-09-19T21:49:06.463096",
   "event_count": 17
 }
