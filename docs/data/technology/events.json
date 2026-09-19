@@ -1,16 +1,40 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-19T06:44:01.004062",
-  "daily_watch_summaries": [],
+  "updated_at": "2026-09-19T11:38:47.520768",
+  "daily_watch_summaries": [
+    {
+      "tag": "tech",
+      "tag_display": "TECH",
+      "event_count": 1,
+      "events": [
+        {
+          "id": "100079",
+          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+          "tags": [],
+          "first_seen": "2026-09-19T11:38:47.520578",
+          "history": [
+            {
+              "time": "11:38",
+              "prob": 0.7825,
+              "threshold": 0.7,
+              "direction": "up",
+              "reason": "Crossed up 70%"
+            }
+          ],
+          "current_prob": 0.7825
+        }
+      ]
+    }
+  ],
   "long_term_data": {
-    "event_count": 5,
+    "event_count": 6,
     "events": [
       {
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.974,
+        "probability": 0.9735,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -298,11 +322,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.974,
+        "current_prob": 0.9735,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.974,
+        "last_checked_prob": 0.9735,
         "history": [
           {
             "time": "15:57",
@@ -321,7 +345,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.9,
+        "probability": 0.905,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1750,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9,
+        "current_prob": 0.905,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.9,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "01:22",
@@ -4982,8 +5006,152 @@
             "reason": "Added to Long-Term (high probability)"
           }
         ]
+      },
+      {
+        "id": "100079",
+        "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+        "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+        "probability": 0.7825,
+        "option_text": "Yes",
+        "tags": [
+          "tech",
+          "finance",
+          "big-tech",
+          "acquisitions",
+          "netflix",
+          "warner-bros"
+        ],
+        "markets": [
+          {
+            "id": "896056",
+            "question": "Will Paramount close Warner Bros. acquisition by end of 2026?",
+            "conditionId": "0x745bad0ff4724aab8a5e52ce4fe1558a493fb248a679b51f54bbe21923979f02",
+            "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+            "resolutionSource": "",
+            "endDate": "2027-01-01T04:59:00Z",
+            "liquidity": "2235.52397",
+            "startDate": "2025-12-08T16:39:06.049147Z",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-paramount-close-warner-bros-acquisition-by-end-of-2026-fxUworkcokOv.jpg",
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-paramount-close-warner-bros-acquisition-by-end-of-2026-fxUworkcokOv.jpg",
+            "description": "This market will resolve to “Yes” if, Paramount (directly or through a subsidiary) acquires control of Warner Bros. Discovery's studios and streaming businesses by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nResolution will be based on official company communications and regulatory filings from Paramount and Warner Bros. Discovery (or any successor entities), supplemented as needed by a consensus of reporting from major reputable news outlets.",
+            "outcomes": "[\"Yes\", \"No\"]",
+            "outcomePrices": "[\"0.7825\", \"0.2175\"]",
+            "volume": "154345.13127199997",
+            "active": true,
+            "closed": false,
+            "marketMakerAddress": "",
+            "createdAt": "2025-12-08T16:22:30.619351Z",
+            "updatedAt": "2026-09-19T11:37:08.873076Z",
+            "new": false,
+            "featured": false,
+            "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
+            "archived": false,
+            "resolvedBy": "0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7",
+            "restricted": true,
+            "groupItemTitle": "",
+            "groupItemThreshold": "0",
+            "questionID": "0x8b8bc04b957032c8380547d790c7983310f945880a584bce8af055633d99d02f",
+            "enableOrderBook": true,
+            "orderPriceMinTickSize": 0.001,
+            "orderMinSize": 5,
+            "volumeNum": 154345.13127199997,
+            "liquidityNum": 2235.52397,
+            "endDateIso": "2027-01-01",
+            "startDateIso": "2025-12-08",
+            "hasReviewedDates": true,
+            "volume24hr": 2038.745898,
+            "volume1wk": 2184.825405,
+            "volume1mo": 3142.923632,
+            "volume1yr": 154345.131272,
+            "clobTokenIds": "[\"89566598418366581813277215279543727759920481939148932603553987458437131667828\", \"46470632352366621547295225922510898360914410924108755129921762137818023348745\"]",
+            "comboStatus": "disabled",
+            "umaBond": "500",
+            "umaReward": "5",
+            "volume24hrClob": 2038.745898,
+            "volume1wkClob": 2184.825405,
+            "volume1moClob": 3142.923632,
+            "volume1yrClob": 154345.131272,
+            "volumeClob": 154345.13127199997,
+            "liquidityClob": 2235.52397,
+            "makerBaseFee": 1000,
+            "takerBaseFee": 1000,
+            "customLiveness": 0,
+            "acceptingOrders": true,
+            "negRisk": false,
+            "negRiskRequestID": "",
+            "ready": false,
+            "funded": false,
+            "acceptingOrdersTimestamp": "2025-12-08T16:38:43Z",
+            "cyom": false,
+            "competitive": 0.7029038774317152,
+            "pagerDutyNotificationEnabled": false,
+            "approved": true,
+            "clobRewards": [
+              {
+                "id": "1022535",
+                "conditionId": "0x745bad0ff4724aab8a5e52ce4fe1558a493fb248a679b51f54bbe21923979f02",
+                "assetAddress": "0xc011a7e12a19f7b1f670d46f03b03f3342e82dfb",
+                "rewardsAmount": 0,
+                "rewardsDailyRate": 0.001,
+                "startDate": "2026-07-25",
+                "endDate": "2500-12-31"
+              }
+            ],
+            "rewardsMinSize": 0,
+            "rewardsMaxSpread": 0,
+            "spread": 0.241,
+            "oneDayPriceChange": 0.53,
+            "oneHourPriceChange": 0.0005,
+            "oneWeekPriceChange": 0.5725,
+            "oneMonthPriceChange": 0.6175,
+            "lastTradePrice": 0.736,
+            "bestBid": 0.662,
+            "bestAsk": 0.903,
+            "automaticallyActive": true,
+            "clearBookOnStart": true,
+            "manualActivation": false,
+            "negRiskOther": false,
+            "umaResolutionStatuses": "[]",
+            "pendingDeployment": false,
+            "deploying": false,
+            "deployingTimestamp": "2025-12-08T16:30:34.718145Z",
+            "rfqEnabled": false,
+            "holdingRewardsEnabled": false,
+            "feesEnabled": true,
+            "requiresTranslation": false,
+            "feeType": "tech_fees",
+            "feeSchedule": {
+              "exponent": 1,
+              "rate": 0.04,
+              "takerOnly": true,
+              "rebateRate": 0.25
+            },
+            "version": "v1"
+          }
+        ],
+        "resolutionSource": "",
+        "description": "This market will resolve to “Yes” if, Paramount (directly or through a subsidiary) acquires control of Warner Bros. Discovery's studios and streaming businesses by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nResolution will be based on official company communications and regulatory filings from Paramount and Warner Bros. Discovery (or any successor entities), supplemented as needed by a consensus of reporting from major reputable news outlets.",
+        "volume": 154345.13127200003,
+        "liquidity": 2202.89333,
+        "startDate": "2025-12-08T16:39:06.049147Z",
+        "endDate": "2027-01-01T04:59:00Z",
+        "active": true,
+        "closed": false,
+        "current_prob": 0.7825,
+        "added_at": "2026-09-19T11:38:47.514426",
+        "first_seen": "2026-09-19T11:38:47.514426",
+        "peak_prob": 0.7825,
+        "last_checked_prob": 0.7825,
+        "history": [
+          {
+            "time": "11:38",
+            "prob": 0.7825,
+            "reason": "Added to Long-Term (high probability)"
+          }
+        ]
       }
     ],
-    "updated_at": "2026-09-19T06:44:00.998276"
+    "updated_at": "2026-09-19T11:38:47.514550"
   }
 }
