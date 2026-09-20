@@ -4983,7 +4983,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.818,
+      "probability": 0.8165,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -5109,11 +5109,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.818,
+      "current_prob": 0.8165,
       "added_at": "2026-09-19T11:38:47.514426",
       "first_seen": "2026-09-19T11:38:47.514426",
       "peak_prob": 0.832,
-      "last_checked_prob": 0.818,
+      "last_checked_prob": 0.8165,
       "history": [
         {
           "time": "11:38",
@@ -5127,7 +5127,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
-      "probability": 0.73,
+      "probability": 0.705,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -5240,11 +5240,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.73,
+      "current_prob": 0.705,
       "added_at": "2026-09-20T21:57:06.331735",
       "first_seen": "2026-09-20T21:57:06.331735",
       "peak_prob": 0.73,
-      "last_checked_prob": 0.73,
+      "last_checked_prob": 0.705,
       "history": [
         {
           "time": "21:57",
@@ -5254,6 +5254,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-20T21:57:06.331836",
+  "updated_at": "2026-09-20T23:44:06.571537",
   "event_count": 17
 }
