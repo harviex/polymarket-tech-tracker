@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-22",
+  "events": {
+    "488234": {
+      "id": "488234",
+      "title": "Next Google Gemini Pro Model: Arena Debut?",
+      "tags": [],
+      "first_seen": "2026-09-22T06:53:48.576844",
+      "history": [
+        {
+          "time": "06:53",
+          "prob": 0.9145,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "06:53",
+          "prob": 0.9145,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "06:53",
+          "prob": 0.9145,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9145
+    }
+  }
+}
