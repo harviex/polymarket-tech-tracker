@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-22T17:22:32.404062",
+  "updated_at": "2026-09-22T20:31:22.646536",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -48,7 +48,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9765,
+        "probability": 0.976,
         "option_text": "$75",
         "tags": [
           "tech",
@@ -336,11 +336,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9765,
+        "current_prob": 0.976,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9765,
+        "last_checked_prob": 0.976,
         "history": [
           {
             "time": "15:57",
@@ -359,7 +359,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.895,
+        "probability": 0.89,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1764,11 +1764,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.895,
+        "current_prob": 0.89,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "01:22",
@@ -5026,7 +5026,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.943,
+        "probability": 0.9375,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5152,11 +5152,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.943,
+        "current_prob": 0.9375,
         "added_at": "2026-09-19T11:38:47.514426",
         "first_seen": "2026-09-19T11:38:47.514426",
         "peak_prob": 0.964,
-        "last_checked_prob": 0.943,
+        "last_checked_prob": 0.9375,
         "history": [
           {
             "time": "11:38",
@@ -5180,7 +5180,7 @@
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
         "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
-        "probability": 0.9095,
+        "probability": 0.9065,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
           "gemini",
@@ -5715,11 +5715,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9095,
+        "current_prob": 0.9065,
         "added_at": "2026-09-22T06:53:48.570134",
         "first_seen": "2026-09-22T06:53:48.570134",
         "peak_prob": 0.9145,
-        "last_checked_prob": 0.9095,
+        "last_checked_prob": 0.9065,
         "history": [
           {
             "time": "06:53",
@@ -5729,6 +5729,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-22T17:22:32.399933"
+    "updated_at": "2026-09-22T20:31:22.639915"
   }
 }
