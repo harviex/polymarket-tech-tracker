@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-23T20:44:18.239669",
+  "updated_at": "2026-09-23T23:15:07.457747",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -366,7 +366,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.885,
+        "probability": 0.905,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1771,11 +1771,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.885,
+        "current_prob": 0.905,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.885,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "01:22",
@@ -4882,7 +4882,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.9745,
+        "probability": 0.9725,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5008,11 +5008,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.9725,
         "added_at": "2026-09-19T11:38:47.514426",
         "first_seen": "2026-09-19T11:38:47.514426",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.9725,
         "history": [
           {
             "time": "11:38",
@@ -5041,7 +5041,7 @@
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
         "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
-        "probability": 0.939,
+        "probability": 0.9395,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
           "gemini",
@@ -5576,11 +5576,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.939,
+        "current_prob": 0.9395,
         "added_at": "2026-09-22T06:53:48.570134",
         "first_seen": "2026-09-22T06:53:48.570134",
-        "peak_prob": 0.939,
-        "last_checked_prob": 0.939,
+        "peak_prob": 0.9395,
+        "last_checked_prob": 0.9395,
         "history": [
           {
             "time": "06:53",
@@ -5722,6 +5722,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-23T20:44:18.235209"
+    "updated_at": "2026-09-23T23:15:07.450975"
   }
 }
