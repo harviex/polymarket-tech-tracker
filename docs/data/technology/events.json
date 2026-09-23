@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-23T06:54:40.133414",
+  "updated_at": "2026-09-23T12:21:22.280791",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -345,7 +345,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.89,
+        "probability": 0.895,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1750,11 +1750,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.89,
+        "current_prob": 0.895,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "01:22",
@@ -4861,7 +4861,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.9895,
+        "probability": 0.975,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -4987,11 +4987,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9895,
+        "current_prob": 0.975,
         "added_at": "2026-09-19T11:38:47.514426",
         "first_seen": "2026-09-19T11:38:47.514426",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9895,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "11:38",
@@ -5020,7 +5020,7 @@
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
         "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
-        "probability": 0.93,
+        "probability": 0.933,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
           "gemini",
@@ -5555,11 +5555,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.93,
+        "current_prob": 0.933,
         "added_at": "2026-09-22T06:53:48.570134",
         "first_seen": "2026-09-22T06:53:48.570134",
-        "peak_prob": 0.93,
-        "last_checked_prob": 0.93,
+        "peak_prob": 0.933,
+        "last_checked_prob": 0.933,
         "history": [
           {
             "time": "06:53",
@@ -5573,7 +5573,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
-        "probability": 0.705,
+        "probability": 0.71,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5700,11 +5700,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.705,
+        "current_prob": 0.71,
         "added_at": "2026-09-23T01:56:11.376220",
         "first_seen": "2026-09-23T01:56:11.376220",
-        "peak_prob": 0.705,
-        "last_checked_prob": 0.705,
+        "peak_prob": 0.71,
+        "last_checked_prob": 0.71,
         "history": [
           {
             "time": "01:56",
@@ -5714,6 +5714,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-23T06:54:40.126779"
+    "updated_at": "2026-09-23T12:21:22.273979"
   }
 }
