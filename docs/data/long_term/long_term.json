@@ -5,8 +5,8 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-      "probability": 0.975,
-      "option_text": "$75",
+      "probability": 0.9755,
+      "option_text": "$60",
       "tags": [
         "tech",
         "gta-6",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.975,
+      "current_prob": 0.9755,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.975,
+      "last_checked_prob": 0.9755,
       "history": [
         {
           "time": "15:57",
@@ -4832,7 +4832,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-      "probability": 0.9325,
+      "probability": 0.9895,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -4958,11 +4958,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9325,
+      "current_prob": 0.9895,
       "added_at": "2026-09-19T11:38:47.514426",
       "first_seen": "2026-09-19T11:38:47.514426",
-      "peak_prob": 0.964,
-      "last_checked_prob": 0.9325,
+      "peak_prob": 0.9895,
+      "last_checked_prob": 0.9895,
       "history": [
         {
           "time": "11:38",
@@ -4978,6 +4978,11 @@
           "time": "22:52",
           "prob": 0.9135,
           "reason": "Update: 96.4% → 91.3%"
+        },
+        {
+          "time": "06:54",
+          "prob": 0.9895,
+          "reason": "Update: 93.2% → 99.0%"
         }
       ]
     },
@@ -4986,7 +4991,7 @@
       "title": "Next Google Gemini Pro Model: Arena Debut?",
       "slug": "next-google-gemini-pro-model-arena-debut",
       "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
-      "probability": 0.9055,
+      "probability": 0.93,
       "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
       "tags": [
         "gemini",
@@ -5521,11 +5526,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9055,
+      "current_prob": 0.93,
       "added_at": "2026-09-22T06:53:48.570134",
       "first_seen": "2026-09-22T06:53:48.570134",
-      "peak_prob": 0.9145,
-      "last_checked_prob": 0.9055,
+      "peak_prob": 0.93,
+      "last_checked_prob": 0.93,
       "history": [
         {
           "time": "06:53",
@@ -5680,6 +5685,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-23T01:56:11.376307",
+  "updated_at": "2026-09-23T06:54:40.126779",
   "event_count": 17
 }
