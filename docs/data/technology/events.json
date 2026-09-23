@@ -1,11 +1,11 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-23T17:31:03.809881",
+  "updated_at": "2026-09-23T20:44:18.239669",
   "daily_watch_summaries": [
     {
       "tag": "tech",
       "tag_display": "TECH",
-      "event_count": 1,
+      "event_count": 2,
       "events": [
         {
           "id": "428507",
@@ -19,9 +19,30 @@
               "threshold": 0.7,
               "direction": "up",
               "reason": "Crossed up 70%"
+            },
+            {
+              "time": "20:44",
+              "prob": 0.71,
+              "reason": "Removed from Long-Term (prob < 70%)"
             }
           ],
           "current_prob": 0.705
+        },
+        {
+          "id": "245930",
+          "title": "Will Apple release a touchscreen MacBook in 2026?",
+          "tags": [],
+          "first_seen": "2026-09-23T20:44:18.239522",
+          "history": [
+            {
+              "time": "20:44",
+              "prob": 0.71,
+              "threshold": 0.7,
+              "direction": "up",
+              "reason": "Crossed up 70%"
+            }
+          ],
+          "current_prob": 0.71
         }
       ]
     }
@@ -34,7 +55,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
-        "probability": 0.9745,
+        "probability": 0.9755,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -322,11 +343,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.9755,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.9755,
         "history": [
           {
             "time": "15:57",
@@ -345,7 +366,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.895,
+        "probability": 0.885,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1750,11 +1771,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.895,
+        "current_prob": 0.885,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "01:22",
@@ -4861,7 +4882,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.97,
+        "probability": 0.9745,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -4987,11 +5008,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.97,
+        "current_prob": 0.9745,
         "added_at": "2026-09-19T11:38:47.514426",
         "first_seen": "2026-09-19T11:38:47.514426",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.97,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "11:38",
@@ -5020,7 +5041,7 @@
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
         "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
-        "probability": 0.9375,
+        "probability": 0.939,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
           "gemini",
@@ -5555,11 +5576,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9375,
+        "current_prob": 0.939,
         "added_at": "2026-09-22T06:53:48.570134",
         "first_seen": "2026-09-22T06:53:48.570134",
-        "peak_prob": 0.9375,
-        "last_checked_prob": 0.9375,
+        "peak_prob": 0.939,
+        "last_checked_prob": 0.939,
         "history": [
           {
             "time": "06:53",
@@ -5569,43 +5590,40 @@
         ]
       },
       {
-        "id": "428507",
-        "title": "Will Anthropic flip BTC by December 31?",
-        "slug": "will-anthropic-flip-btc-by-december-31",
-        "url": "https://polymarket.com/event/will-anthropic-flip-btc-by-december-31",
+        "id": "245930",
+        "title": "Will Apple release a touchscreen MacBook in 2026?",
+        "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
+        "url": "https://polymarket.com/event/will-apple-release-a-touchscreen-macbook-in-2026",
         "probability": 0.71,
         "option_text": "Yes",
         "tags": [
-          "ai",
-          "big-tech",
+          "apple",
           "tech",
-          "crypto-prices",
-          "crypto",
-          "anthropic-ipo",
-          "price-comparison",
-          "anthropic"
+          "big-tech",
+          "pop-culture",
+          "apple-event"
         ],
         "markets": [
           {
-            "id": "2109881",
-            "question": "Will Anthropic flip BTC by December 31?",
-            "conditionId": "0x5c0d7c74bbf6ef1e0114e6f75514e3360673e15b6542b78a95363a41c24089d3",
-            "slug": "will-anthropic-flip-btc-by-december-31",
+            "id": "1499672",
+            "question": "Will Apple release a touchscreen MacBook in 2026?",
+            "conditionId": "0x3b8ffe267a348097806237bd9af95050896ee12e4d461b421ca703c8bdf31022",
+            "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
             "resolutionSource": "",
             "endDate": "2027-01-01T04:59:00Z",
-            "liquidity": "2072.1146",
-            "startDate": "2026-04-28T19:40:06.158Z",
-            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-anthropic-flip-btc-by-december-31-vj3FsSMs6aX7.png",
-            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-anthropic-flip-btc-by-december-31-vj3FsSMs6aX7.png",
-            "description": "This market will resolve to \"Yes\" if the public valuation of Anthropic surpasses the market capitalization of Bitcoin (BTC) at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nFor Bitcoin, CoinGecko's data for BTC will be used, currently available at https://www.coingecko.com/en/coins/bitcoin. If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.\n\nFor Anthropic, any public valuation, or private funding round that values the company will be considered. To qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. \n\nThe resolution source will CoinGecko and Anthropic's official communications; however a consensus of credible reporting may also be used.",
+            "liquidity": "7349.4753",
+            "startDate": "2026-03-05T23:02:22.965897Z",
+            "image": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-apple-release-a-touchscreen-macbook-in-2026-R-ymwr35uBxc.jpg",
+            "icon": "https://polymarket-upload.s3.us-east-2.amazonaws.com/will-apple-release-a-touchscreen-macbook-in-2026-R-ymwr35uBxc.jpg",
+            "description": "This market will resolve to \"Yes\" if Apple officially releases a MacBook with a touchscreen by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIn order to be considered released, the product must be available for purchase by the general public within the specified timeframe. An announcement or unveiling alone is not sufficient.\n\nA qualifying release of a MacBook with a touchscreen by Apple will only count if it is explicitly branded a MacBook. For example, an iMac will not qualify to resolve this market to \"Yes\". A qualifying touchscreen must be a true screen; a touch bar will not qualify.\n\nThe primary resolution source for this market will be official statements from Apple. However, a consensus of credible reporting may also be used.",
             "outcomes": "[\"Yes\", \"No\"]",
-            "outcomePrices": "[\"0.705\", \"0.295\"]",
-            "volume": "199592.5134",
+            "outcomePrices": "[\"0.71\", \"0.29\"]",
+            "volume": "75374.78038699998",
             "active": true,
             "closed": false,
             "marketMakerAddress": "",
-            "createdAt": "2026-04-28T19:14:30.008999Z",
-            "updatedAt": "2026-09-23T01:54:21.136843Z",
+            "createdAt": "2026-03-04T15:46:04.736336Z",
+            "updatedAt": "2026-09-23T20:42:16.297797Z",
             "new": false,
             "featured": false,
             "submitted_by": "0x91430CaD2d3975766499717fA0D66A78D814E5c5",
@@ -5614,29 +5632,29 @@
             "restricted": true,
             "groupItemTitle": "",
             "groupItemThreshold": "0",
-            "questionID": "0xe5b5ec32edc81fe7b12fb1178fb465061b26fdf3426077d9b888e65544ad01de",
+            "questionID": "0xe7c0dd14dec9d7079f5ecc068c9891c799802972e95684a9ab9e40d0a7ffa14c",
             "enableOrderBook": true,
             "orderPriceMinTickSize": 0.01,
             "orderMinSize": 5,
-            "volumeNum": 199592.5134,
-            "liquidityNum": 2072.1146,
+            "volumeNum": 75374.78038699998,
+            "liquidityNum": 7349.4753,
             "endDateIso": "2027-01-01",
-            "startDateIso": "2026-04-28",
+            "startDateIso": "2026-03-05",
             "hasReviewedDates": true,
-            "volume24hr": 378.32000000000005,
-            "volume1wk": 3736.25306,
-            "volume1mo": 15405.006813999998,
-            "volume1yr": 199592.51340000003,
-            "clobTokenIds": "[\"58490859328243212279412541458794308476991330364217513266494370658881648510092\", \"44437828835918970572754149333933371073424732398014446529359093781493670177161\"]",
+            "volume24hr": 543.980258,
+            "volume1wk": 7440.805176999998,
+            "volume1mo": 25094.885906999996,
+            "volume1yr": 75374.78038699999,
+            "clobTokenIds": "[\"7966697859820036062962777370893797454257030994450778883221499501735810143281\", \"23514447719471100390569154455440417533353453232779340703972009767897223549881\"]",
             "comboStatus": "disabled",
             "umaBond": "500",
             "umaReward": "5",
-            "volume24hrClob": 378.32000000000005,
-            "volume1wkClob": 3736.25306,
-            "volume1moClob": 15405.006813999998,
-            "volume1yrClob": 199592.51340000003,
-            "volumeClob": 199592.5134,
-            "liquidityClob": 2072.1146,
+            "volume24hrClob": 543.980258,
+            "volume1wkClob": 7440.805176999998,
+            "volume1moClob": 25094.885906999996,
+            "volume1yrClob": 75374.78038699999,
+            "volumeClob": 75374.78038699998,
+            "liquidityClob": 7349.4753,
             "makerBaseFee": 1000,
             "takerBaseFee": 1000,
             "customLiveness": 0,
@@ -5645,30 +5663,20 @@
             "negRiskRequestID": "",
             "ready": false,
             "funded": false,
-            "acceptingOrdersTimestamp": "2026-04-28T19:39:02Z",
+            "acceptingOrdersTimestamp": "2026-03-05T23:01:17Z",
             "cyom": false,
-            "competitive": 0.9596698735634942,
+            "competitive": 0.9577626664112633,
             "pagerDutyNotificationEnabled": false,
             "approved": true,
-            "clobRewards": [
-              {
-                "id": "271325",
-                "conditionId": "0x5c0d7c74bbf6ef1e0114e6f75514e3360673e15b6542b78a95363a41c24089d3",
-                "assetAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-                "rewardsAmount": 0,
-                "rewardsDailyRate": 10,
-                "startDate": "2026-04-28",
-                "endDate": "2500-12-31"
-              }
-            ],
-            "rewardsMinSize": 200,
-            "rewardsMaxSpread": 4.5,
-            "spread": 0.05,
-            "oneDayPriceChange": -0.04,
-            "oneWeekPriceChange": -0.125,
-            "oneMonthPriceChange": -0.11,
-            "lastTradePrice": 0.68,
-            "bestBid": 0.68,
+            "rewardsMinSize": 0,
+            "rewardsMaxSpread": 0,
+            "spread": 0.04,
+            "oneDayPriceChange": 0.07,
+            "oneHourPriceChange": 0.02,
+            "oneWeekPriceChange": 0.03,
+            "oneMonthPriceChange": 0.155,
+            "lastTradePrice": 0.72,
+            "bestBid": 0.69,
             "bestAsk": 0.73,
             "automaticallyActive": true,
             "clearBookOnStart": true,
@@ -5677,7 +5685,7 @@
             "umaResolutionStatuses": "[]",
             "pendingDeployment": false,
             "deploying": false,
-            "deployingTimestamp": "2026-04-28T19:23:02.917858Z",
+            "deployingTimestamp": "2026-03-05T22:59:46.195296Z",
             "rfqEnabled": false,
             "holdingRewardsEnabled": false,
             "feesEnabled": true,
@@ -5693,27 +5701,27 @@
           }
         ],
         "resolutionSource": "",
-        "description": "This market will resolve to \"Yes\" if the public valuation of Anthropic surpasses the market capitalization of Bitcoin (BTC) at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.\n\nFor Bitcoin, CoinGecko's data for BTC will be used, currently available at https://www.coingecko.com/en/coins/bitcoin. If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.\n\nFor Anthropic, any public valuation, or private funding round that values the company will be considered. To qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. \n\nThe resolution source will CoinGecko and Anthropic's official communications; however a consensus of credible reporting may also be used.",
-        "volume": 199592.5134,
-        "liquidity": 2073.2146,
-        "startDate": "2026-04-28T19:40:06.158Z",
+        "description": "This market will resolve to \"Yes\" if Apple officially releases a MacBook with a touchscreen by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIn order to be considered released, the product must be available for purchase by the general public within the specified timeframe. An announcement or unveiling alone is not sufficient.\n\nA qualifying release of a MacBook with a touchscreen by Apple will only count if it is explicitly branded a MacBook. For example, an iMac will not qualify to resolve this market to \"Yes\". A qualifying touchscreen must be a true screen; a touch bar will not qualify.\n\nThe primary resolution source for this market will be official statements from Apple. However, a consensus of credible reporting may also be used.",
+        "volume": 75374.78038699998,
+        "liquidity": 7373.2759,
+        "startDate": "2026-03-05T23:02:22.965897Z",
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
         "current_prob": 0.71,
-        "added_at": "2026-09-23T01:56:11.376220",
-        "first_seen": "2026-09-23T01:56:11.376220",
+        "added_at": "2026-09-23T20:44:18.235125",
+        "first_seen": "2026-09-23T20:44:18.235125",
         "peak_prob": 0.71,
         "last_checked_prob": 0.71,
         "history": [
           {
-            "time": "01:56",
-            "prob": 0.705,
+            "time": "20:44",
+            "prob": 0.71,
             "reason": "Added to Long-Term (high probability)"
           }
         ]
       }
     ],
-    "updated_at": "2026-09-23T17:31:03.805358"
+    "updated_at": "2026-09-23T20:44:18.235209"
   }
 }
