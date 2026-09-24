@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-24T20:49:51.606117",
+  "updated_at": "2026-09-24T23:35:39.789739",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -31,7 +31,7 @@
         "id": "612483",
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
-        "url": "https://polymarket.com/event/gta-vi-ps5-launch-price-20260618223907119",
+        "url": "https://polymarket.com/event/612483",
         "probability": 0.976,
         "option_text": "$60",
         "tags": [
@@ -342,8 +342,8 @@
         "id": "648785",
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
-        "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.905,
+        "url": "https://polymarket.com/event/648785",
+        "probability": 0.91,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1748,11 +1748,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.91,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.905,
+        "last_checked_prob": 0.91,
         "history": [
           {
             "time": "01:22",
@@ -1795,7 +1795,7 @@
         "id": "290152",
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
-        "url": "https://polymarket.com/event/tech-layoffs-up-or-down-in-2026",
+        "url": "https://polymarket.com/event/290152",
         "probability": 0.905,
         "option_text": "Up",
         "tags": [
@@ -1944,8 +1944,8 @@
         "id": "79041",
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
-        "url": "https://polymarket.com/event/largest-company-end-of-december-2026",
-        "probability": 0.745,
+        "url": "https://polymarket.com/event/79041",
+        "probability": 0.75,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -4841,11 +4841,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.745,
+        "current_prob": 0.75,
         "added_at": "2026-09-17T12:14:55.718371",
         "first_seen": "2026-09-17T12:14:55.718371",
         "peak_prob": 0.785,
-        "last_checked_prob": 0.745,
+        "last_checked_prob": 0.75,
         "history": [
           {
             "time": "12:14",
@@ -4858,7 +4858,7 @@
         "id": "100079",
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
+        "url": "https://polymarket.com/event/100079",
         "probability": 0.9795,
         "option_text": "Yes",
         "tags": [
@@ -5017,7 +5017,7 @@
         "id": "488234",
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
-        "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
+        "url": "https://polymarket.com/event/488234",
         "probability": 0.941,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
@@ -5567,6 +5567,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-24T20:49:51.602276"
+    "updated_at": "2026-09-24T23:35:39.782916"
   }
 }
