@@ -1,52 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-23T23:15:07.457747",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "428507",
-          "title": "Will Anthropic flip BTC by December 31?",
-          "tags": [],
-          "first_seen": "2026-09-23T01:56:11.382008",
-          "history": [
-            {
-              "time": "01:56",
-              "prob": 0.705,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "20:44",
-              "prob": 0.71,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.705
-        },
-        {
-          "id": "245930",
-          "title": "Will Apple release a touchscreen MacBook in 2026?",
-          "tags": [],
-          "first_seen": "2026-09-23T20:44:18.239522",
-          "history": [
-            {
-              "time": "20:44",
-              "prob": 0.71,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.71
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-09-24T01:45:29.799116",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
     "events": [
@@ -366,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/largest-indian-company-at-end-of-2026-20260629145859074",
-        "probability": 0.905,
+        "probability": 0.91,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1771,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.91,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.905,
+        "last_checked_prob": 0.91,
         "history": [
           {
             "time": "01:22",
@@ -4882,7 +4837,7 @@
         "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
         "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
         "url": "https://polymarket.com/event/will-paramount-close-warner-bros-acquisition-by-end-of-2026",
-        "probability": 0.9725,
+        "probability": 0.9745,
         "option_text": "Yes",
         "tags": [
           "tech",
@@ -5008,11 +4963,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9725,
+        "current_prob": 0.9745,
         "added_at": "2026-09-19T11:38:47.514426",
         "first_seen": "2026-09-19T11:38:47.514426",
         "peak_prob": 0.9895,
-        "last_checked_prob": 0.9725,
+        "last_checked_prob": 0.9745,
         "history": [
           {
             "time": "11:38",
@@ -5041,7 +4996,7 @@
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
         "url": "https://polymarket.com/event/next-google-gemini-pro-model-arena-debut",
-        "probability": 0.9395,
+        "probability": 0.941,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
           "gemini",
@@ -5576,11 +5531,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9395,
+        "current_prob": 0.941,
         "added_at": "2026-09-22T06:53:48.570134",
         "first_seen": "2026-09-22T06:53:48.570134",
-        "peak_prob": 0.9395,
-        "last_checked_prob": 0.9395,
+        "peak_prob": 0.941,
+        "last_checked_prob": 0.941,
         "history": [
           {
             "time": "06:53",
@@ -5722,6 +5677,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-23T23:15:07.450975"
+    "updated_at": "2026-09-24T01:45:29.793126"
   }
 }
