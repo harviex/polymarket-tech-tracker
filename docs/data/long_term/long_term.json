@@ -4832,7 +4832,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/100079",
-      "probability": 0.9785,
+      "probability": 0.981,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -4958,11 +4958,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9785,
+      "current_prob": 0.981,
       "added_at": "2026-09-19T11:38:47.514426",
       "first_seen": "2026-09-19T11:38:47.514426",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9785,
+      "last_checked_prob": 0.981,
       "history": [
         {
           "time": "11:38",
@@ -5540,6 +5540,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-26T05:37:59.123037",
+  "updated_at": "2026-09-26T10:20:54.364425",
   "event_count": 17
 }
