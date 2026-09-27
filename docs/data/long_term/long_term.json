@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.91,
+      "probability": 0.905,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.91,
+      "current_prob": 0.905,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.91,
+      "last_checked_prob": 0.905,
       "history": [
         {
           "time": "01:22",
@@ -4832,7 +4832,7 @@
       "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
       "slug": "will-paramount-close-warner-bros-acquisition-by-end-of-2026",
       "url": "https://polymarket.com/event/100079",
-      "probability": 0.9825,
+      "probability": 0.9835,
       "option_text": "Yes",
       "tags": [
         "tech",
@@ -4958,11 +4958,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9825,
+      "current_prob": 0.9835,
       "added_at": "2026-09-19T11:38:47.514426",
       "first_seen": "2026-09-19T11:38:47.514426",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9825,
+      "last_checked_prob": 0.9835,
       "history": [
         {
           "time": "11:38",
@@ -4991,7 +4991,7 @@
       "title": "Next Google Gemini Pro Model: Arena Debut?",
       "slug": "next-google-gemini-pro-model-arena-debut",
       "url": "https://polymarket.com/event/488234",
-      "probability": 0.944,
+      "probability": 0.9435,
       "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
       "tags": [
         "gemini",
@@ -5526,11 +5526,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.944,
+      "current_prob": 0.9435,
       "added_at": "2026-09-22T06:53:48.570134",
       "first_seen": "2026-09-22T06:53:48.570134",
       "peak_prob": 0.944,
-      "last_checked_prob": 0.944,
+      "last_checked_prob": 0.9435,
       "history": [
         {
           "time": "06:53",
@@ -5686,6 +5686,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-27T02:37:38.482016",
+  "updated_at": "2026-09-27T08:36:33.458533",
   "event_count": 17
 }
