@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-29T13:26:42.065584",
+  "updated_at": "2026-09-29T18:55:09.551916",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
@@ -10,7 +10,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.9745,
+        "probability": 0.975,
         "option_text": "$70",
         "tags": [
           "tech",
@@ -298,11 +298,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.975,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "15:57",
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.905,
+        "probability": 0.9,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.905,
+        "current_prob": 0.9,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.905,
+        "last_checked_prob": 0.9,
         "history": [
           {
             "time": "01:22",
@@ -4996,7 +4996,7 @@
         "title": "Next Google Gemini Pro Model: Arena Debut?",
         "slug": "next-google-gemini-pro-model-arena-debut",
         "url": "https://polymarket.com/event/488234",
-        "probability": 0.947,
+        "probability": 0.9465,
         "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
         "tags": [
           "gemini",
@@ -5531,11 +5531,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.947,
+        "current_prob": 0.9465,
         "added_at": "2026-09-22T06:53:48.570134",
         "first_seen": "2026-09-22T06:53:48.570134",
         "peak_prob": 0.947,
-        "last_checked_prob": 0.947,
+        "last_checked_prob": 0.9465,
         "history": [
           {
             "time": "06:53",
@@ -5549,7 +5549,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.77,
+        "probability": 0.765,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -5677,11 +5677,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.77,
+        "current_prob": 0.765,
         "added_at": "2026-09-26T21:38:23.181358",
         "first_seen": "2026-09-26T21:38:23.181358",
         "peak_prob": 0.77,
-        "last_checked_prob": 0.77,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "21:38",
@@ -5691,6 +5691,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-29T13:26:42.058888"
+    "updated_at": "2026-09-29T18:55:09.546613"
   }
 }
