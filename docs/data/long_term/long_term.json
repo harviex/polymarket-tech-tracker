@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.905,
+      "probability": 0.9,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.9,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.9,
       "history": [
         {
           "time": "01:22",
@@ -4991,7 +4991,7 @@
       "title": "Next Google Gemini Pro Model: Arena Debut?",
       "slug": "next-google-gemini-pro-model-arena-debut",
       "url": "https://polymarket.com/event/488234",
-      "probability": 0.9465,
+      "probability": 0.947,
       "option_text": "the next Google Gemini Pro model added to the Arena Leaderboard debut at a",
       "tags": [
         "gemini",
@@ -5526,11 +5526,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9465,
+      "current_prob": 0.947,
       "added_at": "2026-09-22T06:53:48.570134",
       "first_seen": "2026-09-22T06:53:48.570134",
       "peak_prob": 0.947,
-      "last_checked_prob": 0.9465,
+      "last_checked_prob": 0.947,
       "history": [
         {
           "time": "06:53",
@@ -5816,6 +5816,6 @@
       ]
     }
   },
-  "updated_at": "2026-09-30T01:40:11.853989",
+  "updated_at": "2026-09-30T07:32:58.071130",
   "event_count": 17
 }
