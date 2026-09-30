@@ -1,31 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-09-29T22:42:27.850139",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "245930",
-          "title": "Will Apple release a touchscreen MacBook in 2026?",
-          "tags": [],
-          "first_seen": "2026-09-29T22:42:27.849937",
-          "history": [
-            {
-              "time": "22:42",
-              "prob": 0.71,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.71
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-09-30T01:40:11.859452",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 8,
     "events": [
@@ -345,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.9,
+        "probability": 0.905,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1750,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9,
+        "current_prob": 0.905,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.9,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "01:22",
@@ -1947,7 +1923,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.785,
+        "probability": 0.79,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -4843,11 +4819,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.785,
+        "current_prob": 0.79,
         "added_at": "2026-09-17T12:14:55.718371",
         "first_seen": "2026-09-17T12:14:55.718371",
-        "peak_prob": 0.785,
-        "last_checked_prob": 0.785,
+        "peak_prob": 0.79,
+        "last_checked_prob": 0.79,
         "history": [
           {
             "time": "12:14",
@@ -5719,7 +5695,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.71,
+        "probability": 0.705,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -5831,11 +5807,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.71,
+        "current_prob": 0.705,
         "added_at": "2026-09-29T22:42:27.843085",
         "first_seen": "2026-09-29T22:42:27.843085",
         "peak_prob": 0.71,
-        "last_checked_prob": 0.71,
+        "last_checked_prob": 0.705,
         "history": [
           {
             "time": "22:42",
@@ -5845,6 +5821,6 @@
         ]
       }
     ],
-    "updated_at": "2026-09-29T22:42:27.843198"
+    "updated_at": "2026-09-30T01:40:11.853989"
   }
 }
