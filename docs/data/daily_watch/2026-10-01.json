@@ -42,6 +42,36 @@
         }
       ],
       "current_prob": 0.989
+    },
+    "638395": {
+      "id": "638395",
+      "title": "How many cities will Waymo operate in by December 31?",
+      "tags": [],
+      "first_seen": "2026-10-01T16:42:58.121424",
+      "history": [
+        {
+          "time": "16:42",
+          "prob": 0.73,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.73
+    },
+    "245930": {
+      "id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "tags": [],
+      "first_seen": "2026-10-01T16:42:58.121431",
+      "history": [
+        {
+          "time": "16:42",
+          "prob": 0.71,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.71
     }
   }
 }
