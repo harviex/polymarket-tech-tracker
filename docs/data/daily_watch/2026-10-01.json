@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-01",
+  "events": {
+    "488234": {
+      "id": "488234",
+      "title": "Next Google Gemini Pro Model: Arena Debut?",
+      "tags": [],
+      "first_seen": "2026-10-01T02:35:09.806560",
+      "history": [
+        {
+          "time": "02:35",
+          "prob": 0.7675,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.7675
+    },
+    "428400": {
+      "id": "428400",
+      "title": "Which companies will have a #1 AI model by December 31?",
+      "tags": [],
+      "first_seen": "2026-10-01T02:35:09.806568",
+      "history": [
+        {
+          "time": "02:35",
+          "prob": 0.9375,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.9375
+    }
+  }
+}
