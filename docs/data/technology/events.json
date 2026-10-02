@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-02T01:06:54.909828",
+  "updated_at": "2026-10-02T07:35:10.235962",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
@@ -10,7 +10,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.98,
+        "probability": 0.9805,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -298,11 +298,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.98,
+        "current_prob": 0.9805,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.98,
+        "last_checked_prob": 0.9805,
         "history": [
           {
             "time": "15:57",
@@ -1923,7 +1923,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.8,
+        "probability": 0.805,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -4819,11 +4819,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.8,
+        "current_prob": 0.805,
         "added_at": "2026-09-17T12:14:55.718371",
         "first_seen": "2026-09-17T12:14:55.718371",
-        "peak_prob": 0.8,
-        "last_checked_prob": 0.8,
+        "peak_prob": 0.805,
+        "last_checked_prob": 0.805,
         "history": [
           {
             "time": "12:14",
@@ -4979,6 +4979,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-02T01:06:54.905166"
+    "updated_at": "2026-10-02T07:35:10.232117"
   }
 }
