@@ -1,92 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-01T21:25:55.382898",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 5,
-      "events": [
-        {
-          "id": "488234",
-          "title": "Next Google Gemini Pro Model: Arena Debut?",
-          "tags": [],
-          "first_seen": "2026-10-01T02:35:09.806560",
-          "history": [
-            {
-              "time": "02:35",
-              "prob": 0.7675,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7675
-        },
-        {
-          "id": "428400",
-          "title": "Which companies will have a #1 AI model by December 31?",
-          "tags": [],
-          "first_seen": "2026-10-01T02:35:09.806568",
-          "history": [
-            {
-              "time": "02:35",
-              "prob": 0.9375,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.9375
-        },
-        {
-          "id": "100079",
-          "title": "Will Paramount close Warner Bros. acquisition by end of 2026?",
-          "tags": [],
-          "first_seen": "2026-10-01T09:27:52.459706",
-          "history": [
-            {
-              "time": "09:27",
-              "prob": 0.989,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.989
-        },
-        {
-          "id": "638395",
-          "title": "How many cities will Waymo operate in by December 31?",
-          "tags": [],
-          "first_seen": "2026-10-01T16:42:58.121424",
-          "history": [
-            {
-              "time": "16:42",
-              "prob": 0.73,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "21:25",
-              "prob": 0.73,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.73
-        },
-        {
-          "id": "245930",
-          "title": "Will Apple release a touchscreen MacBook in 2026?",
-          "tags": [],
-          "first_seen": "2026-10-01T16:42:58.121431",
-          "history": [
-            {
-              "time": "16:42",
-              "prob": 0.71,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.71
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-02T01:06:54.909828",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
     "events": [
@@ -2008,7 +1923,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.795,
+        "probability": 0.8,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -4904,11 +4819,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.795,
+        "current_prob": 0.8,
         "added_at": "2026-09-17T12:14:55.718371",
         "first_seen": "2026-09-17T12:14:55.718371",
-        "peak_prob": 0.795,
-        "last_checked_prob": 0.795,
+        "peak_prob": 0.8,
+        "last_checked_prob": 0.8,
         "history": [
           {
             "time": "12:14",
@@ -5064,6 +4979,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-01T21:25:55.376885"
+    "updated_at": "2026-10-02T01:06:54.905166"
   }
 }
