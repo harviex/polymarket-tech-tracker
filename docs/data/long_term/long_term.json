@@ -5,7 +5,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.9795,
+      "probability": 0.979,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9795,
+      "current_prob": 0.979,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.9795,
+      "last_checked_prob": 0.979,
       "history": [
         {
           "time": "15:57",
@@ -4974,6 +4974,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-03T02:27:22.410467",
+  "updated_at": "2026-10-03T08:35:54.781681",
   "event_count": 17
 }
