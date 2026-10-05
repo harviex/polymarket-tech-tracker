@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-05",
+  "events": {
+    "245930": {
+      "id": "245930",
+      "title": "Will Apple release a touchscreen MacBook in 2026?",
+      "tags": [],
+      "first_seen": "2026-10-05T16:27:24.424706",
+      "history": [
+        {
+          "time": "16:27",
+          "prob": 0.735,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.735
+    },
+    "428507": {
+      "id": "428507",
+      "title": "Will Anthropic flip BTC by December 31?",
+      "tags": [],
+      "first_seen": "2026-10-05T16:27:24.424713",
+      "history": [
+        {
+          "time": "16:27",
+          "prob": 0.7,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.7
+    }
+  }
+}
