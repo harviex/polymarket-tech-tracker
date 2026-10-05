@@ -5,7 +5,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.9795,
+      "probability": 0.979,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9795,
+      "current_prob": 0.979,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.9795,
+      "last_checked_prob": 0.979,
       "history": [
         {
           "time": "15:57",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.91,
+      "probability": 0.9,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.91,
+      "current_prob": 0.9,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.91,
+      "last_checked_prob": 0.9,
       "history": [
         {
           "time": "01:22",
@@ -1769,7 +1769,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.905,
+      "probability": 0.9,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1885,11 +1885,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.9,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.91,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.9,
       "history": [
         {
           "time": "06:15",
@@ -1918,7 +1918,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.84,
+      "probability": 0.845,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -4814,11 +4814,11 @@
       "endDate": "2026-12-31T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.84,
+      "current_prob": 0.845,
       "added_at": "2026-09-17T12:14:55.718371",
       "first_seen": "2026-09-17T12:14:55.718371",
       "peak_prob": 0.85,
-      "last_checked_prob": 0.84,
+      "last_checked_prob": 0.845,
       "history": [
         {
           "time": "12:14",
@@ -4828,6 +4828,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-04T22:00:53.025123",
+  "updated_at": "2026-10-05T01:19:41.941610",
   "event_count": 17
 }
