@@ -32,6 +32,36 @@
         }
       ],
       "current_prob": 0.7
+    },
+    "407875": {
+      "id": "407875",
+      "title": "Amazon 2026 capex above ___?",
+      "tags": [],
+      "first_seen": "2026-10-05T22:56:44.347836",
+      "history": [
+        {
+          "time": "22:56",
+          "prob": 0.9895,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        },
+        {
+          "time": "22:56",
+          "prob": 0.9895,
+          "threshold": 0.8,
+          "direction": "up",
+          "reason": "Crossed up 80%"
+        },
+        {
+          "time": "22:56",
+          "prob": 0.9895,
+          "threshold": 0.9,
+          "direction": "up",
+          "reason": "Crossed up 90%"
+        }
+      ],
+      "current_prob": 0.9895
     }
   }
 }
