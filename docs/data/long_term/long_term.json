@@ -4832,7 +4832,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.775,
+      "probability": 0.78,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -4944,11 +4944,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.78,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
-      "peak_prob": 0.775,
-      "last_checked_prob": 0.775,
+      "peak_prob": 0.78,
+      "last_checked_prob": 0.78,
       "history": [
         {
           "time": "16:27",
@@ -5105,7 +5105,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9895,
+      "probability": 0.989,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -5726,11 +5726,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9895,
+      "current_prob": 0.989,
       "added_at": "2026-10-05T22:56:44.340934",
       "first_seen": "2026-10-05T22:56:44.340934",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9895,
+      "last_checked_prob": 0.989,
       "history": [
         {
           "time": "22:56",
@@ -5740,6 +5740,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-05T22:56:44.341048",
+  "updated_at": "2026-10-06T02:35:46.692143",
   "event_count": 17
 }
