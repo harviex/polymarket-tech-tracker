@@ -4832,7 +4832,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.75,
+      "probability": 0.745,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -4944,11 +4944,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.745,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.745,
       "history": [
         {
           "time": "16:27",
@@ -4958,6 +4958,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-06T21:18:49.254790",
+  "updated_at": "2026-10-07T01:03:08.087016",
   "event_count": 17
 }

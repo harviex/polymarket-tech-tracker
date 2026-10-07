@@ -1,69 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-06T21:18:49.260797",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "407875",
-          "title": "Amazon 2026 capex above ___?",
-          "tags": [],
-          "first_seen": "2026-10-06T09:28:29.456018",
-          "history": [
-            {
-              "time": "09:28",
-              "prob": 0.989,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            },
-            {
-              "time": "16:18",
-              "prob": 0.9865,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            },
-            {
-              "time": "16:18",
-              "prob": 0.9865,
-              "threshold": 0.8,
-              "direction": "up",
-              "reason": "Crossed up 80%"
-            },
-            {
-              "time": "16:18",
-              "prob": 0.9865,
-              "threshold": 0.9,
-              "direction": "up",
-              "reason": "Crossed up 90%"
-            },
-            {
-              "time": "21:18",
-              "prob": 0.9865,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.989
-        },
-        {
-          "id": "428507",
-          "title": "Will Anthropic flip BTC by December 31?",
-          "tags": [],
-          "first_seen": "2026-10-06T21:18:49.260504",
-          "history": [
-            {
-              "time": "21:18",
-              "prob": 0.7,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.7
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-07T01:03:08.092695",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
     "events": [
@@ -4899,7 +4837,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.75,
+        "probability": 0.745,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -5011,11 +4949,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.75,
+        "current_prob": 0.745,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.785,
-        "last_checked_prob": 0.75,
+        "last_checked_prob": 0.745,
         "history": [
           {
             "time": "16:27",
@@ -5025,6 +4963,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-06T21:18:49.254790"
+    "updated_at": "2026-10-07T01:03:08.087016"
   }
 }
