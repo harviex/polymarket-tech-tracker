@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-08",
+  "events": {
+    "103418": {
+      "id": "103418",
+      "title": "Will Apple release a new product line before 2027?",
+      "tags": [],
+      "first_seen": "2026-10-08T20:16:10.676251",
+      "history": [
+        {
+          "time": "20:16",
+          "prob": 0.73,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.73
+    }
+  }
+}
