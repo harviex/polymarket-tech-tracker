@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-08T00:29:07.730598",
+  "updated_at": "2026-10-08T06:43:17.791974",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
@@ -10,7 +10,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.978,
+        "probability": 0.9785,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -298,11 +298,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.978,
+        "current_prob": 0.9785,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.978,
+        "last_checked_prob": 0.9785,
         "history": [
           {
             "time": "15:57",
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.915,
+        "probability": 0.905,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.915,
+        "current_prob": 0.905,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.915,
+        "last_checked_prob": 0.905,
         "history": [
           {
             "time": "01:22",
@@ -4963,6 +4963,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-08T00:29:07.724839"
+    "updated_at": "2026-10-08T06:43:17.785878"
   }
 }
