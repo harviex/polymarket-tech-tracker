@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-09T06:50:34.820874",
+  "updated_at": "2026-10-09T13:53:18.276817",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.865,
+        "probability": 0.845,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.865,
+        "current_prob": 0.845,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.865,
+        "last_checked_prob": 0.845,
         "history": [
           {
             "time": "01:22",
@@ -1923,7 +1923,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.82,
+        "probability": 0.865,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -4819,11 +4819,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.82,
+        "current_prob": 0.865,
         "added_at": "2026-09-17T12:14:55.718371",
         "first_seen": "2026-09-17T12:14:55.718371",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.82,
+        "last_checked_prob": 0.865,
         "history": [
           {
             "time": "12:14",
@@ -4837,7 +4837,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.805,
+        "probability": 0.84,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -4949,11 +4949,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.805,
+        "current_prob": 0.84,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
-        "peak_prob": 0.805,
-        "last_checked_prob": 0.805,
+        "peak_prob": 0.84,
+        "last_checked_prob": 0.84,
         "history": [
           {
             "time": "16:27",
@@ -4972,7 +4972,7 @@
         "title": "Will Apple release a new product line before 2027?",
         "slug": "will-apple-release-a-new-product-line-before-2027",
         "url": "https://polymarket.com/event/103418",
-        "probability": 0.755,
+        "probability": 0.705,
         "option_text": "Yes",
         "tags": [
           "apple-event",
@@ -5084,20 +5084,25 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.755,
+        "current_prob": 0.705,
         "added_at": "2026-10-08T20:16:10.672762",
         "first_seen": "2026-10-08T20:16:10.672762",
         "peak_prob": 0.77,
-        "last_checked_prob": 0.755,
+        "last_checked_prob": 0.705,
         "history": [
           {
             "time": "20:16",
             "prob": 0.73,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "13:53",
+            "prob": 0.705,
+            "reason": "Update: 75.5% → 70.5%"
           }
         ]
       }
     ],
-    "updated_at": "2026-10-09T06:50:34.814851"
+    "updated_at": "2026-10-09T13:53:18.267893"
   }
 }
