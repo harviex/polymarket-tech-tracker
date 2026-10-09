@@ -1,31 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-08T20:16:10.676399",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "103418",
-          "title": "Will Apple release a new product line before 2027?",
-          "tags": [],
-          "first_seen": "2026-10-08T20:16:10.676251",
-          "history": [
-            {
-              "time": "20:16",
-              "prob": 0.73,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.73
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-09T00:42:48.344484",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
     "events": [
@@ -34,7 +10,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.9785,
+        "probability": 0.978,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -322,11 +298,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9785,
+        "current_prob": 0.978,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9785,
+        "last_checked_prob": 0.978,
         "history": [
           {
             "time": "15:57",
@@ -345,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.87,
+        "probability": 0.875,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1750,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.875,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "01:22",
@@ -4861,7 +4837,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.73,
+        "probability": 0.805,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -4973,16 +4949,21 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.805,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
-        "peak_prob": 0.785,
-        "last_checked_prob": 0.73,
+        "peak_prob": 0.805,
+        "last_checked_prob": 0.805,
         "history": [
           {
             "time": "16:27",
             "prob": 0.735,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "00:42",
+            "prob": 0.805,
+            "reason": "Update: 73.0% → 80.5%"
           }
         ]
       },
@@ -4991,7 +4972,7 @@
         "title": "Will Apple release a new product line before 2027?",
         "slug": "will-apple-release-a-new-product-line-before-2027",
         "url": "https://polymarket.com/event/103418",
-        "probability": 0.73,
+        "probability": 0.77,
         "option_text": "Yes",
         "tags": [
           "apple-event",
@@ -5103,11 +5084,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.73,
+        "current_prob": 0.77,
         "added_at": "2026-10-08T20:16:10.672762",
         "first_seen": "2026-10-08T20:16:10.672762",
-        "peak_prob": 0.73,
-        "last_checked_prob": 0.73,
+        "peak_prob": 0.77,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "20:16",
@@ -5117,6 +5098,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-08T20:16:10.672847"
+    "updated_at": "2026-10-09T00:42:48.338634"
   }
 }
