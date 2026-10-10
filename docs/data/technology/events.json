@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-10T19:34:25.496977",
+  "updated_at": "2026-10-10T22:59:11.702625",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -11,7 +11,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.978,
-        "option_text": "$75",
+        "option_text": "$60",
         "tags": [
           "tech",
           "gta-6",
@@ -5108,6 +5108,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-10T19:34:25.492236"
+    "updated_at": "2026-10-10T22:59:11.696712"
   }
 }
