@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-10T02:52:15.590043",
+  "updated_at": "2026-10-10T09:07:45.686788",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.87,
+        "probability": 0.885,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.87,
+        "current_prob": 0.885,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.87,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "01:22",
@@ -4837,7 +4837,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.925,
+        "probability": 0.935,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -4949,11 +4949,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.925,
+        "current_prob": 0.935,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
-        "peak_prob": 0.925,
-        "last_checked_prob": 0.925,
+        "peak_prob": 0.935,
+        "last_checked_prob": 0.935,
         "history": [
           {
             "time": "16:27",
@@ -5108,6 +5108,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-10T02:52:15.585238"
+    "updated_at": "2026-10-10T09:07:45.680528"
   }
 }
