@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-10T15:35:34.723591",
+  "updated_at": "2026-10-10T19:34:25.496977",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -11,7 +11,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.978,
-        "option_text": "$60",
+        "option_text": "$75",
         "tags": [
           "tech",
           "gta-6",
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.88,
+        "probability": 0.885,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.88,
+        "current_prob": 0.885,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.88,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "01:22",
@@ -4977,7 +4977,7 @@
         "title": "Will Apple release a new product line before 2027?",
         "slug": "will-apple-release-a-new-product-line-before-2027",
         "url": "https://polymarket.com/event/103418",
-        "probability": 0.795,
+        "probability": 0.78,
         "option_text": "Yes",
         "tags": [
           "apple-event",
@@ -5089,11 +5089,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.795,
+        "current_prob": 0.78,
         "added_at": "2026-10-08T20:16:10.672762",
         "first_seen": "2026-10-08T20:16:10.672762",
         "peak_prob": 0.795,
-        "last_checked_prob": 0.795,
+        "last_checked_prob": 0.78,
         "history": [
           {
             "time": "20:16",
@@ -5108,6 +5108,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-10T15:35:34.717691"
+    "updated_at": "2026-10-10T19:34:25.492236"
   }
 }
