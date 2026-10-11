@@ -4832,7 +4832,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.945,
+      "probability": 0.95,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -4944,11 +4944,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.945,
+      "current_prob": 0.95,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
-      "peak_prob": 0.945,
-      "last_checked_prob": 0.945,
+      "peak_prob": 0.95,
+      "last_checked_prob": 0.95,
       "history": [
         {
           "time": "16:27",
@@ -4972,7 +4972,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.78,
+      "probability": 0.795,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -5084,11 +5084,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.78,
+      "current_prob": 0.795,
       "added_at": "2026-10-08T20:16:10.672762",
       "first_seen": "2026-10-08T20:16:10.672762",
       "peak_prob": 0.795,
-      "last_checked_prob": 0.78,
+      "last_checked_prob": 0.795,
       "history": [
         {
           "time": "20:16",
@@ -5103,6 +5103,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-11T14:25:23.859585",
+  "updated_at": "2026-10-11T19:13:30.310962",
   "event_count": 17
 }
