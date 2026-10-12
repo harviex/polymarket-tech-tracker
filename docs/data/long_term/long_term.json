@@ -5,7 +5,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.978,
+      "probability": 0.9785,
       "option_text": "$75",
       "tags": [
         "tech",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.978,
+      "current_prob": 0.9785,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.978,
+      "last_checked_prob": 0.9785,
       "history": [
         {
           "time": "15:57",
@@ -4832,7 +4832,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.95,
+      "probability": 0.955,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -4944,11 +4944,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.95,
+      "current_prob": 0.955,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
-      "peak_prob": 0.95,
-      "last_checked_prob": 0.95,
+      "peak_prob": 0.955,
+      "last_checked_prob": 0.955,
       "history": [
         {
           "time": "16:27",
@@ -4972,7 +4972,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.79,
+      "probability": 0.81,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -5084,11 +5084,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.79,
+      "current_prob": 0.81,
       "added_at": "2026-10-08T20:16:10.672762",
       "first_seen": "2026-10-08T20:16:10.672762",
-      "peak_prob": 0.805,
-      "last_checked_prob": 0.79,
+      "peak_prob": 0.81,
+      "last_checked_prob": 0.81,
       "history": [
         {
           "time": "20:16",
@@ -5103,6 +5103,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-12T02:45:49.900844",
+  "updated_at": "2026-10-12T09:50:40.853264",
   "event_count": 17
 }
