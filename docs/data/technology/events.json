@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-13T16:30:02.104829",
+  "updated_at": "2026-10-13T21:35:37.925573",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -11,7 +11,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.978,
-        "option_text": "$60",
+        "option_text": "$75",
         "tags": [
           "tech",
           "gta-6",
@@ -1923,7 +1923,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.765,
+        "probability": 0.775,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -4819,11 +4819,11 @@
         "endDate": "2026-12-31T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.765,
+        "current_prob": 0.775,
         "added_at": "2026-09-17T12:14:55.718371",
         "first_seen": "2026-09-17T12:14:55.718371",
         "peak_prob": 0.885,
-        "last_checked_prob": 0.765,
+        "last_checked_prob": 0.775,
         "history": [
           {
             "time": "12:14",
@@ -4842,7 +4842,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.895,
+        "probability": 0.89,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -4954,11 +4954,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.895,
+        "current_prob": 0.89,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.895,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "16:27",
@@ -4982,7 +4982,7 @@
         "title": "Will Apple release a new product line before 2027?",
         "slug": "will-apple-release-a-new-product-line-before-2027",
         "url": "https://polymarket.com/event/103418",
-        "probability": 0.88,
+        "probability": 0.895,
         "option_text": "Yes",
         "tags": [
           "apple-event",
@@ -5094,11 +5094,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.88,
+        "current_prob": 0.895,
         "added_at": "2026-10-08T20:16:10.672762",
         "first_seen": "2026-10-08T20:16:10.672762",
         "peak_prob": 0.925,
-        "last_checked_prob": 0.88,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "20:16",
@@ -5118,6 +5118,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-13T16:30:02.101260"
+    "updated_at": "2026-10-13T21:35:37.919760"
   }
 }
