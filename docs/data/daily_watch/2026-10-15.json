@@ -14,6 +14,20 @@
         }
       ],
       "current_prob": 0.715
+    },
+    "103418": {
+      "id": "103418",
+      "title": "Will Apple release a new product line before 2027?",
+      "tags": [],
+      "first_seen": "2026-10-15T19:29:35.587843",
+      "history": [
+        {
+          "time": "19:29",
+          "prob": 0.905,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.905
     }
   }
 }
