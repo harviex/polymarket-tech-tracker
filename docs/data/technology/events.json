@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-19T15:02:06.956046",
+  "updated_at": "2026-10-19T20:44:51.157327",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -48,7 +48,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.98,
+        "probability": 0.981,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -336,11 +336,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.98,
+        "current_prob": 0.981,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.98,
+        "last_checked_prob": 0.981,
         "history": [
           {
             "time": "15:57",
@@ -1961,7 +1961,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.845,
+        "probability": 0.93,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2073,11 +2073,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.845,
+        "current_prob": 0.93,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.845,
+        "last_checked_prob": 0.93,
         "history": [
           {
             "time": "16:27",
@@ -2093,6 +2093,11 @@
             "time": "19:05",
             "prob": 0.91,
             "reason": "Update: 84.0% → 91.0%"
+          },
+          {
+            "time": "20:44",
+            "prob": 0.93,
+            "reason": "Update: 84.5% → 93.0%"
           }
         ]
       },
@@ -2232,7 +2237,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9755,
+        "probability": 0.975,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -2837,11 +2842,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9755,
+        "current_prob": 0.975,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9755,
-        "last_checked_prob": 0.9755,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "15:02",
@@ -2851,6 +2856,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-19T15:02:06.952047"
+    "updated_at": "2026-10-19T20:44:51.154374"
   }
 }
