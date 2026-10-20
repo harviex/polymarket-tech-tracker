@@ -5,7 +5,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.981,
+      "probability": 0.9805,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.981,
+      "current_prob": 0.9805,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.981,
+      "last_checked_prob": 0.9805,
       "history": [
         {
           "time": "15:57",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.905,
+      "probability": 0.91,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.905,
+      "current_prob": 0.91,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.905,
+      "last_checked_prob": 0.91,
       "history": [
         {
           "time": "01:22",
@@ -1918,7 +1918,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.94,
+      "probability": 0.9505,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2030,11 +2030,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.94,
+      "current_prob": 0.9505,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.94,
+      "last_checked_prob": 0.9505,
       "history": [
         {
           "time": "16:27",
@@ -2063,7 +2063,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.98,
+      "probability": 0.9795,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -2176,11 +2176,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.98,
+      "current_prob": 0.9795,
       "added_at": "2026-10-16T05:11:27.007584",
       "first_seen": "2026-10-16T05:11:27.007584",
       "peak_prob": 0.9805,
-      "last_checked_prob": 0.98,
+      "last_checked_prob": 0.9795,
       "history": [
         {
           "time": "05:11",
@@ -2817,7 +2817,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.705,
+      "probability": 0.71,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -5670,11 +5670,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.71,
       "added_at": "2026-10-20T03:14:17.434949",
       "first_seen": "2026-10-20T03:14:17.434949",
       "peak_prob": 0.715,
-      "last_checked_prob": 0.705,
+      "last_checked_prob": 0.71,
       "history": [
         {
           "time": "03:14",
@@ -5684,6 +5684,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-20T08:54:30.041033",
+  "updated_at": "2026-10-20T13:53:42.871804",
   "event_count": 17
 }
