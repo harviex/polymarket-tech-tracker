@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-20T13:53:42.878607",
+  "updated_at": "2026-10-20T18:08:31.989251",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -345,7 +345,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.91,
+        "probability": 0.87,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1750,11 +1750,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.91,
+        "current_prob": 0.87,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.91,
+        "last_checked_prob": 0.87,
         "history": [
           {
             "time": "01:22",
@@ -1947,7 +1947,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.9505,
+        "probability": 0.95,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2059,11 +2059,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9505,
+        "current_prob": 0.95,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.9505,
+        "last_checked_prob": 0.95,
         "history": [
           {
             "time": "16:27",
@@ -2223,7 +2223,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.975,
+        "probability": 0.9755,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -2828,11 +2828,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.975,
+        "current_prob": 0.9755,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9755,
-        "last_checked_prob": 0.975,
+        "last_checked_prob": 0.9755,
         "history": [
           {
             "time": "15:02",
@@ -5713,6 +5713,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-20T13:53:42.871804"
+    "updated_at": "2026-10-20T18:08:31.982423"
   }
 }
