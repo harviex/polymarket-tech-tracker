@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-20T18:08:31.989251",
+  "updated_at": "2026-10-20T21:57:01.453946",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -34,7 +34,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.9805,
+        "probability": 0.981,
         "option_text": "$60",
         "tags": [
           "tech",
@@ -322,11 +322,11 @@
         "endDate": "2026-11-19T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9805,
+        "current_prob": 0.981,
         "added_at": "2026-07-02T15:57:42.478226",
         "first_seen": "2026-07-02T15:57:42.478226",
         "peak_prob": 0.986,
-        "last_checked_prob": 0.9805,
+        "last_checked_prob": 0.981,
         "history": [
           {
             "time": "15:57",
@@ -1947,7 +1947,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.95,
+        "probability": 0.911,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2059,11 +2059,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.95,
+        "current_prob": 0.911,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.95,
+        "last_checked_prob": 0.911,
         "history": [
           {
             "time": "16:27",
@@ -2846,7 +2846,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.71,
+        "probability": 0.725,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -5699,11 +5699,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.71,
+        "current_prob": 0.725,
         "added_at": "2026-10-20T03:14:17.434949",
         "first_seen": "2026-10-20T03:14:17.434949",
-        "peak_prob": 0.715,
-        "last_checked_prob": 0.71,
+        "peak_prob": 0.725,
+        "last_checked_prob": 0.725,
         "history": [
           {
             "time": "03:14",
@@ -5713,6 +5713,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-20T18:08:31.982423"
+    "updated_at": "2026-10-20T21:57:01.446928"
   }
 }
