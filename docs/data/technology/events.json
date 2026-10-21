@@ -1,31 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-20T21:57:01.453946",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "tags": [],
-          "first_seen": "2026-10-20T03:14:17.442707",
-          "history": [
-            {
-              "time": "03:14",
-              "prob": 0.715,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.715
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-21T00:15:43.161784",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
     "events": [
@@ -1947,7 +1923,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.911,
+        "probability": 0.938,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2059,11 +2035,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.911,
+        "current_prob": 0.938,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.911,
+        "last_checked_prob": 0.938,
         "history": [
           {
             "time": "16:27",
@@ -2092,7 +2068,7 @@
         "title": "Will Apple release a new product line before 2027?",
         "slug": "will-apple-release-a-new-product-line-before-2027",
         "url": "https://polymarket.com/event/103418",
-        "probability": 0.9795,
+        "probability": 0.9775,
         "option_text": "Yes",
         "tags": [
           "apple-event",
@@ -2205,11 +2181,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9795,
+        "current_prob": 0.9775,
         "added_at": "2026-10-16T05:11:27.007584",
         "first_seen": "2026-10-16T05:11:27.007584",
         "peak_prob": 0.9805,
-        "last_checked_prob": 0.9795,
+        "last_checked_prob": 0.9775,
         "history": [
           {
             "time": "05:11",
@@ -2846,7 +2822,7 @@
         "title": "Largest Company end of December 2026?",
         "slug": "largest-company-end-of-december-2026",
         "url": "https://polymarket.com/event/79041",
-        "probability": 0.725,
+        "probability": 0.73,
         "option_text": "NVIDIA",
         "tags": [
           "economy",
@@ -5699,11 +5675,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.725,
+        "current_prob": 0.73,
         "added_at": "2026-10-20T03:14:17.434949",
         "first_seen": "2026-10-20T03:14:17.434949",
-        "peak_prob": 0.725,
-        "last_checked_prob": 0.725,
+        "peak_prob": 0.73,
+        "last_checked_prob": 0.73,
         "history": [
           {
             "time": "03:14",
@@ -5713,6 +5689,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-20T21:57:01.446928"
+    "updated_at": "2026-10-21T00:15:43.156362"
   }
 }
