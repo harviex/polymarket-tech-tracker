@@ -2194,7 +2194,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.976,
+      "probability": 0.9775,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -2799,11 +2799,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.976,
+      "current_prob": 0.9775,
       "added_at": "2026-10-19T15:02:06.951932",
       "first_seen": "2026-10-19T15:02:06.951932",
-      "peak_prob": 0.976,
-      "last_checked_prob": 0.976,
+      "peak_prob": 0.9775,
+      "last_checked_prob": 0.9775,
       "history": [
         {
           "time": "15:02",
@@ -2817,7 +2817,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.73,
+      "probability": 0.76,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -5670,11 +5670,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.73,
+      "current_prob": 0.76,
       "added_at": "2026-10-20T03:14:17.434949",
       "first_seen": "2026-10-20T03:14:17.434949",
-      "peak_prob": 0.745,
-      "last_checked_prob": 0.73,
+      "peak_prob": 0.76,
+      "last_checked_prob": 0.76,
       "history": [
         {
           "time": "03:14",
@@ -5684,6 +5684,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-21T19:41:45.205069",
+  "updated_at": "2026-10-21T22:49:12.946757",
   "event_count": 17
 }
