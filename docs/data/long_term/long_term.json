@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.89,
+      "probability": 0.875,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.89,
+      "current_prob": 0.875,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.89,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "01:22",
@@ -2194,7 +2194,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9775,
+      "probability": 0.975,
       "option_text": "$170B",
       "tags": [
         "finance",
@@ -2799,11 +2799,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9775,
+      "current_prob": 0.975,
       "added_at": "2026-10-19T15:02:06.951932",
       "first_seen": "2026-10-19T15:02:06.951932",
       "peak_prob": 0.9775,
-      "last_checked_prob": 0.9775,
+      "last_checked_prob": 0.975,
       "history": [
         {
           "time": "15:02",
@@ -2817,7 +2817,7 @@
       "title": "Largest Company end of December 2026?",
       "slug": "largest-company-end-of-december-2026",
       "url": "https://polymarket.com/event/79041",
-      "probability": 0.76,
+      "probability": 0.755,
       "option_text": "NVIDIA",
       "tags": [
         "economy",
@@ -5670,11 +5670,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.76,
+      "current_prob": 0.755,
       "added_at": "2026-10-20T03:14:17.434949",
       "first_seen": "2026-10-20T03:14:17.434949",
       "peak_prob": 0.76,
-      "last_checked_prob": 0.76,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "03:14",
@@ -5684,6 +5684,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-21T22:49:12.946757",
+  "updated_at": "2026-10-22T01:00:45.408458",
   "event_count": 17
 }
