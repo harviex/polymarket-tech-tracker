@@ -14,6 +14,22 @@
         }
       ],
       "current_prob": 0.755
+    },
+    "428507": {
+      "id": "428507",
+      "title": "Will Anthropic flip BTC by December 31?",
+      "tags": [],
+      "first_seen": "2026-10-22T20:52:38.683887",
+      "history": [
+        {
+          "time": "20:52",
+          "prob": 0.715,
+          "threshold": 0.7,
+          "direction": "up",
+          "reason": "Crossed up 70%"
+        }
+      ],
+      "current_prob": 0.715
     }
   }
 }
