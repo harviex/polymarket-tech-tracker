@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-22T20:52:38.684075",
+  "updated_at": "2026-10-22T23:41:44.096601",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -1961,7 +1961,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.952,
+        "probability": 0.974,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2073,11 +2073,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.952,
+        "current_prob": 0.974,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
-        "peak_prob": 0.955,
-        "last_checked_prob": 0.952,
+        "peak_prob": 0.974,
+        "last_checked_prob": 0.974,
         "history": [
           {
             "time": "16:27",
@@ -2237,7 +2237,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.976,
+        "probability": 0.9755,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -2842,11 +2842,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.976,
+        "current_prob": 0.9755,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9775,
-        "last_checked_prob": 0.976,
+        "last_checked_prob": 0.9755,
         "history": [
           {
             "time": "15:02",
@@ -2860,7 +2860,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.715,
+        "probability": 0.71,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2986,11 +2986,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.715,
+        "current_prob": 0.71,
         "added_at": "2026-10-22T20:52:38.680547",
         "first_seen": "2026-10-22T20:52:38.680547",
         "peak_prob": 0.715,
-        "last_checked_prob": 0.715,
+        "last_checked_prob": 0.71,
         "history": [
           {
             "time": "20:52",
@@ -3000,6 +3000,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-22T20:52:38.680634"
+    "updated_at": "2026-10-22T23:41:44.093670"
   }
 }
