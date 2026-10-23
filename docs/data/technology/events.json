@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-23T07:58:37.948128",
+  "updated_at": "2026-10-23T13:02:09.190163",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.875,
+        "probability": 0.88,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.88,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.88,
         "history": [
           {
             "time": "01:22",
@@ -1774,7 +1774,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.89,
+        "probability": 0.885,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1890,11 +1890,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.89,
+        "current_prob": 0.885,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.91,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.885,
         "history": [
           {
             "time": "06:15",
@@ -1923,7 +1923,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.9745,
+        "probability": 0.975,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2035,11 +2035,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9745,
+        "current_prob": 0.975,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.976,
-        "last_checked_prob": 0.9745,
+        "last_checked_prob": 0.975,
         "history": [
           {
             "time": "16:27",
@@ -2199,8 +2199,8 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9755,
-        "option_text": "$170B",
+        "probability": 0.933,
+        "option_text": "$190B",
         "tags": [
           "finance",
           "tech",
@@ -2804,11 +2804,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9755,
+        "current_prob": 0.933,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9775,
-        "last_checked_prob": 0.9755,
+        "last_checked_prob": 0.933,
         "history": [
           {
             "time": "15:02",
@@ -2822,7 +2822,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.72,
+        "probability": 0.71,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2948,11 +2948,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.72,
+        "current_prob": 0.71,
         "added_at": "2026-10-22T20:52:38.680547",
         "first_seen": "2026-10-22T20:52:38.680547",
         "peak_prob": 0.72,
-        "last_checked_prob": 0.72,
+        "last_checked_prob": 0.71,
         "history": [
           {
             "time": "20:52",
@@ -2962,6 +2962,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-23T07:58:37.945627"
+    "updated_at": "2026-10-23T13:02:09.186415"
   }
 }
