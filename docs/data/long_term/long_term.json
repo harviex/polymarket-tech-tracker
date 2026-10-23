@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.88,
+      "probability": 0.875,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.88,
+      "current_prob": 0.875,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.875,
       "history": [
         {
           "time": "01:22",
@@ -1918,7 +1918,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.976,
+      "probability": 0.9745,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2030,11 +2030,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.976,
+      "current_prob": 0.9745,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
       "peak_prob": 0.976,
-      "last_checked_prob": 0.976,
+      "last_checked_prob": 0.9745,
       "history": [
         {
           "time": "16:27",
@@ -2817,7 +2817,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.715,
+      "probability": 0.72,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2943,11 +2943,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.715,
+      "current_prob": 0.72,
       "added_at": "2026-10-22T20:52:38.680547",
       "first_seen": "2026-10-22T20:52:38.680547",
-      "peak_prob": 0.715,
-      "last_checked_prob": 0.715,
+      "peak_prob": 0.72,
+      "last_checked_prob": 0.72,
       "history": [
         {
           "time": "20:52",
@@ -2957,6 +2957,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T02:06:13.717865",
+  "updated_at": "2026-10-23T07:58:37.945627",
   "event_count": 17
 }
