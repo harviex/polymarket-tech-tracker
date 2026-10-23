@@ -6,7 +6,7 @@
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
       "probability": 0.9815,
-      "option_text": "$70",
+      "option_text": "$75",
       "tags": [
         "tech",
         "gta-6",
@@ -1769,7 +1769,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.885,
+      "probability": 0.89,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1885,11 +1885,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.885,
+      "current_prob": 0.89,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.91,
-      "last_checked_prob": 0.885,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "06:15",
@@ -1918,7 +1918,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.969,
+      "probability": 0.9685,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2030,11 +2030,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.969,
+      "current_prob": 0.9685,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
       "peak_prob": 0.976,
-      "last_checked_prob": 0.969,
+      "last_checked_prob": 0.9685,
       "history": [
         {
           "time": "16:27",
@@ -2817,7 +2817,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.705,
+      "probability": 0.7,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2943,11 +2943,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.705,
+      "current_prob": 0.7,
       "added_at": "2026-10-22T20:52:38.680547",
       "first_seen": "2026-10-22T20:52:38.680547",
       "peak_prob": 0.72,
-      "last_checked_prob": 0.705,
+      "last_checked_prob": 0.7,
       "history": [
         {
           "time": "20:52",
@@ -2957,6 +2957,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-23T17:58:43.686168",
+  "updated_at": "2026-10-23T20:56:01.111342",
   "event_count": 17
 }
