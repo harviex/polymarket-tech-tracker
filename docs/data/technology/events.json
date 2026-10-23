@@ -1,45 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-22T23:41:44.096601",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 2,
-      "events": [
-        {
-          "id": "79041",
-          "title": "Largest Company end of December 2026?",
-          "tags": [],
-          "first_seen": "2026-10-22T06:41:36.681380",
-          "history": [
-            {
-              "time": "06:41",
-              "prob": 0.755,
-              "reason": "Removed from Long-Term (prob < 70%)"
-            }
-          ],
-          "current_prob": 0.755
-        },
-        {
-          "id": "428507",
-          "title": "Will Anthropic flip BTC by December 31?",
-          "tags": [],
-          "first_seen": "2026-10-22T20:52:38.683887",
-          "history": [
-            {
-              "time": "20:52",
-              "prob": 0.715,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.715
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-23T02:06:13.721566",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
     "events": [
@@ -1961,7 +1923,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.974,
+        "probability": 0.976,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2073,11 +2035,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.974,
+        "current_prob": 0.976,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
-        "peak_prob": 0.974,
-        "last_checked_prob": 0.974,
+        "peak_prob": 0.976,
+        "last_checked_prob": 0.976,
         "history": [
           {
             "time": "16:27",
@@ -2860,7 +2822,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.71,
+        "probability": 0.715,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2986,11 +2948,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.71,
+        "current_prob": 0.715,
         "added_at": "2026-10-22T20:52:38.680547",
         "first_seen": "2026-10-22T20:52:38.680547",
         "peak_prob": 0.715,
-        "last_checked_prob": 0.71,
+        "last_checked_prob": 0.715,
         "history": [
           {
             "time": "20:52",
@@ -3000,6 +2962,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-22T23:41:44.093670"
+    "updated_at": "2026-10-23T02:06:13.717865"
   }
 }
