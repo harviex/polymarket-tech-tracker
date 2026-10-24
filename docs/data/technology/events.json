@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-24T19:06:07.528822",
+  "updated_at": "2026-10-24T22:00:30.627711",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -40,7 +40,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.9825,
-        "option_text": "$75",
+        "option_text": "$70",
         "tags": [
           "tech",
           "gta-6",
@@ -350,7 +350,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.88,
+        "probability": 0.89,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1755,11 +1755,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.88,
+        "current_prob": 0.89,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.88,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "01:22",
@@ -1952,7 +1952,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.9835,
+        "probability": 0.983,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2064,11 +2064,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9835,
+        "current_prob": 0.983,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.9835,
-        "last_checked_prob": 0.9835,
+        "last_checked_prob": 0.983,
         "history": [
           {
             "time": "16:27",
@@ -2228,7 +2228,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9455,
+        "probability": 0.948,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -2833,11 +2833,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9455,
+        "current_prob": 0.948,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9775,
-        "last_checked_prob": 0.9455,
+        "last_checked_prob": 0.948,
         "history": [
           {
             "time": "15:02",
@@ -2852,6 +2852,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-24T19:06:07.526006"
+    "updated_at": "2026-10-24T22:00:30.624195"
   }
 }
