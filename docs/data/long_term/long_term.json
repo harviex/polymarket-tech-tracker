@@ -6,7 +6,7 @@
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
       "probability": 0.981,
-      "option_text": "$70",
+      "option_text": "$75",
       "tags": [
         "tech",
         "gta-6",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.88,
+      "probability": 0.87,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.88,
+      "current_prob": 0.87,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.88,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "01:22",
@@ -1769,7 +1769,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.9,
+      "probability": 0.915,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1885,11 +1885,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9,
+      "current_prob": 0.915,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.925,
-      "last_checked_prob": 0.9,
+      "last_checked_prob": 0.915,
       "history": [
         {
           "time": "06:15",
@@ -2068,7 +2068,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.983,
+      "probability": 0.9835,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -2181,11 +2181,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.983,
+      "current_prob": 0.9835,
       "added_at": "2026-10-16T05:11:27.007584",
       "first_seen": "2026-10-16T05:11:27.007584",
       "peak_prob": 0.9835,
-      "last_checked_prob": 0.983,
+      "last_checked_prob": 0.9835,
       "history": [
         {
           "time": "05:11",
@@ -2199,7 +2199,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9375,
+      "probability": 0.94,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -2804,11 +2804,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9375,
+      "current_prob": 0.94,
       "added_at": "2026-10-19T15:02:06.951932",
       "first_seen": "2026-10-19T15:02:06.951932",
       "peak_prob": 0.9775,
-      "last_checked_prob": 0.9375,
+      "last_checked_prob": 0.94,
       "history": [
         {
           "time": "15:02",
@@ -2827,7 +2827,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.785,
+      "probability": 0.775,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2953,11 +2953,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.785,
+      "current_prob": 0.775,
       "added_at": "2026-10-26T17:41:46.672912",
       "first_seen": "2026-10-26T17:41:46.672912",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.785,
+      "last_checked_prob": 0.775,
       "history": [
         {
           "time": "17:41",
@@ -2967,6 +2967,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T17:41:46.673002",
+  "updated_at": "2026-10-26T21:57:02.715742",
   "event_count": 17
 }
