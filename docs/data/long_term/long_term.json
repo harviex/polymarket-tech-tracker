@@ -5,7 +5,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.9835,
+      "probability": 0.9825,
       "option_text": "$75",
       "tags": [
         "tech",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9835,
+      "current_prob": 0.9825,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.9835,
+      "last_checked_prob": 0.9825,
       "history": [
         {
           "time": "15:57",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.875,
+      "probability": 0.87,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.87,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.87,
       "history": [
         {
           "time": "01:22",
@@ -1769,7 +1769,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.875,
+      "probability": 0.925,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1885,11 +1885,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.925,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
-      "peak_prob": 0.91,
-      "last_checked_prob": 0.875,
+      "peak_prob": 0.925,
+      "last_checked_prob": 0.925,
       "history": [
         {
           "time": "06:15",
@@ -1910,6 +1910,11 @@
           "time": "02:17",
           "prob": 0.855,
           "reason": "Update: 90.5% → 85.5%"
+        },
+        {
+          "time": "05:28",
+          "prob": 0.925,
+          "reason": "Update: 87.5% → 92.5%"
         }
       ]
     },
@@ -2194,7 +2199,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.943,
+      "probability": 0.935,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -2799,11 +2804,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.943,
+      "current_prob": 0.935,
       "added_at": "2026-10-19T15:02:06.951932",
       "first_seen": "2026-10-19T15:02:06.951932",
       "peak_prob": 0.9775,
-      "last_checked_prob": 0.943,
+      "last_checked_prob": 0.935,
       "history": [
         {
           "time": "15:02",
@@ -2818,6 +2823,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-26T00:46:41.959152",
+  "updated_at": "2026-10-26T05:28:52.806885",
   "event_count": 17
 }
