@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.875,
+      "probability": 0.86,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.875,
+      "current_prob": 0.86,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.875,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "01:22",
@@ -1923,7 +1923,7 @@
       "title": "Will Apple release a touchscreen MacBook in 2026?",
       "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
       "url": "https://polymarket.com/event/245930",
-      "probability": 0.983,
+      "probability": 0.9655,
       "option_text": "Yes",
       "tags": [
         "apple",
@@ -2035,11 +2035,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.983,
+      "current_prob": 0.9655,
       "added_at": "2026-10-05T16:27:24.418518",
       "first_seen": "2026-10-05T16:27:24.418518",
       "peak_prob": 0.985,
-      "last_checked_prob": 0.983,
+      "last_checked_prob": 0.9655,
       "history": [
         {
           "time": "16:27",
@@ -2068,7 +2068,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.983,
+      "probability": 0.982,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -2181,11 +2181,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.983,
+      "current_prob": 0.982,
       "added_at": "2026-10-16T05:11:27.007584",
       "first_seen": "2026-10-16T05:11:27.007584",
       "peak_prob": 0.9835,
-      "last_checked_prob": 0.983,
+      "last_checked_prob": 0.982,
       "history": [
         {
           "time": "05:11",
@@ -2199,7 +2199,7 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9395,
+      "probability": 0.9515,
       "option_text": "$180B",
       "tags": [
         "finance",
@@ -2804,11 +2804,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9395,
+      "current_prob": 0.9515,
       "added_at": "2026-10-19T15:02:06.951932",
       "first_seen": "2026-10-19T15:02:06.951932",
       "peak_prob": 0.9775,
-      "last_checked_prob": 0.9395,
+      "last_checked_prob": 0.9515,
       "history": [
         {
           "time": "15:02",
@@ -2827,7 +2827,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.785,
+      "probability": 0.74,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2953,11 +2953,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.785,
+      "current_prob": 0.74,
       "added_at": "2026-10-26T17:41:46.672912",
       "first_seen": "2026-10-26T17:41:46.672912",
       "peak_prob": 0.785,
-      "last_checked_prob": 0.785,
+      "last_checked_prob": 0.74,
       "history": [
         {
           "time": "17:41",
@@ -2967,6 +2967,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-27T12:47:12.579211",
+  "updated_at": "2026-10-27T18:23:56.583342",
   "event_count": 17
 }
