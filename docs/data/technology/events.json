@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-27T22:41:03.730474",
+  "updated_at": "2026-10-28T01:49:53.543891",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 7,
@@ -321,7 +321,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.865,
+        "probability": 0.875,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1726,11 +1726,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.865,
+        "current_prob": 0.875,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.865,
+        "last_checked_prob": 0.875,
         "history": [
           {
             "time": "01:22",
@@ -1774,7 +1774,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.935,
+        "probability": 0.93,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1890,11 +1890,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.935,
+        "current_prob": 0.93,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.95,
-        "last_checked_prob": 0.935,
+        "last_checked_prob": 0.93,
         "history": [
           {
             "time": "06:15",
@@ -1928,7 +1928,7 @@
         "title": "Will Apple release a touchscreen MacBook in 2026?",
         "slug": "will-apple-release-a-touchscreen-macbook-in-2026",
         "url": "https://polymarket.com/event/245930",
-        "probability": 0.952,
+        "probability": 0.9645,
         "option_text": "Yes",
         "tags": [
           "apple",
@@ -2040,11 +2040,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.952,
+        "current_prob": 0.9645,
         "added_at": "2026-10-05T16:27:24.418518",
         "first_seen": "2026-10-05T16:27:24.418518",
         "peak_prob": 0.985,
-        "last_checked_prob": 0.952,
+        "last_checked_prob": 0.9645,
         "history": [
           {
             "time": "16:27",
@@ -2204,7 +2204,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9495,
+        "probability": 0.9515,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -2809,11 +2809,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9495,
+        "current_prob": 0.9515,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9775,
-        "last_checked_prob": 0.9495,
+        "last_checked_prob": 0.9515,
         "history": [
           {
             "time": "15:02",
@@ -2972,6 +2972,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-27T22:41:03.727968"
+    "updated_at": "2026-10-28T01:49:53.540171"
   }
 }
