@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-30T07:47:06.095153",
+  "updated_at": "2026-10-30T14:37:02.982941",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -35,7 +35,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.9805,
-        "option_text": "$70",
+        "option_text": "$75",
         "tags": [
           "tech",
           "gta-6",
@@ -345,7 +345,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.875,
+        "probability": 0.87,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1750,11 +1750,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.875,
+        "current_prob": 0.87,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.875,
+        "last_checked_prob": 0.87,
         "history": [
           {
             "time": "01:22",
@@ -1798,7 +1798,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.94,
+        "probability": 0.945,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1914,11 +1914,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.94,
+        "current_prob": 0.945,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.95,
-        "last_checked_prob": 0.94,
+        "last_checked_prob": 0.945,
         "history": [
           {
             "time": "06:15",
@@ -1952,7 +1952,7 @@
         "title": "Will Apple release a new product line before 2027?",
         "slug": "will-apple-release-a-new-product-line-before-2027",
         "url": "https://polymarket.com/event/103418",
-        "probability": 0.974,
+        "probability": 0.9715,
         "option_text": "Yes",
         "tags": [
           "apple-event",
@@ -2065,11 +2065,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.974,
+        "current_prob": 0.9715,
         "added_at": "2026-10-16T05:11:27.007584",
         "first_seen": "2026-10-16T05:11:27.007584",
         "peak_prob": 0.9835,
-        "last_checked_prob": 0.974,
+        "last_checked_prob": 0.9715,
         "history": [
           {
             "time": "05:11",
@@ -2083,7 +2083,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.951,
+        "probability": 0.9525,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -2688,11 +2688,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.951,
+        "current_prob": 0.9525,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9775,
-        "last_checked_prob": 0.951,
+        "last_checked_prob": 0.9525,
         "history": [
           {
             "time": "15:02",
@@ -2721,7 +2721,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.74,
+        "probability": 0.79,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2850,20 +2850,25 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.74,
+        "current_prob": 0.79,
         "added_at": "2026-10-30T01:22:47.052943",
         "first_seen": "2026-10-30T01:22:47.052943",
-        "peak_prob": 0.74,
-        "last_checked_prob": 0.74,
+        "peak_prob": 0.79,
+        "last_checked_prob": 0.79,
         "history": [
           {
             "time": "01:22",
             "prob": 0.7,
             "reason": "Added to Long-Term (high probability)"
+          },
+          {
+            "time": "14:37",
+            "prob": 0.79,
+            "reason": "Update: 74.0% → 79.0%"
           }
         ]
       }
     ],
-    "updated_at": "2026-10-30T07:47:06.092327"
+    "updated_at": "2026-10-30T14:37:02.980709"
   }
 }
