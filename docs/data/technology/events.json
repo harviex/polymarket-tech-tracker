@@ -1,31 +1,7 @@
 {
   "category": "technology",
-  "updated_at": "2026-10-30T23:18:55.191512",
-  "daily_watch_summaries": [
-    {
-      "tag": "tech",
-      "tag_display": "TECH",
-      "event_count": 1,
-      "events": [
-        {
-          "id": "428507",
-          "title": "Will Anthropic flip BTC by December 31?",
-          "tags": [],
-          "first_seen": "2026-10-30T01:22:47.056533",
-          "history": [
-            {
-              "time": "01:22",
-              "prob": 0.7,
-              "threshold": 0.7,
-              "direction": "up",
-              "reason": "Crossed up 70%"
-            }
-          ],
-          "current_prob": 0.7
-        }
-      ]
-    }
-  ],
+  "updated_at": "2026-10-31T02:51:25.657890",
+  "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
     "events": [
@@ -35,7 +11,7 @@
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
         "probability": 0.9805,
-        "option_text": "$75",
+        "option_text": "$70",
         "tags": [
           "tech",
           "gta-6",
@@ -1798,7 +1774,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.93,
+        "probability": 0.935,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1914,11 +1890,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.93,
+        "current_prob": 0.935,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.95,
-        "last_checked_prob": 0.93,
+        "last_checked_prob": 0.935,
         "history": [
           {
             "time": "06:15",
@@ -2083,7 +2059,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.952,
+        "probability": 0.954,
         "option_text": "$180B",
         "tags": [
           "finance",
@@ -2688,11 +2664,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.952,
+        "current_prob": 0.954,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9775,
-        "last_checked_prob": 0.952,
+        "last_checked_prob": 0.954,
         "history": [
           {
             "time": "15:02",
@@ -2869,6 +2845,6 @@
         ]
       }
     ],
-    "updated_at": "2026-10-30T23:18:55.188639"
+    "updated_at": "2026-10-31T02:51:25.654171"
   }
 }
