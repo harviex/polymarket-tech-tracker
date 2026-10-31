@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.855,
+      "probability": 0.86,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.855,
+      "current_prob": 0.86,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.855,
+      "last_checked_prob": 0.86,
       "history": [
         {
           "time": "01:22",
@@ -2054,8 +2054,8 @@
       "title": "Amazon 2026 capex above ___?",
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
-      "probability": 0.9555,
-      "option_text": "$180B",
+      "probability": 0.98,
+      "option_text": "$170B",
       "tags": [
         "finance",
         "tech",
@@ -2659,11 +2659,11 @@
       "endDate": "2027-05-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9555,
+      "current_prob": 0.98,
       "added_at": "2026-10-19T15:02:06.951932",
       "first_seen": "2026-10-19T15:02:06.951932",
-      "peak_prob": 0.9775,
-      "last_checked_prob": 0.9555,
+      "peak_prob": 0.98,
+      "last_checked_prob": 0.98,
       "history": [
         {
           "time": "15:02",
@@ -2692,7 +2692,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.775,
+      "probability": 0.77,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2821,11 +2821,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.775,
+      "current_prob": 0.77,
       "added_at": "2026-10-30T01:22:47.052943",
       "first_seen": "2026-10-30T01:22:47.052943",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.775,
+      "last_checked_prob": 0.77,
       "history": [
         {
           "time": "01:22",
@@ -2840,6 +2840,6 @@
       ]
     }
   },
-  "updated_at": "2026-10-31T15:00:00.947350",
+  "updated_at": "2026-10-31T19:07:00.392538",
   "event_count": 17
 }
