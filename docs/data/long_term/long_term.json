@@ -5,8 +5,8 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.98,
-      "option_text": "$70",
+      "probability": 0.9805,
+      "option_text": "$75",
       "tags": [
         "tech",
         "gta-6",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.98,
+      "current_prob": 0.9805,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.98,
+      "last_checked_prob": 0.9805,
       "history": [
         {
           "time": "15:57",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.835,
+      "probability": 0.865,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.835,
+      "current_prob": 0.865,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.835,
+      "last_checked_prob": 0.865,
       "history": [
         {
           "time": "01:22",
@@ -1923,7 +1923,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.98,
+      "probability": 0.982,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -2036,11 +2036,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.98,
+      "current_prob": 0.982,
       "added_at": "2026-10-16T05:11:27.007584",
       "first_seen": "2026-10-16T05:11:27.007584",
       "peak_prob": 0.9835,
-      "last_checked_prob": 0.98,
+      "last_checked_prob": 0.982,
       "history": [
         {
           "time": "05:11",
@@ -2055,7 +2055,7 @@
       "slug": "amazon-2026-capex-above",
       "url": "https://polymarket.com/event/407875",
       "probability": 0.9815,
-      "option_text": "$170B",
+      "option_text": "$180B",
       "tags": [
         "finance",
         "tech",
@@ -2692,7 +2692,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.74,
+      "probability": 0.75,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2821,11 +2821,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.74,
+      "current_prob": 0.75,
       "added_at": "2026-10-30T01:22:47.052943",
       "first_seen": "2026-10-30T01:22:47.052943",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.74,
+      "last_checked_prob": 0.75,
       "history": [
         {
           "time": "01:22",
@@ -2840,6 +2840,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-01T15:30:05.692022",
+  "updated_at": "2026-11-01T19:55:10.502382",
   "event_count": 17
 }
