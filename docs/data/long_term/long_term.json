@@ -5,7 +5,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.98,
+      "probability": 0.9805,
       "option_text": "$70",
       "tags": [
         "tech",
@@ -293,11 +293,11 @@
       "endDate": "2026-11-19T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.98,
+      "current_prob": 0.9805,
       "added_at": "2026-07-02T15:57:42.478226",
       "first_seen": "2026-07-02T15:57:42.478226",
       "peak_prob": 0.986,
-      "last_checked_prob": 0.98,
+      "last_checked_prob": 0.9805,
       "history": [
         {
           "time": "15:57",
@@ -316,7 +316,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.86,
+      "probability": 0.835,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1721,11 +1721,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.86,
+      "current_prob": 0.835,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.86,
+      "last_checked_prob": 0.835,
       "history": [
         {
           "time": "01:22",
@@ -1769,7 +1769,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.935,
+      "probability": 0.92,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1885,11 +1885,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.935,
+      "current_prob": 0.92,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
       "peak_prob": 0.95,
-      "last_checked_prob": 0.935,
+      "last_checked_prob": 0.92,
       "history": [
         {
           "time": "06:15",
@@ -1923,7 +1923,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.9825,
+      "probability": 0.9815,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -2036,11 +2036,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9825,
+      "current_prob": 0.9815,
       "added_at": "2026-10-16T05:11:27.007584",
       "first_seen": "2026-10-16T05:11:27.007584",
       "peak_prob": 0.9835,
-      "last_checked_prob": 0.9825,
+      "last_checked_prob": 0.9815,
       "history": [
         {
           "time": "05:11",
@@ -2840,6 +2840,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-01T23:09:40.372442",
+  "updated_at": "2026-11-02T02:52:18.208025",
   "event_count": 17
 }
