@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-03",
+  "events": {
+    "612483": {
+      "id": "612483",
+      "title": "GTA VI: PS5 Launch Price",
+      "tags": [],
+      "first_seen": "2026-11-03T18:06:04.211368",
+      "history": [
+        {
+          "time": "18:06",
+          "prob": 0.99,
+          "reason": "Removed from Long-Term (prob < 70%)"
+        }
+      ],
+      "current_prob": 0.99
+    }
+  }
+}
