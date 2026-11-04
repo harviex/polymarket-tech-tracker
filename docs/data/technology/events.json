@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-11-04T03:28:20.487711",
+  "updated_at": "2026-11-04T11:38:30.174761",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 6,
@@ -1463,7 +1463,7 @@
         "title": "Tech Layoffs Up or Down in 20​26?",
         "slug": "tech-layoffs-up-or-down-in-2026",
         "url": "https://polymarket.com/event/290152",
-        "probability": 0.92,
+        "probability": 0.945,
         "option_text": "Up",
         "tags": [
           "tech",
@@ -1579,11 +1579,11 @@
         "endDate": "2027-02-28T00:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.92,
+        "current_prob": 0.945,
         "added_at": "2026-08-15T06:15:17.691811",
         "first_seen": "2026-08-15T06:15:17.691811",
         "peak_prob": 0.95,
-        "last_checked_prob": 0.92,
+        "last_checked_prob": 0.945,
         "history": [
           {
             "time": "06:15",
@@ -2386,7 +2386,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.775,
+        "probability": 0.77,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2515,11 +2515,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.77,
         "added_at": "2026-10-30T01:22:47.052943",
         "first_seen": "2026-10-30T01:22:47.052943",
         "peak_prob": 0.79,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.77,
         "history": [
           {
             "time": "01:22",
@@ -2538,7 +2538,7 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.985,
+        "probability": 0.988,
         "option_text": "$70",
         "tags": [
           "tech",
@@ -2922,11 +2922,11 @@
         "endDate": "2027-07-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.985,
+        "current_prob": 0.988,
         "added_at": "2026-11-03T23:44:02.494236",
         "first_seen": "2026-11-03T23:44:02.494236",
-        "peak_prob": 0.985,
-        "last_checked_prob": 0.985,
+        "peak_prob": 0.988,
+        "last_checked_prob": 0.988,
         "history": [
           {
             "time": "23:44",
@@ -2936,6 +2936,6 @@
         ]
       }
     ],
-    "updated_at": "2026-11-04T03:28:20.483959"
+    "updated_at": "2026-11-04T11:38:30.172022"
   }
 }
