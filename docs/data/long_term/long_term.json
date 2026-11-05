@@ -1612,7 +1612,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.9785,
+      "probability": 0.978,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -1725,11 +1725,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9785,
+      "current_prob": 0.978,
       "added_at": "2026-10-16T05:11:27.007584",
       "first_seen": "2026-10-16T05:11:27.007584",
       "peak_prob": 0.9855,
-      "last_checked_prob": 0.9785,
+      "last_checked_prob": 0.978,
       "history": [
         {
           "time": "05:11",
@@ -2931,6 +2931,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-04T23:58:51.474889",
+  "updated_at": "2026-11-05T04:58:51.768713",
   "event_count": 17
 }
