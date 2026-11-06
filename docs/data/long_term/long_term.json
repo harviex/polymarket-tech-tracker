@@ -2250,7 +2250,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.735,
+      "probability": 0.72,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2379,11 +2379,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.735,
+      "current_prob": 0.72,
       "added_at": "2026-10-30T01:22:47.052943",
       "first_seen": "2026-10-30T01:22:47.052943",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.735,
+      "last_checked_prob": 0.72,
       "history": [
         {
           "time": "01:22",
@@ -2402,7 +2402,7 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.9895,
+      "probability": 0.989,
       "option_text": "$60",
       "tags": [
         "tech",
@@ -2786,11 +2786,11 @@
       "endDate": "2027-07-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9895,
+      "current_prob": 0.989,
       "added_at": "2026-11-03T23:44:02.494236",
       "first_seen": "2026-11-03T23:44:02.494236",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.9895,
+      "last_checked_prob": 0.989,
       "history": [
         {
           "time": "23:44",
@@ -2804,7 +2804,7 @@
       "title": "Will Apple release a new product line before 2027?",
       "slug": "will-apple-release-a-new-product-line-before-2027",
       "url": "https://polymarket.com/event/103418",
-      "probability": 0.9715,
+      "probability": 0.9815,
       "option_text": "Yes",
       "tags": [
         "apple-event",
@@ -2919,11 +2919,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.9715,
+      "current_prob": 0.9815,
       "added_at": "2026-11-06T01:11:41.744710",
       "first_seen": "2026-11-06T01:11:41.744710",
-      "peak_prob": 0.9715,
-      "last_checked_prob": 0.9715,
+      "peak_prob": 0.9815,
+      "last_checked_prob": 0.9815,
       "history": [
         {
           "time": "01:11",
@@ -2933,6 +2933,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-06T01:11:41.744804",
+  "updated_at": "2026-11-06T08:36:50.165661",
   "event_count": 17
 }
