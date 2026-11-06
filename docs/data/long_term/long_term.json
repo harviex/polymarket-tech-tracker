@@ -5,7 +5,7 @@
       "title": "Largest Indian Company at end of 2026?",
       "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
       "url": "https://polymarket.com/event/648785",
-      "probability": 0.87,
+      "probability": 0.89,
       "option_text": "Reliance Industries Ltd",
       "tags": [
         "tech",
@@ -1410,11 +1410,11 @@
       "endDate": "2026-12-31T23:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.87,
+      "current_prob": 0.89,
       "added_at": "2026-08-01T01:22:44.850689",
       "first_seen": "2026-08-01T01:22:44.850689",
       "peak_prob": 0.955,
-      "last_checked_prob": 0.87,
+      "last_checked_prob": 0.89,
       "history": [
         {
           "time": "01:22",
@@ -1458,7 +1458,7 @@
       "title": "Tech Layoffs Up or Down in 20​26?",
       "slug": "tech-layoffs-up-or-down-in-2026",
       "url": "https://polymarket.com/event/290152",
-      "probability": 0.955,
+      "probability": 0.96,
       "option_text": "Up",
       "tags": [
         "tech",
@@ -1574,11 +1574,11 @@
       "endDate": "2027-02-28T00:00:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.955,
+      "current_prob": 0.96,
       "added_at": "2026-08-15T06:15:17.691811",
       "first_seen": "2026-08-15T06:15:17.691811",
-      "peak_prob": 0.955,
-      "last_checked_prob": 0.955,
+      "peak_prob": 0.96,
+      "last_checked_prob": 0.96,
       "history": [
         {
           "time": "06:15",
@@ -2250,7 +2250,7 @@
       "title": "Will Anthropic flip BTC by December 31?",
       "slug": "will-anthropic-flip-btc-by-december-31",
       "url": "https://polymarket.com/event/428507",
-      "probability": 0.75,
+      "probability": 0.755,
       "option_text": "Yes",
       "tags": [
         "ai",
@@ -2379,11 +2379,11 @@
       "endDate": "2027-01-01T04:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.75,
+      "current_prob": 0.755,
       "added_at": "2026-10-30T01:22:47.052943",
       "first_seen": "2026-10-30T01:22:47.052943",
       "peak_prob": 0.79,
-      "last_checked_prob": 0.75,
+      "last_checked_prob": 0.755,
       "history": [
         {
           "time": "01:22",
@@ -2402,8 +2402,8 @@
       "title": "GTA VI: PS5 Launch Price",
       "slug": "gta-vi-ps5-launch-price-20260618223907119",
       "url": "https://polymarket.com/event/612483",
-      "probability": 0.989,
-      "option_text": "$75",
+      "probability": 0.9895,
+      "option_text": "$70",
       "tags": [
         "tech",
         "gta-6",
@@ -2786,11 +2786,11 @@
       "endDate": "2027-07-01T03:59:00Z",
       "active": true,
       "closed": false,
-      "current_prob": 0.989,
+      "current_prob": 0.9895,
       "added_at": "2026-11-03T23:44:02.494236",
       "first_seen": "2026-11-03T23:44:02.494236",
       "peak_prob": 0.9895,
-      "last_checked_prob": 0.989,
+      "last_checked_prob": 0.9895,
       "history": [
         {
           "time": "23:44",
@@ -2800,6 +2800,6 @@
       ]
     }
   },
-  "updated_at": "2026-11-06T16:21:42.986655",
+  "updated_at": "2026-11-06T21:48:22.486818",
   "event_count": 17
 }
