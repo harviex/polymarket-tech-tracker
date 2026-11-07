@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-11-07T01:19:35.683965",
+  "updated_at": "2026-11-07T07:52:08.956537",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 5,
@@ -2255,7 +2255,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.775,
+        "probability": 0.765,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2384,11 +2384,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.775,
+        "current_prob": 0.765,
         "added_at": "2026-10-30T01:22:47.052943",
         "first_seen": "2026-10-30T01:22:47.052943",
         "peak_prob": 0.79,
-        "last_checked_prob": 0.775,
+        "last_checked_prob": 0.765,
         "history": [
           {
             "time": "01:22",
@@ -2407,8 +2407,8 @@
         "title": "GTA VI: PS5 Launch Price",
         "slug": "gta-vi-ps5-launch-price-20260618223907119",
         "url": "https://polymarket.com/event/612483",
-        "probability": 0.9895,
-        "option_text": "$70",
+        "probability": 0.99,
+        "option_text": "$75",
         "tags": [
           "tech",
           "gta-6",
@@ -2791,11 +2791,11 @@
         "endDate": "2027-07-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9895,
+        "current_prob": 0.99,
         "added_at": "2026-11-03T23:44:02.494236",
         "first_seen": "2026-11-03T23:44:02.494236",
-        "peak_prob": 0.9895,
-        "last_checked_prob": 0.9895,
+        "peak_prob": 0.99,
+        "last_checked_prob": 0.99,
         "history": [
           {
             "time": "23:44",
@@ -2805,6 +2805,6 @@
         ]
       }
     ],
-    "updated_at": "2026-11-07T01:19:35.681521"
+    "updated_at": "2026-11-07T07:52:08.953724"
   }
 }
