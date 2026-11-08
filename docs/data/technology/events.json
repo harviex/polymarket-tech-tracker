@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-11-08T02:49:58.344866",
+  "updated_at": "2026-11-08T09:37:00.442995",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 4,
@@ -2255,7 +2255,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.705,
+        "probability": 0.725,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2384,11 +2384,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.705,
+        "current_prob": 0.725,
         "added_at": "2026-10-30T01:22:47.052943",
         "first_seen": "2026-10-30T01:22:47.052943",
         "peak_prob": 0.79,
-        "last_checked_prob": 0.705,
+        "last_checked_prob": 0.725,
         "history": [
           {
             "time": "01:22",
@@ -2408,6 +2408,6 @@
         ]
       }
     ],
-    "updated_at": "2026-11-08T02:49:58.341988"
+    "updated_at": "2026-11-08T09:37:00.441110"
   }
 }
