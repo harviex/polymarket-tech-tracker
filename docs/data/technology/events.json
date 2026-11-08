@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-11-08T09:37:00.442995",
+  "updated_at": "2026-11-08T16:23:47.546760",
   "daily_watch_summaries": [],
   "long_term_data": {
     "event_count": 4,
@@ -10,7 +10,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.88,
+        "probability": 0.89,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1415,11 +1415,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.88,
+        "current_prob": 0.89,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.88,
+        "last_checked_prob": 0.89,
         "history": [
           {
             "time": "01:22",
@@ -1617,7 +1617,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.983,
+        "probability": 0.984,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -2222,11 +2222,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.983,
+        "current_prob": 0.984,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
-        "peak_prob": 0.983,
-        "last_checked_prob": 0.983,
+        "peak_prob": 0.984,
+        "last_checked_prob": 0.984,
         "history": [
           {
             "time": "15:02",
@@ -2255,7 +2255,7 @@
         "title": "Will Anthropic flip BTC by December 31?",
         "slug": "will-anthropic-flip-btc-by-december-31",
         "url": "https://polymarket.com/event/428507",
-        "probability": 0.725,
+        "probability": 0.72,
         "option_text": "Yes",
         "tags": [
           "ai",
@@ -2384,11 +2384,11 @@
         "endDate": "2027-01-01T04:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.725,
+        "current_prob": 0.72,
         "added_at": "2026-10-30T01:22:47.052943",
         "first_seen": "2026-10-30T01:22:47.052943",
         "peak_prob": 0.79,
-        "last_checked_prob": 0.725,
+        "last_checked_prob": 0.72,
         "history": [
           {
             "time": "01:22",
@@ -2408,6 +2408,6 @@
         ]
       }
     ],
-    "updated_at": "2026-11-08T09:37:00.441110"
+    "updated_at": "2026-11-08T16:23:47.544814"
   }
 }
