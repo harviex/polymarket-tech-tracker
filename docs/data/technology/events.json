@@ -1,6 +1,6 @@
 {
   "category": "technology",
-  "updated_at": "2026-11-10T15:50:53.122813",
+  "updated_at": "2026-11-10T21:29:04.533110",
   "daily_watch_summaries": [
     {
       "tag": "tech",
@@ -48,7 +48,7 @@
         "title": "Largest Indian Company at end of 2026?",
         "slug": "largest-indian-company-at-end-of-2026-20260629145859074",
         "url": "https://polymarket.com/event/648785",
-        "probability": 0.89,
+        "probability": 0.895,
         "option_text": "Reliance Industries Ltd",
         "tags": [
           "tech",
@@ -1453,11 +1453,11 @@
         "endDate": "2026-12-31T23:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.89,
+        "current_prob": 0.895,
         "added_at": "2026-08-01T01:22:44.850689",
         "first_seen": "2026-08-01T01:22:44.850689",
         "peak_prob": 0.955,
-        "last_checked_prob": 0.89,
+        "last_checked_prob": 0.895,
         "history": [
           {
             "time": "01:22",
@@ -1655,7 +1655,7 @@
         "title": "Amazon 2026 capex above ___?",
         "slug": "amazon-2026-capex-above",
         "url": "https://polymarket.com/event/407875",
-        "probability": 0.9875,
+        "probability": 0.985,
         "option_text": "$170B",
         "tags": [
           "finance",
@@ -2260,11 +2260,11 @@
         "endDate": "2027-05-01T03:59:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.9875,
+        "current_prob": 0.985,
         "added_at": "2026-10-19T15:02:06.951932",
         "first_seen": "2026-10-19T15:02:06.951932",
         "peak_prob": 0.9875,
-        "last_checked_prob": 0.9875,
+        "last_checked_prob": 0.985,
         "history": [
           {
             "time": "15:02",
@@ -2293,7 +2293,7 @@
         "title": "Which company has best AI model end of 2026?",
         "slug": "which-company-has-best-ai-model-end-of-2026",
         "url": "https://polymarket.com/event/556382",
-        "probability": 0.705,
+        "probability": 0.715,
         "option_text": "Google",
         "tags": [
           "tech",
@@ -4871,11 +4871,11 @@
         "endDate": "2026-12-31T17:00:00Z",
         "active": true,
         "closed": false,
-        "current_prob": 0.705,
+        "current_prob": 0.715,
         "added_at": "2026-11-10T15:50:53.119041",
         "first_seen": "2026-11-10T15:50:53.119041",
-        "peak_prob": 0.705,
-        "last_checked_prob": 0.705,
+        "peak_prob": 0.715,
+        "last_checked_prob": 0.715,
         "history": [
           {
             "time": "15:50",
@@ -4885,6 +4885,6 @@
         ]
       }
     ],
-    "updated_at": "2026-11-10T15:50:53.119121"
+    "updated_at": "2026-11-10T21:29:04.527142"
   }
 }
